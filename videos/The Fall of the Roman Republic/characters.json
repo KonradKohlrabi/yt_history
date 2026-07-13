@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Gaius Julius Caesar",
+        "id": 0
+    },
+    {
+        "name": "Tiberius Sempronius Gracchus",
+        "id": 1
+    },
+    {
+        "name": "Publius Cornelius Scipio Nasica",
+        "id": 2
+    },
+    {
+        "name": "Marcus Octavius",
+        "id": 3
+    },
+    {
+        "name": "Gaius Sempronius Gracchus",
+        "id": 4
+    },
+    {
+        "name": "Gaius Marius",
+        "id": 5
+    },
+    {
+        "name": "Lucius Cornelius Sulla",
+        "id": 6
+    },
+    {
+        "name": "Publius Sulpicius Rufus",
+        "id": 7
+    },
+    {
+        "name": "Gnaeus Pompeius Magnus",
+        "id": 8
+    },
+    {
+        "name": "Marcus Licinius Crassus",
+        "id": 9
+    },
+    {
+        "name": "Marcus Porcius Cato Uticensis",
+        "id": 10
+    },
+    {
+        "name": "Marcus Calpurnius Bibulus",
+        "id": 11
+    },
+    {
+        "name": "Gaius Scribonius Curio",
+        "id": 12
+    },
+    {
+        "name": "Marcus Antonius",
+        "id": 13
+    },
+    {
+        "name": "Aulus Hirtius",
+        "id": 14
+    },
+    {
+        "name": "Publius Cornelius Lentulus Crus",
+        "id": 15
+    },
+    {
+        "name": "Lucius Domitius Ahenobarbus",
+        "id": 16
+    },
+    {
+        "name": "Titus Labienus",
+        "id": 17
+    },
+    {
+        "name": "Decimus Junius Brutus Albinus",
+        "id": 18
+    },
+    {
+        "name": "Marcus Junius Brutus",
+        "id": 19
+    },
+    {
+        "name": "Publius Servilius Casca Longus",
+        "id": 20
+    },
+    {
+        "name": "Gaius Cassius Longinus",
+        "id": 21
+    },
+    {
+        "name": "Marcus Tullius Cicero",
+        "id": 22
+    },
+    {
+        "name": "Gaius Octavius",
+        "id": 23
+    },
+    {
+        "name": "Marcus Aemilius Lepidus",
+        "id": 24
+    },
+    {
+        "name": "Fulvia",
+        "id": 25
+    },
+    {
+        "name": "Marcus Vipsanius Agrippa",
+        "id": 26
+    },
+    {
+        "name": "Sextus Pompeius",
+        "id": 27
+    },
+    {
+        "name": "Cleopatra VII",
+        "id": 28
+    },
+    {
+        "name": "Ptolemy XV Caesarion",
+        "id": 29
+    },
+    {
+        "name": "Livia Drusilla",
+        "id": 30
+    }
+]

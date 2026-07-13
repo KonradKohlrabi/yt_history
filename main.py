@@ -508,6 +508,12 @@ Example output:
     }
 ]
 
+# JSON Formatting Rules (IMPORTANT)
+- Never use literal quotation marks (") inside string values, except to open and close the JSON string itself.
+- Never write height using foot/inch notation like 5'9" or 6'2". Always use the metric system.
+- Instead write height in words, e.g.or "approximately 175 cm".
+- Ensure the output is 100% valid JSON that can be parsed with a standard JSON parser.
+
 Story:
 """
 
@@ -522,7 +528,12 @@ or_headers          = {
     "Content-Type": "application/json",
 }
 
-
+def remove_newlines_from_json_text(text):
+    text = text.replace('\r\n', ' ').replace('\n', ' ').replace('\r', ' ').replace('\t', ' ')
+    
+    text = re.sub(r' {2,}', ' ', text)
+    
+    return text
 
 def get_existing_topics():
     with open(TOPICS_FILE, "r", encoding="utf-8") as f:
@@ -556,11 +567,6 @@ def generate_new_topic(existing_topics):
             "role": "user",
             "content": content
         }
-        ],
-        "tools": [
-            {
-            "type": "openrouter:web_search"
-            } 
         ]
     }
     topic = call_openrouter(or_data).strip()
@@ -601,11 +607,6 @@ def research(topic):
             "role": "user",
             "content": content
         }
-        ],
-        "tools": [
-            {
-            "type": "openrouter:web_search"
-            } 
         ]
     }
     research_material = call_openrouter(or_data)
@@ -619,11 +620,6 @@ def research_funfacts(topic):
             "role": "user",
             "content": content
         }
-        ],
-        "tools": [
-            {
-            "type": "openrouter:web_search"
-            } 
         ]
     }
     research_funfacts_material = call_openrouter(or_data)
@@ -653,7 +649,7 @@ def extract_characters(story, foldername):
         ]
     }
     characters_string = call_openrouter(or_data)
-    characters_json = json.dumps(characters_string)
+    characters_json = safe_json_parse(characters_string)
     
     with open("videos/"+foldername+"/"+ CHARACTERS_FILE, "w") as f:
         json.dump(characters_json, f, indent=4)
@@ -668,19 +664,33 @@ def get_character_descriptions(characters_json, story, foldername):
             "role": "user",
             "content": content
         }
-        ],
-        "tools": [
-            {
-            "type": "openrouter:web_search"
-            } 
         ]
     }
     characters_string = call_openrouter(or_data)
-    characters_json = json.dumps(characters_string)
+    print("DEBUG - Raw response from API:")
+    print(repr(characters_string))  # <-- Zeigt genau was zurückkommt
+    print("Length:", len(characters_string))
+
+    characters_json = safe_json_parse(characters_string)
+
+    
     
     with open("videos/"+foldername+"/"+ CHARACTERS_FILE, "w") as f:
         json.dump(characters_json, f, indent=4)
     return characters_json
+
+def safe_json_parse(text):
+    text = text.strip()
+    text = re.sub(r'^```(?:json)?\s*', '', text)
+    text = re.sub(r'\s*```$', '', text)
+    text = remove_newlines_from_json_text(text)
+    
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"JSON parse error: {e}")
+        print(f"Problematic area: {text[max(0, e.pos-100):e.pos+100]}")
+        raise
 
 # Flow Funktions
 def open_chrome():
@@ -693,7 +703,7 @@ def get_prompts():
         prompts = []
         for frame in prompts_json:
             prompts.append(frame["prompt"])
-        return prompts#
+        return prompts
     
 def click_on_textbox():
     pyautogui.click(TEXT_FIELD_COORDS[0], TEXT_FIELD_COORDS[1])
@@ -702,9 +712,9 @@ def click_on_textbox():
 def prompt_flow(prompts):
     for prompt in prompts:
         pyautogui.typewrite(prompt)
-        time.sleep(random.randrange(2, 20)/10)
+        time.sleep(random.randrange(2, 20)/3)
         pyautogui.press("enter")
-        time.sleep(random.randrange(2, 20)/10)
+        time.sleep(random.randrange(2, 20)/3)
 
 def download_zip():
     pyautogui.moveTo(BTN_1_COORDS[0], BTN_1_COORDS[1])
@@ -718,13 +728,14 @@ def download_zip():
 
 
 def wait_for_generation(prompts):
-    addition_time = len(prompts)*3
+    addition_time = len(prompts)*6
     time.sleep(WAITING_TIME + addition_time)
 
 
 # Phases
 
 def phase_1_topic():
+    print("Phase 1")
     existing_topics = get_existing_topics()
     topic = get_topic(existing_topics)
     foldername = create_folder(topic)
@@ -732,14 +743,17 @@ def phase_1_topic():
     return foldername
 
 def phase_2_research(topic):
+    print("Phase 2")
     research_material = research(topic)
     research_funfacts_material = research_funfacts(topic)
     return research_material, research_funfacts_material
 
 def phase_3_storytelling(info, funfacts):
+    print("Phase 3")
     return write_story(info, funfacts)
 
 def phase_4_character_images(story, foldername):
+    print("Phase 4")
     characters_json = extract_characters(story, foldername)
     characters_json = get_character_descriptions(characters_json, story, foldername)
     prompts = []

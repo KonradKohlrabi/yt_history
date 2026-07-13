@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Elizabeth I",
+        "id": 0
+    },
+    {
+        "name": "Philip II of Spain",
+        "id": 1
+    },
+    {
+        "name": "Francis Drake",
+        "id": 2
+    },
+    {
+        "name": "Duke of Medina Sidonia",
+        "id": 3
+    },
+    {
+        "name": "William III of Orange",
+        "id": 4
+    },
+    {
+        "name": "Mary II",
+        "id": 5
+    },
+    {
+        "name": "Robert Clive",
+        "id": 6
+    },
+    {
+        "name": "Siraj ud-Daulah",
+        "id": 7
+    },
+    {
+        "name": "Mir Jafar",
+        "id": 8
+    },
+    {
+        "name": "Fateh Chand (Jagat Seth)",
+        "id": 9
+    },
+    {
+        "name": "George III",
+        "id": 10
+    },
+    {
+        "name": "Lord North",
+        "id": 11
+    },
+    {
+        "name": "Thomas Jefferson",
+        "id": 12
+    },
+    {
+        "name": "John Adams",
+        "id": 13
+    },
+    {
+        "name": "Benjamin Franklin",
+        "id": 14
+    },
+    {
+        "name": "George Washington",
+        "id": 15
+    },
+    {
+        "name": "Charles Cornwallis",
+        "id": 16
+    },
+    {
+        "name": "Jean-Baptiste Donatien de Vimeur, comte de Rochambeau",
+        "id": 17
+    },
+    {
+        "name": "Arthur Phillip",
+        "id": 18
+    },
+    {
+        "name": "George Macartney",
+        "id": 19
+    },
+    {
+        "name": "Qianlong Emperor",
+        "id": 20
+    },
+    {
+        "name": "Heshen",
+        "id": 21
+    },
+    {
+        "name": "Horatio Nelson",
+        "id": 22
+    },
+    {
+        "name": "Arthur Wellesley, Duke of Wellington",
+        "id": 23
+    },
+    {
+        "name": "Napoleon Bonaparte",
+        "id": 24
+    },
+    {
+        "name": "Stamford Raffles",
+        "id": 25
+    },
+    {
+        "name": "Lakshmibai, Rani of Jhansi",
+        "id": 26
+    },
+    {
+        "name": "Bahadur Shah Zafar",
+        "id": 27
+    },
+    {
+        "name": "Queen Victoria",
+        "id": 28
+    },
+    {
+        "name": "Benjamin Disraeli",
+        "id": 29
+    },
+    {
+        "name": "Nathan Mayer Rothschild",
+        "id": 30
+    },
+    {
+        "name": "Horatio Herbert Kitchener",
+        "id": 31
+    },
+    {
+        "name": "Reginald Dyer",
+        "id": 32
+    },
+    {
+        "name": "Michael O'Dwyer",
+        "id": 33
+    },
+    {
+        "name": "Arthur Balfour",
+        "id": 34
+    },
+    {
+        "name": "Winston Churchill",
+        "id": 35
+    },
+    {
+        "name": "Clement Attlee",
+        "id": 36
+    },
+    {
+        "name": "Louis Mountbatten",
+        "id": 37
+    },
+    {
+        "name": "Cyril Radcliffe",
+        "id": 38
+    },
+    {
+        "name": "Jawaharlal Nehru",
+        "id": 39
+    },
+    {
+        "name": "Muhammad Ali Jinnah",
+        "id": 40
+    },
+    {
+        "name": "Mahatma Gandhi",
+        "id": 41
+    },
+    {
+        "name": "Vallabhbhai Patel",
+        "id": 42
+    },
+    {
+        "name": "Subhas Chandra Bose",
+        "id": 43
+    },
+    {
+        "name": "Gamal Abdel Nasser",
+        "id": 44
+    },
+    {
+        "name": "Anthony Eden",
+        "id": 45
+    },
+    {
+        "name": "Harold Macmillan",
+        "id": 46
+    },
+    {
+        "name": "David Ben-Gurion",
+        "id": 47
+    },
+    {
+        "name": "Kwame Nkrumah",
+        "id": 48
+    },
+    {
+        "name": "Jomo Kenyatta",
+        "id": 49
+    },
+    {
+        "name": "Ian Smith",
+        "id": 50
+    },
+    {
+        "name": "Robert Mugabe",
+        "id": 51
+    },
+    {
+        "name": "Margaret Thatcher",
+        "id": 52
+    },
+    {
+        "name": "Leopoldo Galtieri",
+        "id": 53
+    },
+    {
+        "name": "Chris Patten",
+        "id": 54
+    },
+    {
+        "name": "Charles III",
+        "id": 55
+    },
+    {
+        "name": "Jiang Zemin",
+        "id": 56
+    },
+    {
+        "name": "Tony Blair",
+        "id": 57
+    }
+]
