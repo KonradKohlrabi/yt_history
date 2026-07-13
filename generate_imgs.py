@@ -56,6 +56,8 @@ def wait_for_generation(prompts):
     time.sleep(WAITING_TIME + addition_time)
 
 
+
+
 def main():
     prompts = get_prompts()
     open_chrome()
