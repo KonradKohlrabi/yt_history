@@ -16,7 +16,44 @@ OR_MAX_RETRIES = 3
 OR_RETRY_DELAY = 5
 MAX_TOPIC_LENGHT = 50
 
-topic_prompt = "" # Prompt is still missing
+topic_prompt = """You are creating topics for a YouTube channel about history.
+
+    Your task is to generate ONE topic for a long-form history documentary.
+
+    Requirements:
+    - The topic must be about a well-known or widely interesting historical subject.
+    - Choose topics that many people have heard of or that are connected to major historical events, famous leaders, civilizations, wars, revolutions, or important discoveries.
+    - The topic should have strong storytelling potential and enough information for a 10-30 minute documentary.
+    - Prefer famous people, countries, empires, wars, political movements, or major historical events.
+    - The topic can focus on lesser-known aspects of famous history, but the main subject itself should be recognizable.
+    - Avoid extremely obscure people, unknown battles, minor events, or topics that only historians would know.
+    - Avoid topics that require the viewer to already know the subject.
+    - Do NOT generate a topic that is similar to one of the existing topics.
+    - The topic must be written in English.
+    - The topic must contain a maximum of 50 characters.
+    - Return ONLY the topic title.
+    - Do NOT use quotation marks.
+    - Do NOT use bullet points.
+    - Do NOT add any explanation or additional text.
+
+    Examples of good topics:
+    - The Rise and Fall of Nazi Germany
+    - Stalin's Rise to Power
+    - The Fall of the Roman Empire
+    - The Cold War Explained
+    - The French Revolution
+    - Napoleon Bonaparte
+    - The History of the Soviet Union
+    - The Space Race
+
+    Examples of bad topics:
+    - The Cadaver Synod
+    - The Battle of Talas
+    - A forgotten medieval noble
+    - A minor local conflict
+
+    These are the already existing topics that you MUST NOT use again:
+""" 
 
 
 
@@ -55,11 +92,13 @@ def call_openrouter(payload):
     raise last_error    
 
 def generate_new_topic(existing_topics):
+    topics_text = "\n".join(f"- {topic}" for topic in existing_topics)
+    content = topic_prompt + "\n" + topics_text
     or_data = {
         "model": OR_MODEL,
         "messages": [{
             "role": "user",
-            "content": topic_prompt+existing_topics
+            "content": content
         }
         ],
         "tools": [
@@ -68,7 +107,7 @@ def generate_new_topic(existing_topics):
             } 
         ]
     }
-    topic = call_openrouter(or_data)
+    topic = call_openrouter(or_data).strip()
     return topic
 
 def get_topic(existing_topics):
@@ -77,6 +116,7 @@ def get_topic(existing_topics):
         topic = generate_new_topic(existing_topics)
         if len(topic) < MAX_TOPIC_LENGHT:
             not_found_yet = False
+    return topic
 
 def create_folder(topic):
     foldername = re.sub(r'[\\/*?:"<>|!()]', '', topic).strip()
@@ -90,9 +130,19 @@ def create_folder(topic):
 
     return foldername
 
+def add_to_existing_topics(foldername):
+    with open(TOPICS_FILE, "r", encoding="utf-8") as f:
+        topics = json.load(f)
+    topics.append(foldername)
+    with open(TOPICS_FILE, "w", encoding="utf-8") as f:
+        json.dump(topics, f, indent=4)
+
 def main():
     existing_topics = get_existing_topics()
     topic = get_topic(existing_topics)
     foldername = create_folder(topic)
+    add_to_existing_topics(foldername)
 
 
+if __name__ == "__main__":
+    main()
