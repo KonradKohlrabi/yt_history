@@ -9,6 +9,8 @@ import pyautogui
 
 load_dotenv()
 
+# Constants
+
 OR_API_KEYS = [os.getenv("OPENROUTER_API_KEY1"),os.getenv("OPENROUTER_API_KEY2"),os.getenv("OPENROUTER_API_KEY3"),os.getenv("OPENROUTER_API_KEY4"),os.getenv("OPENROUTER_API_KEY5"),os.getenv("OPENROUTER_API_KEY6")]
 OR_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 OR_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -55,6 +57,9 @@ topic_prompt = """You are creating topics for a YouTube channel about history.
 
     These are the already existing topics that you MUST NOT use again:
 """ 
+
+research_prompt = "" # Still missing
+research_funfacts_prompt = "" # Still missing
 
 
 
@@ -138,11 +143,63 @@ def add_to_existing_topics(foldername):
     with open(TOPICS_FILE, "w", encoding="utf-8") as f:
         json.dump(topics, f, indent=4)
 
-def main():
+def research(topic):
+    content = research_prompt + topic
+    or_data = {
+        "model": OR_MODEL,
+        "messages": [{
+            "role": "user",
+            "content": content
+        }
+        ],
+        "tools": [
+            {
+            "type": "openrouter:web_search"
+            } 
+        ]
+    }
+    research_material = call_openrouter(or_data)
+    return research_material
+
+def research_funfacts(topic):
+    content = research_funfacts_prompt + topic
+    or_data = {
+        "model": OR_MODEL,
+        "messages": [{
+            "role": "user",
+            "content": content
+        }
+        ],
+        "tools": [
+            {
+            "type": "openrouter:web_search"
+            } 
+        ]
+    }
+    research_funfacts_material = call_openrouter(or_data)
+    return research_funfacts_material
+
+
+# Phases
+
+def phase_1_topic():
     existing_topics = get_existing_topics()
     topic = get_topic(existing_topics)
     foldername = create_folder(topic)
     add_to_existing_topics(foldername)
+    return foldername
+
+def phase_2_research(topic):
+    research_material = research(topic)
+    research_funfacts_material = research_funfacts(topic)
+    return research_material, research_funfacts_material
+
+def phase_3_():
+    pass
+
+def main():
+    foldername = phase_1_topic()
+    esearch_material, research_funfacts_material = phase_2_research()
 
 
 if __name__ == "__main__":
