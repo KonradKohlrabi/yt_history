@@ -60,6 +60,7 @@ topic_prompt = """You are creating topics for a YouTube channel about history.
 
 research_prompt = "" # Still missing
 research_funfacts_prompt = "" # Still missing
+write_story_prompt = "" # Still missing
 
 
 
@@ -179,6 +180,24 @@ def research_funfacts(topic):
     research_funfacts_material = call_openrouter(or_data)
     return research_funfacts_material
 
+def write_story(info, funfacts):
+    content = write_story_prompt + info + "\n\n\nFunfacts: " + funfacts
+    or_data = {
+        "model": OR_MODEL,
+        "messages": [{
+            "role": "user",
+            "content": content
+        }
+        ],
+        "tools": [
+            {
+            "type": "openrouter:web_search"
+            } 
+        ]
+    }
+    story = call_openrouter(or_data)
+    return story
+
 
 # Phases
 
@@ -194,12 +213,13 @@ def phase_2_research(topic):
     research_funfacts_material = research_funfacts(topic)
     return research_material, research_funfacts_material
 
-def phase_3_():
+def phase_3_storytelling():
     pass
 
 def main():
     foldername = phase_1_topic()
-    esearch_material, research_funfacts_material = phase_2_research()
+    research_material, research_funfacts_material = phase_2_research(foldername)
+    story = phase_3_storytelling(research_material, research_funfacts_material)
 
 
 if __name__ == "__main__":
