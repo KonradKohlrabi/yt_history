@@ -31,6 +31,9 @@ TEXT_FIELD_COORDS = (826, 925)
 BTN_1_COORDS = (1820, 157)
 BTN_2_COORDS = (1738, 201)
 TEXT_LOADING_COORDS = (757, 227)
+ADD_REFERECE_BTN_COORDS = (682, 976)
+UPLOAD_COORDS = (626, 563)
+BASE_IMG_COORDS = (798, 392)
 
 WAITING_TIME = 60
 
@@ -517,6 +520,17 @@ Example output:
 Story:
 """
 
+additional_img_prompt = """
+
+The Image should NOT be just Black and white, even though the background must be white. 
+The face of the person must be white, except if it was explicitly stated above to have a specific color. 
+The rest of the person must be colored, and NOT just textured with black and white.
+Do NOT write any text, only generate one person, NOT many views from the same person.  
+The Person must be drawn standing and NOT for example sitting in a throne. 
+The only possibility a person does not have to stand ist when he/she sits in a wheelchair.
+
+"""
+
 
 
 or_api_key = random.choice(OR_API_KEYS)
@@ -638,6 +652,13 @@ def write_story(info, funfacts):
     story = call_openrouter(or_data)
     return story
 
+def save_story_and_info(foldername, story, info, funfacts):
+    with open("videos/"+foldername+"/story.txt", "w") as f:
+        f.write(story)
+    
+    with open("videos/"+foldername+"/info.txt", "w") as f:
+        f.write(info+"\n\n\nFunfacts: \n"+funfacts)
+
 def extract_characters(story, foldername):
     content = extract_characters_prompt + "\n" + story
     or_data = {
@@ -711,10 +732,28 @@ def click_on_textbox():
 
 def prompt_flow(prompts):
     for prompt in prompts:
-        pyautogui.typewrite(prompt)
-        time.sleep(random.randrange(2, 20)/3)
+        prompt1 = prompt + additional_img_prompt
+        add_refrence_base_person()
+        pyautogui.typewrite(prompt1)
+        time.sleep(random.randrange(10, 20)/20)
         pyautogui.press("enter")
-        time.sleep(random.randrange(2, 20)/3)
+        time.sleep(random.randrange(10, 20)/20)
+
+def add_refrence_base_person():
+    time.sleep(random.randrange(10, 20)/40)
+    pyautogui.moveTo(ADD_REFERECE_BTN_COORDS[0], ADD_REFERECE_BTN_COORDS[1])
+    time.sleep(random.randrange(10, 20)/40)
+    pyautogui.click(ADD_REFERECE_BTN_COORDS[0], ADD_REFERECE_BTN_COORDS[1])
+
+    time.sleep(random.randrange(10, 20)/40)
+    pyautogui.moveTo(UPLOAD_COORDS[0], UPLOAD_COORDS[1])
+    time.sleep(random.randrange(10, 20)/40)
+    pyautogui.click(UPLOAD_COORDS[0], UPLOAD_COORDS[1])
+
+    time.sleep(random.randrange(10, 20)/40)
+    pyautogui.moveTo(BASE_IMG_COORDS[0], BASE_IMG_COORDS[1])
+    time.sleep(random.randrange(10, 20)/40)
+    pyautogui.click(BASE_IMG_COORDS[0], BASE_IMG_COORDS[1])
 
 def download_zip():
     pyautogui.moveTo(BTN_1_COORDS[0], BTN_1_COORDS[1])
@@ -762,13 +801,12 @@ def phase_4_character_images(story, foldername):
     open_chrome()
     click_on_textbox()
     prompt_flow(prompts)
-    wait_for_generation(prompts)
-    download_zip()
 
 def main():
     foldername = phase_1_topic()
     research_material, research_funfacts_material = phase_2_research(foldername)
     story = phase_3_storytelling(research_material, research_funfacts_material)
+    save_story_and_info(foldername, story, research_material, research_funfacts_material)
     phase_4_character_images(story, foldername)
 
 
