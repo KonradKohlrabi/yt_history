@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "ZAPI Simple",
+  "version": "1.0.0",
+  "description": "Paste your frames JSON and auto-generate + download images from Google Flow.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "downloads",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://labs.google/*"
+  ],
+  "action": {
+    "default_title": "ZAPI Simple"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
