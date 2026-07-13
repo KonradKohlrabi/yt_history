@@ -8,7 +8,8 @@
     "scripting",
     "downloads",
     "storage",
-    "tabs"
+    "tabs",
+    "sidePanel"
   ],
   "host_permissions": [
     "https://labs.google/*"
