@@ -9,15 +9,30 @@ import pyautogui
 
 load_dotenv()
 
+pyautogui.FAILSAFE = True
+
 # Constants
 
 OR_API_KEYS = [os.getenv("OPENROUTER_API_KEY1"),os.getenv("OPENROUTER_API_KEY2"),os.getenv("OPENROUTER_API_KEY3"),os.getenv("OPENROUTER_API_KEY4"),os.getenv("OPENROUTER_API_KEY5"),os.getenv("OPENROUTER_API_KEY6")]
 OR_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 OR_URL = "https://openrouter.ai/api/v1/chat/completions"
-TOPICS_FILE = "topics.json"
 OR_MAX_RETRIES = 3
 OR_RETRY_DELAY = 5
+
 MAX_TOPIC_LENGHT = 50
+TOPICS_FILE = "topics.json"
+
+CHARACTERS_FILE = "characters.json"
+
+PROMPTS_FILE = "frames.json"
+
+CHROME_COORDS = (1187, 1066)
+TEXT_FIELD_COORDS = (826, 925)
+BTN_1_COORDS = (1820, 157)
+BTN_2_COORDS = (1738, 201)
+TEXT_LOADING_COORDS = (757, 227)
+
+WAITING_TIME = 60
 
 topic_prompt = """You are creating topics for a YouTube channel about history.
 
@@ -61,6 +76,8 @@ topic_prompt = """You are creating topics for a YouTube channel about history.
 research_prompt = "" # Still missing
 research_funfacts_prompt = "" # Still missing
 write_story_prompt = "" # Still missing
+extract_characters_prompt = "" # Still missing
+character_descriptions_prompt = "" # Still missing
 
 
 
@@ -128,7 +145,7 @@ def get_topic(existing_topics):
 def create_folder(topic):
     foldername = re.sub(r'[\\/*?:"<>|!()]', '', topic).strip()
     try:
-        os.mkdir("./"+ foldername)
+        os.mkdir("./videos/"+ foldername)
         print("Folder created successfully: " + foldername)
     except FileExistsError:
         print("Directory already exists")
@@ -198,6 +215,85 @@ def write_story(info, funfacts):
     story = call_openrouter(or_data)
     return story
 
+def extract_characters(story, foldername):
+    content = extract_characters_prompt + story
+    or_data = {
+        "model": OR_MODEL,
+        "messages": [{
+            "role": "user",
+            "content": content
+        }
+        ]
+    }
+    characters_string = call_openrouter(or_data)
+    characters_json = json.dumps(characters_string)
+    
+    with open("videos/"+foldername+"/"+ CHARACTERS_FILE, "w") as f:
+        json.dump(characters_json, f, indent=4)
+    
+    return characters_json
+
+def get_character_descriptions(characters_json, story, foldername):
+    content = character_descriptions_prompt + characters_json + story
+    or_data = {
+        "model": OR_MODEL,
+        "messages": [{
+            "role": "user",
+            "content": content
+        }
+        ],
+        "tools": [
+            {
+            "type": "openrouter:web_search"
+            } 
+        ]
+    }
+    characters_string = call_openrouter(or_data)
+    characters_json = json.dumps(characters_string)
+    
+    with open("videos/"+foldername+"/"+ CHARACTERS_FILE, "w") as f:
+        json.dump(characters_json, f, indent=4)
+    return characters_json
+
+# Flow Funktions
+def open_chrome():
+    pyautogui.click(CHROME_COORDS[0], CHROME_COORDS[1])
+    time.sleep(1)
+
+def get_prompts():
+    with open(PROMPTS_FILE, "r", encoding="utf-8") as f:
+        prompts_json = json.load(f)
+        prompts = []
+        for frame in prompts_json:
+            prompts.append(frame["prompt"])
+        return prompts#
+    
+def click_on_textbox():
+    pyautogui.click(TEXT_FIELD_COORDS[0], TEXT_FIELD_COORDS[1])
+    time.sleep(1)
+
+def prompt_flow(prompts):
+    for prompt in prompts:
+        pyautogui.typewrite(prompt)
+        time.sleep(random.randrange(2, 20)/10)
+        pyautogui.press("enter")
+        time.sleep(random.randrange(2, 20)/10)
+
+def download_zip():
+    pyautogui.moveTo(BTN_1_COORDS[0], BTN_1_COORDS[1])
+    time.sleep(0.5)
+    pyautogui.click(BTN_1_COORDS[0], BTN_1_COORDS[1])
+    time.sleep(0.5)
+    pyautogui.moveTo(BTN_2_COORDS[0], BTN_2_COORDS[1])
+    time.sleep(0.5)
+    pyautogui.click(BTN_2_COORDS[0], BTN_2_COORDS[1])
+
+
+
+def wait_for_generation(prompts):
+    addition_time = len(prompts)*3
+    time.sleep(WAITING_TIME + addition_time)
+
 
 # Phases
 
@@ -213,8 +309,20 @@ def phase_2_research(topic):
     research_funfacts_material = research_funfacts(topic)
     return research_material, research_funfacts_material
 
-def phase_3_storytelling():
-    pass
+def phase_3_storytelling(info, funfacts):
+    return write_story(info, funfacts)
+
+def phase_4_character_images(story, foldername):
+    characters_json = extract_characters(story, foldername)
+    characters_json = get_character_descriptions(characters_json, story, foldername)
+    prompts = []
+    for character in characters_json:
+        prompts.append(character["prompt"])
+    open_chrome()
+    click_on_textbox()
+    prompt_flow(prompts)
+    wait_for_generation(prompts)
+    download_zip()
 
 def main():
     foldername = phase_1_topic()
