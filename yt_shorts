@@ -33,7 +33,7 @@ WHISPER_LANGUAGE    = None
 WHISPER_TIMESTAMPS  = True
 
 
-API_KEYS = ["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","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", "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", "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", "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","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"]
+API_KEYS = []
 
 or_api_key          = random.choice(API_KEYS)
 OR_MODEL            = "nvidia/nemotron-3-ultra-550b-a55b:free"

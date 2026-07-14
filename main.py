@@ -6,6 +6,8 @@ import time
 import requests
 import re
 import pyautogui
+import subprocess
+import edge_tts
 
 load_dotenv()
 
@@ -36,6 +38,8 @@ UPLOAD_COORDS = (626, 563)
 BASE_IMG_COORDS = (798, 392)
 
 WAITING_TIME = 60
+
+VOICE = "en-US-BrianNeural"
 
 topic_prompt = """You are creating topics for a YouTube channel about history.
 
@@ -755,11 +759,14 @@ def download_zip():
     time.sleep(0.5)
     pyautogui.click(BTN_2_COORDS[0], BTN_2_COORDS[1])
 
-
-
 def wait_for_generation(prompts):
     addition_time = len(prompts)*6
     time.sleep(WAITING_TIME + addition_time)
+
+async def tts(text, foldername):
+    communicate = edge_tts.Communicate(text, VOICE)
+    await communicate.save("videos/"+ foldername + "/tmp_tts_raw.mp3")
+    subprocess.run(["ffmpeg", "-y", "-i", "videos/"+ foldername + "/tmp_tts_raw.mp3", "videos/"+ foldername + "/audio.mp3"], check=True, capture_output=True)
 
 
 # Phases
@@ -792,6 +799,11 @@ def phase_4_character_images(story, foldername):
     open_chrome()
     click_on_textbox()
     prompt_flow(prompts)
+
+def phase_5_generate_audio():
+    pass
+
+
 
 def main():
     foldername = phase_1_topic()
