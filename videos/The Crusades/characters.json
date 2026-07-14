@@ -1,0 +1,292 @@
+[
+    {
+        "name": "Pope Urban II",
+        "id": 0,
+        "prompt": "A historically accurate stickman style portrait of Pope Urban II in 1095 at the Council of Clermont. Identity: Pope Urban II, born Odo of Ch\u00e2tillon, Head of the Catholic Church, initiator of the First Crusade. Time period: November 1095. Region: Auvergne, France. Appearance: Male, approximately 60 years old, oval face shape, white hair tonsured in the monastic style, clean-shaven, brown eyes, fair skin tone, average height approximately 170 cm, slender body type, distinctive papal vestments. Clothing: White papal cassock with red mozzetta cape, white pallium with black crosses draped over shoulders, white mitre with gold ornamentation and lappets, Fisherman's Ring on right hand, papal ferula staff with cross. Style: Stickman style exactly like reference picture, white background, historically accurate 11th century papal regalia, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Emperor Alexios I Komnenos",
+        "id": 1,
+        "prompt": "A historically accurate stickman style portrait of Emperor Alexios I Komnenos in 1096-1097. Identity: Alexios I Komnenos, Byzantine Emperor, founder of Komnenian dynasty. Time period: 1096-1097. Region: Constantinople, Byzantine Empire. Appearance: Male, approximately 48 years old, oval face shape, dark brown hair with streaks of gray worn shoulder-length in Byzantine fashion, trimmed beard and mustache, dark brown eyes, olive skin tone, height approximately 175 cm, athletic build, distinctive imperial bearing. Clothing: Imperial loros - gold embroidered pallium draped over left shoulder and around torso, purple chlamys cloak fastened with jeweled fibula at right shoulder, gold crown with pendilia (hanging pearls), red boots, jeweled scepter and globus cruciger. Style: Stickman style exactly like reference picture, white background, historically accurate 11th century Byzantine imperial regalia, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Peter the Hermit",
+        "id": 2,
+        "prompt": "A historically accurate stickman style portrait of Peter the Hermit in 1096. Identity: Peter the Hermit, priest and leader of the People's Crusade. Time period: 1096. Region: Amiens, France; Rhineland; Anatolia. Appearance: Male, approximately 46 years old, gaunt face shape, graying brown hair long and unkempt, full gray beard, piercing blue eyes, weathered fair skin tone, height approximately 168 cm, thin ascetic body type, barefoot, distinctive intense gaze. Clothing: Coarse woolen tunic in undyed gray-brown, rope belt, rough woolen cloak, carries a large wooden cross, simple leather satchel. Style: Stickman style exactly like reference picture, white background, historically accurate 11th century penitential pilgrim attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Kilij Arslan",
+        "id": 3,
+        "prompt": "A historically accurate stickman style portrait of Kilij Arslan I in 1097. Identity: Kilij Arslan I, Sultan of Rum, Seljuk Turkish ruler. Time period: 1097. Region: Nicaea, Anatolia. Appearance: Male, approximately 35 years old, square face shape, black hair worn in long braids under helmet, thick black mustache and goatee, dark brown eyes, olive-tan skin tone, height approximately 173 cm, lean muscular build, distinctive Central Asian features. Clothing: Turkish kaftan in deep blue silk with gold embroidery at cuffs and collar, fur-trimmed coat, leather boots with upturned toes, turban wound around conical steel helmet with nasal guard, curved saber at belt, composite bow case. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century Seljuk Turkish military attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Godfrey of Bouillon",
+        "id": 4,
+        "prompt": "A historically accurate stickman style portrait of Godfrey of Bouillon in 1097-1099. Identity: Godfrey of Bouillon, Duke of Lower Lorraine, leader of the First Crusade, first ruler of Jerusalem. Time period: 1097-1099. Region: Lotharingia, Jerusalem. Appearance: Male, approximately 37 years old, long face shape, blond hair cut to shoulder length, clean-shaven with light blond stubble, blue eyes, fair skin tone, height approximately 180 cm, tall muscular build, distinctive noble bearing. Clothing: Hauberk of riveted mail with integrated coif, surcoat in white with red cross, great helm with flat top and narrow eye slots, kite shield with Bouillon arms, longsword at hip, lance, red leather boots. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century Frankish crusader knight armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Bohemond of Taranto",
+        "id": 5,
+        "prompt": "A historically accurate stickman style portrait of Bohemond of Taranto in 1097-1098. Identity: Bohemond I of Antioch, Norman prince, leader of the First Crusade, Prince of Antioch. Time period: 1097-1098. Region: Southern Italy, Antioch. Appearance: Male, approximately 39 years old, broad face shape, reddish-blond hair cut short in Norman style, clean-shaven, gray-blue eyes, fair skin with weathering, height approximately 185 cm, very tall imposing build, distinctive charismatic presence. Clothing: Norman-style hauberk with long sleeves and mail chausses, surcoat in red with gold trim, conical nasal helm with aventail, kite shield with Hauteville arms, Norman longsword, red cloak fastened with gold brooch. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century Norman crusader knight armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Raymond IV of Toulouse",
+        "id": 6,
+        "prompt": "A historically accurate stickman style portrait of Raymond IV of Toulouse in 1097-1099. Identity: Raymond IV Count of Toulouse, Marquis of Provence, leader of the First Crusade. Time period: 1097-1099. Region: Toulouse, Provence, Jerusalem. Appearance: Male, approximately 56 years old, weathered rectangular face shape, white hair cut short, full white beard, brown eyes, ruddy fair skin tone, height approximately 172 cm, stocky strong build, distinctive limp from old wound. Clothing: Fine mail hauberk with gold rivets, surcoat in yellow with red cross of Toulouse, conical helm with nasal and gold bands, heater shield with Toulouse arms, sword with jeweled hilt, purple cloak lined with vair fur. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century Proven\u00e7al crusader knight armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Robert II of Flanders",
+        "id": 7,
+        "prompt": "A historically accurate stickman style portrait of Robert II of Flanders in 1097-1099. Identity: Robert II Count of Flanders, known as Robert of Jerusalem, leader of the First Crusade. Time period: 1097-1099. Region: Flanders, Jerusalem. Appearance: Male, approximately 32 years old, oval face shape, light brown hair worn to shoulders, clean-shaven, hazel eyes, fair skin tone, height approximately 178 cm, athletic build, distinctive crusader's cross tattoo on forearm. Clothing: Mail hauberk with integrated mittens, surcoat in black with green cross, great helm with ventilation holes, kite shield with Flanders lion, arming sword, green cloak with gold clasp. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century Flemish crusader knight armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Hugh of Vermandois",
+        "id": 8,
+        "prompt": "A historically accurate stickman style portrait of Hugh of Vermandois in 1097-1098. Identity: Hugh Count of Vermandois, younger son of King Philip I of France, leader of the First Crusade. Time period: 1097-1098. Region: Vermandois, France, Constantinople. Appearance: Male, approximately 24 years old, youthful oval face shape, blond hair worn long with center part, clean-shaven, blue eyes, very fair skin tone, height approximately 175 cm, slender build, distinctive Capetian features. Clothing: Royal quality mail hauberk with silver decoration, surcoat in fleur-de-lis blue, gold crown circlet over coif, heater shield with Capetian arms, sword with gold pommel, blue cloak lined with ermine. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century French royal crusader knight armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Stephen of Blois",
+        "id": 9,
+        "prompt": "A historically accurate stickman style portrait of Stephen of Blois in 1097-1098. Identity: Stephen Count of Blois and Chartres, leader of the First Crusade, father of King Stephen of England. Time period: 1097-1098. Region: Blois, Chartres, Antioch. Appearance: Male, approximately 52 years old, narrow face shape, graying brown hair receding, forked gray beard, brown eyes, pale skin tone, height approximately 170 cm, average build, distinctive scholarly bearing. Clothing: Well-made mail hauberk, surcoat in white with blue cross, conical nasal helm, kite shield with Blois arms, arming sword, gray traveling cloak with fur trim, carries writing materials. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century French crusader knight armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Firouz",
+        "id": 10,
+        "prompt": "A historically accurate stickman style portrait of Firouz in 1098. Identity: Firouz, Armenian convert to Islam, tower guard of Antioch who betrayed the city to Bohemond. Time period: June 1098. Region: Antioch, Levant. Appearance: Male, approximately 40 years old, angular face shape, black hair worn under turban, trimmed black beard, dark brown eyes, olive skin tone, height approximately 170 cm, lean build, distinctive scar on left cheek. Clothing: Turkish-style guard's uniform - red kaftan with black trim, leather belt with dagger, chainmail shirt beneath, round shield, spear, leather boots. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century Seljuk garrison guard attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Kerbogha of Mosul",
+        "id": 11,
+        "prompt": "A historically accurate stickman style portrait of Kerbogha of Mosul in 1098. Identity: Kerbogha, Atabeg of Mosul, Seljuk general who led relief army to Antioch. Time period: June 1098. Region: Mosul, Antioch. Appearance: Male, approximately 50 years old, square commanding face shape, white hair and beard worn long, dark brown eyes, weathered olive skin tone, height approximately 178 cm, imposing heavy build, distinctive authoritative presence. Clothing: Luxurious gold-embroidered kaftan in crimson silk, fur-lined coat, jeweled turban with aigrette feather, curved shamshir sword with jeweled scabbard, mace at belt, leather boots with gold decoration. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century Seljuk atabeg regalia, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Peter Bartholomew",
+        "id": 12,
+        "prompt": "A historically accurate stickman style portrait of Peter Bartholomew in 1098. Identity: Peter Bartholomew, Proven\u00e7al peasant, visionary who claimed to find the Holy Lance. Time period: June 1098. Region: Provence, Antioch. Appearance: Male, approximately 30 years old, intense narrow face shape, matted brown hair, patchy beard, burning brown eyes, sun-darkened fair skin, height approximately 168 cm, thin wiry build, distinctive ecstatic expression. Clothing: Filthy peasant tunic in undyed wool, rope belt, tattered cloak, barefoot, carries wooden cross. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century peasant pilgrim attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Baldwin I of Jerusalem",
+        "id": 13,
+        "prompt": "A historically accurate stickman style portrait of Baldwin I of Jerusalem in 1100-1118. Identity: Baldwin I, first King of Jerusalem, formerly Count of Edessa. Time period: 1100-1118. Region: Jerusalem, Edessa. Appearance: Male, approximately 42 years old, sharp angular face shape, dark blond hair cut short, trimmed blond beard, blue-green eyes, fair skin with weathering, height approximately 177 cm, lean athletic build, distinctive calculating gaze. Clothing: Royal mail hauberk with gold rivets, surcoat in white with gold Jerusalem cross, crowned great helm with gold bands, heater shield with Jerusalem arms, sword of state, red cloak lined with silk, crown circlet over coif. Style: Stickman style exactly like reference picture, white background, historically accurate early 12th century Frankish royal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Zengi",
+        "id": 14,
+        "prompt": "A historically accurate stickman style portrait of Zengi in 1144. Identity: Imad al-Din Zengi, Atabeg of Mosul and Aleppo, conqueror of Edessa. Time period: 1144. Region: Mosul, Aleppo, Edessa. Appearance: Male, approximately 59 years old, harsh weathered face shape, white hair and full beard, dark eyes, deeply lined olive skin, height approximately 175 cm, stocky powerful build, distinctive missing front tooth. Clothing: Black kaftan with gold embroidery, fur-trimmed coat, plain turban wound around steel cap, curved sword, mace, simple leather boots. Style: Stickman style exactly like reference picture, white background, historically accurate early 12th century Seljuk atabeg military attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Pope Eugenius III",
+        "id": 15,
+        "prompt": "A historically accurate stickman style portrait of Pope Eugenius III in 1145-1153. Identity: Pope Eugenius III, born Bernardo Paganelli da Montemagno, Cistercian pope who called the Second Crusade. Time period: 1145-1153. Region: Rome, Italy. Appearance: Male, approximately 65 years old, gentle oval face shape, white tonsured hair, clean-shaven, kind brown eyes, fair skin tone, height approximately 168 cm, slight stooped build, distinctive Cistercian simplicity. Clothing: White papal cassock, white Cistercian habit beneath, red mozzetta, white pallium, simple mitre, Fisherman's Ring, pastoral staff. Style: Stickman style exactly like reference picture, white background, historically accurate mid-12th century papal regalia with Cistercian influence, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Bernard of Clairvaux",
+        "id": 16,
+        "prompt": "A historically accurate stickman style portrait of Bernard of Clairvaux in 1146. Identity: Bernard of Clairvaux, Cistercian abbot, doctor of the Church, preacher of the Second Crusade. Time period: 1146. Region: Clairvaux, France; V\u00e9zelay. Appearance: Male, approximately 56 years old, ascetic gaunt face shape, white tonsured hair, clean-shaven, piercing blue eyes, very pale skin, height approximately 172 cm, extremely thin frail build, distinctive intense spiritual presence. Clothing: White Cistercian habit with black scapular, leather belt, simple wooden cross, sandals. Style: Stickman style exactly like reference picture, white background, historically accurate mid-12th century Cistercian monastic habit, suitable as reference image for future scenes"
+    },
+    {
+        "name": "King Louis VII of France",
+        "id": 17,
+        "prompt": "A historically accurate stickman style portrait of King Louis VII of France in 1147-1149. Identity: Louis VII, King of France, leader of the Second Crusade. Time period: 1147-1149. Region: France, Constantinople, Jerusalem. Appearance: Male, approximately 27 years old, long pious face shape, light brown hair worn to shoulders with center part, clean-shaven, blue eyes, very fair skin, height approximately 180 cm, tall slender build, distinctive devout expression. Clothing: Royal blue surcoat with gold fleur-de-lis over fine mail, crowned great helm, heater shield with Capetian arms, sword with fleur-de-lis pommel, blue cloak lined with vair, gold spurs. Style: Stickman style exactly like reference picture, white background, historically accurate mid-12th century French royal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Conrad III of Germany",
+        "id": 18,
+        "prompt": "A historically accurate stickman style portrait of Conrad III of Germany in 1147-1148. Identity: Conrad III, King of Germany, Hohenstaufen emperor-elect, leader of the Second Crusade. Time period: 1147-1148. Region: Germany, Constantinople, Jerusalem. Appearance: Male, approximately 54 years old, broad weathered face shape, graying blond hair cut short, forked gray beard, gray eyes, ruddy fair skin, height approximately 178 cm, heavy-set build, distinctive imperial bearing. Clothing: Imperial red surcoat with black eagle over mail, crown circlet over coif, great helm with imperial eagle, kite shield with Hohenstaufen arms, longsword, red cloak lined with silk. Style: Stickman style exactly like reference picture, white background, historically accurate mid-12th century German royal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Nur ad-Din",
+        "id": 19,
+        "prompt": "A historically accurate stickman style portrait of Nur ad-Din in 1146-1174. Identity: Nur ad-Din Zengi, Atabeg of Aleppo and Damascus, unifier of Muslim Syria. Time period: 1146-1174. Region: Aleppo, Damascus. Appearance: Male, approximately 28 years old, refined oval face shape, black hair and beard trimmed neatly, dark brown eyes, olive skin tone, height approximately 175 cm, lean athletic build, distinctive scholarly pious bearing. Clothing: Green kaftan with gold embroidery (color of Islam), black turban wrapped around white cap, simple sword, carries Quran, leather boots. Style: Stickman style exactly like reference picture, white background, historically accurate mid-12th century Zengid atabeg attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Shirkuh",
+        "id": 20,
+        "prompt": "A historically accurate stickman style portrait of Shirkuh in 1164-1169. Identity: Shirkuh, Kurdish general, uncle of Saladin, conqueror of Egypt for Nur ad-Din. Time period: 1164-1169. Region: Kurdistan, Syria, Egypt. Appearance: Male, approximately 55 years old, rugged square face shape, graying black hair under helmet, thick gray mustache, dark eyes, weathered olive skin, height approximately 173 cm, stocky powerful build, distinctive Kurdish features. Clothing: Mail hauberk with Islamic pattern, yellow kaftan over armor, turban wound around conical helm, curved shamshir, Turkish mace, composite bow, leather boots. Style: Stickman style exactly like reference picture, white background, historically accurate mid-12th century Kurdish military commander attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Baldwin IV of Jerusalem",
+        "id": 21,
+        "prompt": "A historically accurate stickman style portrait of Baldwin IV of Jerusalem in 1177-1185. Identity: Baldwin IV, the Leper King of Jerusalem. Time period: 1177-1185. Region: Jerusalem. Appearance: Male, approximately 16-24 years old, handsome oval face partially concealed by silver mask, blond hair cut short, clean-shaven (early) then bearded (later), blue eyes, fair skin with visible leprosy lesions on hands, height approximately 175 cm, initially athletic later wasted build, distinctive silver mask covering nose and mouth. Clothing: Royal white surcoat with gold cross over mail, crowned great helm, heater shield with Jerusalem arms, sword, red cloak, crown circlet, white gloves hiding lesions. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century Frankish royal crusader armor with leper king mask, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Saladin",
+        "id": 22,
+        "prompt": "A historically accurate stickman style portrait of Saladin in 1187-1193. Identity: Salah ad-Din Yusuf ibn Ayyub, Sultan of Egypt and Syria, conqueror of Jerusalem. Time period: 1187-1193. Region: Cairo, Damascus, Jerusalem. Appearance: Male, approximately 49 years old, noble oval face shape, black beard streaked with gray trimmed to point, dark brown eyes, olive skin tone, height approximately 175 cm, lean wiry build, distinctive gentle but commanding presence. Clothing: Yellow kaftan with gold embroidery (sultan's color), black turban with white cap, simple curved sword, signet ring, plain leather boots, sometimes wears mail shirt beneath. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century Ayyubid sultan attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Reynald of Ch\u00e2tillon",
+        "id": 23,
+        "prompt": "A historically accurate stickman style portrait of Reynald of Ch\u00e2tillon in 1170-1187. Identity: Reynald of Ch\u00e2tillon, Lord of Oultrejordain, notorious crusader lord. Time period: 1170-1187. Region: Kerak, Oultrejordain. Appearance: Male, approximately 52 years old, harsh angular face shape, red hair cut short, forked red beard, green eyes, freckled fair skin weathered by sun, height approximately 180 cm, tall muscular build, distinctive cruel smile. Clothing: Red surcoat with gold chains over heavy mail, great helm with brass reinforcement, kite shield with Ch\u00e2tillon arms, massive longsword, red cloak, leather gauntlets. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century Frankish crusader lord armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Guy of Lusignan",
+        "id": 24,
+        "prompt": "A historically accurate stickman style portrait of Guy of Lusignan in 1186-1192. Identity: Guy of Lusignan, King of Jerusalem by marriage, defeated at Hattin. Time period: 1186-1192. Region: Jerusalem, Cyprus. Appearance: Male, approximately 36 years old, weak chin, receding blond hair, patchy blond beard, watery blue eyes, pale skin, height approximately 175 cm, average build, distinctive nervous demeanor. Clothing: Royal white surcoat with gold cross over mail, crowned great helm, heater shield with Lusignan/Jerusalem arms, sword, red cloak lined with silk, crown. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century Frankish royal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Balian of Ibelin",
+        "id": 25,
+        "prompt": "A historically accurate stickman style portrait of Balian of Ibelin in 1187-1193. Identity: Balian of Ibelin, Lord of Nablus, defender of Jerusalem, negotiator with Saladin. Time period: 1187-1193. Region: Nablus, Jerusalem, Cyprus. Appearance: Male, approximately 44 years old, strong square jaw, dark brown hair with gray at temples, trimmed dark beard, brown eyes, olive-tan skin, height approximately 180 cm, tall powerful build, distinctive noble bearing. Clothing: Fine mail with gold rivets, white surcoat with red Ibelin cross, great helm, heater shield with Ibelin arms, sword, blue cloak with gold clasp, signet ring. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century Frankish crusader lord armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Conrad of Montferrat",
+        "id": 26,
+        "prompt": "A historically accurate stickman style portrait of Conrad of Montferrat in 1187-1192. Identity: Conrad of Montferrat, Marquess of Montferrat, defender of Tyre, claimant to Jerusalem throne. Time period: 1187-1192. Region: Tyre, Montferrat, Jerusalem. Appearance: Male, approximately 45 years old, sharp hawk-like face, black hair streaked with gray, trimmed black beard, dark piercing eyes, olive skin, height approximately 178 cm, lean athletic build, distinctive calculating intensity. Clothing: Italian-style mail with integrated coif, black surcoat with white cross, conical helm with nasal, heater shield with Montferrat arms, Venetian sword, black cloak. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century Italian crusader knight armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Pope Gregory VIII",
+        "id": 27,
+        "prompt": "A historically accurate stickman style portrait of Pope Gregory VIII in 1187. Identity: Pope Gregory VIII, born Alberto de Morra, called the Third Crusade, died of grief after Hattin. Time period: October-December 1187. Region: Rome, Italy. Appearance: Male, approximately 77 years old, very frail thin face, white tonsured hair, clean-shaven, watery blue eyes, translucent pale skin, height approximately 165 cm, stooped frail build, distinctive exhausted grief. Clothing: White papal cassock, red mozzetta, white pallium, simple mitre, Fisherman's Ring, pastoral staff. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century papal regalia, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Frederick Barbarossa",
+        "id": 28,
+        "prompt": "A historically accurate stickman style portrait of Frederick Barbarossa in 1189-1190. Identity: Frederick I Barbarossa, Holy Roman Emperor, leader of the Third Crusade. Time period: 1189-1190. Region: Germany, Anatolia. Appearance: Male, approximately 67 years old, majestic square face, red beard forked and long, gray-blue eyes, ruddy fair skin, height approximately 180 cm, imposing heavy build, distinctive red beard giving his nickname. Clothing: Imperial red surcoat with black eagle over finest mail, imperial crown over coif, great helm with eagle crest, kite shield with imperial arms, sword of state, red cloak lined with ermine, gold spurs. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century German imperial crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Philip II of France",
+        "id": 29,
+        "prompt": "A historically accurate stickman style portrait of Philip II of France in 1190-1191. Identity: Philip II Augustus, King of France, leader of the Third Crusade. Time period: 1190-1191. Region: France, Acre. Appearance: Male, approximately 25 years old, cold calculating face, blond hair cut in pageboy style, clean-shaven, blue eyes, pale skin, height approximately 175 cm, athletic build, distinctive intense gaze. Clothing: Royal blue surcoat with gold fleur-de-lis over mail, crowned great helm, heater shield with Capetian arms, sword, blue cloak lined with vair, gold spurs. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century French royal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Richard I of England",
+        "id": 30,
+        "prompt": "A historically accurate stickman style portrait of Richard I of England in 1190-1192. Identity: Richard I the Lionheart, King of England, leader of the Third Crusade. Time period: 1190-1192. Region: England, Sicily, Cyprus, Acre, Jaffa. Appearance: Male, approximately 33 years old, handsome square jaw, reddish-blond hair cut short, clean-shaven, gray-green eyes, fair skin with freckles, height approximately 195 cm, very tall muscular build, distinctive commanding presence. Clothing: Red surcoat with three gold lions passant guardant over fine English mail, crowned great helm with lion crest, heater shield with Plantagenet arms, longsword, red cloak lined with silk, gold spurs. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century English royal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Pope Innocent III",
+        "id": 31,
+        "prompt": "A historically accurate stickman style portrait of Pope Innocent III in 1198-1216. Identity: Pope Innocent III, born Lotario dei Conti di Segni, most powerful medieval pope, called the Fourth Crusade. Time period: 1198-1216. Region: Rome, Italy. Appearance: Male, approximately 38 years old, intelligent oval face, dark tonsured hair, clean-shaven, dark brown eyes, olive skin tone, height approximately 173 cm, average build, distinctive authoritative intellect. Clothing: White papal cassock, red mozzetta with gold trim, white pallium with red crosses, jeweled mitre, Fisherman's Ring, papal ferula with triple cross, red slippers. Style: Stickman style exactly like reference picture, white background, historically accurate early 13th century papal regalia, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Doge Enrico Dandolo",
+        "id": 32,
+        "prompt": "A historically accurate stickman style portrait of Doge Enrico Dandolo in 1202-1205. Identity: Enrico Dandolo, Doge of Venice, blind nonagenarian leader of the Fourth Crusade. Time period: 1202-1205. Region: Venice, Constantinople. Appearance: Male, approximately 92 years old, extremely wrinkled face, white hair thin, clean-shaven, milky blind eyes (cataracts), pale papery skin, height approximately 165 cm, frail stooped build, distinctive blindness. Clothing: Doge's corno ducale (pointed hat), gold brocade robe with ermine trim, crimson mantle, jeweled scepter, rings on fingers, carried by attendants. Style: Stickman style exactly like reference picture, white background, historically accurate early 13th century Venetian doge regalia, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Alexios IV Angelos",
+        "id": 33,
+        "prompt": "A historically accurate stickman style portrait of Alexios IV Angelos in 1203-1204. Identity: Alexios IV Angelos, Byzantine co-emperor, promised Crusaders payment for throne. Time period: 1203-1204. Region: Constantinople. Appearance: Male, approximately 25 years old, soft oval face, dark hair worn long in Byzantine style, clean-shaven, brown eyes, olive skin, height approximately 175 cm, slender build, distinctive youthful desperation. Clothing: Imperial purple chlamys with gold tablion, loros with pearls, crown with pendilia, jeweled fibula, red boots, scepter. Style: Stickman style exactly like reference picture, white background, historically accurate early 13th century Byzantine imperial regalia, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Alexios V Mourtzouphlos",
+        "id": 34,
+        "prompt": "A historically accurate stickman style portrait of Alexios V Mourtzouphlos in 1204. Identity: Alexios V Doukas Mourtzouphlos, Byzantine emperor who opposed Crusaders, known for bushy eyebrows. Time period: February-April 1204. Region: Constantinople. Appearance: Male, approximately 40 years old, heavy browed face, thick black hair, distinctive very bushy black eyebrows meeting at center (synophrys), dark beard, brown eyes, olive skin, height approximately 178 cm, stocky strong build. Clothing: Imperial red chlamys, gold loros, crown with pendilia, mail shirt beneath, sword, red boots. Style: Stickman style exactly like reference picture, white background, historically accurate early 13th century Byzantine imperial military attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Frederick II",
+        "id": 35,
+        "prompt": "A historically accurate stickman style portrait of Frederick II in 1228-1229. Identity: Frederick II, Holy Roman Emperor, Stupor Mundi, leader of the Sixth Crusade. Time period: 1228-1229. Region: Sicily, Acre, Jerusalem. Appearance: Male, approximately 34 years old, striking falcon-like face, blond hair cut short, clean-shaven, green eyes (reputed heterochromia), fair skin, height approximately 178 cm, athletic build, distinctive intellectual intensity. Clothing: Imperial red surcoat with black eagle over German mail, crown circlet, great helm, heater shield with Hohenstaufen arms, sword, red cloak lined with silk, speaks Arabic fluently. Style: Stickman style exactly like reference picture, white background, historically accurate early 13th century German imperial crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Al-Kamil",
+        "id": 36,
+        "prompt": "A historically accurate stickman style portrait of Al-Kamil in 1218-1238. Identity: Al-Kamil Muhammad I, Ayyubid Sultan of Egypt, negotiated Jerusalem treaty with Frederick II. Time period: 1218-1238. Region: Cairo, Damascus. Appearance: Male, approximately 45 years old, refined cultured face, black beard trimmed to point with gray streaks, dark eyes, olive skin, height approximately 175 cm, lean build, distinctive scholarly dignity. Clothing: Yellow sultan's kaftan with gold embroidery, black turban over white cap, simple curved sword, signet ring, prayer beads, leather boots. Style: Stickman style exactly like reference picture, white background, historically accurate early 13th century Ayyubid sultan attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Louis IX of France",
+        "id": 37,
+        "prompt": "A historically accurate stickman style portrait of Louis IX of France in 1248-1254. Identity: Louis IX, Saint Louis, King of France, leader of the Seventh Crusade. Time period: 1248-1254. Region: France, Damietta, Mansurah, Acre. Appearance: Male, approximately 34 years old, pious gentle face, blond hair worn to shoulders, clean-shaven, blue eyes, fair skin, height approximately 180 cm, tall slender build, distinctive humble royalty. Clothing: Blue surcoat with gold fleur-de-lis over fine mail, crowned great helm, heater shield with Capetian arms, sword, blue cloak lined with vair, simple gold cross, hair shirt beneath armor. Style: Stickman style exactly like reference picture, white background, historically accurate mid-13th century French royal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Robert of Artois",
+        "id": 38,
+        "prompt": "A historically accurate stickman style portrait of Robert of Artois in 1249-1250. Identity: Robert I Count of Artois, brother of Louis IX, killed at Mansurah. Time period: 1249-1250. Region: France, Damietta, Mansurah. Appearance: Male, approximately 33 years old, handsome arrogant face, blond hair cut fashionably, clean-shaven, blue eyes, fair skin, height approximately 178 cm, athletic build, distinctive reckless confidence. Clothing: Blue surcoat with gold Artois arms over mail, great helm with Artois crest, heater shield, sword, blue cloak, gold spurs. Style: Stickman style exactly like reference picture, white background, historically accurate mid-13th century French crusader knight armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Baybars",
+        "id": 39,
+        "prompt": "A historically accurate stickman style portrait of Baybars in 1260-1277. Identity: Baybars al-Bunduqdari, Mamluk Sultan of Egypt and Syria, conqueror of Crusader states. Time period: 1260-1277. Region: Cairo, Damascus, Antioch, Krak des Chevaliers. Appearance: Male, approximately 37 years old, fierce square face, black hair shaved in Mamluk style, distinctive blue-gray eyes (one slightly lighter), olive skin, height approximately 180 cm, tall powerful athletic build, distinctive panther badge. Clothing: Yellow Mamluk sultan's kaftan with gold embroidery, black turban with white cap, curved shamshir with jeweled hilt, mace, panther emblem on shield, leather boots. Style: Stickman style exactly like reference picture, white background, historically accurate mid-13th century Mamluk sultan military attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Edward I of England",
+        "id": 40,
+        "prompt": "A historically accurate stickman style portrait of Edward I of England in 1271-1272. Identity: Edward I, Lord Edward, future King of England, leader of the Ninth Crusade. Time period: 1271-1272. Region: England, Acre. Appearance: Male, approximately 32 years old, long face with drooping eyelid, blond hair cut short, clean-shaven, gray eyes, fair skin, height approximately 188 cm, very tall lean build, distinctive Plantagenet intensity. Clothing: Red surcoat with three gold lions over English mail, crowned great helm, heater shield with Plantagenet arms, longsword, red cloak, gold spurs. Style: Stickman style exactly like reference picture, white background, historically accurate late 13th century English royal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Sultan Al-Ashraf Khalil",
+        "id": 41,
+        "prompt": "A historically accurate stickman style portrait of Sultan Al-Ashraf Khalil in 1290-1291. Identity: Al-Ashraf Khalil, Mamluk Sultan, conqueror of Acre, end of Outremer. Time period: 1290-1291. Region: Cairo, Acre. Appearance: Male, approximately 28 years old, stern oval face, black beard trimmed, dark eyes, olive skin, height approximately 175 cm, athletic build, distinctive ruthless determination. Clothing: Yellow sultan's kaftan with gold embroidery, black turban, curved sword, mace, Mamluk armor beneath, leather boots. Style: Stickman style exactly like reference picture, white background, historically accurate late 13th century Mamluk sultan military attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Adhemar of Le Puy",
+        "id": 42,
+        "prompt": "A historically accurate stickman style portrait of Adhemar of Le Puy in 1096-1098. Identity: Adhemar of Le Puy, Bishop of Le Puy, papal legate to the First Crusade. Time period: 1096-1098. Region: Le Puy, France; Antioch. Appearance: Male, approximately 55 years old, ascetic long face, white tonsured hair, clean-shaven, blue eyes, pale skin, height approximately 170 cm, thin build, distinctive spiritual authority. Clothing: Episcopal vestments - purple cassock, rochet, chimere, mitre, pectoral cross, episcopal ring, carries papal banner, crozier. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century episcopal crusade legate attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Tancred",
+        "id": 43,
+        "prompt": "A historically accurate stickman style portrait of Tancred in 1097-1112. Identity: Tancred, Prince of Galilee, nephew of Bohemond, Norman crusader. Time period: 1097-1112. Region: Normandy, Antioch, Galilee. Appearance: Male, approximately 22 years old, youthful handsome face, reddish-blond hair cut in Norman style, clean-shaven, blue eyes, fair skin, height approximately 180 cm, tall athletic build, distinctive confident grin. Clothing: Norman mail hauberk, red surcoat with gold Hauteville trim, conical nasal helm, kite shield with Hauteville arms, Norman sword, red cloak. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century Norman crusader knight armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Robert Curthose",
+        "id": 44,
+        "prompt": "A historically accurate stickman style portrait of Robert Curthose in 1096-1100. Identity: Robert Curthose, Duke of Normandy, eldest son of William the Conqueror, First Crusade leader. Time period: 1096-1100. Region: Normandy, Jerusalem. Appearance: Male, approximately 45 years old, heavy face with short legs (curthose), blond hair receding, forked blond beard, blue eyes, fair skin, height approximately 165 cm, stocky build, distinctive short stature. Clothing: Norman ducal mail, red surcoat with gold lions, great helm, kite shield with Normandy arms, sword, red cloak lined with vair. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century Norman ducal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Walter Sans-Avoir",
+        "id": 45,
+        "prompt": "A historically accurate stickman style portrait of Walter Sans-Avoir in 1096. Identity: Walter Sans-Avoir, Lord of Boissy-sans-Avoir, co-leader of the People's Crusade. Time period: 1096. Region: \u00cele-de-France, Anatolia. Appearance: Male, approximately 40 years old, plain face, brown hair cut short, trimmed beard, brown eyes, fair skin, height approximately 172 cm, average build, distinctive humble bearing. Clothing: Simple knight's mail hauberk, surcoat in undyed wool, conical helm, kite shield with Boissy arms, sword, gray cloak. Style: Stickman style exactly like reference picture, white background, historically accurate late 11th century minor French knight crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Joscelin II of Edessa",
+        "id": 46,
+        "prompt": "A historically accurate stickman style portrait of Joscelin II of Edessa in 1144-1150. Identity: Joscelin II, last Count of Edessa, lost the county to Zengi. Time period: 1144-1150. Region: Edessa, Turbessel. Appearance: Male, approximately 30 years old, weak chin, blond hair long, patchy beard, blue eyes, fair skin, height approximately 175 cm, average build, distinctive ineffectual bearing. Clothing: Frankish mail, white surcoat with red Edessa cross, great helm, heater shield with Edessa arms, sword, red cloak. Style: Stickman style exactly like reference picture, white background, historically accurate mid-12th century Frankish crusader count armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Raymond III of Tripoli",
+        "id": 47,
+        "prompt": "A historically accurate stickman style portrait of Raymond III of Tripoli in 1174-1187. Identity: Raymond III, Count of Tripoli, regent of Jerusalem, opponent of Guy of Lusignan. Time period: 1174-1187. Region: Tripoli, Jerusalem. Appearance: Male, approximately 47 years old, long melancholy face, graying brown hair, trimmed gray beard, brown eyes, olive-tan skin, height approximately 178 cm, lean build, distinctive cautious wisdom. Clothing: Fine mail, white surcoat with Tripoli arms, great helm, heater shield, sword, blue cloak with gold clasp. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century Frankish crusader count armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Gerard de Ridefort",
+        "id": 48,
+        "prompt": "A historically accurate stickman style portrait of Gerard de Ridefort in 1185-1189. Identity: Gerard de Ridefort, Grand Master of the Knights Templar, led order at Hattin. Time period: 1185-1189. Region: Jerusalem, Hattin. Appearance: Male, approximately 45 years old, fanatical intense face, blond hair tonsured, clean-shaven, pale blue eyes, fair skin, height approximately 175 cm, wiry build, distinctive religious fanaticism. Clothing: White Templar mantle with red cross over mail, white surcoat with red cross, great helm, heater shield with Templar arms, sword, white cloak. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century Templar Grand Master armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Sibylla of Jerusalem",
+        "id": 49,
+        "prompt": "A historically accurate stickman style portrait of Sibylla of Jerusalem in 1186-1190. Identity: Sibylla, Queen of Jerusalem, mother of Baldwin V, wife of Guy of Lusignan. Time period: 1186-1190. Region: Jerusalem. Appearance: Female, approximately 26 years old, beautiful oval face, blond hair braided and coiled, blue eyes, fair skin, height approximately 165 cm, slender build, distinctive royal dignity. Clothing: Royal Byzantine-influenced gown in purple silk with gold embroidery, jeweled crown, veil, jeweled girdle, red mantle lined with ermine, carries scepter. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century Frankish queen regalia, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Boniface of Montferrat",
+        "id": 50,
+        "prompt": "A historically accurate stickman style portrait of Boniface of Montferrat in 1201-1207. Identity: Boniface I, Marquess of Montferrat, leader of the Fourth Crusade, King of Thessalonica. Time period: 1201-1207. Region: Montferrat, Constantinople, Thessalonica. Appearance: Male, approximately 50 years old, strong Italian features, black hair with gray, trimmed beard, dark eyes, olive skin, height approximately 175 cm, athletic build, distinctive chivalric bearing. Clothing: Italian mail, red surcoat with white Montferrat cross, great helm, heater shield with Montferrat arms, sword, red cloak. Style: Stickman style exactly like reference picture, white background, historically accurate early 13th century Italian crusader marquis armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Geoffrey de Villehardouin",
+        "id": 51,
+        "prompt": "A historically accurate stickman style portrait of Geoffrey de Villehardouin in 1201-1213. Identity: Geoffrey de Villehardouin, Marshal of Champagne, chronicler of the Fourth Crusade. Time period: 1201-1213. Region: Champagne, Constantinople, Morea. Appearance: Male, approximately 45 years old, intelligent observant face, brown hair receding, trimmed beard, brown eyes, fair skin, height approximately 173 cm, average build, distinctive scholar-soldier bearing. Clothing: Marshal's mail, surcoat with Champagne arms, great helm, heater shield, sword, writes on wax tablet, cloak. Style: Stickman style exactly like reference picture, white background, historically accurate early 13th century French marshal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Jean de Joinville",
+        "id": 52,
+        "prompt": "A historically accurate stickman style portrait of Jean de Joinville in 1248-1254. Identity: Jean de Joinville, Seneschal of Champagne, chronicler of Louis IX's crusade. Time period: 1248-1254. Region: Champagne, Damietta, Acre. Appearance: Male, approximately 24 years old, youthful honest face, blond hair cut fashionably, clean-shaven, blue eyes, fair skin, height approximately 175 cm, athletic build, distinctive loyal scribe bearing. Clothing: Knight's mail, surcoat with Joinville arms, great helm, heater shield, sword, carries parchment scroll, blue cloak. Style: Stickman style exactly like reference picture, white background, historically accurate mid-13th century French knight chronicler armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Guillaume de Beaujeu",
+        "id": 53,
+        "prompt": "A historically accurate stickman style portrait of Guillaume de Beaujeu in 1273-1291. Identity: Guillaume de Beaujeu, Grand Master of the Knights Templar, died defending Acre. Time period: 1273-1291. Region: Acre. Appearance: Male, approximately 55 years old, weathered determined face, gray hair tonsured, white beard, blue eyes, fair skin, height approximately 175 cm, stocky build, distinctive final stand bearing. Clothing: White Templar mantle with red cross over finest mail, white surcoat with red cross, great helm, heater shield with Templar arms, sword, white cloak. Style: Stickman style exactly like reference picture, white background, historically accurate late 13th century Templar Grand Master armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Jean de Villiers",
+        "id": 54,
+        "prompt": "A historically accurate stickman style portrait of Jean de Villiers in 1285-1293. Identity: Jean de Villiers, Grand Master of the Knights Hospitaller, evacuated Acre. Time period: 1285-1293. Region: Acre, Cyprus, Rhodes. Appearance: Male, approximately 55 years old, stern disciplined face, white hair tonsured, white beard, brown eyes, fair skin, height approximately 173 cm, average build, distinctive organizational bearing. Clothing: Black Hospitaller mantle with white cross over mail, black surcoat with white cross, great helm, heater shield with Hospitaller arms, sword, black cloak. Style: Stickman style exactly like reference picture, white background, historically accurate late 13th century Hospitaller Grand Master armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Henry II of Cyprus",
+        "id": 55,
+        "prompt": "A historically accurate stickman style portrait of Henry II of Cyprus in 1285-1324. Identity: Henry II, King of Cyprus and Jerusalem, last crowned king of Jerusalem. Time period: 1285-1291. Region: Cyprus, Acre. Appearance: Male, approximately 18 years old, youthful anxious face, blond hair cut in pageboy, clean-shaven, blue eyes, fair skin, height approximately 170 cm, slender build, distinctive doomed royalty. Clothing: Royal mail, white surcoat with Jerusalem/Cyprus arms, crowned great helm, heater shield, sword, red cloak lined with ermine, crown. Style: Stickman style exactly like reference picture, white background, historically accurate late 13th century Cypriot royal crusader armor, suitable as reference image for future scenes"
+    },
+    {
+        "name": "Usama ibn Munqidh",
+        "id": 56,
+        "prompt": "A historically accurate stickman style portrait of Usama ibn Munqidh in 1138-1188. Identity: Usama ibn Munqidh, Arab emir, poet, warrior, memoirist, friend to Templars. Time period: 1138-1188. Region: Shaizar, Damascus, Cairo, Jerusalem. Appearance: Male, approximately 60 years old, wise lined face, white beard and hair, dark eyes, olive skin, height approximately 170 cm, lean build, distinctive literary warrior bearing. Clothing: Arab emir's robe in fine linen, turban, curved sword, carries scroll of poetry, leather boots. Style: Stickman style exactly like reference picture, white background, historically accurate 12th century Arab emir scholar-warrior attire, suitable as reference image for future scenes"
+    },
+    {
+        "name": "William of Tyre",
+        "id": 57,
+        "prompt": "A historically accurate stickman style portrait of William of Tyre in 1170-1186. Identity: William of Tyre, Archbishop of Tyre, Chancellor of Jerusalem, historian of the Crusades. Time period: 1170-1186. Region: Tyre, Jerusalem. Appearance: Male, approximately 45 years old, scholarly tonsured face, graying hair, clean-shaven, brown eyes, fair skin, height approximately 172 cm, average build, distinctive historian's quill. Clothing: Episcopal vestments - purple cassock, rochet, chimere, mitre, pectoral cross, archiepiscopal pallium, writes in codex, crozier. Style: Stickman style exactly like reference picture, white background, historically accurate late 12th century archbishop chancellor attire, suitable as reference image for future scenes"
+    }
+]

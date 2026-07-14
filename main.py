@@ -70,6 +70,22 @@ topic_prompt = """You are creating topics for a YouTube channel about history.
     - Napoleon Bonaparte
     - The History of the Soviet Union
     - The Space Race
+    - Alexander the Great
+    - Genghis Khan and the Mongol Empire
+    - The Fall of Constantinople
+    - The Fall of the Roman Republic
+    - The American Revolution
+    - The British Empire
+    - Napoleon Bonaparte
+    - The French Revolution
+    - The Fall of the Roman Empire
+    - The Russian Revolution
+    - The Cold War
+    - World War I The Great War
+    - World War II Explained
+    - The Industrial Revolution
+    - The American Civil War
+    - The Ottoman Empire Rise and Fall
 
     Examples of bad topics:
     - The Cadaver Synod
@@ -524,7 +540,7 @@ Example output:
 Story:
 """
 
-additional_img_prompt = "The Image should NOT be just Black and white, even though the background must be white. The face of the person must be white, except if it was explicitly stated above to have a specific color. Do NOT change the head style, it should be exactly like the one in the reference picture. The rest of the person must be colored, and NOT just textured with black and white.Do NOT write any text, only generate one person, NOT many views from the same person.  The Person must be drawn standing and NOT for example sitting in a throne. The only possibility a person does not have to stand ist when he/she sits in a wheelchair."
+additional_img_prompt = "The Image should NOT be just Black and white, even though the background must be white. The face of the person must be white, except if it was explicitly stated above to have a specific color. Do NOT change the head style, it should be exactly like the one in the reference picture. The rest of the person must be colored, and NOT just textured with black and white.Do NOT write any text, only generate ONE person, NOT many views from the same person, or many styles from the same person. Just generate ONE SINGLE PERSON.  The Person must be drawn standing and NOT for example sitting in a throne. The only possibility a person does not have to stand ist when he/she sits in a wheelchair."
 
 
 
@@ -732,7 +748,7 @@ def prompt_flow(prompts):
         pyautogui.typewrite(prompt1)
         time.sleep(random.randrange(10, 20)/20)
         pyautogui.press("enter")
-        time.sleep(random.randrange(10, 20)/20)
+        time.sleep(random.randrange(7, 12))
 
 def add_refrence_base_person():
     time.sleep(random.randrange(10, 20)/30)
