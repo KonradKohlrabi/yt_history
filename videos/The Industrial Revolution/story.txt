@@ -1,0 +1,714 @@
+# THE AGE OF FIRE AND THREAD
+
+---
+
+## 1. STAKES
+
+**Manchester. 1842.**
+
+A child wakes before dawn in a cellar dwelling on Angel Meadow. The air tastes of sulfur and coal dust. She is eight years old. Her fingers are already swollen from piecing broken cotton threads on a spinning mule that moves with the rhythm of a living thing — out, in, out, in — twelve hours a day, six days a week.
+
+She is not alone. In the same moment, eight hundred miles away in the Mississippi Delta, an enslaved man drives a hoe into dark soil, planting the cotton that will feed her machine. In a counting house on Liverpool's waterfront, a merchant checks the latest prices telegraphed from New Orleans. In a drawing room in London, a politician argues that interfering with this arrangement would violate the natural laws of political economy.
+
+**What is at stake?**
+
+Nothing less than the reorganization of human existence.
+
+In 1760, ninety percent of humanity lived and died within ten miles of where they were born, their lives governed by the seasons, the harvest, the rhythm of hand and loom. By 1850, that world had vanished. The Industrial Revolution did not merely change how things were made. It rewrote the relationship between humans and energy, between labor and time, between the few and the many.
+
+**If they failed?** There was no "they." No single consciousness directed this. It emerged from thousands of decisions — some brilliant, some ruthless, many desperate — each building on the last. The stakes were not success or failure. The stakes were *what kind of world would emerge*.
+
+And the world that emerged still shapes every hour of your life.
+
+---
+
+## 2. BIG QUESTION
+
+**Why Britain?**
+
+Not China, where the Yangzi Delta matched British wages and sophistication. Not the Netherlands, with its finance and trade. Not France, with its science and state capacity.
+
+A damp, resource-poor island off the coast of Europe — a place that had been a peripheral wool exporter two centuries earlier — became the workshop of the world.
+
+**How?**
+
+The answer is not a single invention. It is not the steam engine, though that matters. It is not the spinning jenny, though that started it. It is not even coal, though without coal none of it happens.
+
+The answer lies in a collision: **high wages and cheap energy.**
+
+In 1760, a British spinner earned more than a spinner in Beijing or Delhi. But British coal — dense, accessible, already being mined for London hearths — cost a fraction of what wood or charcoal cost anywhere else.
+
+**Labor was expensive. Energy was cheap.**
+
+That single economic fact made it profitable to build machines that saved labor by burning fuel. Everywhere else, the equation ran the other way.
+
+But the question deepens: **Why did the machine builders win?**
+
+Because in Britain, unlike almost anywhere else, the people who knew how to make things — the clockmakers, the millwrights, the instrument makers — could patent their inventions, find capital, and keep the profits. The Glorious Revolution of 1688 had settled something rare: property rights that even the Crown could not easily violate.
+
+**The big question: Was it inevitable?**
+
+Or did a handful of choices — a patent granted, a canal dug, a law passed, a child apprenticed — lock humanity onto a path we are still traveling?
+
+---
+
+## 3. HEAD FAKE
+
+**You think you know this story.**
+
+*Steam engine. Factory. Smoke. Progress.*
+
+**The steam engine did not start it.**
+
+For sixty years, the beating heart of the Industrial Revolution was *water*.
+
+---
+
+**Derbyshire. 1771.**
+
+Richard Arkwright stands beside the River Derwent at Cromford. He is not a gentleman. He is a former barber and wig-maker from Preston, a man who once traveled the country collecting hair for periwigs. He knows nothing of engineering. But he knows business.
+
+He has stolen — or borrowed, or bought — a design for rollers that draw out cotton fibers evenly. He has paired it with water power. Not a waterwheel turning a grindstone. A *system*: water driving shafts, shafts driving frames, frames spinning thread stronger and faster than any human hand.
+
+**Cromford Mill. Five stories. Two hundred workers. Mostly women and children.**
+
+This is the first modern factory. Not because of steam. Because of *discipline*.
+
+Arkwright does not invent the machine. He invents the **factory system**: fixed hours, fines for lateness, gates that lock at the bell, the surrender of the worker's time to the machine's rhythm.
+
+And it works. The yarn is uniform. The output is massive. The profits are staggering.
+
+**By 1785, Arkwright is a knight. His patent is the most valuable in the kingdom.**
+
+**Then the head fake breaks.**
+
+Arkwright's patent is overturned in court. The judges rule he didn't invent the rollers — a clockmaker named John Kay did, years earlier, for a different employer. The "Father of the Factory System" built his empire on borrowed genius.
+
+**But it doesn't matter.**
+
+The genie is out. The factory model spreads. And the water frames keep spinning.
+
+**Steam comes later. Steam comes because the factories outgrow the rivers.**
+
+---
+
+## 4. REHOOK
+
+**But the story was far from over.**
+
+The factory solved the spinning bottleneck. Now the weavers cannot keep up.
+
+**Lancashire. 1790s.**
+
+Handloom weavers — skilled men who once commanded good wages — watch their piece rates collapse. A weaver's family, working together, could once earn thirty shillings a week. Now they fight for ten. Then five.
+
+They petition Parliament. They march. They smash the new power looms in the factories — the **Luddites**, oath-bound, organized, not anti-machine but anti-*exploitation*.
+
+**The state responds with twelve thousand troops. More than Wellington commanded in Spain. Seventeen men hang for breaking frames.**
+
+**At the same moment, eight thousand miles away, a machine changes everything.**
+
+**Eli Whitney. Georgia. 1793. The Cotton Gin.**
+
+Short-staple cotton — the kind that grows inland, away from the coast — suddenly becomes profitable. The American South explodes. Cotton production doubles. Doubles again. **By 1860, the United States supplies eighty-eight percent of the cotton feeding Lancashire's spindles.**
+
+**Every thread spun in Manchester is rooted in the slave labor of Mississippi, Alabama, Georgia.**
+
+**The factory system and the plantation system grow together. They need each other.**
+
+**And in the ironworks of Coalbrookdale and the engine shops of Birmingham, another revolution is accelerating.**
+
+**Henry Cort. 1783. Puddling and Rolling.**
+
+Wrought iron — strong, malleable, essential for machines, ships, rails — can now be made with coal instead of charcoal. British iron output quadruples in twenty years. The Swedish monopoly is broken.
+
+**The skeleton of the industrial age is being forged.**
+
+**But the railways have not arrived yet. The telegraph does not exist. The cities are drowning in their own waste. The average height of British recruits is *falling* — the only time in recorded history a population has shrunk while its economy grew.**
+
+**The machine is winning. The people are not.**
+
+---
+
+## THE FIRST MACHINE AGE: TEXTILES AND THE REMAKING OF TIME
+
+---
+
+### THE BOTTLENECK
+
+**East Anglia. 1733.**
+
+John Kay, a weaver's son, watches his father work. The shuttle flies back and forth, left hand, right hand. *Thwack. Thwack.* The width of the cloth is limited by the span of a man's arms.
+
+Kay builds a shuttle on wheels. A cord. A picker. The weaver jerks the cord — the shuttle flies across the loom, *thwack*, caught by the other side, jerked back. **The Flying Shuttle.**
+
+One man can now weave twice as wide, twice as fast.
+
+**The effect is immediate and perverse.**
+
+Weaving accelerates. Yarn consumption doubles. But spinning — still done by women on wheels in cottages — cannot keep up. The "yarn famine" begins. Spinners become the bottleneck. Their wages rise. Merchants scramble.
+
+**The putting-out system — merchants distributing raw cotton to rural homes — reaches its limit.**
+
+**The solution will not come from a weaver. It will come from a carpenter.**
+
+---
+
+### THE JENNY
+
+**Stanley, Lancashire. 1764.**
+
+James Hargreaves, illiterate, poor, watches his daughter Jenny knock over a spinning wheel. The spindle continues revolving, upright.
+
+**A thought: what if multiple spindles stood upright, spun by one wheel?**
+
+He builds it in secret. Eight spindles. Then sixteen. The **Spinning Jenny**.
+
+It is small. Hand-powered. A family can operate it in a cottage. The output multiplies eightfold.
+
+**Hargreaves does not patent immediately. His neighbors — fearing for their livelihood — break into his house and smash the machine.**
+
+He flees to Nottingham. Partners with a hosier. Patents in 1770. By then, thousands of Jennies spin in Lancashire cottages.
+
+**But the Jenny has a flaw. Its thread is weak. Good for weft (crosswise threads). Useless for warp (lengthwise threads), which must bear the tension of the loom.**
+
+**The warp problem remains.**
+
+---
+
+### THE WATER FRAME
+
+**Nottingham. 1768.**
+
+Richard Arkwright — the barber — meets John Kay, a clockmaker. Not the Flying Shuttle Kay. A different Kay.
+
+Kay has built rollers: two pairs, one gripping the fibers, the second rotating faster, drawing them out evenly. **Roller drafting.** The principle of all modern spinning.
+
+Arkwright sees the future. He patents the **Water Frame** in 1769. It is heavy. It needs power. Water power.
+
+**Cromford. 1771.**
+
+The mill rises beside the Derwent. Five stories. Stone and brick. Waterwheel driving line shafts, driving frames.
+
+**Three hundred workers. Two shifts. Twelve hours each.**
+
+Children as young as seven. "Scavengers" crawling under moving machinery to piece broken ends. "Piercers" joining threads. "Doffers" replacing full bobbins.
+
+**Arkwright's innovation is not the machine. It is the discipline.**
+
+*   Gates lock at the bell. Latecomers fined.
+*   No talking. No windows opening.
+*   The overseer's stick. The clock on the wall.
+*   **Time becomes money. The worker's body becomes an appendage of the machine.**
+
+**The yarn is strong. Uniform. Cheap.**
+
+**Arkwright's patent dominates. He licenses it. He builds more mills. He becomes the richest commoner in England.**
+
+**But the warp problem is only half-solved. The Water Frame makes coarse, hard thread. Good for calico. Not for fine muslin.**
+
+---
+
+### THE MULE
+
+**Bolton. 1779.**
+
+Samuel Crompton, twenty-six, works in a cellar. He has a Jenny. He has seen a Water Frame. He is too poor to patent.
+
+He combines them.
+
+**The Spinning Mule.**
+
+The carriage moves *out* — rollers draw the fibers (Water Frame principle). The carriage moves *in* — spindles twist the yarn (Jenny principle). Out. In. Out. In.
+
+**Fine. Strong. Adjustable.**
+
+Crompton's "muslin" rivals Indian imports. Manchester merchants beat a path to his door.
+
+**He sells the secret for a pittance. Dies in poverty. Parliament awards him £5,000 in 1812 — thirty-three years later.**
+
+**The Mule becomes the king of spinning. Hand-mules. Then self-acting mules (Richard Roberts, 1825). A single spinner tends 1,300 spindles.**
+
+**Productivity: one hand-spinner, one pound a day. One mule spinner, 1800: one hundred pounds a day. By 1830: three hundred.**
+
+**The price of cotton yarn falls ninety percent.**
+
+**India's handloom weavers — millions of them — cannot compete. Their thumbs are cut off (a colonial myth, but the reality is worse: they simply starve). Bengal's textile industry collapses. India becomes a raw cotton exporter.**
+
+**The first great divergence.**
+
+---
+
+### THE POWER LOOM
+
+**Doncaster. 1785.**
+
+Edmund Cartwright, a clergyman, visits Arkwright's mill. He wonders: *why not weave by power?*
+
+He builds a loom. It is terrible. Clumsy. Loud. Breaks constantly.
+
+**He patents it anyway. Goes bankrupt.**
+
+**The power loom waits. And waits.**
+
+**Manchester. 1813.**
+
+William Radcliffe installs improved looms. They still need skilled weavers to fix them.
+
+**1822. Richard Roberts — the same man who automated the mule — perfects the power loom.**
+
+Iron frame. Positive let-off. Tappet shedding. Weft fork stop-motion. **The loom stops itself when a thread breaks.**
+
+**One weaver tends four looms. Then eight. Then twelve.**
+
+**Handloom weaving — the last great cottage industry — collapses.**
+
+**1800: 250,000 handloom weavers in Britain. 1850: fewer than 50,000.**
+
+**Their wages fall from twenty shillings to five. Their petitions fill Parliament. Their children starve.**
+
+**The machine has conquered the last fortress of hand production.**
+
+---
+
+## THE HEART OF FIRE: COAL, IRON, AND STEAM
+
+---
+
+### THE FUEL THAT WAITED
+
+**Newcastle. 1600.**
+
+London runs on wood. But the forests are retreating. Coal — "sea-coal" — ships down the coast. It is dirty. It smells. It ruins the taste of bread and beer.
+
+**By 1700, Britain mines three million tons of coal a year. The rest of Europe combined: less than one million.**
+
+**Coal is cheap. But it is useless for making iron.**
+
+**Iron needs charcoal. Charcoal needs trees. Trees are gone.**
+
+**The iron industry is strangled. Britain imports Swedish and Russian iron — high quality, high price, paid for in bullion.**
+
+---
+
+### THE QUAKER AND THE COKE
+
+**Coalbrookdale, Shropshire. 1709.**
+
+Abraham Darby I, a Quaker brass-founder, leases a derelict furnace.
+
+He knows maltsters dry barley with coke — coal baked in airless ovens to drive off impurities. **Why not iron?**
+
+He charges the furnace with coke and ironstone. The blast roars.
+
+**It works.**
+
+**Coke iron is brittle. Good for pots. Bad for forge work.**
+
+But Darby's pots — cast iron, thin, cheap — dominate the market. His descendants improve the process. **By 1750, Coalbrookdale is the iron capital of the world.**
+
+**Still: coke pig iron cannot be worked into wrought iron. The sulfur makes it "red-short" — it crumbles when hammered hot.**
+
+**The charcoal monopoly holds.**
+
+---
+
+### THE NAVY AND THE NUT
+
+**Portsmouth. 1774.**
+
+John Wilkinson — "Iron Mad" Wilkinson — builds a boring machine. Not for cylinders. For cannon.
+
+**The Royal Navy needs thousands of guns. Wilkinson's machine drills them straight, true, identical.**
+
+**He realizes: this same precision can bore steam engine cylinders.**
+
+**James Watt has a problem. His separate condenser (1765) cuts coal consumption by seventy-five percent. But his cylinders — cast by traditional methods — are warped, leaky. Steam escapes. Efficiency collapses.**
+
+**Wilkinson's boring machine solves it. Cylinders true to the thickness of a shilling.**
+
+**Watt's engine becomes viable. Wilkinson becomes his supplier.**
+
+**The precision toolmaker and the instrument maker. The machine that makes the machine.**
+
+---
+
+### THE PUDDLER'S DANCE
+
+**Fontley, Hampshire. 1783.**
+
+Henry Cort, a former navy agent, watches a reverberatory furnace. The flame rolls across the roof, down onto the metal. No fuel touches the iron. **No sulfur.**
+
+He stirs the molten pig iron with a long rod — a **rabble**. The carbon burns off. The mass thickens. **It "comes to nature."**
+
+**A bloom of wrought iron forms. He pulls it out. Hammers it. Rolls it through grooved rollers.**
+
+**Puddling. Rolling.**
+
+**Cort patents both. The Navy — desperate for iron for ships, for cannon, for the war against France — adopts it.**
+
+**British iron production:**
+
+*   1788: 68,000 tons
+*   1806: 250,000 tons
+*   1830: 678,000 tons
+*   1850: 2,250,000 tons
+
+**The price halves. Halves again. Sweden and Russia are driven from the market.**
+
+**Cort dies in poverty. His partner — a navy paymaster — embezzled the funds. The state seizes Cort's patents. He gets nothing.**
+
+**But the world has changed. Iron is cheap. Iron is everywhere.**
+
+---
+
+### THE SEPARATE CONDENSER
+
+**Glasgow. 1763.**
+
+James Watt, twenty-seven, instrument maker to the University, repairs a model Newcomen engine.
+
+**The Newcomen engine is magnificent and terrible.**
+
+Steam fills the cylinder. Cold water injects. Steam condenses. Vacuum. Atmospheric pressure drives the piston down. Steam re-enters. Water sprays again. **Heat. Cold. Heat. Cold. Seventy-five percent of the energy wasted reheating the cylinder.**
+
+**Watt walks on Glasgow Green. A thought strikes: *separate the condensation.***
+
+**A vessel apart from the cylinder. Cold. The steam rushes in, condenses. The cylinder stays hot.**
+
+**Efficiency quadruples.**
+
+**But the model works. The full-scale engine? Years of failure. Cylinders warp. Packing leaks. Money runs out.**
+
+**Birmingham. 1774.**
+
+Matthew Boulton — button-maker, entrepreneur, visionary — buys Watt's patent. He has capital. He has the Soho Manufactory. He has **John Wilkinson's boring machine.**
+
+**The first commercial Boulton & Watt engine: 1776. A mine in Cornwall.**
+
+**It burns one-third the coal of a Newcomen. The mine owners pay Boulton & Watt one-third of the savings. The "premium" model.**
+
+**By 1800, five hundred Boulton & Watt engines work in Britain. Mines. Mills. Breweries. Distilleries. Waterworks.**
+
+**But they only pump. They rock back and forth. They cannot turn a shaft.**
+
+---
+
+### THE SUN AND PLANET
+
+**1781.**
+
+Watt wants rotary motion. A crank seems obvious. **But a crank is patented by James Pickard.**
+
+**Watt invents the sun-and-planet gear.**
+
+The piston rod drives a "planet" gear around a fixed "sun" gear on the output shaft. Two rotations of the planet for every stroke. **Reciprocating motion becomes rotary. No crank. No patent violation.**
+
+**The steam engine becomes a prime mover.**
+
+**Factories no longer need rivers.**
+
+**Manchester. 1786. The first steam-powered cotton mill.**
+
+**The city explodes. 1760: 25,000 people. 1801: 75,000. 1851: 300,000.**
+
+**Coal feeds the engines. Engines drain the mines. Mines produce more coal. The feedback loop closes.**
+
+---
+
+## THE ARTERIES: CANALS AND RAILWAYS
+
+---
+
+### THE DUKE'S DITCH
+
+**Worsley. 1759.**
+
+Francis Egerton, Duke of Bridgewater, owns coal mines. His coal reaches Manchester by packhorse — expensive, slow, unreliable.
+
+He hires James Brindley, a millwright who cannot read or write but sees water the way poets see metaphor.
+
+**Brindley builds a canal. Ten miles. No locks. An aqueduct carries it over the River Irwell — a "castle in the air." Underground, the canal penetrates the coal seam itself. Boats load *at the face*.**
+
+**1761. The Bridgewater Canal opens.**
+
+**Coal price in Manchester halves overnight.**
+
+**Canal Mania erupts. 1790s. 1810s. Four thousand miles of canals by 1830.**
+
+**But canals freeze. They drought. They are slow. They are monopolies.**
+
+---
+
+### THE IRON ROAD
+
+**Penydarren, Wales. 1804.**
+
+Richard Trevithick — Cornish, giant, brilliant, reckless — builds a high-pressure engine. No condenser. Steam at forty, fifty, one hundred psi. Exhaust blasts up the chimney, drawing the fire.
+
+**He mounts it on wheels. On rails.**
+
+**It hauls ten tons of iron and seventy men. Five miles per hour.**
+
+**The rails break. The boiler explodes (later). Trevithick dies poor in Dartford.**
+
+**But the idea survives.**
+
+---
+
+### THE RAINHILL TRIALS
+
+**Rainhill. October 1829.**
+
+Ten thousand spectators. The Liverpool & Manchester Railway — thirty-five miles, double-tracked, steam-only, scheduled — needs a locomotive.
+
+**Four entries. Only one finishes.**
+
+**Rocket. George and Robert Stephenson.**
+
+Multi-tubular boiler. Twenty-five copper tubes. Blast pipe — exhaust steam sucks the fire. **Twelve miles per hour average. Twenty-nine top speed.**
+
+**The railway age begins.**
+
+---
+
+### THE WORLD SHRINKS
+
+**1830. Liverpool & Manchester opens.**
+
+**William Huskisson, MP, steps onto the track to greet the Duke of Wellington. Rocket cannot stop. Huskisson dies. The first railway fatality. A symbol: the new speed kills the old order.**
+
+**1838. London to Birmingham. 112 miles. Four hours. The stagecoach took twelve.**
+
+**1845-47. Railway Mania. Six thousand miles authorized in two years. £300 million invested — thirty percent of GDP. Fortunes made. Fortunes lost. The network built.**
+
+**Time standardizes. Greenwich Mean Time spreads by telegraph along the lines. "Railway Time" replaces local noon.**
+
+**Perishables travel. Milk. Fish. Newspapers. Commuters.**
+
+**The national market is born.**
+
+---
+
+## THE HUMAN COST: THE CONDITION OF ENGLAND
+
+---
+
+### THE CHILDREN OF THE MILL
+
+**Quarry Bank, Styal. 1784.**
+
+Samuel Greg builds a mill beside the River Bollin. He needs workers. He goes to the parish workhouses.
+
+**Pauper apprentices. Children. Seven years old. Signed over by the parish. Bound until twenty-one.**
+
+**They sleep two to a bed in the Apprentice House. They work twelve hours. They get schooling — one hour, sometimes. They get medical care — sometimes. They run away — often.**
+
+**Greg is a "good" master. He builds a village. A church. A shop.**
+
+**At New Lanark, Scotland, Robert Owen goes further. No children under ten. Ten-and-a-half-hour day. Infant school. Sickness fund. Village store at cost price.**
+
+**Owen proves: humanity pays. His mills are profitable. His workers are loyal.**
+
+**But Owen is the exception. The rule is the overseer's stick, the clock, the fine, the speed-up.**
+
+---
+
+### THE LUDDITES
+
+**Nottingham. November 1811.**
+
+Frames smashed in the night. Letters signed "Ned Ludd" — "General Ludd" — threaten more.
+
+**Not mindless machine-breaking. Targeted: only "wide frames" making cheap, shoddy "cut-up" stockings that undercut quality work.**
+
+**The movement spreads. Yorkshire croppers. Lancashire weavers. Oaths. Drilling. Quasi-military.**
+
+**1812. Frame Breaking Act. Death penalty.**
+
+**Twelve thousand troops occupy the Midlands. More than in the Peninsula War.**
+
+**Seventeen men hanged at York and Lancaster. The movement breaks.**
+
+**But the question remains: *who benefits from the machine?* **
+
+---
+
+### PETERLOO
+
+**St Peter's Field, Manchester. August 16, 1819.**
+
+Sixty thousand people. Men, women, children. Sunday best. Banners: "Universal Suffrage," "Annual Parliaments," "Vote by Ballot."
+
+**Henry Hunt speaks. The magistrates panic. The yeomanry charge. Sabers flashing.**
+
+**Eighteen dead. Four hundred to seven hundred injured.**
+
+**The "Peterloo Massacre" — a bitter pun on Waterloo.**
+
+**The Six Acts follow: press censorship, meeting bans, search powers.**
+
+**Radicalism goes underground. Reform waits.**
+
+---
+
+### THE FACTORY ACTS
+
+**1802. Peel's Act. Apprentices only. Unenforced.**
+
+**1819. Cotton Mills Act. No children under nine. Twelve hours max. No inspectors.**
+
+**1833. The Turning Point.**
+
+**Four inspectors appointed. Eight hours for children 9-13. Twelve for 13-18. Two hours schooling. Half-time system.**
+
+**The birth of the regulatory state. The state enters the factory.**
+
+**1844. Machinery guarding. Shift regulation. Surgeons.**
+
+**1847. The Ten Hours Act. Women and young persons: ten hours. Fifty-eight hours a week.**
+
+**The standard working day is born. Not by benevolence. By struggle.**
+
+---
+
+### THE CITIES OF THE DEAD
+
+**Manchester. 1842.**
+
+**Edwin Chadwick's report. Life expectancy:**
+
+*   Rutland (rural gentry): 52
+*   Liverpool (laborers): 15
+
+**Fifteen.**
+
+**Cellars. Back-to-backs. Courts. Middens. Cesspools. Water from standpipes — two hours a day, shared by hundreds.**
+
+**Cholera. 1832. 1848. 1854. Typhus. Tuberculosis — one in four deaths.**
+
+**The "Great Stink" of 1858 forces Parliament — fleeing the Thames — to fund Bazalgette's sewers. Eighty-two miles of intercepting sewers. One thousand one hundred miles of street sewers.**
+
+**Cholera vanishes. Not because they understood germs (Snow's pump handle proof is ignored for years). Because they removed the smell.**
+
+**Miasma theory saves lives by accident.**
+
+---
+
+## THE WORLD REMADE: EMPIRE, TRADE, AND THE GREAT DIVERGENCE
+
+---
+
+### THE COTTON TRIANGLE
+
+**Liverpool. 1860.**
+
+**Eighty-eight percent of raw cotton comes from the American South. Grown by enslaved people. Shipped by British merchants. Spun by British workers. Woven by British looms. Sold to the world.**
+
+**India — once the world's workshop — exports raw cotton to Britain, buys back finished cloth. Its weavers starve. Its deindustrialization is deliberate policy.**
+
+**Egypt. 1861-65. The American Civil War cuts off Confederate cotton. Egypt switches to cotton monoculture. Debt. European control. British occupation (1882).**
+
+**The Industrial Revolution is not a British story. It is a global system. The factory and the plantation are twins.**
+
+---
+
+### THE WORKSHOP OF THE WORLD
+
+**1851. The Great Exhibition. Crystal Palace. Hyde Park.**
+
+**Six million visitors. One hundred thousand exhibits. Britain produces half the world's coal, half its iron, two-thirds of its cotton cloth.**
+
+**"Workshop of the World." The label is accurate.**
+
+**But the seeds of decline are already sown.**
+
+**Belgium. France. The German states. The United States. They copy. They protect. They innovate.**
+
+**Bessemer steel (1856). Siemens-Martin (1860s). The Second Industrial Revolution belongs to them.**
+
+**By 1870, Britain's share of world manufacturing falls. By 1913: fourteen percent.**
+
+**The first comer advantage is also a first comer trap: locked into old plants, old methods, old minds.**
+
+---
+
+## THE LEGACY: WHAT REMAINS
+
+---
+
+### THE LANGUAGE WE SPEAK
+
+**Luddite. Sabotage. Spinster. Loom. Shuttle. Bobbin. Cog. Governor. Flywheel. High pressure. Low pressure. Navvy. Strike. Picket. Scab. Blackleg. Overtime. Clock in. Clock out. Middle class. Working class. Capitalist. Proletariat. Laissez-faire. Free trade. Protectionism. Infrastructure. Standard gauge. Time zone. Greenwich Mean Time.**
+
+**Every word a fossil of the revolution.**
+
+---
+
+### THE BODIES WE INHABIT
+
+**Recruits' heights fell from 172cm (1760) to 167cm (1820). The only recorded shrinkage of a population during economic growth.**
+
+**They recovered. Slowly. By 1900: 172cm again.**
+
+**Our bodies remember what our textbooks forget.**
+
+---
+
+### THE AIR WE BREATHE
+
+**Coal. The carbon loop.**
+
+**1760: 10 million tons. 1913: 292 million tons (peak UK).**
+
+**The Anthropocene begins in a Coalbrookdale furnace.**
+
+**The choice of steam over water — made for control, for location, for power — locked humanity into the carbon path.**
+
+**We are still unlocking it.**
+
+---
+
+### THE QUESTIONS THAT REMAIN
+
+**Was it worth it?**
+
+**Real wages: 1770 index 55. 1850: 100. 1900: 155. (1850=100)**
+
+**Life expectancy: 1760: 38. 1850: 41. 1900: 48.**
+
+**Literacy: 1750: 60%. 1900: 97%.**
+
+**Child labor: peaked 1815-1835. Gone (in Britain) by 1900.**
+
+**The optimists point to the numbers. The pessimists point to the lives.**
+
+**Both are right.**
+
+**The Industrial Revolution was not a gift. It was a conquest — of nature, of distance, of time, of human autonomy.**
+
+**It gave us abundance. It gave us anemia. It gave us the NHS and the nuclear bomb. It gave us the weekend and the assembly line. It gave us the world we inhabit — unequal, connected, burning, wonders.**
+
+---
+
+## FINAL REHOOK
+
+**The machine did not stop in 1850.**
+
+**Steel replaced iron. Electricity replaced steam. Oil replaced coal. Silicon replaced vacuum tubes. The factory became the office became the platform became the algorithm.**
+
+**The same logic: labor expensive, energy cheap (until it wasn't). Control the process. Standardize the part. Accelerate the cycle.**
+
+**The children of the mule tend the server farm. The pauper apprentices become gig workers. The overseer's stick becomes the productivity dashboard.**
+
+**The revolution is not over.**
+
+**We are still living in the age of fire and thread.**
+
+**The question — *who benefits from the machine?* — has never been answered.**
+
+**It is the question of our time.**
+
+---
+
+**[FADE TO BLACK OVER THE IRON BRIDGE AT COALBROOKDALE — THE FIRST CAST-IRON ARCH IN THE WORLD, SPANNING THE SEVERN SINCE 1779, STILL STANDING, STILL RED, STILL CARRYING THE WEIGHT]**

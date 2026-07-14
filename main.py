@@ -485,7 +485,7 @@ Describe historically accurate clothing:
 
 # Style
 The image should look like:
-- Stickmanstyle, exactly like in the referencepicture
+- Stickmanstyle, exactly like in the referencepicture 
 - The background should be white
 - The peronality should just look like the referencepicture, but with the outfit, gender, and everything else described above
 - Historically accurate
@@ -520,16 +520,7 @@ Example output:
 Story:
 """
 
-additional_img_prompt = """
-
-The Image should NOT be just Black and white, even though the background must be white. 
-The face of the person must be white, except if it was explicitly stated above to have a specific color. 
-The rest of the person must be colored, and NOT just textured with black and white.
-Do NOT write any text, only generate one person, NOT many views from the same person.  
-The Person must be drawn standing and NOT for example sitting in a throne. 
-The only possibility a person does not have to stand ist when he/she sits in a wheelchair.
-
-"""
+additional_img_prompt = "The Image should NOT be just Black and white, even though the background must be white. The face of the person must be white, except if it was explicitly stated above to have a specific color. Do NOT change the head style, it should be exactly like the one in the reference picture. The rest of the person must be colored, and NOT just textured with black and white.Do NOT write any text, only generate one person, NOT many views from the same person.  The Person must be drawn standing and NOT for example sitting in a throne. The only possibility a person does not have to stand ist when he/she sits in a wheelchair."
 
 
 
@@ -740,19 +731,19 @@ def prompt_flow(prompts):
         time.sleep(random.randrange(10, 20)/20)
 
 def add_refrence_base_person():
-    time.sleep(random.randrange(10, 20)/40)
+    time.sleep(random.randrange(10, 20)/30)
     pyautogui.moveTo(ADD_REFERECE_BTN_COORDS[0], ADD_REFERECE_BTN_COORDS[1])
-    time.sleep(random.randrange(10, 20)/40)
+    time.sleep(random.randrange(15, 20)/30)
     pyautogui.click(ADD_REFERECE_BTN_COORDS[0], ADD_REFERECE_BTN_COORDS[1])
 
-    time.sleep(random.randrange(10, 20)/40)
+    time.sleep(random.randrange(10, 20)/30)
     pyautogui.moveTo(UPLOAD_COORDS[0], UPLOAD_COORDS[1])
-    time.sleep(random.randrange(10, 20)/40)
+    time.sleep(random.randrange(15, 20)/30)
     pyautogui.click(UPLOAD_COORDS[0], UPLOAD_COORDS[1])
 
-    time.sleep(random.randrange(10, 20)/40)
+    time.sleep(random.randrange(10, 20)/30)
     pyautogui.moveTo(BASE_IMG_COORDS[0], BASE_IMG_COORDS[1])
-    time.sleep(random.randrange(10, 20)/40)
+    time.sleep(random.randrange(15, 20)/30)
     pyautogui.click(BASE_IMG_COORDS[0], BASE_IMG_COORDS[1])
 
 def download_zip():

@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Abraham Lincoln",
+        "id": 0,
+        "prompt": "A historically accurate stickmanstyle reference image of Abraham Lincoln, 16th President of the United States, 1861 to 1865. Male, approximately 52 to 56 years old during the Civil War. Tall and gangly frame, approximately 193 cm, angular face with high cheekbones, sunken cheeks, deep-set dark gray eyes, prominent nose, thin lips. Dark brown hair, thinning on top, brushed back, full beard grown after 1860 election, no mustache. Pale skin tone. Wearing a formal black frock coat, black waistcoat, black trousers, white linen shirt, black bow tie, signature stovepipe top hat. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Alexander Stephens",
+        "id": 1,
+        "prompt": "A historically accurate stickmanstyle reference image of Alexander Stephens, Vice President of the Confederate States, 1861 to 1865. Male, approximately 49 to 53 years old. Extremely slight and frail frame, approximately 157 cm and 43 kg, hollow face with sunken cheeks, pointed chin, piercing dark eyes, high forehead, thinning dark brown hair combed forward. Clean-shaven. Pale, sickly skin tone. Wearing a dark civilian frock coat, waistcoat, trousers, white shirt, dark necktie, sometimes a shawl draped over shoulders due to chronic illness. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Robert Anderson",
+        "id": 2,
+        "prompt": "A historically accurate stickmanstyle reference image of Robert Anderson, United States Army Major, commander of Fort Sumter, 1861. Male, approximately 56 years old. Medium build, approximately 175 cm, round face, graying dark hair, full gray beard and mustache, blue eyes. Fair skin. Wearing Union artillery officer uniform: dark blue frock coat with major's shoulder straps, gold buttons, light blue trousers with stripe, dark blue kepi with gold braid, sword at hip. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Daniel Hough",
+        "id": 3,
+        "prompt": "A historically accurate stickmanstyle reference image of Daniel Hough, United States Army Private, killed during the Fort Sumter salute, April 1861. Male, approximately 25 to 30 years old. Lean soldier build, approximately 173 cm. Youthful face, clean-shaven, brown hair cut short per regulations, blue eyes. Fair skin, weathered from service. Wearing Union private fatigue uniform: dark blue wool sack coat, sky blue wool trousers, brogans, dark blue forage cap with leather brim, white cotton shirt collar visible. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Irvin McDowell",
+        "id": 4,
+        "prompt": "A historically accurate stickmanstyle reference image of Irvin McDowell, United States Army Brigadier General, commanded at First Bull Run, 1861. Male, approximately 42 years old. Stocky build, approximately 173 cm. Round face, distinctive thick dark mustache and sideburns connecting to mutton chops, dark hair receding at temples, dark eyes. Ruddy complexion. Wearing Union brigadier general uniform: dark blue frock coat with single row of buttons grouped in threes, gold shoulder straps with one star, dark blue trousers with gold stripe, dark blue kepi with gold oak leaf band, sash, sword. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Thomas \"Stonewall\" Jackson",
+        "id": 5,
+        "prompt": "A historically accurate stickmanstyle reference image of Thomas Jonathan Stonewall Jackson, Confederate Lieutenant General, 1861 to 1863. Male, approximately 37 to 39 years old. Lean, wiry frame, approximately 178 cm. Long narrow face, high forehead, piercing blue-gray eyes, full reddish-brown beard covering jaw and chin, no mustache, hair brushed back. Fair skin. Wearing worn Confederate general uniform: gray wool frock coat with general's collar insignia (three stars in wreath), gold buttons, gray trousers, gray kepi or slouch hat, leather sword belt, often seen with one hand raised. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Barnard Bee",
+        "id": 6,
+        "prompt": "A historically accurate stickmanstyle reference image of Barnard Elliott Bee Jr., Confederate Brigadier General, gave Jackson his nickname at First Bull Run, mortally wounded July 1861. Male, approximately 37 years old. Medium build, approximately 178 cm. Oval face, dark hair, thick dark mustache and goatee, dark eyes. Olive complexion. Wearing Confederate brigadier general uniform: gray frock coat with three-star collar insignia, gold buttons, gray trousers, gray kepi with gold braid, sash, sword. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "George McClellan",
+        "id": 7,
+        "prompt": "A historically accurate stickmanstyle reference image of George Brinton McClellan, United States Army Major General, General-in-Chief 1861 to 1862. Male, approximately 34 to 36 years old. Small compact frame, approximately 168 cm, called Young Napoleon. Neat oval face, dark hair brushed back, dark eyes, clean-shaven early war, later neat mustache and goatee. Fair skin. Wearing immaculate Union major general uniform: dark blue double-breasted frock coat with two rows of buttons in groups of three, gold shoulder straps with two stars, dark blue trousers with gold stripe, dark blue kepi with gold oak leaves, red sash, sword with gold hilt. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Ulysses S. Grant",
+        "id": 8,
+        "prompt": "A historically accurate stickmanstyle reference image of Ulysses Simpson Grant, United States Army Lieutenant General, General-in-Chief 1864 to 1865. Male, approximately 39 to 43 years old. Slender frame, approximately 173 cm, slouching posture. Round face, reddish-brown beard full but trimmed, mustache, brown hair, blue eyes. Fair skin, often weathered. Wearing Union lieutenant general uniform (1864): dark blue sack coat with three stars on shoulder straps, often unbuttoned, dark blue trousers, muddy boots, black slouch hat or forage cap, often chewing cigar. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Albert Sidney Johnston",
+        "id": 9,
+        "prompt": "A historically accurate stickmanstyle reference image of Albert Sidney Johnston, Confederate General, considered finest soldier in Confederacy, killed at Shiloh April 1862. Male, approximately 59 years old. Tall imposing frame, approximately 185 cm. Long face, high forehead, thick gray-white beard and mustache, gray hair, dark eyes. Fair skin. Wearing Confederate general uniform: gray frock coat with general's collar insignia (three stars in wreath), gold buttons, gray trousers, gray slouch hat with ostrich plume, leather gauntlets, sword. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "William Tecumseh Sherman",
+        "id": 10,
+        "prompt": "A historically accurate stickmanstyle reference image of William Tecumseh Sherman, United States Army Major General, 1862 to 1865. Male, approximately 42 to 46 years old. Lean nervous frame, approximately 180 cm. Long face, high forehead, intense blue eyes, distinctive reddish-brown hair and beard streaked with gray, thick mustache, receding hairline. Fair skin, often flushed. Wearing Union major general uniform: dark blue frock coat with two-star shoulder straps, often worn open, dark blue trousers, black slouch hat pushed back, cigars ever-present, four-star shoulder straps later. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Robert E. Lee",
+        "id": 11,
+        "prompt": "A historically accurate stickmanstyle reference image of Robert Edward Lee, Confederate General-in-Chief, 1862 to 1865. Male, approximately 54 to 58 years old. Tall dignified frame, approximately 183 cm. Oval face, high forehead, dark brown eyes, full gray-white beard trimmed neatly, no mustache, gray hair brushed back. Fair skin. Wearing impeccable Confederate general uniform: gray wool frock coat with three-star collar insignia in wreath, nine buttons in groups of three, gray trousers with gold stripe, gray kepi with gold braid, black leather boots, no sword knot, gloves. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "A.P. Hill",
+        "id": 12,
+        "prompt": "A historically accurate stickmanstyle reference image of Ambrose Powell Hill, Confederate Lieutenant General, commanded Light Division, killed April 1865. Male, approximately 36 to 39 years old. Slight frame, approximately 173 cm, frail appearance. Narrow face, hazel eyes, reddish-brown hair, full reddish beard and mustache. Very pale, sickly complexion. Wearing Confederate lieutenant general uniform: gray frock coat with three-star collar insignia, often wearing distinctive red battle shirt underneath, gray trousers, gray kepi, sword. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "William Seward",
+        "id": 13,
+        "prompt": "A historically accurate stickmanstyle reference image of William Henry Seward, United States Secretary of State, 1861 to 1869. Male, approximately 60 to 64 years old. Large frame, approximately 180 cm. Long face, wild unruly gray-white hair, prominent large nose, bushy gray eyebrows, clean-shaven, piercing blue eyes. Ruddy complexion. Wearing formal civilian attire: black frock coat, black waistcoat, black trousers, white shirt, black stock or bow tie, often with cigar. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "John Buford",
+        "id": 14,
+        "prompt": "A historically accurate stickmanstyle reference image of John Buford, United States Army Brigadier General, cavalry commander at Gettysburg, died 1863. Male, approximately 37 years old. Athletic build, approximately 178 cm. Square jaw, dark hair, thick dark mustache and goatee, dark eyes. Weathered complexion. Wearing Union cavalry brigadier general uniform: dark blue shell jacket with yellow piping, one-star shoulder straps, dark blue trousers with yellow stripe, cavalry boots, dark blue kepi with yellow band, saber. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "John Reynolds",
+        "id": 15,
+        "prompt": "A historically accurate stickmanstyle reference image of John Fulton Reynolds, United States Army Major General, killed at Gettysburg July 1, 1863. Male, approximately 42 years old. Strong build, approximately 180 cm. Handsome face, dark hair brushed back, full dark beard and mustache, dark eyes. Fair skin. Wearing Union major general uniform: dark blue frock coat with two-star shoulder straps, dark blue trousers with gold stripe, dark blue kepi with gold oak leaves, red sash, sword. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Richard Ewell",
+        "id": 16,
+        "prompt": "A historically accurate stickmanstyle reference image of Richard Stoddert Ewell, Confederate Lieutenant General, known as Old Bald Head. Male, approximately 45 to 48 years old. Medium build, approximately 175 cm. Distinctive bald head, eccentric appearance, beady eyes, thin lips, full gray-white beard covering jaw, wooden leg (lost at Second Manassas). Fair skin. Wearing Confederate lieutenant general uniform: gray frock coat with three-star collar insignia, gray trousers, gray kepi, often seen leaning on crutch or cane. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "James Longstreet",
+        "id": 17,
+        "prompt": "A historically accurate stickmanstyle reference image of James Longstreet, Confederate Lieutenant General, Lee's Old War Horse. Male, approximately 42 to 46 years old. Heavy sturdy frame, approximately 185 cm, bull-necked. Square face, thick dark beard streaked with gray, mustache, dark hair, deep-set dark eyes. Ruddy complexion. Wearing Confederate lieutenant general uniform: gray frock coat with three-star collar insignia, gray trousers, gray slouch hat or kepi, heavy boots, often with hands in pockets. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Daniel Sickles",
+        "id": 18,
+        "prompt": "A historically accurate stickmanstyle reference image of Daniel Edgar Sickles, United States Army Major General, politician, lost leg at Gettysburg. Male, approximately 43 years old. Medium build, approximately 178 cm. Handsome face, dark wavy hair, dark mustache and goatee, dark eyes, charming expression. Fair skin. Wearing Union major general uniform: dark blue frock coat with two-star shoulder straps, dark blue trousers with gold stripe, dark blue kepi with gold oak leaves, red sash, sword, empty left trouser sleeve pinned up after Gettysburg. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Joshua Chamberlain",
+        "id": 19,
+        "prompt": "A historically accurate stickmanstyle reference image of Joshua Lawrence Chamberlain, United States Army Brigadier General, professor, hero of Little Round Top. Male, approximately 34 to 36 years old. Tall lean frame, approximately 183 cm. Long face, high forehead, thick dark brown hair brushed back, full dark beard and mustache, blue-gray eyes. Fair skin. Wearing Union brigadier general uniform (later war): dark blue frock coat with one-star shoulder straps, dark blue trousers with gold stripe, dark blue kepi with gold braid, sword, Medal of Honor ribbon. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "George Pickett",
+        "id": 20,
+        "prompt": "A historically accurate stickmanstyle reference image of George Edward Pickett, Confederate Major General, led Pickett's Charge at Gettysburg. Male, approximately 38 years old. Handsome dashing appearance, approximately 178 cm. Curly dark brown hair worn long to shoulders, perfumed, dark mustache and goatee, dark eyes, stylish. Fair skin. Wearing Confederate major general uniform: gray frock coat with two-star collar insignia, gold buttons, gray trousers, distinctive white gloves, gray kepi with gold braid, sword with gold hilt. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Lewis Armistead",
+        "id": 21,
+        "prompt": "A historically accurate stickmanstyle reference image of Lewis Addison Armistead, Confederate Brigadier General, mortally wounded at the Angle, Gettysburg. Male, approximately 46 years old. Solid build, approximately 178 cm. Round face, graying dark hair, thick gray-white mustache and full beard, kind dark eyes. Ruddy complexion. Wearing Confederate brigadier general uniform: gray frock coat with one-star collar insignia, gray trousers, gray kepi, black leather gloves, sword, distinctive hat often worn tipped back. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "George Meade",
+        "id": 22,
+        "prompt": "A historically accurate stickmanstyle reference image of George Gordon Meade, United States Army Major General, commanded at Gettysburg, known as Old Snapping Turtle. Male, approximately 48 years old. Tall thin frame, approximately 185 cm. Long narrow face, prominent nose, piercing dark eyes, thick gray-white beard and mustache, gray hair, wears spectacles. Fair skin. Wearing Union major general uniform: dark blue frock coat with two-star shoulder straps, dark blue trousers with gold stripe, dark blue kepi with gold oak leaves, red sash, sword, often slouching. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "John Pemberton",
+        "id": 23,
+        "prompt": "A historically accurate stickmanstyle reference image of John Clifford Pemberton, Confederate Lieutenant General, Northern-born, surrendered Vicksburg July 1863. Male, approximately 48 years old. Medium build, approximately 175 cm. Round face, dark hair receding, dark mustache and goatee, dark eyes. Olive complexion. Wearing Confederate lieutenant general uniform: gray frock coat with three-star collar insignia, gray trousers, gray kepi with gold braid, sash, sword. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "Wilmer McLean",
+        "id": 24,
+        "prompt": "A historically accurate stickmanstyle reference image of Wilmer McLean, civilian farmer, war began at his Manassas farm and ended at his Appomattox house. Male, approximately 47 to 51 years old. Stout farmer build, approximately 175 cm. Round face, graying brown hair, full gray-white beard, kind blue eyes. Weathered fair skin. Wearing civilian attire: dark wool frock coat, waistcoat, trousers, white shirt, necktie, felt hat. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    },
+    {
+        "name": "John Wilkes Booth",
+        "id": 25,
+        "prompt": "A historically accurate stickmanstyle reference image of John Wilkes Booth, actor, assassin of Abraham Lincoln, April 1865. Male, approximately 26 years old. Handsome athletic frame, approximately 178 cm. Oval face, thick glossy black hair worn long, dark mustache, piercing black eyes, famous for his beauty. Olive complexion. Wearing civilian evening attire: black frock coat, black waistcoat, black trousers, white shirt, black silk cravat, black leather boots, sometimes black wide-brimmed hat. White background. Simple clean lines, historically accurate proportions, suitable as a consistent character reference for documentary animation."
+    }
+]

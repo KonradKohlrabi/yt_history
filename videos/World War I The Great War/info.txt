@@ -1,0 +1,782 @@
+# World War I: The Great War – Comprehensive Historical Research Compilation
+
+---
+
+## I. BACKGROUND
+
+### Historical Context (Long-Term Causes)
+*   **The Concert of Europe & Balance of Power (1815–1914):** Post-Napoleonic system designed to prevent continental hegemony. Increasingly strained by nationalism and industrialization.
+*   **Unification of Germany (1871):** Franco-Prussian War creates the German Empire. Alters European balance of power permanently. France seeks *revanche* for loss of Alsace-Lorraine.
+*   **Industrial Revolution & Military Technology:** Mass production, railways, telegraph, high explosives, machine guns, artillery, dreadnought battleships, submarines, chemical industry. War becomes industrial slaughter.
+*   **Rise of Nationalism:** Pan-Slavism (Russia supports Serbia), Pan-Germanism, French *Revanchism*, Irish, Polish, Czech, South Slav (Yugoslav) aspirations threaten multi-ethnic empires (Austria-Hungary, Ottoman, Russian).
+*   **Imperialism & Colonial Rivalry:** "Scramble for Africa" (Berlin Conference 1884–85), Moroccan Crises (1905, 1911), naval arms race (UK vs. Germany). Competition for markets/resources creates friction.
+*   **Social Darwinism & Militarism:** Belief in struggle between nations/races; glorification of war; influence of General Staffs on policy (Schlieffen Plan, Plan XVII). "Cult of the Offensive."
+
+### Political Situation (1914)
+*   **Triple Alliance (Central Powers Core):** Germany, Austria-Hungary, Italy (defensive only; secret clauses; Italy stays neutral 1914, joins Entente 1915).
+*   **Triple Entente (Allied Powers Core):** France, Russia, United Kingdom (not a formal alliance until 1914–15; series of ententes: Entente Cordiale 1904 UK-France, Anglo-Russian Convention 1907).
+*   **The "Blank Cheque" (July 5, 1914):** Germany promises unconditional support to Austria-Hungary against Serbia.
+*   **Constitutional Structures:** Autocracies (Germany, Russia, Ottoman) vs. Constitutional Monarchies/Republics (UK, France, Italy, USA). Civil-military relations critical in Germany/Russia.
+
+### Economic Situation (1913–1914)
+*   **Globalization Peak:** High trade integration (gold standard), capital flows (London center), migration. War shatters this.
+*   **Industrial Output (1913 est.):**
+    *   USA: ~32% world manufacturing.
+    *   Germany: ~15% (surpassed UK in steel/chemicals).
+    *   UK: ~14%.
+    *   France: ~6%.
+    *   Russia: ~5% (rapid growth but low per capita).
+    *   Austria-Hungary: ~4%.
+*   **Financial Centers:** London (global banker), Paris, Berlin. War finance shifts to NYC (J.P. Morgan).
+*   **Agriculture:** Russia/USA/Canada/Argentina major grain exporters. Blockade strategy targets food imports (Germany/UK).
+
+### Social Situation
+*   **Class Structure:** Aristocratic officer corps vs. conscript masses. Rising socialist parties (SPD in Germany largest party in Reichstag 1912; SFIO in France; Labour in UK; Bolsheviks/Mensheviks/SRs in Russia).
+*   **Second International:** Socialist pledge to prevent war via general strike (Basel Manifesto 1912). Collapses Aug 1914 – most parties support national war efforts ("Burgfrieden"/"Union Sacrée").
+*   **Demographics:** High birth rates (except France). Large pools of military-age males. Urbanization creates dense recruitment pools.
+
+### Religious Situation
+*   **Catholic vs. Protestant vs. Orthodox vs. Islam:** Cross-cutting alliances (Catholic Austria/Italy vs. Protestant Germany; Orthodox Russia vs. Muslim Ottomans).
+*   **Papacy:** Benedict XV (elected Sept 1914) maintains strict neutrality, focuses on humanitarian aid/peace proposals (ignored).
+*   **Religious Motivation:** "God with us" (*Gott mit uns*) belt buckles; French *Sacré-Cœur* nationalism; Russian "Holy War"; Ottoman *Jihad* declaration (Nov 1914) – largely ineffective globally.
+
+---
+
+## II. TIMELINE: KEY DATES & CHRONOLOGY
+
+### 1914: The July Crisis & Opening Moves
+*   **June 28:** Assassination of Archduke Franz Ferdinand & Sophie in Sarajevo by Gavrilo Princip (Black Hand/Young Bosnia).
+*   **July 5:** German "Blank Cheque" to Austria-Hungary.
+*   **July 23:** Austro-Hungarian Ultimatum to Serbia (48 hrs).
+*   **July 25:** Serbian Reply (accepts most, rejects key sovereignty points); Austria breaks relations.
+*   **July 28:** Austria-Hungary declares war on **Serbia**.
+*   **July 29:** Russian partial mobilization (against Austria); Belgrade bombarded.
+*   **July 30:** Russian **General Mobilization** ordered (Tsar Nicholas II).
+*   **July 31:** German Ultimatum to Russia (halt mobilization) & France (neutrality); "State of Imminent Danger of War" (*Kriegsgefahrzustand*) in Germany.
+*   **Aug 1:** Germany declares war on **Russia**; General Mobilization; France orders General Mobilization.
+*   **Aug 2:** German troops enter Luxembourg; Ultimatum to Belgium (free passage).
+*   **Aug 3:** Germany declares war on **France**; Belgium refuses ultimatum.
+*   **Aug 4:** Germany invades **Belgium** (Liège); UK delivers ultimatum to Germany (expires midnight); UK declares war on **Germany**. **WWI begins globally.**
+*   **Aug 6:** Austria-Hungary declares war on **Russia**.
+*   **Aug 12:** UK/France declare war on **Austria-Hungary**.
+*   **Aug 17:** Russian invasion of East Prussia (Battle of Stallupönen/Gumbinnen).
+*   **Aug 20–24:** **Battle of the Frontiers** (Ardennes, Charleroi, Mons) – French Plan XVII fails; BEF retreats.
+*   **Aug 23:** Japan declares war on **Germany** (Anglo-Japanese Alliance).
+*   **Aug 26–30:** **Battle of Tannenberg** – Hindenburg/Ludendorff destroy Russian 2nd Army (Samsonov suicides).
+*   **Sept 5–12:** **First Battle of the Marne** – Joffre/Gallieni counterattack; "Miracle of the Marne"; Schlieffen Plan fails; "Race to the Sea" begins.
+*   **Sept 9–14:** **First Battle of the Masurian Lakes** – Russian 1st Army (Rennenkampf) mauled.
+*   **Oct 19 – Nov 22:** **First Battle of Ypres** – "Kindermord" (Massacre of Innocents); BEF nearly destroyed; trench line solidifies Channel to Switzerland.
+*   **Oct 29:** Ottoman Empire enters war (Black Sea raid).
+*   **Nov 1:** **Battle of Coronel** – Spee's East Asia Squadron defeats Cradock (Royal Navy) off Chile.
+*   **Dec 8:** **Battle of the Falkland Islands** – Sturdee destroys Spee's squadron.
+*   **Dec 24–25:** **Christmas Truce** – Spontaneous fraternization on Western Front.
+
+### 1915: Stalemate, Expansion, Atrocity
+*   **Jan 19 – Feb 18:** **Battle of Bolimów** – First German use of poison gas (xylyl bromide) – fails due to cold.
+*   **Feb 4:** Germany declares "War Zone" around UK (Unrestricted Submarine Warfare begins).
+*   **Feb 19:** **Dardanelles Campaign begins** – Naval bombardment of Ottoman forts.
+*   **Mar 18:** Naval assault fails (mines); decision for amphibious landing.
+*   **Apr 22 – May 25:** **Second Battle of Ypres** – First **chlorine gas** attack (Western Front); Canadians hold line.
+*   **Apr 24:** Armenian intellectuals arrested in Constantinople – Start of **Armenian Genocide** (Tehcir Law May 27).
+*   **Apr 25:** **Gallipoli Landings** (ANZAC Cove, Cape Helles) – Stalemate ensues.
+*   **May 7:** **RMS Lusitania** sunk by *U-20* (1,198 dead, 128 US citizens). US diplomatic crisis.
+*   **May 23:** **Italy declares war on Austria-Hungary** (Treaty of London). **Isonzo Front** opens (12 battles).
+*   **Aug 5:** **Warsaw falls** to Germans (Gorlice-Tarnów Offensive).
+*   **Sep 5:** Tsar Nicholas II assumes **Supreme Command** of Russian Army (leaves Petrograd).
+*   **Sep 25 – Oct 14:** **Battle of Loos** – First British gas use; heavy losses; first "Kitchener's Army" action.
+*   **Oct 6:** **Serbian Campaign** – Central Powers (Mackensen) invade; Belgrade falls Oct 9.
+*   **Nov 22:** **Battle of Ctesiphon** (Mesopotamia) – Townshend advances on Baghdad, then retreats to Kut.
+*   **Dec 7:** **Siege of Kut-al-Amara** begins.
+*   **Dec 19:** Douglas Haig replaces John French as **BEF Commander-in-Chief**.
+*   **Dec 28:** Evacuation of **Gallipoli** begins (completed Jan 9, 1916).
+
+### 1916: The Year of Attrition & Turning Points
+*   **Feb 21 – Dec 18:** **Battle of Verdun** – Falkenhayn's "bleed France white." ~700k–970k casualties. "They shall not pass" (Pétain/Nivelle). Fort Douaumont/Vaux.
+*   **Mar 9:** Germany declares war on **Portugal** (seized German ships).
+*   **Apr 24 – 30:** **Easter Rising** in Dublin (suppressed; shifts Irish opinion).
+*   **Apr 29:** **Fall of Kut** – Townshend surrenders 13,000 men (largest British surrender until Singapore 1942).
+*   **May 31 – Jun 1:** **Battle of Jutland (Skagerrak)** – Only major fleet action. Tactical German victory (tonnage), Strategic British victory (blockade held, High Seas Fleet inert).
+*   **Jun 4 – Sept 20:** **Brusilov Offensive** – Russian Southwestern Front (Brusilov) shatters Austro-Hungarian lines; ~1.5M Central casualties; Romania enters war.
+*   **Jul 1 – Nov 18:** **Battle of the Somme** – Haig/Joffre offensive. **Jul 1:** Bloodiest day British Army history (~57k casualties, ~19k dead). First **tank** use (Sept 15). ~1.2M total casualties.
+*   **Aug 27:** **Romania declares war on Austria-Hungary**; invaded by Falkenhayn/Mackensen; Bucharest falls Dec 6.
+*   **Aug 29:** Hindenburg/Ludendorff appointed **OHL (Supreme Army Command)** – *de facto* military dictatorship (Third OHL).
+*   **Sep 15:** First tank attack (Mark I) at Flers-Courcelette (Somme).
+*   **Dec 7:** David Lloyd George becomes **UK Prime Minister** (War Cabinet).
+*   **Dec 12:** Robert Nivelle replaces Joffre as **French Commander-in-Chief**.
+*   **Dec 18:** Verdun ends. **Dec 30:** Rasputin murdered.
+
+### 1917: Revolution, US Entry, Collapse & Mutation
+*   **Jan 19:** **Zimmermann Telegram** intercepted (Germany proposes Mexico alliance vs US).
+*   **Feb 1:** Germany resumes **Unrestricted Submarine Warfare (USW)**.
+*   **Feb 3:** US severs diplomatic relations with Germany.
+*   **Mar 8–12 (Feb 23–27 OS):** **February Revolution** (Petrograd) – Bread riots, garrison mutiny. **Mar 15:** Tsar Nicholas II abdicates. **Provisional Government** (Lvov then Kerensky) & **Petrograd Soviet** (Dual Power).
+*   **Apr 6:** **USA declares war on Germany** ("World safe for democracy").
+*   **Apr 9 – May 16:** **Battle of Arras** (Vimy Ridge – Canadian Corps success) & **Nivelle Offensive** (Chemin des Dames) – French disaster; massive casualties for minimal gain.
+*   **May – Jun:** **French Army Mutinies** – ~50% divisions affected; Pétain restores order (limited offensives, better leave/food, executions ~50).
+*   **Jun 7:** **Battle of Messines Ridge** – 19 massive mines detonated; Plumer's "bite and hold" success.
+*   **Jul 1 – 19:** **Kerensky Offensive** (Galicia) – Russian collapse; desertions; "Voting with feet."
+*   **Jul 31 – Nov 10:** **Third Battle of Ypres (Passchendaele)** – Haig's Flanders offensive. Mud, mud, mud. ~500k casualties for 8km.
+*   **Oct 24 – Nov 19:** **Battle of Caporetto (12th Isonzo)** – German/Austro-Hungarian *Stosstruppen* (Hutier tactics) shatter Italian 2nd Army; 300k prisoners; Italy saved at Piave River.
+*   **Nov 2 (Nov 15 NS):** **Balfour Declaration** – UK supports Jewish "national home" in Palestine.
+*   **Nov 7 (Oct 25 OS):** **October Revolution (Bolshevik Coup)** – Lenin/Trotsky seize power. **Decree on Peace**.
+*   **Nov 20 – Dec 7:** **Battle of Cambrai** – First mass tank attack (476 tanks); initial breakthrough; German counter-attack (elastic defense) retakes ground. Harbinger of 1918.
+*   **Dec 3:** **Brest-Litovsk Armistice** (Russia/Central Powers).
+*   **Dec 9:** **Jerusalem** captured by Allenby (Egyptian Expeditionary Force).
+*   **Dec 17:** **Armistice of Focșani** (Romania/Central Powers).
+
+### 1918: The German Gambit & Allied Victory
+*   **Jan 8:** Wilson's **Fourteen Points** speech.
+*   **Mar 3:** **Treaty of Brest-Litovsk** – Russia loses Poland, Ukraine, Baltics, Finland, Caucasus. 1/3 population, 1/2 industry, 3/4 coal/iron.
+*   **Mar 21 – Jul 18:** **Kaiserschlacht (Spring Offensives):**
+    *   **Operation Michael (Mar 21 – Apr 5):** Somme sector. Stormtroopers (Hutier), Bruchmüller artillery. 60km advance. Fails to split BEF/French. ~250k German casualties (irreplaceable elites).
+    *   **Operation Georgette (Apr 9 – 29):** Lys (Ypres). Threatens Channel ports. "Backs to the wall" (Haig).
+    *   **Operation Blücher-Yorck (May 27 – Jun 6):** Aisne. Reaches Marne (50km from Paris). US 2nd/3rd Divs stop at Belleau Wood/Château-Thierry.
+    *   **Operation Gneisenau (Jun 9 – 15):** Matz (Noyon).
+    *   **Operation Friedensturm / Marne-Reims (Jul 15 – 18):** Final push. Fails. **Jul 18:** Allied counterattack (Mangin/Degoutte) at Soissons – **Turning Point**.
+*   **Apr 1:** **RAF founded** (RFC + RNAS).
+*   **May 28:** **Battle of Cantigny** – First independent US divisional attack (1st Div).
+*   **Jul 4:** **Battle of Hamel** – Monash (Australian/US – Combined arms masterpiece (tanks, aircraft, infantry, artillery coordination – 93 mins).
+*   **Aug 8:** **Battle of Amiens** – "Black Day of the German Army" (Ludendorff). 400+ tanks, Australians/Canadians, surprise, 12km advance. **Hundred Days Offensive begins.**
+*   **Aug 21 – Sep 2:** **Battle of Albert/Bapaume** – BEF pushes to Hindenburg Line.
+*   **Sep 12 – 16:** **Battle of Saint-Mihiel** – Pershing's First US Army (550k men) eliminates salient.
+*   **Sep 19 – 25:** **Battle of Megiddo** – Allenby destroys Ottoman armies in Palestine (cavalry envelopment).
+*   **Sep 26 – Nov 11:** **Meuse-Argonne Offensive** – Largest US battle (1.2M men). Brutal fighting in Argonne Forest. Breaks German lines.
+*   **Sep 29:** **Bulgaria signs Armistice of Salonica**.
+*   **Sep 29:** Hindenburg/Ludendorff demand **immediate armistice**; civilian govt formed (Prince Max of Baden).
+*   **Oct 3–4:** Germany requests armistice based on **Fourteen Points**.
+*   **Oct 24 – Nov 4:** **Battle of Vittorio Veneto** – Italian victory; Austria-Hungary disintegrates.
+*   **Oct 30:** **Ottoman Empire signs Armistice of Mudros**.
+*   **Nov 3:** **Austria-Hungary signs Armistice of Villa Giusti**.
+*   **Nov 3:** Kiel Mutiny (High Seas Fleet) -> **German Revolution**.
+*   **Nov 9:** **Kaiser Wilhelm II abdicates** (flees to Netherlands Nov 10); **Republic proclaimed** (Scheidemann/Ebert).
+*   **Nov 11:** **Armistice of Compiègne** signed 05:10; effective **11:00 (11th hour, 11th day, 11th month)**.
+*   **Nov 11, 10:59:** Last combat death (Henry Gunther, US).
+
+### 1919–1923: The Peace & Aftermath
+*   **Jan 18, 1919:** **Paris Peace Conference** opens.
+*   **Jun 28, 1919:** **Treaty of Versailles** signed (Germany).
+*   **Sep 10, 1919:** Treaty of Saint-Germain (Austria).
+*   **Nov 27, 1919:** Treaty of Neuilly (Bulgaria).
+*   **Jun 4, 1920:** Treaty of Trianon (Hungary).
+*   **Aug 10, 1920:** Treaty of Sèvres (Ottoman) – never ratified.
+*   **Jul 24, 1923:** **Treaty of Lausanne** (Turkey) – Final settlement.
+
+---
+
+## III. IMPORTANT PEOPLE
+
+### Central Powers Leadership
+**1. Kaiser Wilhelm II (Germany)**
+*   *Role:* Emperor, King of Prussia, Supreme Warlord (*Oberster Kriegsherr*).
+*   *Goals:* *Weltpolitik*, global naval parity with UK, break "encirclement," assert personal rule.
+*   *Actions:* Blank Cheque; vacillated during July Crisis; sidelined by Hindenburg/Ludendorff (1916–18); abdicated Nov 1918.
+*   *Relationships:* Distrusted by Bethmann Hollweg; manipulated by Tirpitz; overshadowed by "Silent Dictatorship" of OHL.
+*   *Influence:* Symbol of German militarism; his bellicosity made diplomatic solutions harder; flight to Doorn ended Hohenzollern rule.
+
+**2. Theobald von Bethmann Hollweg (Chancellor 1909–17)**
+*   *Role:* Civilian head of government.
+*   *Goals:* Preserve Austro-Hungarian ally; limit war aims (Sept 1914 Septemberprogramm); domestic reform (suffrage).
+*   *Actions:* Managed July Crisis poorly; accepted OHL dominance; forced resignation July 1917 (Reichstag Peace Resolution).
+*   *Influence:* Failed to control military; his "Septemberprogramm" revealed expansive war aims.
+
+**3. Paul von Hindenburg & Erich Ludendorff (The "Dioscuri" / Third OHL, Aug 1916 – Oct 1918)**
+*   *Roles:* Chief of General Staff / First Quartermaster General (*Erster Generalquartiermeister*). *De facto* military dictatorship.
+*   *Goals:* Total Victory (*Siegfrieden*); annexationist war aims (Mitteleuropa); unrestricted submarine warfare; knock Russia out.
+*   *Actions:* Hindenburg Program (total war economy); USW (Jan 1917); Treaty of Brest-Litovsk; Spring Offensives 1918; demanded armistice Sept 29; Ludendorff fled to Sweden.
+*   *Relationships:* Hindenburg (figurehead, prestige); Ludendorff (operational brain, political meddler). Controlled weak Chancellors (Michaelis, Hertling).
+*   *Influence:* Militarized German society; destroyed chance for negotiated peace 1917; "Stab in the Back" myth originators.
+
+**4. Emperor Franz Joseph I (Austria-Hungary, d. Nov 1916)**
+*   *Role:* Monarch, symbol of unity.
+*   *Goals:* Preserve dynasty/empire; punish Serbia.
+*   *Influence:* His death removed last legitimate pillar of the Dual Monarchy.
+
+**5. Karl I (Charles IV) (Austria-Hungary, 1916–18)**
+*   *Role:* Last Emperor.
+*   *Goals:* Peace (Sixtus Affair 1917 – secret negotiations via brother-in-law); federalize empire.
+*   *Actions:* Failed peace overtures; "Völkermanifest" Oct 1918 (too late); abdicated Nov 1918.
+
+**6. Conrad von Hötzendorf (A-H Chief of Staff 1906–17)**
+*   *Role:* Architect of A-H war plans.
+*   *Goals:* Preventive war vs Serbia/Italy/Russia; personal glory.
+*   *Influence:* Strategic incompetence (split forces Galicia/Serbia); reliance on Germany; replaced 1917.
+
+**7. Enver Pasha (Ottoman War Minister / CUP Leader)**
+*   *Role:* De facto dictator (Triumvirate with Talaat, Cemal).
+*   *Goals:* Pan-Turkism; destroy Russian influence; reclaim lost territories.
+*   *Actions:* Brought Ottomans into war (Black Sea raid); Sarikamish disaster (1914); Armenian Genocide architect.
+*   *Influence:* Ottoman entry extended war to Middle East; genocide legacy.
+
+**8. Ferdinand I (Bulgaria)**
+*   *Role:* Tsar.
+*   *Goals:* Macedonian expansion (Second Balkan War revenge).
+*   *Actions:* Joined Central Powers Oct 1915; abdicated 1918 after Dobro Pole collapse.
+
+### Allied Powers Leadership
+**1. Herbert Henry Asquith (UK PM 1908–16)**
+*   *Role:* Liberal PM.
+*   *Actions:* Led UK into war; formed Coalition (May 1915); Shell Crisis; Gallipoli failure; conscription (1916); replaced by Lloyd George.
+
+**2. David Lloyd George (UK PM 1916–22)**
+*   *Role:* "The Man Who Won the War."
+*   *Goals:* Victory; reduce Haig's power (failed); unified command (Foch); post-war settlement.
+*   *Actions:* War Cabinet (small, efficient); Ministry of Munitions; convoy system; manipulated Haig/Nivelle; Versailles "middle ground."
+
+**3. Douglas Haig (BEF C-in-C 1915–18)**
+*   *Role:* Commander British Expeditionary Force.
+*   *Goals:* Breakthrough (attrition -> "wearing out"); 1916 Somme; 1917 Flanders.
+*   *Controversy:* "Butcher" vs. "Learning Curve" historian debate. Embraced technology late (tanks, artillery prediction, air-ground).
+*   *Relationships:* Distrusted by Lloyd George; protected by King George V; worked with Foch 1918.
+
+**4. Ferdinand Foch (Allied Generalissimo 1918)**
+*   *Role:* Supreme Allied Commander (Mar 26 / Apr 14 1918).
+*   *Goals:* Unity of command; strategic offensive 1918.
+*   *Actions:* Coordinated Hundred Days; "My center is giving way, my right is retreating, situation excellent, I attack." (Marne 1914).
+*   *Influence:* Architect of final victory; harsh critic of Versailles leniency ("This is not peace. It is an armistice for 20 years.").
+
+**5. Joseph Joffre (French C-in-C 1914–16)**
+*   *Role:* "Victor of the Marne."
+*   *Actions:* Plan XVII; calm at Marne; 1915 offensives (Artois/Champagne); Verdun start; replaced by Nivelle. Made Marshal.
+
+**6. Robert Nivelle (French C-in-C 1916–17)**
+*   *Role:* Hero of Verdun recapture (Fort Douaumont).
+*   *Actions:* Nivelle Offensive (Chemin des Dames) – promised 48hr breakthrough; caused mutinies. Sacked.
+
+**7. Philippe Pétain (French C-in-C 1917–18)**
+*   *Role:* "Savior of Verdun" / Restorer of Army.
+*   *Actions:* "They shall not pass"; ended mutinies (discipline + welfare); limited offensives (La Malmaison); waited for US tanks/men ("I am waiting for the tanks and the Americans").
+*   *Later:* Vichy collaborationist (WWII).
+
+**8. Raymond Poincaré (French President 1913–20 / PM 1922–24)**
+*   *Role:* Political backbone; "Union Sacrée."
+*   *Goals:* Recover Alsace-Lorraine; security vs Germany (Rhine frontier).
+*   *Influence:* Kept France in war; managed civil-military relations.
+
+**9. Nicholas II (Russia, Tsar 1894–1917)**
+*   *Role:* Autocrat; Supreme Commander (Sep 1915).
+*   *Goals:* Preserve autocracy; Pan-Slavism; Straits.
+*   *Actions:* Took command (linked throne to military failure); ignored Duma; abdicated Mar 1917. Executed July 1918.
+
+**10. Alexander Kerensky (Russian Justice/War Minister / PM 1917)**
+*   *Role:* Provisional Government leader.
+*   *Goals:* Continue war (Allied pressure); democratic reform.
+*   *Actions:* Kerensky Offensive; Kornilov Affair (armed Bolsheviks); fled Oct Revolution.
+
+**11. Vladimir Lenin (Bolshevik Leader)**
+*   *Role:* Architect of October Revolution.
+*   *Goals:* "Peace, Land, Bread"; World Revolution.
+*   *Actions:* Sealed train (German facilitation); April Theses; Treaty of Brest-Litovsk (revolutionary defeatism).
+*   *Influence:* Removed Russia from war; created USSR.
+
+**12. Woodrow Wilson (US President 1913–21)**
+*   *Role:* "Peace without Victory" -> War President.
+*   *Goals:* Make world "safe for democracy"; League of Nations; Self-determination; Open Door.
+*   *Actions:* Neutrality 1914–17; Lusitania notes; USW -> War Apr 1917; Fourteen Points (Jan 1918); Paris Peace Conference; Stroke 1919; Senate rejects Versailles/League.
+*   *Influence:* Moral framework for peace; US intervention decisive materially; idealism vs. realism clash.
+
+**13. John J. Pershing (AEF Commander)**
+*   *Role:* Commander American Expeditionary Forces.
+*   *Goals:* Independent US Army (not amalgamated); "Open Warfare" doctrine (rifle/bayonet vs trench tactics).
+*   *Actions:* Insisted on own sector (Lorraine/Meuse-Argonne); slow buildup; 2M men in France by Nov 1918.
+*   *Influence:* US manpower broke stalemate; doctrine costly (Argonne); shaped interwar US Army.
+
+**14. Vittorio Emanuele Orlando (Italian PM 1917–19)**
+*   *Role:* Political leader post-Caporetto.
+*   *Goals:* Territorial gains (Trentino, Trieste, Dalmatia) per Treaty of London.
+*   *Actions:* Reorganized home front (Diaz); Vittorio Veneto; Walked out of Paris Conference (Fiume); failed to get Dalmatia.
+
+**15. Armando Diaz (Italian C-in-C 1917–18)**
+*   *Role:* Stabilized Piave line; won Vittorio Veneto.
+*   *Methods:* Defensive depth; better soldier care; waited for Allied unity.
+
+### Other Key Figures
+*   **Helmuth von Moltke the Younger:** German Chief of Staff 1914; modified Schlieffen Plan; nervous breakdown Sep 1914.
+*   **Erich von Falkenhayn:** German Chief of Staff 1914–16; Verdun architect; dismissed.
+*   **Max Hoffmann:** German Eastern Front genius (Tannenberg, Brest-Litovsk).
+*   **Alexei Brusilov:** Russian General; 1916 Offensive innovator (shock tactics, brief barrage).
+*   **John Monash (Australian Corps):** 1918 combined arms master (Hamel).
+*   **Arthur Currie (Canadian Corps):** "Bite and hold"; Vimy, Amiens, Canal du Nord.
+*   **T.E. Lawrence ("Lawrence of Arabia"):** Arab Revolt liaison; guerrilla warfare theorist.
+*   **Edith Cavell:** British nurse executed by Germans (Oct 1915) – propaganda icon.
+*   **Mata Hari:** Dancer executed as spy (1917) – cultural icon.
+*   **Manfred von Richthofen (Red Baron):** 80 victories; air combat idol.
+*   **Eddie Rickenbacker:** US Ace (26 victories).
+*   **Alvin York:** US Medal of Honor (Meuse-Argonne, 132 prisoners).
+
+---
+
+## IV. LOCATIONS
+
+### Western Front (The Primary Theater)
+*   **Countries:** Belgium, France.
+*   **Key Sectors (North to South):**
+    *   **Ypres Salient (Flanders):** "Wipers." 1914, 1915 (Gas), 1917 (Passchendaele), 1918. Menin Gate, Cloth Hall ruins. Mud, waterlogged trenches.
+    *   **Artois / Vimy Ridge:** 1915 (Loos), 1917 (Arras/Vimy - Canadian victory). High ground crucial.
+    *   **Somme (Picardy):** 1916 (Attrition), 1918 (Michael/Amiens). Chalk downs, rolling countryside. Thiepval Memorial.
+    *   **Verdun (Meuse):** 1916 (Meat Grinder). Forts Douaumont, Vaux, Souville. "Sacred Way" (Voie Sacrée) supply road. Ossuary.
+    *   **Champagne / Chemin des Dames (Aisne):** 1915, 1917 (Nivelle), 1918. Limestone plateau, caves (creutes).
+    *   **Argonne Forest:** 1918 (Meuse-Argonne). Dense woods, rugged terrain.
+    *   **Alsace-Lorraine / Vosges:** Mountain warfare (Hartmannswillerkopf/Vieil Armand). Only French soil held 1914.
+*   **Cities:** Paris (Govt, taxis of Marne), Calais/Boulogne (BEF bases), Lille (Occupied), Reims (Cathedral destroyed), Amiens (Rail hub), Metz/Strasbourg (German fortresses).
+
+### Eastern Front (Vast Maneuver Warfare)
+*   **Regions:** East Prussia (Tannenberg, Masurian Lakes), Poland (Russian Poland / Congress Poland), Galicia (Austro-Hungarian NE: Lemberg/Lviv, Przemyśl Fortress), Carpathian Mountains, Courland, Lithuania, Belarus, Ukraine.
+*   **Characteristics:** Lower density, trenches often improvised, cavalry still relevant, huge encirclements, logistic nightmares (gauge change railways).
+*   **Key Fortresses:** Przemyśl (Siege 133 days, fell Mar 1915), Novogeorgievsk, Kovno, Grodno, Osowiec.
+
+### Italian Front (Mountain Warfare)
+*   **Isonzo/Soča River Valley (12 Battles):** Karst Plateau (rocky, waterless), Gorizia, Caporetto/Kobarid.
+*   **Dolomites / Ortles-Cevedale / Adamello-Presanella Alps:** High altitude (3000m+), glaciers, avalanches ("White Death"), tunnels/mines (Col di Lana, Lagazuoi, Marmolada). Via Ferrata origins.
+*   **Piave River / Monte Grappa / Asiago Plateau:** Defensive line 1917–18; Vittorio Veneto final battle.
+
+### Balkan Front
+*   **Serbia:** 1914 invasions (Cer, Kolubara), 1915 Great Retreat (Albania), Salonika Front.
+*   **Salonika / Macedonian Front (Allied "Gardeners of Salonika"):** Static 1916–18; Malaria; Dobro Pole breakthrough (Sep 1918).
+*   **Romania:** Transylvania (Carpathian passes), Wallachia/Dobruja (Danube Delta), Bucharest.
+*   **Gallipoli Peninsula (Dardanelles):** ANZAC Cove, Cape Helles, Suvla Bay. Steep cliffs, beaches, heat/flies/frost.
+
+### Middle Eastern Fronts
+*   **Caucasus Front:** Sarikamish (winter disaster), Erzurum, Trabzon, Van. Armenian Genocide deportation routes.
+*   **Mesopotamia (Iraq):** Basra, Kut-al-Amara (Siege), Baghdad (captured Mar 1917), Mosul (oil).
+*   **Sinai & Palestine:** Suez Canal defense, Romani, Gaza (3 battles), Beersheba (cavalry charge), Jerusalem, Megiddo (Armageddon), Damascus, Aleppo.
+*   **Arabia / Hejaz:** Arab Revolt (Mecca, Medina, Aqaba, Hejaz Railway sabotage).
+
+### African & Colonial Theaters
+*   **German East Africa (Tanzania/Rwanda/Burundi):** Lettow-Vorbeck guerrilla war (1914–18). Never surrendered. Carrier corps (African porters) – massive mortality.
+*   **South-West Africa (Namibia):** South African conquest (1915).
+*   **Togoland / Cameroon:** Quick Allied conquests (1914–16).
+*   **Pacific:** Tsingtao (Kiautschou, China) – Japanese/UK siege 1914. German Samoa, New Guinea, Nauru, Marianas, Carolines, Marshalls – seized by Japan/Australia/NZ.
+
+### Naval Theaters
+*   **North Sea:** Grand Fleet (Scapa Flow, Rosyth, Invergordon) vs High Seas Fleet (Wilhelmshaven, Kiel). Heligoland Bight, Dogger Bank, Jutland.
+*   **Atlantic / Western Approaches:** U-boat war; Convoy routes; Lusitania sinking (off Ireland).
+*   **Mediterranean:** Otranto Barrage; Submarine warfare (Pola/Cattaro bases); Gallipoli naval ops.
+*   **Baltic Sea:** Russian vs German fleets; Ice warfare; Intervention 1918–19.
+*   **Black Sea:** Russian vs Ottoman; Kornilov/Black Sea Fleet mutinies.
+*   **Colonial Cruiser Warfare:** *Emden* (Indian Ocean), *Karlsruhe*, *Dresden*, *Königsberg* (Rufiji River), Spee's Squadron (Pacific -> Atlantic -> Falklands).
+
+### Home Fronts & Diplomatic Centers
+*   **London:** War Cabinet, Ministry of Munitions, Dockyards, Zeppelin/Gotha raids.
+*   **Paris:** Govt (Bordeaux Sept 1914), Taxi de la Marne, Long-range artillery (Paris Gun 1918).
+*   **Berlin:** OHL (Great General Staff), Reichstag, Hunger Winter (Turnip Winter 1916–17), Spartacist Uprising 1919.
+*   **Vienna:** Hofburg, Food riots, Nationality conflicts.
+*   **Petrograd (St. Petersburg):** Tauride Palace (Duma/Soviet), Winter Palace, Smolny Institute (Bolshevik HQ), Putilov Works.
+*   **Washington D.C.:** Wilson White House, War Industries Board, Committee on Public Information (Creel).
+*   **Versailles / Paris (1919):** Palace of Versailles (Hall of Mirrors), Quai d'Orsay, Hotel Majestic (British delegation), Hotel Crillon (US).
+
+---
+
+## V. MAJOR EVENTS: DETAILED ANALYSIS
+
+### 1. The July Crisis (June 28 – Aug 4, 1914)
+*   **What:** Diplomatic cascade from assassination to general European war.
+*   **Why:** Rigid alliance system, mobilization timetables (railways), German fear of Russian growth (Schlieffen), Austrian desire to crush Serbia, Russian Pan-Slavism, French desire for Alsace-Lorraine, Belgian neutrality guarantee (UK).
+*   **Who:** Austro-Hungarian Foreign Minister Berchtold, German Kaiser/Bethmann/Moltke, Russian Tsar/Sazonov, French Poincaré/Viviani/Joffre, UK Grey/Asquith.
+*   **Immediate Consequences:** War declarations; Schlieffen Plan execution; Russian invasion East Prussia; "Spirit of 1914" war enthusiasm.
+*   **Long-term:** Destruction of 4 empires; 1919 settlement seeds WWII; end of 19th-century optimism.
+
+### 2. Battle of the Frontiers & Marne (Aug – Sep 1914)
+*   **What:** German right wing sweep through Belgium; French Plan XVII offensive into Lorraine/Ardennes fails catastrophically (Battle of Ardennes, Charleroi); BEF at Mons/Le Cateau retreats; Joffre forms new 6th Army (Paris); Galieni uses taxis; Kluck turns southeast (exposing flank); Joffre/Foch counterattack at Marne; Germans retreat to Aisne.
+*   **Why:** Schlieffen Plan logistical exhaustion, Moltke's weakening of right wing, French resilience, BEF tenacity, German command disconnect (OHL in Koblenz).
+*   **Immediate:** Trench warfare begins (Aisne); "Race to the Sea"; Western Front static for 3.5 years.
+*   **Long-term:** Germany fights two-front war; blockade effects accumulate; France survives but loses industrial northeast.
+
+### 3. Tannenberg & Masurian Lakes (Aug – Sep 1914)
+*   **What:** Russian 1st (Rennenkampf) & 2nd (Samsonov) Armies invade East Prussia. Poor comms (unciphered radio), personal hatred between Russian commanders. Hindenburg/Ludendorff/Hoffmann concentrate against Samsonov. Encirclement. Samsonov suicides. 92,000 captured. Masurian Lakes: Rennenkampf mauled, escapes.
+*   **Why:** Russian pressure on Germany to help France; German rail superiority (interior lines); Russian tactical incompetence.
+*   **Immediate:** East Prussia saved; Russia loses half its invading force; Hindenburg myth born.
+*   **Long-term:** Russia stays in war but morale shaken; Hindenburg/Ludendorff rise to supreme command.
+
+### 4. Gorlice-Tarnów Offensive (May – Sep 1915)
+*   **What:** German 11th Army (Mackensen) + A-H 4th Army break Russian lines in Galicia. Massive artillery concentration (short hurricane barrage). Russians retreat from Poland (Great Retreat). Warsaw falls Aug 5. Line stabilizes Riga–Dvinsk–Baranovichi–Pinsk–Dubno.
+*   **Why:** Relieve pressure on Austria-Hungary; knock Russia out (failed); shorten front.
+*   **Immediate:** Russia loses Poland, Lithuania, Courland, Galicia; 1.5M casualties/prisoners; "Shell Scandal" in Russia; Nicholas takes command.
+*   **Long-term:** Russian army rearmed/reorganized (Brusilov); political instability grows.
+
+### 5. Verdun (Feb – Dec 1916)
+*   **What:** Falkenhayn targets Verdun salient to "bleed France white" (Materialschlacht). Initial gains (Fort Douaumont taken Feb 25 w/o fight). Pétain rotates divisions (Noria), organizes Voie Sacrée. Fighting for Fort Vaux, Fleury, Thiaumont. Nivelle/Mangin counterattack recaptures Douaumont (Oct 24), Vaux (Nov 2). German offensive ends.
+*   **Why:** Falkenhayn believed French morale fragile; prestige target; attrition strategy.
+*   **Numbers:** ~300k dead each side; ~700k–970k total casualties; 10M shells fired (small sector).
+*   **Immediate:** French army holds but exhausted; Falkenhayn replaced by Hindenburg/Ludendorff.
+*   **Long-term:** Symbol of French determination; "Verdun" = sacrifice; Pétain's rise; German elite divisions worn down.
+
+### 6. Battle of the Somme (Jul – Nov 1916)
+*   **What:** Anglo-French offensive to relieve Verdun, break line. Week-long bombardment (1.5M shells - many duds/shrapnel). Jul 1: 19 mines, infantry walk into intact MG positions. 57,470 British casualties (19,240 dead). Attrition battle. First tanks (Sep 15). Advance ~10km. German retreat to Hindenburg Line (Mar 1917).
+*   **Why:** Chantilly Conference agreement (coordinated offensives); relieve Verdun; test Kitchener's New Armies.
+*   **Numbers:** ~420k British, ~200k French, ~450k–500k German casualties.
+*   **Immediate:** No breakthrough; German strategic defense (elastic defense) perfected; British Army learns hard lessons (creeping barrage, artillery prediction, combined arms).
+*   **Long-term:** "Lost Generation" myth; Haig's reputation; German manpower crisis accelerates (Hindenburg Programme).
+
+### 7. Brusilov Offensive (Jun – Sep 1916)
+*   **What:** Russian Southwestern Front (Brusilov) attacks Austro-Hungarians in Galicia. Innovation: Wide front assault (no obvious Schwerpunkt), brief accurate artillery (infiltration), shock troops, deception. Shatters A-H 4th/7th Armies. 400k prisoners. Germany must send divisions. Romania enters war. Offensive stalls (logistics, Evert's Northern Front inaction, German reinforcements).
+*   **Why:** Chantilly coordination; relieve Italians/Western Front.
+*   **Numbers:** ~1.5M Central casualties (mostly A-H); ~500k Russian.
+*   **Immediate:** Austria-Hungary fatally weakened (dependent on Germany); Romania crushed; Russian army exhausted/mutinous.
+*   **Long-term:** Last major Russian success; demonstrated modern tactics (prefigured 1918); contributed to 1917 collapse.
+
+### 8. Unrestricted Submarine Warfare (USW) & US Entry (Feb – Apr 1917)
+*   **What:** Germany bets on starving UK before US mobilizes. Sinks all shipping in war zone. US breaks relations (Feb 3), Zimmermann Telegram revealed (Mar 1), US declares war (Apr 6).
+*   **Why:** British blockade strangling Germany (Turnip Winter); OHL pressure; underestimation of US speed/scale.
+*   **Immediate:** Shipping losses catastrophic (Apr 1917: 860k tons). Convoy system adopted (May) – defeats U-boats.
+*   **Long-term:** US manpower/industry/finance decides war; Wilsonian idealism shapes peace; US emerges as global creditor/power.
+
+### 9. Nivelle Offensive & French Mutinies (Apr – Jun 1917)
+*   **What:** Nivelle promises breakthrough Chemin des Dames. Germans know plan (elastic defense, deep shelters). French tanks (Schneider) bog. Massive casualties (130k in days). Frontline units refuse orders (not revolution, "strike" – defend trenches but won't attack). Pétain replaces Nivelle. Restores discipline: 3,427 court-martials, 554 death sentences, 49-55 executed. Improves leave, food, wine.
+*   **Why:** Unrealistic promises; war weariness; distrust of officers; Russian revolution example.
+*   **Immediate:** French Army unable to attack 1917; British must carry burden (Passchendaele).
+*   **Long-term:** French Army cautious 1918 (wait for US/tanks); Pétain's legend; trauma shapes 1940 defeatism.
+
+### 10. Third Ypres / Passchendaele (Jul – Nov 1917)
+*   **What:** Haig's Flanders offensive to clear Belgian coast (U-boat bases) and break through. Preliminary: Messines mines (Jun 7). Main attack Jul 31. Rain + destroyed drainage = liquid mud. "Bite and hold" (Menin Rd, Polygon Wood, Broodseinde) works in dry spell. Rain returns. Poelcapelle, Passchendaele (Canadians). Village taken Nov 6. Advance 8km.
+*   **Why:** Haig's belief in breakthrough; naval pressure; French inability to attack.
+*   **Numbers:** ~275k British, ~220k German (disputed).
+*   **Immediate:** No strategic gain; U-boat bases remain; BEF exhausted.
+*   **Long-term:** Symbol of futility/mud; "Lions led by Donkeys" narrative; German elastic defense validated.
+
+### 11. Caporetto / 12th Isonzo (Oct – Nov 1917)
+*   **What:** German 14th Army (Below) + A-H reinforce Isonzo. *Stosstruppen* (Hutier/Bruchmüller) infiltrate. Italian 2nd Army (Capello/Cadorna) collapses. 300k prisoners, massive equipment loss. Retreat to Piave. Cadorna sacked. Diaz takes over. Allied divisions (UK/FR) sent.
+*   **Why:** Italian offensives exhausted A-H; Germany aids ally; new infiltration tactics.
+*   **Immediate:** Italy nearly knocked out; Rapallo Conference creates Supreme War Council (Allied coordination).
+*   **Long-term:** Italian army reformed (Diaz); "Mutilated Victory" myth fuels Fascism.
+
+### 12. Cambrai (Nov – Dec 1917)
+*   **What:** Byng (Third Army) attacks with 476 tanks (no registration barrage - prediction). Surprise! 8km advance (Hindenburg Line breached). Cavalry fails at Masnières bridge. German counterattack (Hutier tactics, ground attack aircraft) retakes most ground.
+*   **Why:** Test tank mass; bypass trench stalemate.
+*   **Immediate:** Tactical draw; proves tanks + predicted artillery = breakthrough possible.
+*   **Long-term:** Blueprint for 1918 (Hamel, Amiens); German elastic defense + counterattack = model for 1918 defense.
+
+### 13. Treaty of Brest-Litovsk (Mar 3, 1918)
+*   **What:** Separate peace Soviet Russia / Central Powers. Russia loses: Poland, Finland, Ukraine, Belarus, Baltics, Caucasus (Kars, Ardahan, Batum). 1/3 pop, 1/2 industry, 3/4 coal/iron, 90% sugar. Reparations.
+*   **Why:** Bolshevik promise "Peace"; German need for Eastern resources/grain; Trotsky's "No war, no peace" fails (German advance Operation Faustschlag).
+*   **Immediate:** 1M German troops tied down in East (occupation/grain); "Bread Peace" for Austria; Civil War intensifies in Russia.
+*   **Long-term:** Harshness discredits German moderates; model for Versailles?; USSR regains most territory 1919–21 (except Poland/Baltics/Finland).
+
+### 14. Kaiserschlacht / Spring Offensives (Mar – Jul 1918)
+*   **What:** 5 major attacks using Stormtroopers (Hutier), Bruchmüller artillery (Pulverfaß), air superiority. Goal: Split BEF/French, reach Channel/Paris before US masses arrive.
+    *   **Michael (Somme):** Tactical success (60km), strategic failure (no Amiens, no split). 250k German casualties (irreplaceable stormtroopers).
+    *   **Georgette (Lys):** Threatens Hazebrouck/Channel ports. "Backs to wall."
+    *   **Blücher-Yorck (Aisne):** Chemin des Dames taken; reaches Marne (Château-Thierry). US 2nd/3rd Divs stop at Belleau Wood.
+    *   **Gneisenau (Matz):** Limited.
+    *   **Marne-Reims (Friedensturm):** Final push. French defense in depth (Pétain) + counterattack (Mangin) at Soissons (Jul 18) stops it.
+*   **Why:** Last chance before US dominance; Ludendorff's tactical brilliance / strategic bankruptcy.
+*   **Numbers:** ~1M German casualties (killed/wounded/missing) – the flower of the army.
+*   **Immediate:** German morale collapses; Allies hold; Initiative passes to Foch.
+*   **Long-term:** German army cannot replace losses; "Black Day" (Amiens) follows.
+
+### 15. Hundred Days Offensive (Aug 8 – Nov 11, 1918)
+*   **What:** Series of coordinated Allied offensives (Foch's Grand Offensive).
+    *   **Amiens (Aug 8):** "Black Day" (Ludendorff). 400+ tanks, Australians/Canadians, surprise, combined arms. 12km advance. German morale breaks (surrender en masse).
+    *   **Albert/Bapaume (Aug 21+):** BEF pushes to Hindenburg Line.
+    *   **Saint-Mihiel (Sep 12):** US First Army (Pershing) eliminates salient.
+    *   **Hindenburg Line / Canal du Nord / St Quentin Canal (Sep 29):** Monash (Australians) + US 27th/30th Divs + IX Corps (UK) breach line. Riqueval Bridge.
+    *   **Meuse-Argonne (Sep 26 – Nov 11):** Largest US battle. Grinding advance through Argonne Forest. Breaks German lateral rail lines (Mézières-Sedan).
+    *   **Megiddo (Sep 19):** Allenby destroys Ottoman 7th/8th Armies (cavalry envelopment).
+    *   **Vittorio Veneto (Oct 24):** Italian/Austro-Hungarian collapse.
+*   **Why:** Allied material superiority (tanks, trucks, artillery, aircraft, US manpower); Unified command (Foch); German exhaustion.
+*   **Numbers:** ~700k Allied casualties; ~750k German casualties + 385k prisoners. 6,000+ guns captured.
+*   **Immediate:** German request for armistice (Oct 3); Collapse of Bulgaria, Ottomans, Austria-Hungary; German Revolution; Kaiser abdication.
+*   **Long-term:** Allied military victory (not negotiated); "Stab in the Back" myth; Treaty of Versailles terms possible.
+
+---
+
+## VI. MILITARY: EVOLUTION, BATTLES, TECHNOLOGY
+
+### Command Structures
+*   **Germany:** Kaiser (Supreme Warlord) -> OHL (Moltke -> Falkenhayn -> Hindenburg/Ludendorff) -> Army Groups -> Armies. *Auftragstaktik* (Mission-type tactics) - decentralized execution.
+*   **France:** President -> Minister of War -> GQG (Joffre -> Nivelle -> Pétain) -> Army Groups (GAN, GAC, GAE) -> Armies. Centralized artillery control.
+*   **UK:** King -> War Cabinet -> CIGS (Robertson -> Wilson) -> C-in-C BEF (French -> Haig) -> Armies. Civilian control stronger.
+*   **Russia:** Tsar -> Stavka (Grand Duke Nikolai -> Tsar -> Brusilov -> Kornilov -> Dukhonin) -> Fronts -> Armies. Political interference endemic.
+*   **Austria-Hungary:** Emperor -> AOK (Conrad -> Arz von Straußenburg) -> Army Groups -> Armies. Multi-ethnic loyalty issues; German liaison officers (OHL) effectively control.
+*   **USA:** President -> SecWar (Baker) -> Chief of Staff (March) -> Pershing (AEF) -> Armies (1st, 2nd, 3rd). Insisted on national command.
+*   **Unified Command:** Doullens Conference (Mar 26, 1918) -> Foch "Generalissimo" (Apr 14) -> Strategic coordination.
+
+### Major Battles Summary (See Timeline/Events for details)
+*   *Encounter/Maneuver:* Tannenberg, Marne 1914, Galicia 1914, Gorlice-Tarnów, Brusilov, Caporetto, Kaiserschlacht, Hundred Days.
+*   *Attrition/Positional:* Verdun, Somme, Champagne/Artois 1915, Isonzo (1-11), Passchendaele, Nivelle.
+*   *Naval:* Heligoland Bight, Coronel, Falklands, Dogger Bank, Jutland.
+*   *Colonial:* Tsingtao, German East Africa (Guerrilla), Gallipoli (Amphibious).
+
+### Strategy & Doctrine Evolution
+1.  **1914: Cult of the Offensive.** Plan XVII, Schlieffen. Open warfare, massed infantry, cavalry screens. Failure -> Trenches.
+2.  **1915: Search for Breakthrough.** Massed artillery (shell shortage -> Ministry of Munitions), gas, limited objectives ("Bite and Hold" - Plumer/Rawlinson). Failure -> Deeper defenses.
+3.  **1916: Industrial Attrition (Materialschlacht).** Verdun (artillery duel), Somme (mass army debut), Brusilov (infiltration). Result: Mutual exhaustion.
+4.  **1917: Tactical Innovation.**
+    *   *Artillery:* Predicted fire (sound ranging, flash spotting, meteorology), creeping barrage, instantaneous fuses (106), gas shells.
+    *   *Infantry:* Platoon organization (Lewis gun, rifle grenades, bombers, riflemen), Stormtroopers (Hutier - Germany), *Arditi* (Italy), *Chasseurs* (France).
+    *   *Tanks:* British Mk I-IV (slow, unreliable); French Schneider/St Chamond (poor); Renault FT (1918 - modern layout: turret, rear engine).
+    *   *Aircraft:* Recon -> Fighters (synchronization gear) -> Ground attack -> Strategic bombing (Gotha/Zeppelin, Handley Page, Caproni).
+    *   *Combined Arms:* Cambrai (Tanks + Pred. Arty + Infantry + Air); Hamel (Perfect microcosm).
+5.  **1918: Semi-Open Warfare.** Elastic Defense (Germany - lost), All-Arms Attack (Allies - won). Fire and Movement restored. Logistics (Trams, Lorries, Light Railways - Decauville/Pechot) critical.
+
+### Weapons & Equipment
+*   **Rifles:** Gewehr 98 (Ger), SMLE No.1 Mk III* (UK - 10rd, fast bolt), Lebel M1886/93 (Fr - 8mm Lebel, tube mag), Mosin-Nagant M1891 (Rus), Mannlicher M1895 (A-H), Carcano M1891 (Ita), Springfield M1903 / Enfield M1917 (US).
+*   **Machine Guns:** Maxim MG08 (Ger - water, sled), Vickers (UK - water, tripod), Hotchkiss M1914 (Fr - air cooled, strip feed), Schwarzlose M1907 (A-H - delayed blowback), Lewis Gun (UK/US - air cooled, pan mag, mobile), Chauchat CSRG M1915 (Fr/US - unreliable, long recoil), Browning M1917 (US - water, late), Browning M1918 BAR (US - walking fire concept).
+*   **Artillery:**
+    *   *Field:* French 75mm M1897 (rapid fire, recoil - king of 1914), German 7.7cm FK 96 n.A., British 18-pdr (workhorse), Russian 76mm, US 75mm (French design).
+    *   *Heavy/Howitzers:* German 15cm sFH 13, 21cm Morser 10, "Big Bertha" 42cm (Liège/Namur), "Paris Gun" 21cm (120km range 1918). British 60-pdr, 6-inch 26cwt how, 9.2-inch how, 12-inch railway. French 155mm GPF (Filloux - best heavy), 220mm/280mm mortars (Verdun). Skoda 30.5cm (A-H - Przemyśl).
+    *   *Mortars:* Stokes 3-inch (UK - modern battalion mortar), German Minenwerfer (7.58cm, 17cm, 25cm - terrifying close range).
+*   **Gas:** Chlorine (Ypres 1915), Phosgene (Dec 1915 - deadlier), Mustard Gas/Yperite (Jul 1917 - vesicant, persistent, area denial). Delivery: Cylinders -> Shells -> Livens Projectors (drums).
+*   **Tanks:** Mk I-V (Male: 2x6pdr+MG / Female: 4xMG), Whippet Mk A (fast), Mk V/V* (1918 - epicyclic steering, 1 commander). Renault FT (Fr - 3,000+ built, 2-man, 37mm or MG). Schneider CA1 / St Chamond (Fr - early, flawed). A7V (Ger - 20 built, captured tanks used more).
+*   **Aircraft:**
+    *   *Fighters:* Fokker Eindecker (interrupter gear), Albatros D.II/D.III/D.V, Pfalz D.III, Fokker Dr.I (Triplane), Fokker D.VII (Best 1918), SPAD VII/XIII (Fr/US - Hispano-Suiza, rugged), Sopwith Camel (UK - tricky, agile), S.E.5a (UK - stable gun platform), Nieuport 17/28 (Fr/US - sesquiplane).
+    *   *Bombers:* Gotha G.IV/V (Ger - strategic), Zeppelin Staaken R.VI (Giant), Handley Page O/400 (UK), Caproni Ca.3 (Ita), Voisin (Fr - night).
+    *   *Recon/Army Coop:* Rumpler C.IV, DFW C.V, R.E.8 ("Harry Tate"), Salmson 2A2, Bristol F.2B Fighter (2-seat fighter).
+*   **Submarines:** U-Boats (Types UB/UC coastal, UE ocean minelayers, U-139 class cruiser). Deck guns, torpedoes. Q-Ships (decoys).
+*   **Ships:** Dreadnoughts (all-big-gun), Battlecruisers (speed over armor), Pre-Dreadnoughts, Light Cruisers, Destroyers (torpedo boat destroyers), Minesweepers (trawlers), Monitors (shallow draft, heavy guns for coast bombard).
+*   **Communications:** Field Telephone (cable vulnerable), Wireless (Spark gap -> Continuous Wave/Valve - heavy), Carrier Pigeons, Dogs, Runners, Signal Lamps, Flares, Air-dropped messages. **Sound Ranging** (Bragg/Tucker), **Flash Spotting** (Bragg).
+*   **Logistics:** Standard Gauge Rail (strategic), Light Rail 60cm (Decauville/Pechot - tactical), Motor Lorries (Thornycroft, Berliet, Liberty Truck US), Horse/Mule (millions), Canals/Barges.
+
+### Troop Movements & Numbers (Mobilized Strength)
+*   **Total Mobilized:** ~65–70 Million.
+*   **Allied/Russia (Entente):** ~42–44 Million.
+    *   Russia: 12–15.8M (largest).
+    *   France: 8.4M (incl. colonies).
+    *   British Empire: 8.9M (UK 5.7M, India 1.5M, Canada 620k, Aus 416k, NZ 124k, SA 136k, others).
+    *   Italy: 5.6M.
+    *   USA: 4.7M (2M deployed Europe).
+    *   Japan: 800k.
+    *   Romania: 750k.
+    *   Serbia: 707k.
+    *   Belgium: 267k.
+    *   Greece: 230k.
+    *   Portugal: 100k.
+    *   Montenegro: 50k.
+*   **Central Powers:** ~23–25 Million.
+    *   Germany: 11–13.2M.
+    *   Austria-Hungary: 7.8M.
+    *   Ottoman Empire: 2.85M.
+    *   Bulgaria: 1.2M.
+
+### Casualties (Estimates vary wildly by source; these are consensus ranges)
+*   **Military Dead:** ~9–10 Million.
+    *   Germany: ~2.0–2.1M dead (4.2M total casualties).
+    *   Russia: ~1.7–2.3M dead (4.9M total cas + 2.5M POW).
+    *   France: ~1.3–1.4M dead (4.2M total cas - highest % of pop).
+    *   Austria-Hungary: ~1.1–1.2M dead (3.6M total cas + 2.2M POW).
+    *   British Empire: ~900k–1.0M dead (2.3M total cas).
+    *   Italy: ~650k dead (1.5M total cas).
+    *   Ottoman Empire: ~770k dead (975k total cas).
+    *   USA: ~116k dead (320k total cas - half disease/flu).
+    *   Others: Romania, Serbia, Bulgaria, Belgium, etc.
+*   **Wounded:** ~21 Million.
+*   **POW/MIA:** ~7–8 Million.
+*   **Civilian Deaths (War-related):** ~6–10 Million (Famine, disease, genocide, bombardment).
+    *   Armenian Genocide: 1.0–1.5M.
+    *   Spanish Flu (1918–19): ~50M global (war accelerated spread).
+    *   Blockade/Starvation: Germany ~400k–750k excess civilian deaths; Ottoman Lebanon/Mount Lebanon famine ~200k.
+
+---
+
+## VII. POLITICS: GOVERNMENTS, ALLIANCES, TREATIES
+
+### Pre-War Alliances
+*   **Dual Alliance (1879):** Germany - Austria-Hungary (Defensive vs Russia).
+*   **Triple Alliance (1882):** + Italy (Defensive vs France; secret clauses re Balkans). *Italy neutral 1914.*
+*   **Reinsurance Treaty (1887):** Germany - Russia (Lapsed 1890 - Caprivi error).
+*   **Franco-Russian Alliance (1894):** Military convention (Mobilization = War). Ended French isolation.
+*   **Entente Cordiale (1904):** UK - France (Colonial settlements: Egypt/Morocco).
+*   **Anglo-Russian Convention (1907):** UK - Russia (Persia, Afghanistan, Tibet).
+*   **Triple Entente:** Not a formal alliance, but diplomatic alignment.
+
+### Wartime Coalitions & Expansions
+*   **Central Powers:** Germany, A-H (Aug 1914), Ottoman (Oct 1914), Bulgaria (Oct 1915).
+*   **Allied/Entente Powers:** France, UK, Russia (Aug 1914), Japan (Aug 1914), Serbia, Belgium, Montenegro.
+*   **Later Entente:** Italy (May 1915 - Treaty of London), Portugal (Mar 1916), Romania (Aug 1916 - Treaty of Bucharest), USA (Apr 1917 - Associated Power), Greece (Jun 1917), China (Aug 1917), Brazil (Oct 1917), Liberia, Siam, Cuba, Panama, Guatemala, Nicaragua, Honduras, Haiti. **Total ~27 states.**
+
+### Secret Treaties (War Aims - Revealed by Bolsheviks 1917)
+*   **Treaty of London (1915 - Italy):** Trentino, South Tyrol, Trieste, Istria, Dalmatia (except Fiume), Valona, Antalya, colonies. *Violated self-determination.*
+*   **Sykes-Picot Agreement (1916 - UK/France/Russia):** Partition Ottoman Middle East. Zones A (French influence), B (British), International (Palestine). *Contradicted McMahon-Hussein letters (Arab independence).*
+*   **Treaty of Bucharest (1916 - Romania):** Transylvania, Bukovina, Banat, Dobruja.
+*   **Saint-Jean-de-Maurienne (1917 - Italy/France/UK):** Italian sphere in SW Anatolia.
+*   **Lansing-Ishii (1917 - US/Japan):** Recognized Japanese "special interests" in China.
+*   **Impact:** Undermined Wilson's 14 Points; poisoned post-war negotiations; fueled colonial nationalism.
+
+### Domestic Politics & War Aims
+*   **Germany:** *Burgfrieden* (Aug 1914). SPD supports war credits. **Septemberprogramm (1914):** Annexationist (Belgium vassal, French coast, Poland, Africa). **Hindenburg Programme (1916):** Total war economy (Auxiliary Service Law - forced labor). **Reichstag Peace Resolution (Jul 1917):** "No annexations" (Erzberger) - ignored by OHL. **Parliamentarization (Oct 1918):** Max von Baden, SPD in govt, armistice request.
+*   **France:** *Union Sacrée* (Aug 1914). Clemenceau (PM Nov 1917) - "La Guerre jusqu'au bout" (War to the finish). War aims: Alsace-Lorraine, Saar, Rhine security, reparations.
+*   **UK:** Coalition (Asquith 1915, Lloyd George 1916). War aims: Destroy German naval threat, Belgian independence, Middle East empire, League of Nations. Conscription (1916 - Military Service Acts).
+*   **Russia:** Progressive Bloc (Duma) demands responsible ministry. Tsar refuses. Feb Rev -> Provisional Govt (War to victory + Democracy). Oct Rev -> Bolsheviks (Peace without annexations).
+*   **Austria-Hungary:** Parliament suspended (1914). Recalled 1917. Nationalist declarations (Czech, South Slav, Polish, Ukrainian) Oct 1918. Collapse.
+*   **USA:** Neutrality -> Preparedness (1916) -> War (1917). **Selective Service Act (1917)** - Draft. **Espionage Act (1917) / Sedition Act (1918)** - Suppress dissent (Debs imprisoned). **War Industries Board (Bernard Baruch)**. **Committee on Public Information (George Creel)** - Propaganda. **Fourteen Points (Jan 1918).**
+
+### Peace Process
+*   **Brest-Litovsk (Mar 1918):** Russia out.
+*   **Bulgaria Armistice (Sep 29, 1918).**
+*   **Ottoman Armistice of Mudros (Oct 30, 1918).**
+*   **Austro-Hungarian Armistice of Villa Giusti (Nov 3, 1918).**
+*   **German Armistice of Compiègne (Nov 11, 1918).** Based on 14 Points (pre-armistice agreement Nov 5 - Lansing Note).
+*   **Paris Peace Conference (Jan 1919 – Jan 1920).** "Big Four" (Wilson, Lloyd George, Clemenceau, Orlando -> "Big Three" after Orlando leaves).
+*   **Treaty of Versailles (Jun 28, 1919):** War Guilt (Art 231), Reparations (132B Gold Marks 1921), Territorial losses (Alsace-Lorraine, Eupen-Malmedy, N. Schleswig, Posen/West Prussia/Polish Corridor, Danzig Free City, Saar (15yrs), Colonies (Mandates), Rhineland demilitarized/occupied. Army 100k, no air force, no subs, limited navy. League of Nations Covenant.
+*   **Other Treaties:** Saint-Germain (Austria), Trianon (Hungary - lost 2/3 land, 3M Hungarians outside), Neuilly (Bulgaria), Sèvres (Ottoman - failed), Lausanne (Turkey 1923 - success).
+
+---
+
+## VIII. SOCIETY: DAILY LIFE, CULTURE, TECHNOLOGY, ECONOMY, RELIGION
+
+### Daily Life: The Front
+*   **Trench Routine:** Stand-to (dawn/dusk), inspection, work parties (repair, wiring, digging), sentry duty (2hrs on/off), meals (bully beef, hard tack, Maconochie stew, jam, tea/rum/coffee/wine/pinard), lice ("chats"), rats, trench foot, boredom, fear.
+*   **Rotation:** Front line (4-6 days) -> Support -> Reserve -> Rest (billets, estaminets, baths, delousing, training, entertainment).
+*   **Medical:** Stretcher bearers -> RAP (Regimental Aid Post) -> ADS (Advanced Dressing Station) -> MDS (Main Dressing Station) -> CCS (Casualty Clearing Station - surgery) -> Ambulance Train -> Base Hospital -> Blighty (UK) / Interior (Fr/Ger). **Triage.** Blood transfusion (citrate storage 1917). Thomas Splint (femur fractures mortality 80% -> 20%). Plastic surgery (Gillies - facial reconstruction). Shell Shock / Neurasthenia / PTSD (initially "commotional" vs "emotional"; 80k+ UK cases).
+*   **Discipline:** Field Punishment No.1 ("crucifixion" - tied to wheel/gun carriage). Courts Martial: Death for desertion, cowardice, murder, mutiny. UK: 306 executed (pardoned 2006). Germany: ~150. France: ~600-700 (mutinies). Italy: ~750 (decimation used). USA: 0 executed (24 sentenced, commuted).
+*   **Prisoners of War:** Hague Convention 1907 generally observed (officers not forced to work). Reprisals (German forced labor in retaliation for French/British using POW labor near front). High mortality in Russian camps (typhus), Ottoman camps (Armenians, Kut garrison - 70% died).
+
+### Daily Life: The Home Front
+*   **Women:** Mass entry into workforce (Munitions - "Canaries" / TNT yellow skin; Transport; Agriculture - Women's Land Army; Clerical; Nursing - VADs, QAIMNS, professional nurses). Suffrage accelerated (UK 1918 >30, 1928 = men; Germany 1918; USA 1920; France 1944).
+*   **Food & Rationing:**
+    *   UK: Voluntary -> Compulsory (1918) Bread, meat, sugar, butter. "National Loaf" (wholemeal). Queues. No starvation.
+    *   Germany: "Turnip Winter" (1916-17) - Potato crop fail, blockade. Turnips (cattle feed) staple. Ration cards (Brokkarte). Severe malnutrition. 400k+ excess deaths.
+    *   France: Rationing (bread, sugar, coal). Black market. Wine issued to soldiers (pinard).
+    *   Austria-Hungary: Catastrophic collapse 1918. Starvation riots.
+*   **Economy/Finance:**
+    *   **Gold Standard Suspended.** Inflation everywhere.
+    *   **War Loans / Bonds:** Massive propaganda campaigns. UK "Tanks" tour. Germany 9 loans (98B Marks). France relies on UK/US loans. US becomes creditor (NY replaces London).
+    *   **State Control:** Hindenburg Programme (Ger), Ministry of Munitions (UK), War Industries Board (US). Cartelization. Profiteering scandals.
+*   **Propaganda & Censorship:** Total control. Atrocity propaganda (Belgian babies, Corpse Factory - Kadaververwertungsanstalt - fake). Demonization of enemy. Censorship of mail (field post cards - "I am well"), press, telegrams. **Creel Committee (US)** - 75k "Four Minute Men", posters, films.
+*   **Culture & Arts:**
+    *   **Literature:** War Poets (Owen, Sassoon, Brooke, Rosenberg, McCrae - *In Flanders Fields*; Remarque *All Quiet*; Barbusse *Under Fire*; Jünger *Storm of Steel*; Hemingway *Farewell to Arms*). Shift from patriotic to disillusioned.
+    *   **Visual Art:** Official War Artists (Nash, Nevinson, Orpen, Sargent *Gassed*). Cubism/Futurism/Vorticism influenced by machinery. **Dada** (Zurich Cabaret Voltaire 1916 - anti-art).
+    *   **Music:** "Over There", "Pack Up Your Troubles", "Roses of Picardy", "It's a Long Way to Tipperary". Classical: Ravel *Le Tombeau de Couperin*, Holst *The Planets*, Vaughan Williams *Pastoral Symphony*, Berg *Wozzeck* (post-war).
+    *   **Film:** *The Battle of the Somme* (1916 - documentary, 20M UK viewers), *Shoulder Arms* (Chaplin 1918), *The Big Parade* (1925), *Wings* (1927 - Oscar).
+*   **Religion:** Chaplains (Padres) embedded. High church attendance initially. Crisis of faith (theodicy). Spiritualism/Séances surge (contact dead). **Christmas Truce 1914** (unique). **Fatima Apparitions (1917)** linked to Russia/peace.
+*   **Minorities & Colonial Subjects:**
+    *   **Colonial Troops:** French: Senegalese (Tirailleurs), Algerians (Turcos/Zouaves), Moroccans, Tunisians, Indochinese (labor/troops) - ~600k. British: Indian Army (1.3M served - Western Front, Mesopotamia, Palestine, East Africa), Caribbean, Africans (Carrier Corps - 1M+ porters, high death rate), Canadians, ANZACs, South Africans. German: Askari (Schutztruppe - Lettow-Vorbeck). Racial hierarchies enforced (segregation, pay, leave, no white female nurses for black troops).
+    *   **Jews:** High enlistment rates (patriotism). Antisemitic "Judenzählung" (Jew Census) Germany 1916 (backfired - showed high frontline service). Balfour Declaration 1917. Pogroms in Russia/Poland/Ukraine (Civil War).
+    *   **Armenians/Assyrians/Greeks:** Ottoman Genocide (1915-1917). Deportation, massacre, death marches. ~1.5M Armenians, 250k Assyrians, 350k+ Greeks.
+    *   **Conscientious Objectors:** UK ~16k (Absolutists -> Prison; Alternativists -> NCC/FAU). US ~4k. Germany few.
+
+### Technology & Innovation (Civilian Spin-offs)
+*   **Medical:** Blood banks, Plastic surgery, Psychiatry (Shell Shock), Prosthetics, X-ray mobile units (Curie), Tetanus antitoxin, Gas masks (evolving: pads -> box respirators -> SBR).
+*   **Communications:** Wireless (valve/triode -> radio broadcast), Field telephone networks, Sound ranging/Flash spotting (seismology/oil exploration).
+*   **Materials:** Synthetic Nitrates (Haber-Bosch - fertilizer/explosives - feeds world today), Synthetic Rubber (Buna), Synthetic Fuel (Bergius), Stainless Steel (Brearley 1913), Pyrex, Cellucotton (Kotex/Kleenex), Wristwatches (trench use), Zipper (Gideon Sundback 1917), Daylight Saving Time (Germany 1916), Tea bags (accidental), Vegemite/Marmite (yeast extract).
+*   **Aviation:** Airmail, Airlines (KLM 1919, Qantas 1920), Instrument flying, Parachutes (late adoption).
+*   **Industrial:** Scientific Management (Taylorism/Fordism applied to munitions), Assembly line (Liberty Trucks, Liberty Engines), Women in industry.
+
+---
+
+## IX. NUMBERS: KEY STATISTICS
+
+| Category | Figure | Notes |
+| :--- | :--- | :--- |
+| **Total Mobilized** | ~65–70 Million | Entente ~42M, Central ~23M |
+| **Military Dead** | ~9.7 Million | Range 8.5–10M |
+| **Military Wounded** | ~21 Million | Many permanently disabled |
+| **POW / Missing** | ~7–8 Million | |
+| **Civilian Deaths (War)** | ~6–10 Million | Famine, disease, genocide, flu |
+| **Spanish Flu Deaths** | ~50 Million (Global) | 1918–19; war accelerated |
+| **Total Cost (Direct)** | ~$208 Billion (1913 $) | ~$4.7 Trillion (2023 $) |
+| **Total Cost (Indirect)** | ~$151 Billion (1913 $) | Property, lost production |
+| **Artillery Shells Fired** | ~1.5 Billion (Est.) | Verdun ~10M, Somme ~1.5M (1st week) |
+| **Machine Guns (Peak)** | >500,000 | |
+| **Aircraft Produced** | ~200,000+ | 1914: ~2,500 total; 1918: ~40k/yr |
+| **Tanks Produced** | ~6,500 (Allied) / 20 (Ger A7V) | Ger used ~75 captured |
+| **Submarines (U-Boats)** | 375 Commissioned (Ger) | 178 lost; 12.5M tons shipping sunk |
+| **Railway Guns** | Dozens (Paris Gun, Big Bertha) | |
+| **Horses/Mules** | ~8 Million died | Logistics backbone |
+| **Front Line Length (West)** | ~700 km (440 mi) | North Sea to Switzerland |
+| **Trench Depth** | 2–3 m (6–10 ft) | + Parapet/Parados |
+| **No Man's Land Width** | 50–500 m (typical) | Up to km in quiet sectors |
+| **US Troops in France (Nov 18)** | ~2 Million | ~10k/day arriving summer 1918 |
+| **Reparations (Final 1921)** | 132 Billion Gold Marks | ~$33 Billion; Young Plan 1929; Ended 2010 |
+| **German War Debt (1918)** | ~150 Billion Marks | Hyperinflation 1923 wiped value |
+
+---
+
+## X. INTERESTING VISUAL DETAILS (For Documentary Imagery Generation)
+
+### Uniforms & Gear
+*   **1914:** Colorful anachronisms. **French:** Red trousers (pantalon rouge), blue greatcoat, kepi (no cover) - high visibility. **German:** Pickelhaube (leather spiked helmet - cloth cover *Überzug* issued but often not worn early), Feldgrau tunic (field grey), jackboots. **British:** 1902 Service Dress (khaki serge), peaked cap, puttees, 1908 webbing. **Russian:** Gymnasterka (white/grey cotton blouse), papakha (fur cap), greatcoat. **Austro-Hungarian:** Pike grey (hechtgrau), 1908 cap, varied by regiment (Hungarian vs Austrian). **Ottoman:** Khaki, kabalak (cloth wrapped headgear).
+*   **1915–16 Transition:** Steel Helmets arrive. **French Adrian M1915** (crest, badge), **British Brodie M1915** ("Panic Hat", soup bowl), **German Stahlhelm M1916** (iconic coal scuttle, three pads). Gas Masks: **PH Hood** (flannel, goggles), **Small Box Respirator (SBR)** (hose, canister, haversack - 1916), **German GM15/17** (snout canister).
+*   **1917–18 Specialized:** **Stormtroopers (Stosstruppen):** Bergmütze (mountain cap), reinforced elbows/knees, stick grenades (Stielhandgranate) on belt, MP18 SMG (late 1918), karabiner 98az. **Tank Crews:** Leather helmets (face mask/splatter mask), leather jackets. **Pilots:** Leather flying helmets, goggles (Mk VIII), fur-lined boots (Sidcot), life jackets (early), silk scarves (prevent chafing). **Arditi (Italy):** Black shirts, fezzes, daggers. **French Chasseurs Alpins:** Large beret (tarte).
+*   **Equipment:** 1908 Webbing (UK), Y-straps (Ger), Greatcoat (capote) rolled on pack, Entrenching tool (short handled), Mess tin, Water bottle, Gas mask case (worn on chest - "alert" position), Paybook (Soldbuch/Livret), Identity discs (Erkennungsmarke - split oval Ger; red/green fiber UK; aluminum Fr).
+
+### Landscapes & Battlefield Archaeology
+*   **Western Front:** "Zone Rouge" (Red Zone) - still forbidden today (Verdun, Somme). **Crater fields** (Lochnagar, Hawthorn Ridge - massive mines). **Trench lines** visible in LiDAR/air photos (zigzag traverses, fire bays, communication trenches). **Concrete:** Pillboxes (MGs), Bunkers (command, aid posts), "Elephant Shelters" (German deep dugouts - 10-12m down, electric light, ventilation). **Cemeteries:** CWGC (Portland stone, Cross of Sacrifice, Stone of Remembrance, uniform headstones), German (Volksbund - grey crosses, mass graves *Kameradengräber*, oak trees), French (Concrete crosses, Muslim/Jewish markers), Italian (Sacrari - ossuaries like Redipuglia).
+*   **Eastern Front:** Vast forests (Pripet Marshes), wooden fortifications, temporary earthworks, fewer concrete ruins.
+*   **Italian Front:** **Via Ferratas** (iron paths), **Ice tunnels** (Marmolada "Ice City"), **Rock galleries** (drilled by hand/compressed air), **Avalanche paths** (White Friday 1916 - 10k dead).
+*   **Gallipoli:** Steep erosion gullies, terraced trenches, beaches (ANZAC Cove), **Sphinx** rock formation. Bone fragments still surface.
+*   **Middle East:** Desert wadis, Hejaz Railway bridges (blown up), Crusader castles (Krak des Chevaliers used), Jerusalem walls.
+*   **Naval:** Scapa Flow (scuttled fleet 1919 - 7 wrecks remain dive sites), Jutland wrecks (deep), U-boat pens (Bruges/Zeebrugge - concrete).
+
+### Architecture & Infrastructure
+*   **Forts:** **Verdun:** Douaumont (largest, 2 levels, 155mm turret, 75mm turret, Bourges casemates), Vaux (smaller, fierce fight), Souville. **Belgium:** Liège (12 forts - Brialmont, triangular, concrete, 21cm howitzers), Namur, Antwerp (ring forts). **Przemyśl:** Ring of 40+ forts (obsolete 1914).
+*   **Cities Destroyed:** **Ypres** (Cloth Hall, Cathedral - flattened, rebuilt 1920s-30s), **Reims** (Cathedral - "Martyrdom of the Cathedral", smiling angel beheaded), **Arras** (Belfry, squares), **Louvain** (University Library burned 1914 - 300k books), **Rheims**, **Kalisz** (first Polish city burned).
+*   **Rear Areas:** **Étaples** (Massive base camp - "Bull Ring", hospitals, reinforcement depot), **Poperinge** (Talbot House "Toc H" - everyman's club), **Railway Yards** (Standard gauge chaos -> Light rail order), **Casualty Clearing Stations** (Canvas huts/Nissen huts, operating tables, rows of stretchers).
+*   **Memorials:** **Thiepval** (Lutyens - 72k missing Somme), **Menin Gate** (Lutyens - 54k missing Ypres - Last Post daily), **Vimy Ridge** (Allward - Canada's birth), **Douaumont Ossuary** (130k unknown bones), **Notre Dame de Lorette** (French largest), **Redipuglia** (Italian 100k), **Tannenberg** (Hindenburg - demolished 1945), **Isonzo** (Caporetto/Kobarid museum), **Gallipoli** (Lone Pine, Chunuk Bair, Turkish Çanakkale Martyrs' Memorial).
+
+### Weapons & Vehicles Close-ups
+*   **Artillery:** French 75 (hydro-pneumatic recoil - "matériel 75"), German 15cm sFH 13 (heavy howitzer), British 18-pdr (wire cutting), Railway Guns (Paris Gun - 34m barrel, 120km range, 3 shells rotated for wear).
+*   **Tanks:** Mk IV (Male/Female - unditching beam, sponsons), Mk V (Ricardo engine, epicyclic steering - 1 driver), Whippet (twin engines, fast), Renault FT (turret, rear engine - modern layout), A7V (boxy, 18 crew, 20 built).
+*   **Aircraft:** Fokker Dr.I (Triplane - Red Baron), SPAD XIII (V-strut, Hispano-Suiza), Sopwith Camel (Hump, twin Vickers), Albatros D.V (plywood fuselage), Handley Page O/400 (4-engine biplane bomber).
+*   **Small Arms Details:** SMLE bolt action (cock-on-closing), Luger P08 (toggle lock), Webley Mk VI (top break), Mauser C96 "Broomhandle" (shoulder stock/holster), Chauchat (half-moon magazine, mud jams), Lewis (cooling shroud, drum mag), Stick Grenade (Stielhandgranate - "Potato Masher"), Mills Bomb No.5 (pineapple, 4-sec fuse).
+*   **Gas:** Canisters (Chlorine - 1915), Projector (Livens - drum projector), Shells (Yellow Cross - Mustard), Horses/Dogs gas masks.
+
+### Symbols & Heraldry
+*   **National Insignia:** Roundels (UK: Red/White/Blue; Fr: Blue/White/Red; US: Star/Red/Blue; Ger: Black Cross *Eisernes Kreuz* / *Balkenkreuz* 1918; Aus: Red/White/Red; Ita: Green/White/Red; Ott: Red crescent/star).
+*   **Medals:** **Pour le Mérite** (Blue Max - Ger officers), **Iron Cross** 1st/2nd Class (Ger), **Victoria Cross** (UK - bronze cannon metal), **Medal of Honor** (US), **Médaille Militaire / Légion d'Honneur** (Fr), **Gold Bravery Medal** (A-H), **Order of St George** (Rus).
+*   **Propaganda Posters:** "Your Country Needs You" (Kitchener), "I Want You" (Uncle Sam - Flagg), "Did you kill a Hun today?", "L'Emprunt de la Libération", "Zeichnet Kriegsanleihe", "Beat Back the Hun with Liberty Bonds". **War Loan Tanks** touring cities.
+*   **Trench Art:** Shell cases engraved (vases, ashtrays), rings from aluminum (wreckage), beadwork snakes (Ottoman POWs), wood carvings (propellers).
+
+---
+
+## XI. CONSEQUENCES & LEGACY
+
+### Immediate Consequences (1918–1923)
+*   **Political Map Redrawn:** German, Russian, Austro-Hungarian, Ottoman Empires dissolved.
+    *   **New States:** Poland, Czechoslovakia, Yugoslavia (Kingdom of Serbs, Croats, Slovenes), Hungary (independent), Austria (rump), Finland, Estonia, Latvia, Lithuania, Soviet Union (RSFSR -> USSR 1922), Turkey (Republic 1923).
+    *   **Expanded:** Romania (Greater Romania), Greece (briefly Smyrna), Italy (South Tyrol, Trieste, Istria - not Dalmatia/Fiume), France (Alsace-Lorraine), UK/Belgium/Japan (Mandates).
+*   **Revolutions:** Russia (Bolshevik), Germany (Spartacist/Bavarian Soviet - crushed), Hungary (Kun - crushed), Ireland (War of Independence), Egypt (1919 Revolution).
+*   **Humanitarian Crisis:** Refugees (millions), Spanish Flu pandemic (50M dead), Famine (Russia 1921-22, Central Europe), Orphans, Disabled veterans (millions - "Gueules Cassées" / "War Cripples").
+*   **Economic Ruin:** European debt to US; Gold standard broken; Hyperinflation Germany (1923), Austria, Hungary, Russia, Poland; UK loses financial hegemony; US isolationism (Senate rejects League/Treaty).
+*   **Occupation:** Rhineland (Allied - 15yrs max), Saar (League/Fr coal), Upper Silesia (Plebiscite/Partition), Constantinople (Allied).
+
+### Long-Term Historical Impact
+*   **World War II Direct Causality:** Versailles "Diktat" resentment (Hitler); Unresolved territorial disputes (Polish Corridor, Sudetenland, Danzig, Memel); Weakness of League (no US, no USSR initially, no Germany); Appeasement psychology; Soviet determination to spread revolution / buffer zone.
+*   **Rise of Totalitarianism:** Fascism (Italy - "Mutilated Victory"), Nazism (Germany - Stab in Back myth, Versailles), Stalinism (USSR - Socialism in One Country, industrialization at all costs).
+*   **Decolonization Seeds:** Mandate System (League Art 22) - "Sacred Trust" but colonialism continued. Indian/British colonies: Broken promises (Montagu Declaration 1917 -> Govt of India Act 1919 - insufficient). Arab Revolt betrayal (Sykes-Picot/Balfour) -> Modern Middle East borders/conflicts (Israel/Palestine, Iraq, Syria, Lebanon, Jordan, Saudi Arabia).
+*   **Women's Suffrage & Social Change:** Accelerated vote (UK, Ger, US, Can, Aut, Cze, Pol, Hun, Ned, Swe). Changed gender roles (temporary/permanent). Welfare state origins (pensions, healthcare for veterans).
+*   **International Law & Organizations:** **League of Nations** (first attempt collective security - failed but model for UN). **ILO** (International Labour Organization - survives). **War Crimes Concept** (Leipzig Trials 1921 - failed; Kellogg-Briand Pact 1928 - outlaw war; Geneva Protocol 1925 - Gas ban).
+*   **Military Doctrine:** **Blitzkrieg** roots (Hutier infiltration + tanks + radio + air - Fuller, Liddell Hart, Guderian, Tukhachevsky). **Combined Arms** standard. **Strategic Bombing** theory (Douhet, Mitchell, Trenchard). **Submarine Warfare** unrestricted precedent (WWII U-boats).
+*   **Medical/Psychiatric:** PTSD recognition (Shell Shock -> War Neurosis -> Combat Stress Reaction -> PTSD 1980). Blood transfusion, Plastic Surgery, Prosthetics, Psychiatry, Epidemiology (Flu).
+*   **Cultural Trauma:** "Lost Generation" (Hemingway, Fitzgerald). Modernism acceleration (fragmentation, disillusionment - Eliot *Waste Land*, Joyce *Ulysses*, Kafka, Proust). Anti-war literature/film canon. **Remembrance Culture:** Poppy (McCrae/Moina Michael), Two Minutes Silence (1919), Cenotaphs, Unknown Warrior tombs (Westminster, Arc de Triomphe, Arlington), Anzac Day (Apr 25), Veterans Day (Nov 11), Volkstrauertag (Ger).
+
+### Legacy Statistics
+*   **Veterans:** Last combat veteran: **Florence Green** (UK, WRAF, d. 2012, age 110). Last trench veteran: **Harry Patch** (UK, d. 2009, age 111). Last Central Powers vet: **Franz Künstler** (A-H, d. 2008, age 107). Last US vet: **Frank Buckles** (d. 2011, age 110).
+*   **Unexploded Ordnance (UXO):** **"Iron Harvest"** - Belgium/France farmers plow up ~150-300 tons/year. DOVO/SED clearers killed regularly. Soil contamination (arsenic, lead, mustard gas residues).
+*   **Zone Rouge (France):** ~1,200 km² still prohibited (arsenic 17% soil, lead, shells, bodies). "Place à Gaz" (Cléry-sur-Somme) - chemical burning site.
+*   **Debt:** Germany finished paying Versailles reparations (interest on bonds) **Oct 3, 2010**. UK finished paying US WWI debt **Dec 31, 2006**. France paid US earlier.
+
+---
+
+## XII. RESEARCH GAPS & CONTROVERSIES (For Documentary Nuance)
+
+1.  **War Guilt / Origins:** Fischer Thesis (1961) - Germany *willed* war for expansion vs. "Sleepwalkers" (Clark 2012) - shared systemic failure/accident. July Crisis decision-making.
+2.  **Generalship:** "Lions led by Donkeys" (Alan Clark) vs. "Learning Curve" (Sheffield, Bourne) - BEF 1916-18 transformation. Haig: Butcher vs. Manager of Victory.
+3.  **US Impact:** Decisive material/manpower vs. "Too little, too late" (German view 1918). Pershing's "Open Warfare" doctrine cost.
+4.  **Eastern Front Neglect:** Western-centric historiography. Scale of Russian/A-H collapse, Brusilov's innovation, Civil War overlap.
+5.  **Colonial/Global Dimension:** Non-white combatants/laborers (4M+). Racial hierarchies. Impact on anti-colonial nationalism (Ho Chi Minh at Versailles, Pan-African Congress).
+6.  **Armenian Genocide:** Terminology politics (Turkey denies "genocide"). German complicity/witness. 1.5M dead.
+7.  **Spanish Flu Origin:** Kansas (Camp Funston) vs. Étaples (UK) vs. China (labor corps). War censorship hid spread (Spain neutral -> "Spanish Flu").
+8.  **Treaty of Versailles:** Carthaginian Peace (Keynes) vs. Too Lenient (Foch) vs. Enforcement Failure (Sally Marks). Reparations economics.
+9.  **Technology Determinism:** Did tanks/planes win? Or artillery/logistics/infantry tactics? (Artillery caused ~60-70% casualties).
+10. **Memory & Commemoration:** National myths (Vimy - Canada birth; Gallipoli - ANZAC spirit; Verdun - French sacrifice; Tannenberg - German myth; Caporetto - Italian betrayal; Somme - British tragedy). "Never Again" vs. "Dulce et Decorum Est".
+
+---
+
+## XIII. SUGGESTED DOCUMENTARY STRUCTURE (10-30 Min Segments)
+
+*   **Ep 1: The Powder Keg (1871-1914)** - Alliances, Crises, July Crisis, Mobilization.
+*   **Ep 2: The Guns of August (1914)** - Schlieffen, Marne, Tannenberg, Race to Sea, Ypres, Christmas Truce.
+*   **Ep 3: Stalemate & Slaughter (1915)** - Trenches, Gas (Ypres), Gallipoli, Isonzo, Gorlice-Tarnów, Armenia, Home Fronts.
+*   **Ep 4: The Year of Verdun & Somme (1916)** - Attrition, Technology, Brusilov, Jutland, Romania.
+*   **Ep 5: Breaking Points (1917)** - USW/US Entry, Nivelle/Mutinies, Passchendaele, Caporetto, Cambrai, Russian Revolutions, Brest-Litovsk.
+*   **Ep 6: The Last Gamble (1918 Spring)** - Kaiserschlacht, Stormtroopers, US Arrival, Belleau Wood, "Black Day" Amiens.
+*   **Ep 7: The Hundred Days (1918 Autumn)** - Combined Arms, Hindenburg Line, Meuse-Argonne, Megiddo, Vittorio Veneto, Collapse of Allies.
+*   **Ep 8: The Peace That Failed (1919-1939)** - Paris, Versailles, League, Reparations, New Nations, Seeds of WWII, Memory.
+
+---
+
+*This compilation represents a dense, factual substrate. For documentary production, select narrative threads (e.g., "The Soldier's Experience," "The Technology of Killing," "The Geopolitical Chessboard," "The Home Front," "The Global Reach") and illustrate with the specific visual details, numbers, and anecdotes cataloged above.*
+
+
+Funfacts: 
+{"tool": "google_search", "query": "surprising little known facts World War I"}

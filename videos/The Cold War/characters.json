@@ -1,0 +1,207 @@
+[
+    {
+        "name": "Joseph Stalin",
+        "id": 0,
+        "prompt": "A historically accurate stickmanstyle reference image of Joseph Stalin, General Secretary of the Communist Party of the Soviet Union from 1922 to 1953, depicted circa 1945 at age approximately 67. Male, round face with pockmarked skin, thick black mustache with graying edges, dark brown hair receding and combed back, brown eyes, olive skin tone, stocky build approximately 163 cm tall. Wearing a gray-brown M1943 Soviet generalissimus tunic with gold shoulder boards, red collar tabs, four gold stars on shoulder boards, matching trousers, black leather boots, occasionally holding a tobacco pipe. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Harry S. Truman",
+        "id": 1,
+        "prompt": "A historically accurate stickmanstyle reference image of Harry S. Truman, 33rd President of the United States from 1945 to 1953, depicted circa 1947 at age approximately 63. Male, rectangular face with fair skin, thinning gray hair parted on the side, round wire-rimmed glasses, blue eyes, clean-shaven, average build approximately 175 cm tall. Wearing a dark navy blue three-piece wool suit, white cotton shirt, dark red silk tie with small pattern, pocket square, black leather oxford shoes. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Clement Attlee",
+        "id": 2,
+        "prompt": "A historically accurate stickmanstyle reference image of Clement Attlee, Prime Minister of the United Kingdom from 1945 to 1951, depicted circa 1947 at age approximately 64. Male, oval face with pale skin, distinctive thick black mustache turning gray, receding dark hair combed back, brown eyes, slender build approximately 173 cm tall. Wearing a charcoal gray wool three-piece suit, white shirt, dark tie with subtle stripe, black leather shoes, occasionally holding a wooden tobacco pipe. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "George F. Kennan",
+        "id": 3,
+        "prompt": "A historically accurate stickmanstyle reference image of George F. Kennan, American diplomat and architect of containment policy, depicted circa 1946 at age approximately 42. Male, long face with fair skin, dark brown hair with side part, wire-rimmed glasses, brown eyes, clean-shaven, lean build approximately 183 cm tall. Wearing a dark brown tweed suit, white cotton shirt, maroon silk tie, leather oxford shoes, carrying a leather briefcase. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Winston Churchill",
+        "id": 4,
+        "prompt": "A historically accurate stickmanstyle reference image of Winston Churchill, Prime Minister of the United Kingdom 1940-1945 and 1951-1955, depicted circa 1946 at age approximately 71. Male, round jowly face with ruddy complexion, thinning white hair brushed forward, thick dark eyebrows, blue eyes, clean-shaven, heavy-set build approximately 170 cm tall. Wearing a dark navy pinstripe three-piece suit, white shirt with attached collar, black bow tie with white polka dots, gold pocket watch chain across vest, black leather brogues, holding a Havana cigar. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Gail Halvorsen",
+        "id": 5,
+        "prompt": "A historically accurate stickmanstyle reference image of Gail Halvorsen, United States Air Force pilot known as the Candy Bomber during the Berlin Airlift 1948-1949, depicted circa 1948 at age approximately 28. Male, square jaw with fair skin, blond hair cut short in military style, blue eyes, clean-shaven, athletic build approximately 178 cm tall. Wearing USAAF khaki summer service uniform with pilot wings, officer cap with silver insignia, brown leather bomber jacket draped over shoulders, holding a small parachute made from a handkerchief with candy attached. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Mao Zedong",
+        "id": 6,
+        "prompt": "A historically accurate stickmanstyle reference image of Mao Zedong, Chairman of the Communist Party of China from 1945 to 1976, depicted circa 1949 at age approximately 55. Male, round face with olive skin, high forehead with receding black hair brushed back, thin mustache, dark brown eyes, average build approximately 175 cm tall. Wearing a gray cotton zhongshan suit (Mao suit) with four pockets, five buttons down front, three buttons on cuffs, cloth shoes, simple canvas belt. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Nikita Khrushchev",
+        "id": 7,
+        "prompt": "A historically accurate stickmanstyle reference image of Nikita Khrushchev, First Secretary of the Communist Party of the Soviet Union 1953-1964, depicted circa 1956 at age approximately 62. Male, round face with ruddy complexion, completely bald with fringe of white hair at sides, thick dark eyebrows, brown eyes, clean-shaven, heavy-set build approximately 165 cm tall. Wearing a dark gray wool Soviet-style suit with notch lapels, white shirt, dark red tie, black leather shoes, occasionally depicted with right shoe removed for shoe-banging gesture. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Imre Nagy",
+        "id": 8,
+        "prompt": "A historically accurate stickmanstyle reference image of Imre Nagy, Prime Minister of Hungary during the 1956 revolution, depicted circa 1956 at age approximately 60. Male, oval face with pale skin, thinning gray hair combed to side, round wire-rimmed glasses, brown eyes, clean-shaven, slender build approximately 175 cm tall. Wearing a dark charcoal wool suit, white shirt, dark tie with small geometric pattern, black leather oxford shoes. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Dwight D. Eisenhower",
+        "id": 9,
+        "prompt": "A historically accurate stickmanstyle reference image of Dwight D. Eisenhower, 34th President of the United States 1953-1961, depicted circa 1955 at age approximately 65. Male, square face with fair skin, balding with white hair at sides in military brush cut, blue eyes, clean-shaven, athletic build approximately 178 cm tall. Wearing a dark navy blue wool suit, white shirt, dark tie with subtle pattern, black leather shoes, sometimes wearing a cardigan sweater over shirt. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Sergei Korolev",
+        "id": 10,
+        "prompt": "A historically accurate stickmanstyle reference image of Sergei Korolev, Chief Designer of the Soviet space program, depicted circa 1957 at age approximately 50. Male, angular face with olive skin, dark hair receding and combed back, thick black eyebrows, brown eyes, clean-shaven, average build approximately 175 cm tall. Wearing a dark brown wool suit, white shirt, dark tie, black leather shoes, occasionally wearing a lab coat over suit in technical settings. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Francis Gary Powers",
+        "id": 11,
+        "prompt": "A historically accurate stickmanstyle reference image of Francis Gary Powers, CIA U-2 pilot shot down over Soviet Union 1960, depicted circa 1960 at age approximately 30. Male, square jaw with fair skin, short brown hair in military cut, blue eyes, clean-shaven, lean athletic build approximately 180 cm tall. Wearing a green Nomex flight suit with zipper front, patches on chest and shoulder, white pressure helmet with visor carried under arm, black leather flight boots. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "John F. Kennedy",
+        "id": 12,
+        "prompt": "A historically accurate stickmanstyle reference image of John F. Kennedy, 35th President of the United States 1961-1963, depicted circa 1962 at age approximately 45. Male, oval face with tan skin, thick reddish-brown hair swept to side in characteristic style, blue-green eyes, clean-shaven, lean athletic build approximately 183 cm tall. Wearing a dark navy blue two-piece wool suit with narrow lapels, white cotton shirt, blue silk tie with small dots, black leather oxford shoes, no hat. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Curtis LeMay",
+        "id": 13,
+        "prompt": "A historically accurate stickmanstyle reference image of Curtis LeMay, United States Air Force General and Strategic Air Command commander, depicted circa 1962 at age approximately 56. Male, square face with ruddy complexion, silver-gray hair in military cut, brown eyes, clean-shaven, stocky build approximately 178 cm tall. Wearing USAF blue service dress uniform with four-star general insignia, pilot wings, ribbons, blue garrison cap, black leather low-quarter shoes, often holding a large cigar. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Lyndon B. Johnson",
+        "id": 14,
+        "prompt": "A historically accurate stickmanstyle reference image of Lyndon B. Johnson, 36th President of the United States 1963-1969, depicted circa 1965 at age approximately 57. Male, long face with ruddy weathered skin, receding brown hair with gray at temples, brown eyes, clean-shaven, very tall lanky build approximately 191 cm tall. Wearing a dark gray wool suit with wide lapels, white shirt, dark tie with Texas motif, black leather cowboy boots, occasionally wearing a beige Stetson hat. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Walter Cronkite",
+        "id": 15,
+        "prompt": "A historically accurate stickmanstyle reference image of Walter Cronkite, CBS Evening News anchor 1962-1981, depicted circa 1968 at age approximately 52. Male, round face with fair skin, distinctive thick dark mustache, dark hair with gray at temples combed back, brown eyes, average build approximately 178 cm tall. Wearing a dark navy blue suit, white shirt, red tie with small pattern, black horn-rimmed glasses, black leather shoes. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Martin Luther King Jr.",
+        "id": 16,
+        "prompt": "A historically accurate stickmanstyle reference image of Martin Luther King Jr., American civil rights leader 1955-1968, depicted circa 1965 at age approximately 36. Male, oval face with dark brown skin, short black hair closely cropped, distinctive thin mustache, dark brown eyes, clean-shaven otherwise, lean build approximately 175 cm tall. Wearing a dark charcoal wool suit, white shirt, dark tie, black leather shoes, occasionally wearing a dark overcoat. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Robert F. Kennedy",
+        "id": 17,
+        "prompt": "A historically accurate stickmanstyle reference image of Robert F. Kennedy, United States Attorney General 1961-1964 and Senator, depicted circa 1966 at age approximately 41. Male, long face with fair skin, thick dark brown hair with side part, blue eyes, clean-shaven, lean build approximately 183 cm tall. Wearing a dark navy blue suit with narrow lapels, white shirt, striped tie, black leather shoes, often with sleeves rolled up. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Alexander Dub\u010dek",
+        "id": 18,
+        "prompt": "A historically accurate stickmanstyle reference image of Alexander Dub\u010dek, First Secretary of the Communist Party of Czechoslovakia 1968, depicted circa 1968 at age approximately 47. Male, round face with fair skin, receding dark hair combed back, thick dark eyebrows, brown eyes, clean-shaven, average build approximately 178 cm tall. Wearing a dark gray wool suit, white shirt, dark red tie, black leather shoes, thick black-rimmed glasses. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Leonid Brezhnev",
+        "id": 19,
+        "prompt": "A historically accurate stickmanstyle reference image of Leonid Brezhnev, General Secretary of the Communist Party of the Soviet Union 1964-1982, depicted circa 1975 at age approximately 69. Male, round face with ruddy complexion, high forehead with white hair brushed back, extremely thick dark eyebrows meeting at center, brown eyes, clean-shaven, heavy-set build approximately 175 cm tall. Wearing a dark gray Soviet-style suit with rows of gold medals and decorations on left chest, white shirt, dark tie, black leather shoes. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Andrei Gromyko",
+        "id": 20,
+        "prompt": "A historically accurate stickmanstyle reference image of Andrei Gromyko, Soviet Minister of Foreign Affairs 1957-1985, depicted circa 1975 at age approximately 66. Male, long face with pale skin, white hair combed back, thick dark eyebrows, brown eyes, clean-shaven, slender build approximately 180 cm tall. Wearing a dark navy blue suit, white shirt, dark tie with diagonal stripe, black leather shoes, thick black-rimmed glasses. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Yuri Andropov",
+        "id": 21,
+        "prompt": "A historically accurate stickmanstyle reference image of Yuri Andropov, Chairman of KGB 1967-1982 and General Secretary 1982-1984, depicted circa 1983 at age approximately 69. Male, gaunt face with pale skin, white hair thinning on top, thick dark eyebrows, brown eyes, clean-shaven, thin build approximately 178 cm tall. Wearing a dark gray wool suit, white shirt, dark tie, black leather shoes, thick horn-rimmed glasses. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Dmitri Ustinov",
+        "id": 22,
+        "prompt": "A historically accurate stickmanstyle reference image of Dmitri Ustinov, Soviet Minister of Defence 1976-1984, depicted circa 1980 at age approximately 72. Male, square face with ruddy complexion, white hair in military cut, brown eyes, clean-shaven, stocky build approximately 175 cm tall. Wearing a Soviet Marshal uniform in olive green with gold shoulder boards, red collar tabs, rows of medals, black leather boots, peaked cap with gold embroidery. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Richard Nixon",
+        "id": 23,
+        "prompt": "A historically accurate stickmanstyle reference image of Richard Nixon, 37th President of the United States 1969-1974, depicted circa 1972 at age approximately 59. Male, long face with heavy jowls and pale skin, receding dark hair with gray streaks combed back, brown eyes, clean-shaven but with visible five o'clock shadow, average build approximately 180 cm tall. Wearing a dark navy blue suit, white shirt, dark red tie, black leather shoes, often making V-sign with both hands. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Henry Kissinger",
+        "id": 24,
+        "prompt": "A historically accurate stickmanstyle reference image of Henry Kissinger, United States National Security Advisor 1969-1975 and Secretary of State 1973-1977, depicted circa 1973 at age approximately 50. Male, round face with olive skin, thick dark curly hair with gray at sides, thick dark eyebrows, brown eyes, clean-shaven, heavy-set build approximately 173 cm tall. Wearing a dark gray wool suit, white shirt, dark tie with small pattern, black leather shoes, thick black-rimmed glasses. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Ronald Reagan",
+        "id": 25,
+        "prompt": "A historically accurate stickmanstyle reference image of Ronald Reagan, 40th President of the United States 1981-1989, depicted circa 1985 at age approximately 74. Male, square face with weathered tan skin, thick waved hair dyed dark brown with side part, blue eyes, clean-shaven, athletic build approximately 185 cm tall. Wearing a dark navy blue suit with padded shoulders, white shirt, red silk tie, black leather shoes, American flag lapel pin, occasionally holding a jar of jelly beans. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Mikhail Gorbachev",
+        "id": 26,
+        "prompt": "A historically accurate stickmanstyle reference image of Mikhail Gorbachev, General Secretary of the Communist Party of the Soviet Union 1985-1991, depicted circa 1987 at age approximately 56. Male, round face with fair skin, distinctive port-wine stain birthmark on bald forehead, receding light brown hair at sides, blue eyes, clean-shaven, average build approximately 175 cm tall. Wearing a dark gray modern-cut Soviet suit, white shirt, dark tie with subtle pattern, black leather shoes. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Eduard Shevardnadze",
+        "id": 27,
+        "prompt": "A historically accurate stickmanstyle reference image of Eduard Shevardnadze, Soviet Minister of Foreign Affairs 1985-1990, depicted circa 1988 at age approximately 60. Male, oval face with olive skin, white hair combed back, thick dark eyebrows, brown eyes, clean-shaven, average build approximately 178 cm tall. Wearing a dark navy blue suit, white shirt, dark red tie, black leather shoes, thin wire-rimmed glasses. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Erich Honecker",
+        "id": 28,
+        "prompt": "A historically accurate stickmanstyle reference image of Erich Honecker, General Secretary of the Socialist Unity Party of East Germany 1971-1989, depicted circa 1989 at age approximately 77. Male, long face with pale skin, white hair combed back in distinctive wave, thick white eyebrows, blue eyes, clean-shaven, slender build approximately 175 cm tall. Wearing a dark gray wool suit, white shirt, dark tie, black leather shoes, thick horn-rimmed glasses. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Egon Krenz",
+        "id": 29,
+        "prompt": "A historically accurate stickmanstyle reference image of Egon Krenz, General Secretary of the Socialist Unity Party of East Germany October-November 1989, depicted circa 1989 at age approximately 52. Male, round face with ruddy complexion, dark hair combed back with gray at temples, brown eyes, clean-shaven, heavy-set build approximately 178 cm tall. Wearing a dark blue wool suit, white shirt, dark tie, black leather shoes. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "G\u00fcnter Schabowski",
+        "id": 30,
+        "prompt": "A historically accurate stickmanstyle reference image of G\u00fcnter Schabowski, East German Politburo member and press spokesman, depicted November 9 1989 at age approximately 60. Male, square face with pale skin, white hair combed back, thick white eyebrows, blue eyes, clean-shaven, average build approximately 175 cm tall. Wearing a dark gray suit, white shirt, dark tie, black leather shoes, thick black-rimmed glasses, holding a sheaf of papers. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Harald J\u00e4ger",
+        "id": 31,
+        "prompt": "A historically accurate stickmanstyle reference image of Harald J\u00e4ger, East German Lieutenant Colonel and border guard commander at Bornholmer Strasse, depicted November 9 1989 at age approximately 46. Male, square jaw with fair skin, short graying blond hair in military cut, blue eyes, clean-shaven, athletic build approximately 180 cm tall. Wearing East German border guard uniform in stone gray with green collar tabs, shoulder boards with rank insignia, black leather belt, black leather boots, peaked cap with badge. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Boris Yeltsin",
+        "id": 32,
+        "prompt": "A historically accurate stickmanstyle reference image of Boris Yeltsin, Chairman of the Supreme Soviet of Russia 1990-1991 and President of Russia 1991-1999, depicted August 1991 at age approximately 60. Male, round face with ruddy complexion, white hair brushed back, thick dark eyebrows, blue eyes, clean-shaven, tall heavy-set build approximately 188 cm tall. Wearing a dark navy blue suit, white shirt, dark red tie, black leather shoes, standing atop a tank turret. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Leonid Kravchuk",
+        "id": 33,
+        "prompt": "A historically accurate stickmanstyle reference image of Leonid Kravchuk, Chairman of the Verkhovna Rada of Ukraine 1990-1991 and President of Ukraine 1991-1994, depicted December 1991 at age approximately 57. Male, oval face with fair skin, white hair combed back, blue eyes, clean-shaven, average build approximately 178 cm tall. Wearing a dark gray wool suit, white shirt, blue and yellow striped tie, black leather shoes. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Stanislav Shushkevich",
+        "id": 34,
+        "prompt": "A historically accurate stickmanstyle reference image of Stanislav Shushkevich, Chairman of the Supreme Soviet of Belarus 1991-1994, depicted December 1991 at age approximately 57. Male, round face with fair skin, receding white hair, brown eyes, clean-shaven, average build approximately 175 cm tall. Wearing a dark brown wool suit, white shirt, dark tie, black leather shoes, thick horn-rimmed glasses. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Konstantin Chernenko",
+        "id": 35,
+        "prompt": "A historically accurate stickmanstyle reference image of Konstantin Chernenko, General Secretary of the Communist Party of the Soviet Union 1984-1985, depicted early 1985 at age approximately 73. Male, gaunt face with pale skin, white hair thinning on top, thick dark eyebrows, brown eyes, clean-shaven, frail thin build approximately 175 cm tall. Wearing a dark gray wool suit, white shirt, dark tie, black leather shoes, thick black-rimmed glasses, often appearing supported by aides. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Nicolae Ceau\u0219escu",
+        "id": 36,
+        "prompt": "A historically accurate stickmanstyle reference image of Nicolae Ceau\u0219escu, General Secretary of the Romanian Communist Party 1965-1989, depicted circa 1989 at age approximately 71. Male, oval face with olive skin, black hair dyed and combed back, dark eyebrows, brown eyes, clean-shaven, average build approximately 175 cm tall. Wearing a dark green military-style suit with gold buttons, red sash with gold fringes across chest, rows of medals, black leather shoes. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Raisa Gorbachev",
+        "id": 37,
+        "prompt": "A historically accurate stickmanstyle reference image of Raisa Gorbachev, Soviet First Lady 1985-1991 and philosopher, depicted circa 1987 at age approximately 55. Female, oval face with fair skin, short blonde hair in styled bob, blue eyes, slender build approximately 165 cm tall. Wearing an elegant dark navy blue wool suit with knee-length skirt, white silk blouse, pearl necklace, black leather pumps, carrying a structured leather handbag. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Nancy Reagan",
+        "id": 38,
+        "prompt": "A historically accurate stickmanstyle reference image of Nancy Reagan, First Lady of the United States 1981-1989, depicted circa 1985 at age approximately 64. Female, oval face with fair skin, short red hair in styled curls, brown eyes, slender build approximately 163 cm tall. Wearing a signature red wool suit with padded shoulders and knee-length skirt, white silk blouse, pearl earrings and necklace, red leather pumps, carrying a matching red leather handbag. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Jacqueline Kennedy",
+        "id": 39,
+        "prompt": "A historically accurate stickmanstyle reference image of Jacqueline Kennedy, First Lady of the United States 1961-1963, depicted circa 1962 at age approximately 33. Female, oval face with fair skin, dark brown hair in signature bouffant flip, brown eyes, slender build approximately 170 cm tall. Wearing a pink wool Chanel-style suit with boxy jacket and knee-length skirt, matching pillbox hat, white gloves, pearl necklace, black leather pumps. White background, historically accurate, suitable as a reference image for future scenes."
+    },
+    {
+        "name": "Clementine Churchill",
+        "id": 40,
+        "prompt": "A historically accurate stickmanstyle reference image of Clementine Churchill, wife of Winston Churchill, depicted circa 1946 at age approximately 61. Female, round face with fair skin, white hair in elegant upswept style, blue eyes, average build approximately 165 cm tall. Wearing a dark navy blue wool coat dress with fur collar, matching cloche hat with veil, pearl necklace, black leather gloves, black leather pumps, carrying a leather handbag. White background, historically accurate, suitable as a reference image for future scenes."
+    }
+]
