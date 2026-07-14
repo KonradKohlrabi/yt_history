@@ -653,10 +653,10 @@ def write_story(info, funfacts):
     return story
 
 def save_story_and_info(foldername, story, info, funfacts):
-    with open("videos/"+foldername+"/story.txt", "w") as f:
+    with open("videos/"+foldername+"/story.txt", "w", encoding="utf-8") as f:
         f.write(story)
     
-    with open("videos/"+foldername+"/info.txt", "w") as f:
+    with open("videos/"+foldername+"/info.txt", "w", encoding="utf-8") as f:
         f.write(info+"\n\n\nFunfacts: \n"+funfacts)
 
 def extract_characters(story, foldername):
