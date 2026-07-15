@@ -8,6 +8,7 @@ import re
 import pyautogui
 import subprocess
 import edge_tts
+import asyncio
 
 load_dotenv()
 
@@ -353,6 +354,17 @@ Use cliffhangers between major sections whenever appropriate.
 The viewer should constantly feel compelled to keep watching.
 
 The goal is to make the story feel like a compelling documentary while remaining completely faithful to historical evidence.
+
+
+
+# Important
+
+Do not use markdown, it is going to be the script for a documentary narration.
+Do not include any headings, bullet points, or lists in the story.
+Do not include any direct speeches, there is only one speaker, the narrator.
+Write the script in a continuous narrative style.
+There should not be titles or chapters, at least you shouldn't write a headline for anything. Instead you can use paragraphs to separate the story into sections.
+Remember, the story is going to be read word for word, the narrator will not improvise or add anything, so the story must be complete and self-contained.
 
 ---
 
@@ -742,13 +754,15 @@ def click_on_textbox():
     time.sleep(1)
 
 def prompt_flow(prompts):
+    add_refrence_base_person()
     for prompt in prompts:
         prompt1 = prompt + additional_img_prompt
-        add_refrence_base_person()
+        pyautogui.hotkey("ctrl", "a")
+        pyautogui.press("backspace")
         pyautogui.typewrite(prompt1)
         time.sleep(random.randrange(10, 20)/20)
         pyautogui.press("enter")
-        time.sleep(random.randrange(7, 12))
+        time.sleep(random.randrange(10, 13))
 
 def add_refrence_base_person():
     time.sleep(random.randrange(10, 20)/30)
@@ -812,12 +826,13 @@ def phase_4_character_images(story, foldername):
     prompts = []
     for character in characters_json:
         prompts.append(character["prompt"])
-    open_chrome()
-    click_on_textbox()
-    prompt_flow(prompts)
+    #open_chrome()
+    #click_on_textbox()
+    #prompt_flow(prompts)
+    #rename is missing
 
-def phase_5_generate_audio():
-    pass
+def phase_5_generate_audio(story, foldername):
+    asyncio.run(tts(story, foldername))
 
 
 
@@ -827,7 +842,7 @@ def main():
     story = phase_3_storytelling(research_material, research_funfacts_material)
     save_story_and_info(foldername, story, research_material, research_funfacts_material)
     phase_4_character_images(story, foldername)
-
+    phase_5_generate_audio(story, foldername)
 
 if __name__ == "__main__":
     main()
