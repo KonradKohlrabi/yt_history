@@ -555,6 +555,8 @@ Story:
 additional_img_prompt = "The Image should NOT be just Black and white, even though the background must be white. The face of the person must be white, except if it was explicitly stated above to have a specific color. Do NOT change the head style, it should be exactly like the one in the reference picture. The rest of the person must be colored, and NOT just textured with black and white.Do NOT write any text, only generate ONE person, NOT many views from the same person, or many styles from the same person. Just generate ONE SINGLE PERSON.  The Person must be drawn standing and NOT for example sitting in a throne. The only possibility a person does not have to stand ist when he/she sits in a wheelchair."
 
 
+timeline_prompt = """""" #still missing
+
 
 or_api_key = random.choice(OR_API_KEYS)
 
@@ -711,9 +713,7 @@ def get_character_descriptions(characters_json, story, foldername):
         ]
     }
     characters_string = call_openrouter(or_data)
-    print("DEBUG - Raw response from API:")
-    print(repr(characters_string))  # <-- Zeigt genau was zurückkommt
-    print("Length:", len(characters_string))
+    print("Length of story: ", len(characters_string))
 
     characters_json = safe_json_parse(characters_string)
 
@@ -762,7 +762,7 @@ def prompt_flow(prompts):
         pyautogui.typewrite(prompt1)
         time.sleep(random.randrange(10, 20)/20)
         pyautogui.press("enter")
-        time.sleep(random.randrange(10, 13))
+        time.sleep(random.randrange(25, 30))
 
 def add_refrence_base_person():
     time.sleep(random.randrange(10, 20)/30)
@@ -795,8 +795,22 @@ def wait_for_generation(prompts):
 
 async def tts(text, foldername):
     communicate = edge_tts.Communicate(text, VOICE)
-    await communicate.save("videos/"+ foldername + "/tmp_tts_raw.mp3")
-    subprocess.run(["ffmpeg", "-y", "-i", "videos/"+ foldername + "/tmp_tts_raw.mp3", "videos/"+ foldername + "/audio.mp3"], check=True, capture_output=True)
+    await communicate.save("videos/"+ foldername + "/audio.mp3")
+
+def generate_timeline_prompt(story):
+    content = timeline_prompt + "\n\n" + story
+    or_data = {
+        "model": OR_MODEL,
+        "messages": [{
+            "role": "user",
+            "content": content
+        }
+        ]
+    }
+    timeline_img_prompt = call_openrouter(or_data)
+    with open("timeline_prompt.txt", "w", encoding="utf-8") as f:
+        f.write(timeline_img_prompt)
+    return timeline_img_prompt
 
 
 # Phases
@@ -832,9 +846,16 @@ def phase_4_character_images(story, foldername):
     #rename is missing
 
 def phase_5_generate_audio(story, foldername):
+    print("Phase 5")
     asyncio.run(tts(story, foldername))
 
+def phase_6_generate_timeline(story):
+    print("Phase 6")
+    timeline_img_prompt = generate_timeline_prompt(story)
+    return timeline_img_prompt
 
+def phase_7_generate_timestamps(story, foldername):
+    print("Phase 7")
 
 def main():
     foldername = phase_1_topic()
@@ -843,6 +864,10 @@ def main():
     save_story_and_info(foldername, story, research_material, research_funfacts_material)
     phase_4_character_images(story, foldername)
     phase_5_generate_audio(story, foldername)
+    phase_6_generate_timeline(story)
+    phase_7_generate_timestamps(story, foldername)
+
+
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Franklin D. Roosevelt",
+        "id": 0
+    },
+    {
+        "name": "Winston Churchill",
+        "id": 1
+    },
+    {
+        "name": "Joseph Stalin",
+        "id": 2
+    },
+    {
+        "name": "Harry S. Truman",
+        "id": 3
+    },
+    {
+        "name": "Douglas MacArthur",
+        "id": 4
+    },
+    {
+        "name": "Mao Zedong",
+        "id": 5
+    },
+    {
+        "name": "Zhou Enlai",
+        "id": 6
+    },
+    {
+        "name": "Nikita Khrushchev",
+        "id": 7
+    },
+    {
+        "name": "Imre Nagy",
+        "id": 8
+    },
+    {
+        "name": "Dwight D. Eisenhower",
+        "id": 9
+    },
+    {
+        "name": "Anthony Eden",
+        "id": 10
+    },
+    {
+        "name": "John F. Kennedy",
+        "id": 11
+    },
+    {
+        "name": "Robert F. Kennedy",
+        "id": 12
+    },
+    {
+        "name": "Lucius D. Clay",
+        "id": 13
+    },
+    {
+        "name": "Lyndon B. Johnson",
+        "id": 14
+    },
+    {
+        "name": "Walter Cronkite",
+        "id": 15
+    },
+    {
+        "name": "Richard Nixon",
+        "id": 16
+    },
+    {
+        "name": "Leonid Brezhnev",
+        "id": 17
+    },
+    {
+        "name": "Jimmy Carter",
+        "id": 18
+    },
+    {
+        "name": "Yuri Andropov",
+        "id": 19
+    },
+    {
+        "name": "Konstantin Chernenko",
+        "id": 20
+    },
+    {
+        "name": "Mikhail Gorbachev",
+        "id": 21
+    },
+    {
+        "name": "Ronald Reagan",
+        "id": 22
+    },
+    {
+        "name": "Anatoly Dobrynin",
+        "id": 23
+    },
+    {
+        "name": "Erich Honecker",
+        "id": 24
+    },
+    {
+        "name": "G\u00fcnter Schabowski",
+        "id": 25
+    },
+    {
+        "name": "Nicolae Ceausescu",
+        "id": 26
+    },
+    {
+        "name": "Boris Yeltsin",
+        "id": 27
+    },
+    {
+        "name": "Leonid Kravchuk",
+        "id": 28
+    },
+    {
+        "name": "Stanislau Shushkevich",
+        "id": 29
+    },
+    {
+        "name": "Vladimir Putin",
+        "id": 30
+    }
+]

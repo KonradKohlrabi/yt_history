@@ -22,12 +22,12 @@ def rename(number_of_characters):
         pyautogui.typewrite(str(number_of_characters-i))
         pyautogui.press("enter")
         if i % 7==0:
-            pyautogui.scroll(-318)
+            pyautogui.scroll(-160)
         else:
-            pyautogui.scroll(-319)
+            pyautogui.scroll(-159)
         time.sleep(0.1)
         i +=1 
         if i>number_of_characters:
             break
 
-rename(49)
+rename(15)

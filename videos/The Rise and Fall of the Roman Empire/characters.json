@@ -1,0 +1,372 @@
+[
+    {
+        "name": "Romulus",
+        "id": 0,
+        "prompt": "A historically accurate stickman style portrait of Romulus, legendary founder and first King of Rome, circa 753 BC, ancient Latium. Male, approximate age 30 to 35 years during founding events. Angular face with strong jawline, dark brown hair cut short in early Roman style, clean shaven. Dark brown eyes, olive Mediterranean skin tone, athletic muscular build from military life. Distinctive features: prominent nose, intense gaze, slight scar on left cheek from combat. Clothing: early Iron Age Roman warrior attire, sleeveless wool tunic in natural off white with red border, leather cingulum militare belt with bronze studs, bronze breastplate (cardiophylax) over chest, leather sandals (caligae) with straps. Wool cloak (sagum) in dark red draped over left shoulder. Accessories: bronze galea helmet with crest pushed back, iron gladius hispaniensis at right hip, round wooden shield (clipeus) with bronze boss leaning against leg. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Remus",
+        "id": 1,
+        "prompt": "A historically accurate stickman style portrait of Remus, legendary co founder of Rome, circa 753 BC, ancient Latium. Male, approximate age 30 to 35 years during founding events. Angular face similar to Romulus but softer jawline, dark brown hair slightly longer and wavier, clean shaven. Dark brown eyes, olive Mediterranean skin tone, athletic lean build. Distinctive features: slightly narrower eyes, calm expression contrasting with Romulus intensity. Clothing: early Iron Age Roman warrior attire identical to Romulus but tunic in natural wool grey with blue border, leather belt with simpler bronze fittings, bronze breastplate, leather caligae. Wool cloak (sagum) in dark blue draped over left shoulder. Accessories: bronze galea helmet with crest, iron gladius at right hip, round wooden shield with bronze boss. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Tarquinius Superbus",
+        "id": 2,
+        "prompt": "A historically accurate stickman style portrait of Tarquinius Superbus, seventh and last King of Rome, reign 535 to 509 BC, Etruscan ruled Rome. Male, approximate age 55 to 60 years during late reign. Broad face with heavy features, thick grey hair cut in Etruscan style with long side locks, full grey beard trimmed in Etruscan fashion. Dark brown eyes, olive skin tone, stocky powerful build. Distinctive features: arrogant bearing, heavy brow ridge, thin lips pressed in disdain. Clothing: Etruscan royal regalia, long purple wool tunic (tunica palmata) with gold embroidery at hem and cuffs, gold cingulum belt, purple wool toga (toga picta) draped in Etruscan manner over left shoulder. Gold fibula at right shoulder. Accessories: gold corona radiata crown, ivory scepter (sceptrum eburneum) in right hand, golden curule chair behind him. Leather boots (calcei) with gold ornamentation. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Lucretia",
+        "id": 3,
+        "prompt": "A historically accurate stickman style portrait of Lucretia, Roman noblewoman whose suicide sparked the revolution against the monarchy, circa 510 BC, Rome. Female, approximate age 25 to 30 years. Oval face with delicate features, long dark brown hair styled in early Roman matron fashion with vittae (woolen fillets) binding the hair, parted in middle and tied in low bun at nape. Dark brown eyes, fair olive skin tone, slender graceful build. Distinctive features: expression of dignified sorrow and resolve, hands clasped at chest. Clothing: Roman matron attire, white wool stola over white wool tunica intima, blue wool palla draped over head and shoulders in sign of mourning and modesty. Gold fibula at shoulder. Simple gold wedding ring. Leather sandals (soleae). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Lucius Tarquinius Collatinus",
+        "id": 4,
+        "prompt": "A historically accurate stickman style portrait of Lucius Tarquinius Collatinus, Roman aristocrat, husband of Lucretia, first consul of the Republic 509 BC, Rome. Male, approximate age 35 to 40 years. Long face with aristocratic features, dark brown hair receding slightly at temples, styled in early Republican fashion, clean shaven. Dark brown eyes, olive skin tone, tall lean build. Distinctive features: solemn expression, deep set eyes showing grief and determination. Clothing: Early Republican senatorial attire, white wool tunica with broad purple stripe (latus clavus) indicating senatorial rank, white wool toga (toga virilis) draped formally over left shoulder. Leather calcei senatori with black straps. Accessories: iron signet ring, folded wax tablets in left hand. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Lucius Junius Brutus",
+        "id": 5,
+        "prompt": "A historically accurate stickman style portrait of Lucius Junius Brutus, founder of the Roman Republic, first consul 509 BC, Rome. Male, approximate age 40 to 45 years. Square face with strong determined features, thick dark brown hair cut short in severe Roman style, clean shaven. Dark brown eyes, weathered olive skin tone, broad shouldered muscular build. Distinctive features: intense piercing gaze, jaw set in grim resolve, faint scar across forehead. Clothing: Early Republican consul attire, white wool tunica with latus clavus, dark red wool toga (toga praetexta) with purple border draped in formal consular manner. Leather calcei with red straps. Accessories: ivory curule chair (sella curulis) beside him, fasces carried by lictor (not shown but implied by consular posture), iron signet ring. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Brennus",
+        "id": 6,
+        "prompt": "A historically accurate stickman style portrait of Brennus, Gallic chieftain of the Senones, leader of the sack of Rome 390 BC, northern Italy. Male, approximate age 40 to 45 years. Rugged face with high cheekbones, long thick red blond hair worn in Celtic style with lime washed spikes, full red blond beard and mustache. Blue eyes, fair skin with weathered complexion, tall imposing muscular build. Distinctive features: torc (gold neck ring) prominent, tattooed arms visible, fierce confident expression. Clothing: Gallic warrior attire, long sleeved wool tunic in checked pattern of blue and green, wool trousers (bracae) tied at ankles, leather belt with bronze plaques. Wool cloak (sagum) in deep red fastened with bronze penannular brooch at right shoulder. Leather boots. Accessories: gold torc with decorative terminals, long iron slashing sword in decorated scabbard at right hip, large oval shield with bronze boss and spine leaning against leg, bronze horned helmet (ceremonial) at feet. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Cato the Elder",
+        "id": 7,
+        "prompt": "A historically accurate stickman style portrait of Cato the Elder (Marcus Porcius Cato), Roman statesman and censor, 234 to 149 BC, Rome. Male, approximate age 65 to 70 years during later career. Gaunt face with deep wrinkles, thin white hair cut extremely short, clean shaven in severe Republican style. Dark brown eyes, deeply tanned leathery skin from military campaigns, lean wiry build. Distinctive features: austere expression, thin compressed lips, missing one tooth visible when speaking, posture rigidly upright. Clothing: Traditional Republican senatorial attire, coarse white wool tunica with latus clavus, plain white wool toga (toga virilis) worn in old fashioned cinctus Gabinus style (folded over head for ritual). No jewelry except iron signet ring. Leather calcei worn thin. Accessories: wooden writing tablet and stylus in hand, scroll case at feet. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Hannibal",
+        "id": 8,
+        "prompt": "A historically accurate stickman style portrait of Hannibal Barca, Carthaginian general, Second Punic War 218 to 201 BC, Carthage and Italy. Male, approximate age 35 to 40 years during Italian campaign. Angular face with high cheekbones, thick curly black hair worn in Hellenistic style with short beard and mustache trimmed neat. Dark brown eyes, olive skin tone, athletic compact build. Distinctive features: missing right eye (lost to infection), scar tissue around eye socket, intense calculating gaze, one eyebrow slightly higher. Clothing: Hellenistic military commander attire, purple wool chitoniskos (short tunic) with gold embroidery at hem, bronze muscle cuirass with gold decorations, leather pteruges at shoulders and waist. Purple wool cloak (chlamys) fastened at right shoulder with gold fibula. Leather boots (endromides). Accessories: gold signet ring, bronze Corinthian helmet pushed back on head, falcata sword at left hip, elephant goad (ankus) in hand referencing war elephants. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Scipio Africanus",
+        "id": 9,
+        "prompt": "A historically accurate stickman style portrait of Publius Cornelius Scipio Africanus, Roman general who defeated Hannibal at Zama 202 BC, Rome. Male, approximate age 35 to 40 years at height of fame. Handsome face with regular features, thick wavy dark brown hair styled in fashionable Hellenistic cut, clean shaven. Dark brown eyes, olive skin tone, tall athletic build. Distinctive features: charismatic confident smile, slight dimple in chin, posture of effortless authority. Clothing: Republican general attire, white wool tunica with latus clavus, red wool paludamentum (commander cloak) fastened at left shoulder with gold fibula, bronze muscle cuirass with gilded details, leather pteruges. Leather calcei with red straps. Accessories: gold corona civica (oak leaf crown) on head, gold signet ring, ivory baton of command in right hand, sheathed gladius at left hip. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Tiberius Gracchus",
+        "id": 10,
+        "prompt": "A historically accurate stickman style portrait of Tiberius Sempronius Gracchus, Roman tribune and land reformer, 163 to 133 BC, Rome. Male, approximate age 30 years at death. Lean face with intense idealistic features, thick dark brown hair worn slightly long in fashionable style, clean shaven. Dark brown eyes, olive skin tone, slender build. Distinctive features: passionate expression, hands often gesturing as if speaking to crowd, slight forward lean. Clothing: Tribunician attire, white wool tunica with angustus clavus (narrow purple stripe) of equestrian rank, white wool toga (toga candida) whitened with chalk for campaigning, draped simply. Leather calcei. Accessories: scroll of land reform law (lex agraria) in left hand, wax tablet in right. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Gaius Gracchus",
+        "id": 11,
+        "prompt": "A historically accurate stickman style portrait of Gaius Sempronius Gracchus, Roman tribune and reformer, 154 to 121 BC, Rome. Male, approximate age 33 years at death. Lean face similar to brother but harder features, dark brown hair cut shorter in severe style, clean shaven. Dark brown eyes, olive skin tone, slender wiry build. Distinctive features: more aggressive posture, jaw clenched, eyes burning with intensity. Clothing: Tribunician attire identical to brother but toga (toga candida) draped more aggressively, one end thrown over left shoulder. Leather calcei. Accessories: multiple scrolls in left hand (representing broader reforms), right hand raised in oratorical gesture. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Gaius Marius",
+        "id": 12,
+        "prompt": "A historically accurate stickman style portrait of Gaius Marius, Roman general and seven times consul, 157 to 86 BC, Rome. Male, approximate age 55 to 60 years during later consulships. Rugged weathered face with deep lines, thinning grey hair cut short in military style, clean shaven. Dark brown eyes, deeply tanned leathery skin, stocky powerful build. Distinctive features: blunt nose broken and healed crooked, scar running through left eyebrow, expression of grim competence. Clothing: Late Republican consular military attire, red wool tunica with latus clavus, bronze muscle cuirass with silver decorations, leather pteruges. Red wool paludamentum fastened at left shoulder with gold fibula. Leather caligae (military boots). Accessories: gold corona graminea (grass crown) for saving army, baton of command, gladius at right hip (Marian reform), Marius mules (pack frame) at feet. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Lucius Cornelius Sulla",
+        "id": 13,
+        "prompt": "A historically accurate stickman style portrait of Lucius Cornelius Sulla Felix, Roman general and dictator, 138 to 78 BC, Rome. Male, approximate age 50 to 55 years during dictatorship. Striking face with blotchy red and white complexion (chronic skin condition), golden blond hair thick and wavy, clean shaven. Piercing blue eyes, distinctive mottled skin tone, tall lean build. Distinctive features: famous golden hair and blotchy skin, cold calculating smile, one eyebrow permanently arched. Clothing: Dictatorial attire, purple wool tunica (tunica palmata) with gold embroidery, gold cingulum, purple wool toga picta with gold border draped in formal manner. Gold calcei with ivory crescents. Accessories: gold corona laurea (laurel wreath) on head, ivory scepter, proscription list scroll in left hand, gold signet ring, gold fibula. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Gnaeus Pompeius Magnus",
+        "id": 14,
+        "prompt": "A historically accurate stickman style portrait of Gnaeus Pompeius Magnus (Pompey the Great), Roman general and statesman, 106 to 48 BC, Rome. Male, approximate age 40 to 45 years at height of power. Handsome face with resemblance to Alexander the Great, dark blond hair brushed forward in anastole style, clean shaven. Grey blue eyes, fair olive skin, tall athletic build. Distinctive features: slight curl of hair over forehead, confident almost arrogant bearing, dimpled chin. Clothing: Late Republican triumphal attire, purple wool tunica palmata with gold embroidery, gold cingulum, purple wool toga picta. Gold calcei. Accessories: gold corona triumphalis (laurel wreath) on head, ivory scepter with eagle tip, gold signet ring, three gold rings for three triumphs. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Licinius Crassus",
+        "id": 15,
+        "prompt": "A historically accurate stickman style portrait of Marcus Licinius Crassus, Roman general and wealthiest man in Rome, 115 to 53 BC, Rome. Male, approximate age 50 to 55 years at Carrhae. Square face with heavy features, thinning dark brown hair combed forward to cover baldness, clean shaven. Dark brown eyes, olive skin tone, stocky build. Distinctive features: greedy calculating expression, thin lips, hands often rubbing fingers together. Clothing: Late Republican senatorial attire, fine white wool tunica with latus clavus, white wool toga of finest quality draped perfectly. Gold calcei. Accessories: multiple gold rings on fingers, gold fibula with large gemstone, money bag at belt, scroll of financial accounts in hand. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Gaius Julius Caesar",
+        "id": 16,
+        "prompt": "A historically accurate stickman style portrait of Gaius Julius Caesar, Roman general, dictator, 100 to 44 BC, Rome. Male, approximate age 50 to 55 years at death. Lean face with high forehead, receding dark brown hair combed forward to cover baldness, clean shaven. Dark brown eyes, pale olive skin, tall lean build. Distinctive features: famous receding hairline, thin lips, intense penetrating gaze, slight stoop in later years, epileptic seizure scars possibly. Clothing: Dictatorial attire, purple wool tunica palmata with gold embroidery, gold cingulum, purple wool toga picta. Red leather calcei with gold crescents (distinctive). Accessories: gold corona laurea (laurel wreath) worn constantly to hide baldness, ivory scepter, gold signet ring with Venus Genetrix, Commentaries scroll in left hand. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Porcius Cato Uticensis",
+        "id": 17,
+        "prompt": "A historically accurate stickman style portrait of Marcus Porcius Cato Uticensis (Cato the Younger), Roman senator and Stoic, 95 to 46 BC, Rome and Utica. Male, approximate age 49 years at death. Gaunt ascetic face, thick dark brown hair worn long and unkempt in philosophical style, full beard and mustache (unusual for Romans, sign of Stoicism). Dark brown eyes, pale olive skin, lean wiry build. Distinctive features: intense fanatical expression, simple woolen cloak, barefoot often. Clothing: Archaic Republican attire, coarse dark wool tunica without stripe, rough wool toga (toga pulla) worn in old fashion, no jewelry. Leather sandals or bare feet. Accessories: copy of Plato Phaedo in hand (reading before suicide), sword at feet. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Augustus",
+        "id": 18,
+        "prompt": "A historically accurate stickman style portrait of Augustus (Gaius Octavius Thurinus), first Roman Emperor, 63 BC to 14 AD, Rome. Male, approximate age 35 to 40 years at height of power (post Actium). Handsome face with regular features, blond hair with distinctive forked locks over forehead, clean shaven. Bright blue eyes, fair skin, average height approximately 170 cm, slender build. Distinctive features: famous hairstyle with pincer shaped locks, calm controlled expression, slight limp in left leg. Clothing: Early Imperial princely attire, white wool tunica with latus clavus, white wool toga (toga virilis) draped perfectly, gold cingulum. Red leather calcei with ivory crescents. Accessories: gold corona civica (oak crown) on head, laurel wreath for victories, ivory scepter, gold signet ring with sphinx then Augustus profile, Res Gestae scroll. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Antonius",
+        "id": 19,
+        "prompt": "A historically accurate stickman style portrait of Marcus Antonius (Mark Antony), Roman general and triumvir, 83 to 30 BC, Rome and East. Male, approximate age 40 to 45 years at height. Rugged handsome face, thick curly dark brown hair worn long in Hellenistic style, full beard and mustache (in imitation of Dionysus/Hercules). Dark brown eyes, olive skin, muscular athletic build. Distinctive features: Dionysian appearance, wild hair, heavy drinking flush, charismatic grin. Clothing: Hellenistic royal military attire, purple wool chitoniskos with gold embroidery, bronze muscle cuirass with gold Dionysian motifs, leather pteruges. Purple chlamys with gold fibula. Leather endromides. Accessories: gold diadem (eastern style), ivy wreath, gold rings, falcata sword, drinking cup (cantharus) in hand. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Aemilius Lepidus",
+        "id": 20,
+        "prompt": "A historically accurate stickman style portrait of Marcus Aemilius Lepidus, Roman triumvir and Pontifex Maximus, 89 BC to 13 BC, Rome. Male, approximate age 40 to 45 years during triumvirate. Round pleasant face, thinning dark brown hair combed forward, clean shaven. Dark brown eyes, olive skin, average build. Distinctive features: unremarkable appearance, expression of anxious mediocrity, priestly fillets on head. Clothing: Triumviral senatorial attire, white wool tunica with latus clavus, purple bordered toga praetexta (as magistrate), wool culullus (hood) for priestly duties. Leather calcei. Accessories: pontifical simpulum (ladle) and aspergillum (sprinkler), gold signet ring, scroll of proscription lists. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Tullius Cicero",
+        "id": 21,
+        "prompt": "A historically accurate stickman style portrait of Marcus Tullius Cicero, Roman orator and statesman, 106 to 43 BC, Rome. Male, approximate age 60 to 63 years at death. Lean intellectual face with deep lines, thinning grey hair brushed back, clean shaven. Dark brown eyes, pale olive skin, slender frail build. Distinctive features: expressive hands gesturing as if orating, Adam's apple prominent, intense gaze. Clothing: Late Republican senatorial attire, fine white wool tunica with latus clavus, white wool toga draped in complex oratorical style (sinus and umbo arranged). Leather calcei. Accessories: multiple scrolls of speeches (Philippics) in left hand, wax tablet in right, gold signet ring. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Junius Brutus",
+        "id": 22,
+        "prompt": "A historically accurate stickman style portrait of Marcus Junius Brutus, assassin of Caesar, 85 to 42 BC, Rome and Philippi. Male, approximate age 40 to 43 years at death. Noble face with high forehead, thick dark brown hair worn in Greek philosophical style, clean shaven (later short beard in mourning). Dark brown eyes, olive skin, lean athletic build. Distinctive features: stern principled expression, slight resemblance to Caesar (rumored son), posture of rigid virtue. Clothing: Late Republican senatorial attire, white wool tunica with latus clavus, white wool toga. Leather calcei. Accessories: gold signet ring with Liberty cap and daggers (EID MAR), dagger (pugio) at left hip, copy of Plato Republic. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Gaius Cassius Longinus",
+        "id": 23,
+        "prompt": "A historically accurate stickman style portrait of Gaius Cassius Longinus, assassin of Caesar, 85 to 42 BC, Rome and Philippi. Male, approximate age 40 to 43 years at death. Sharp angular face with gaunt features, thinning dark brown hair, clean shaven. Dark brown eyes, pale olive skin, lean wiry build. Distinctive features: bitter intense expression, permanent sneer, Epicurean philosophical bearing. Clothing: Late Republican senatorial attire, white wool tunica with latus clavus, white wool toga. Leather calcei. Accessories: dagger (pugio) at left hip, scroll of Epicurean texts, gold signet ring. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Cleopatra VII",
+        "id": 24,
+        "prompt": "A historically accurate stickman style portrait of Cleopatra VII Philopator, Queen of Ptolemaic Egypt, 69 to 30 BC, Alexandria. Female, approximate age 30 to 35 years at height. Beautiful face with strong Macedonian Greek features, dark brown hair worn in melon coiffure (sectioned waves) with royal diadem, curled locks at temples. Dark brown eyes, light olive skin, slender build. Distinctive features: intelligent penetrating gaze, slight aquiline nose (Ptolemaic trait), charming smile. Clothing: Ptolemaic royal attire, fine linen chiton in white with purple and gold borders, gold broad collar (wesekh) with lapis lazuli and carnelian, gold girdle. Royal mantle (chlamys) in purple with gold embroidery draped over shoulders. Gold sandals. Accessories: gold uraeus crown with double plume, gold crook and flail, asp bracelet on upper arm, papyrus scroll. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Vipsanius Agrippa",
+        "id": 25,
+        "prompt": "A historically accurate stickman style portrait of Marcus Vipsanius Agrippa, Roman general and Augustus right hand, 64 to 12 BC, Rome. Male, approximate age 35 to 40 years at height. Square rugged face, close cropped dark brown hair, clean shaven. Dark brown eyes, weathered olive skin, stocky muscular build. Distinctive features: practical no nonsense expression, broken nose, scars from naval battles. Clothing: Early Imperial military attire, red wool tunica, lorica hamata (mail armor) with shoulder doubling, leather pteruges. Blue paludamentum fastened at left shoulder with gold fibula. Leather caligae. Accessories: corona navalis (naval crown with prows), gold signet ring, map scroll of Marcus Agrippa world map, gladius at right hip. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Publius Quinctilius Varus",
+        "id": 26,
+        "prompt": "A historically accurate stickman style portrait of Publius Quinctilius Varus, Roman general lost at Teutoburg Forest, 46 BC to 9 AD, Rome and Germania. Male, approximate age 55 years at death. Soft aristocratic face, thinning grey hair combed forward, clean shaven. Blue eyes, fair skin, average build. Distinctive features: expression of anxious incompetence, soft hands unused to labor, skeptical posture. Clothing: Early Imperial legate attire, white wool tunica with latus clavus, lorica segmentata (early type) over wool subarmalis, leather pteruges. Red paludamentum with gold fibula. Leather caligae. Accessories: gold signet ring, sealed dispatches in hand, aquila standard at feet (lost). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Tiberius",
+        "id": 27,
+        "prompt": "A historically accurate stickman style portrait of Tiberius Julius Caesar Augustus, second Roman Emperor, 42 BC to 37 AD, Rome and Capri. Male, approximate age 55 to 60 years during reign. Long narrow face with hooked nose, thick dark brown hair combed forward over receding hairline, clean shaven. Dark brown eyes, olive skin, tall lean build. Distinctive features: brooding suspicious expression, heavy brow, thin lips pressed tight, stooped posture in later years. Clothing: Early Imperial senatorial attire, white wool tunica with latus clavus, white wool toga draped formally. Gold cingulum. Red leather calcei with ivory crescents. Accessories: gold corona laurea, ivory scepter, gold signet ring, scroll of treason trials (maiestas). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Lucius Aelius Sejanus",
+        "id": 28,
+        "prompt": "A historically accurate stickman style portrait of Lucius Aelius Sejanus, Praetorian Prefect under Tiberius, 20 BC to 31 AD, Rome. Male, approximate age 40 to 45 years at height. Handsome ambitious face, dark brown hair styled fashionably, clean shaven. Dark brown eyes, olive skin, athletic build. Distinctive features: charming but cold smile, calculating eyes, impeccable grooming. Clothing: Early Imperial equestrian attire, white wool tunica with angustus clavus (narrow stripe), white wool toga with purple border (trabea) for prefect rank. Gold cingulum. Leather calcei. Accessories: gold signet ring, command baton for Praetorian Guard, scroll of imperial seal. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Caligula",
+        "id": 29,
+        "prompt": "A historically accurate stickman style portrait of Caligula (Gaius Julius Caesar Augustus Germanicus), third Roman Emperor, 12 to 41 AD, Rome. Male, approximate age 25 to 28 years during reign. Hollow face with sunken temples, thinning dark brown hair, patchy beard stubble (mourning or madness). Dark brown eyes, very pale skin, tall thin build. Distinctive features: wild staring eyes, manic grin or cruel sneer, hair standing on end, expression of divine madness. Clothing: Early Imperial erratic attire, sometimes purple silk tunica with gem embroidery, sometimes military paludamentum, sometimes female stola (as Venus). Gold calcei or buskins. Accessories: gold radiate crown (as god), gold scepter, multiple gold rings, jeweled dagger. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Claudius",
+        "id": 30,
+        "prompt": "A historically accurate stickman style portrait of Claudius (Tiberius Claudius Caesar Augustus Germanicus), fourth Roman Emperor, 10 BC to 54 AD, Rome. Male, approximate age 50 to 55 years at accession. Broad face with weak chin, prematurely white hair, clean shaven. Grey blue eyes, fair skin, tall build with shaking head and limp (cerebral palsy). Distinctive features: head tremor, stammering mouth, drooling lower lip, kind scholarly eyes. Clothing: Early Imperial scholarly attire, white wool tunica with latus clavus, white wool toga. Gold cingulum. Red leather calcei. Accessories: gold corona laurea, scroll of historical works (Etruscan history), gold signet ring, freedmen attendants implied. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Nero",
+        "id": 31,
+        "prompt": "A historically accurate stickman style portrait of Nero (Nero Claudius Caesar Augustus Germanicus), fifth Roman Emperor, 37 to 68 AD, Rome. Male, approximate age 25 to 30 years at height. Round fleshy face with double chin, blond hair curled in elaborate rows (artist style), clean shaven then beard later (Greek style). Blue eyes, fair skin, stocky build. Distinctive features: artistic pretension, lyre player posture, cruel petulant mouth, neck fat. Clothing: Early Imperial artistic attire, purple silk tunica with gold embroidery, gold cingulum, purple toga picta. Gold calcei with jewels. Accessories: gold kithara (lyre), gold corona radiata, gold signet ring, mask of tragedy/comedy. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Lucius Annaeus Seneca",
+        "id": 32,
+        "prompt": "A historically accurate stickman style portrait of Lucius Annaeus Seneca, Roman Stoic philosopher and Nero tutor, 4 BC to 65 AD, Rome. Male, approximate age 60 to 65 years at death. Gaunt ascetic face, white hair and beard in philosophical style. Dark brown eyes, pale olive skin, emaciated build (asthma and diet). Distinctive features: serene accepting expression, veins visible on temples, hands folded in meditation. Clothing: Philosophical attire, coarse dark wool tunica, rough wool pallium (Greek cloak) draped over left shoulder. Leather sandals or bare feet. Accessories: scroll of Moral Epistles, suicide knife (used), bowl for opening veins. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Servius Sulpicius Galba",
+        "id": 33,
+        "prompt": "A historically accurate stickman style portrait of Servius Sulpicius Galba, Roman Emperor during Year of Four Emperors, 3 BC to 69 AD, Rome. Male, approximate age 70 to 72 years during reign. Very old wrinkled face, completely bald, clean shaven. Blue eyes, wrinkled pale skin, stooped frail build. Distinctive features: extreme age, hooked nose, toothless mouth, expression of severe austerity. Clothing: Early Imperial old fashioned attire, white wool tunica with latus clavus, white wool toga. Gold cingulum. Red leather calcei. Accessories: gold corona laurea, ivory scepter, gold signet ring, purse (stingy reputation). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Salvius Otho",
+        "id": 34,
+        "prompt": "A historically accurate stickman style portrait of Marcus Salvius Otho, Roman Emperor during Year of Four Emperors, 32 to 69 AD, Rome. Male, approximate age 37 years during reign. Handsome vain face, elaborate wig of dark curls, clean shaven. Dark brown eyes, olive skin, average build. Distinctive features: excessive grooming, mirror checking posture, effeminate bearing, perfume scent implied. Clothing: Early Imperial fashionable attire, purple silk tunica with gold stripes, gold cingulum, purple toga picta. Gold calcei with elaborate lacing. Accessories: gold corona laurea, multiple gold rings, perfume box, wig stand at feet. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Aulus Vitellius",
+        "id": 35,
+        "prompt": "A historically accurate stickman style portrait of Aulus Vitellius, Roman Emperor during Year of Four Emperors, 15 to 69 AD, Rome. Male, approximate age 54 years during reign. Huge obese face with multiple chins, thinning grey hair, clean shaven. Blue eyes, florid pale skin, massively obese build. Distinctive features: gluttonous expression, food stains on toga, sweat, labored breathing posture. Clothing: Early Imperial oversized attire, white wool tunica stretched tight, white wool toga barely meeting. Gold cingulum strained. Red leather calcei split at sides. Accessories: gold corona laurea, napkin tucked at neck, giant turkey leg in hand, gold signet ring. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Titus Flavius Vespasianus",
+        "id": 36,
+        "prompt": "A historically accurate stickman style portrait of Vespasian (Titus Flavius Vespasianus), founder of Flavian dynasty, 9 to 79 AD, Rome. Male, approximate age 60 to 65 years during reign. Rugged weathered face with strong jaw, receding grey hair, clean shaven. Dark brown eyes, deeply tanned olive skin, stocky muscular build. Distinctive features: wry amused expression, practical no nonsense bearing, wart on cheek, posture of soldier emperor. Clothing: Early Imperial practical attire, white wool tunica with latus clavus, white wool toga. Gold cingulum. Red leather calcei worn practical. Accessories: gold corona laurea, ivory scepter, gold signet ring, urine tax amphora at feet (pecunia non olet). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Titus",
+        "id": 37,
+        "prompt": "A historically accurate stickman style portrait of Titus (Titus Flavius Vespasianus), Roman Emperor, 39 to 81 AD, Rome. Male, approximate age 40 to 41 years during brief reign. Handsome benevolent face, thick dark brown hair with slight grey at temples, clean shaven. Dark brown eyes, olive skin, athletic build. Distinctive features: kind smile, dimples, expression of genuine warmth, laurel wreath hiding scar. Clothing: Early Imperial princely attire, white wool tunica with latus clavus, white wool toga. Gold cingulum. Red leather calcei. Accessories: gold corona laurea, ivory scepter, gold signet ring, Colosseum model at feet. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Domitian",
+        "id": 38,
+        "prompt": "A historically accurate stickman style portrait of Domitian (Titus Flavius Domitianus), Roman Emperor, 51 to 96 AD, Rome. Male, approximate age 40 to 45 years at height. Balding with hair combed forward elaborately, clean shaven. Dark brown eyes, olive skin, tall lean build. Distinctive features: suspicious paranoid expression, high forehead, thin lips, hands often checking for daggers. Clothing: Early Imperial authoritarian attire, purple wool tunica with gold embroidery, gold cingulum, purple toga picta. Gold calcei. Accessories: gold corona laurea (worn constantly), ivory scepter, gold signet ring, list of informers (delatores) in hand. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Cocceius Nerva",
+        "id": 39,
+        "prompt": "A historically accurate stickman style portrait of Nerva (Marcus Cocceius Nerva), Roman Emperor, 30 to 98 AD, Rome. Male, approximate age 65 to 66 years at accession. Elderly refined face, thinning white hair, clean shaven. Blue eyes, pale skin, frail build. Distinctive features: gentle scholarly expression, tremulous hands, kind eyes, posture of reluctant ruler. Clothing: Early Imperial senatorial attire, white wool tunica with latus clavus, white wool toga. Gold cingulum. Red leather calcei. Accessories: gold corona laurea, ivory scepter, gold signet ring, adoption decree for Trajan in hand. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Trajan",
+        "id": 40,
+        "prompt": "A historically accurate stickman style portrait of Trajan (Marcus Ulpius Traianus), Roman Emperor, 53 to 117 AD, Rome and Dacia. Male, approximate age 50 to 55 years during Dacian Wars. Rugged soldier face, thick dark brown hair with grey at temples, clean shaven. Dark brown eyes, deeply tanned olive skin, tall muscular build. Distinctive features: strong jaw, confident easy smile, posture of general on campaign, simple bearing. Clothing: High Imperial military attire, red wool tunica, lorica segmentata with gilded fittings, leather pteruges. Red paludamentum with gold fibula. Leather caligae. Accessories: gold corona civica, ivory baton, gold signet ring, Dacian gold bracelet (spoils), Trajan Column scroll. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Hadrian",
+        "id": 41,
+        "prompt": "A historically accurate stickman style portrait of Hadrian (Publius Aelius Hadrianus), Roman Emperor, 76 to 138 AD, Rome and provinces. Male, approximate age 45 to 50 years during reign. Handsome intellectual face, thick curly dark brown hair and full beard (first bearded emperor, Greek style). Dark brown eyes, olive skin, athletic build. Distinctive features: philosophical bearing, intense gaze, beard trimmed neat, constant traveler posture. Clothing: High Imperial Hellenistic attire, white wool tunica with latus clavus, white wool toga or Greek himation. Gold cingulum. Leather calcei or Greek sandals. Accessories: gold corona laurea, ivory scepter, gold signet ring, architectural plans (Pantheon, Villa Adriana), map of empire. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Antoninus Pius",
+        "id": 42,
+        "prompt": "A historically accurate stickman style portrait of Antoninus Pius (Titus Aurelius Fulvus Boionius Arrius Antoninus), Roman Emperor, 86 to 161 AD, Rome. Male, approximate age 55 to 60 years during reign. Calm dignified face, grey hair and full beard trimmed neat. Blue eyes, fair skin, average build. Distinctive features: serene paternal expression, no military bearing, scholarly posture, folded hands. Clothing: High Imperial civilian attire, white wool tunica with latus clavus, white wool toga draped perfectly. Gold cingulum. Red leather calcei. Accessories: gold corona laurea, ivory scepter, gold signet ring, law codex (legal reforms), no weapons. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Marcus Aurelius",
+        "id": 43,
+        "prompt": "A historically accurate stickman style portrait of Marcus Aurelius (Marcus Aurelius Antoninus), Roman Emperor and Stoic, 121 to 180 AD, Danube frontier. Male, approximate age 50 to 55 years during Marcomannic Wars. Weary philosophical face, thick curly dark brown hair and full beard grey at temples. Dark brown eyes, olive skin, lean build. Distinctive features: tired eyes of chronic pain and duty, meditative expression, Meditations scroll in hand. Clothing: High Imperial campaign attire, red wool tunica, lorica hamata (mail) over subarmalis, leather pteruges. Purple paludamentum with gold fibula. Leather caligae. Accessories: gold corona laurea, ivory scepter, gold signet ring, Meditations codex, statuette of Philosophy. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Commodus",
+        "id": 44,
+        "prompt": "A historically accurate stickman style portrait of Commodus (Lucius Aurelius Commodus), Roman Emperor, 161 to 192 AD, Rome. Male, approximate age 30 years at death. Handsome but cruel face, curly blond hair and short beard styled as Hercules, clean shaven cheeks. Blue eyes, fair skin, muscular athletic build. Distinctive features: narcissistic grin, Hercules club and lion skin, arena sand on boots, megalomaniac bearing. Clothing: High Imperial megalomaniac attire, purple silk tunica with gold Herculean motifs, gold cingulum, lion skin draped over shoulder. Gold calcei. Accessories: gold corona radiata (as Hercules), gold club, gold signet ring, gladius (wooden for arena), severed ostrich head. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Septimius Severus",
+        "id": 45,
+        "prompt": "A historically accurate stickman style portrait of Septimius Severus, Roman Emperor, 145 to 211 AD, Leptis Magna and Rome. Male, approximate age 55 to 60 years during reign. Stern African features, tight curly grey hair and full beard grey. Dark brown eyes, dark olive skin, stocky powerful build. Distinctive features: intense military bearing, piercing gaze, thin compressed lips, campaign posture. Clothing: Late Imperial military attire, red wool tunica, lorica segmentata with silvered fittings, leather pteruges. Purple paludamentum with gold fibula. Leather caligae. Accessories: gold corona laurea, ivory scepter, gold signet ring, pay chest for soldiers (donativum), arch of Septimius Severus plans. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Caracalla",
+        "id": 46,
+        "prompt": "A historically accurate stickman style portrait of Caracalla (Marcus Aurelius Antoninus), Roman Emperor, 188 to 217 AD, Rome and East. Male, approximate age 25 to 29 years during reign. Handsome but brutal face, short curly dark hair and scruffy beard (soldier style). Dark brown eyes, olive skin, muscular build. Distinctive features: scowling suspicious expression, tilted head (chronic pain), soldierly bearing, fratricide guilt in eyes. Clothing: Late Imperial soldier emperor attire, red wool tunica, lorica hamata, leather pteruges. Red paludamentum with gold fibula. Leather caligae. Accessories: gold corona laurea, ivory scepter, gold signet ring, Constitutio Antoniniana scroll (citizenship edict), dagger for Geta murder. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Elagabalus",
+        "id": 47,
+        "prompt": "A historically accurate stickman style portrait of Elagabalus (Varius Avitus Bassianus), Roman Emperor, 204 to 222 AD, Rome. Male, approximate age 18 years at death. Youthful effeminate face, long black hair in elaborate Syrian priestly style, heavy makeup (kohl eyes, rouge). Dark brown eyes, olive skin, slender build. Distinctive features: exotic eastern appearance, priestly vestments, gender fluid presentation, exotic jewelry. Clothing: Late Imperial Syrian priestly attire, silk tunica with gold embroidery (sun god motifs), gold cingulum, silk mantle with gemstones. Gold buskins. Accessories: gold sacerdotal tiara (sun god), gold signet rings, exotic perfumed, black conical stone (Elagabal) on pedestal. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Severus Alexander",
+        "id": 48,
+        "prompt": "A historically accurate stickman style portrait of Severus Alexander (Marcus Aurelius Severus Alexander), Roman Emperor, 208 to 235 AD, Rome and Germania. Male, approximate age 25 years at death. Young gentle face, dark brown hair and light beard, clean shaven cheeks. Dark brown eyes, olive skin, average build. Distinctive features: moderate reasonable expression, dominated by mother Julia Mamaea, scholarly bearing. Clothing: Late Imperial moderate attire, white wool tunica with latus clavus, white wool toga. Gold cingulum. Red leather calcei. Accessories: gold corona laurea, ivory scepter, gold signet ring, law codex, Christian and Jewish symbols (eclectic piety). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Valerian",
+        "id": 49,
+        "prompt": "A historically accurate stickman style portrait of Valerian (Publius Licinius Valerianus), Roman Emperor captured by Persians, 200 to 264 AD, Rome and Persia. Male, approximate age 60 years at capture. Old weary face, white hair and full beard. Blue eyes, pale skin, frail build. Distinctive features: defeated broken posture, chains, mounting block pose (human footstool for Shapur I). Clothing: Late Imperial campaign attire, red wool tunica, lorica squamata (scale armor), leather pteruges. Purple paludamentum torn. Leather caligae. Accessories: gold corona laurea bent, broken scepter, chains on wrists, Persian mounting block at feet. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Aurelian",
+        "id": 50,
+        "prompt": "A historically accurate stickman style portrait of Aurelian (Lucius Domitius Aurelianus), Roman Emperor Restorer of the World, 214 to 275 AD, Rome and Palmyra. Male, approximate age 55 to 60 years during reign. Hard military face, close cropped grey hair, stubble beard. Dark brown eyes, weathered olive skin, muscular build. Distinctive features: severe disciplined expression, Sol Invictus devotion, wall builder posture. Clothing: Late Imperial military attire, red wool tunica, lorica segmentata with gold fittings, leather pteruges. Red paludamentum with gold fibula (Sol Invictus). Leather caligae. Accessories: gold corona radiata (Sun God), ivory scepter, gold signet ring, Aurelian Walls plans, Palmyrene captive (Zenobia implied). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Diocletian",
+        "id": 51,
+        "prompt": "A historically accurate stickman style portrait of Diocletian (Gaius Aurelius Valerius Diocletianus), Roman Emperor, 244 to 311 AD, Nicomedia and Split. Male, approximate age 60 years at abdication. Stern Illyrian face, close cropped grey hair, clean shaven. Dark brown eyes, olive skin, stocky build. Distinctive features: autocratic divine bearing (Dominus et Deus), jeweled diadem, oriental court prostration (adoratio). Clothing: Late Imperial Dominate attire, purple silk tunica with gold and gem embroidery, gold cingulum, purple silk mantle with pearls. Jewelled buskins. Accessories: gold diadem with pearls, jewelled scepter, gold signet ring, price edict scroll, cabbage garden tools (retirement). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Constantine the Great",
+        "id": 52,
+        "prompt": "A historically accurate stickman style portrait of Constantine I (Flavius Valerius Constantinus), Roman Emperor, 272 to 337 AD, Rome and Constantinople. Male, approximate age 40 to 45 years at Milvian Bridge. Strong face, dark brown hair brushed forward, clean shaven. Dark brown eyes, olive skin, tall athletic build. Distinctive features: intense visionary gaze, chi rho symbol on helmet, Christian piety mixed with solar imagery. Clothing: Late Imperial Christian emperor attire, purple silk tunica with gold embroidery, gold cingulum, purple mantle with chi rho. Jewelled buskins. Accessories: gold diadem with pearls and chi rho, jewelled scepter, gold signet ring, Labarum standard (chi rho banner), Edict of Milan scroll. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Licinius",
+        "id": 53,
+        "prompt": "A historically accurate stickman style portrait of Licinius (Valerius Licinianus Licinius), Roman Emperor, 265 to 325 AD, East. Male, approximate age 50 years at defeat. Rugged military face, grey hair and beard. Dark brown eyes, olive skin, stocky build. Distinctive features: resentful expression, pagan traditionalist, defeated posture at Chrysopolis. Clothing: Late Imperial military attire, red wool tunica, lorica hamata, leather pteruges. Purple paludamentum. Leather caligae. Accessories: gold corona laurea, ivory scepter, gold signet ring, pagan altar, broken alliance treaty with Constantine. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Valens",
+        "id": 54,
+        "prompt": "A historically accurate stickman style portrait of Valens (Flavius Valens), Eastern Roman Emperor, 328 to 378 AD, Adrianople. Male, approximate age 50 years at death. Heavy faced, grey hair and moustache (no beard). Blue eyes, florid skin, stocky build. Distinctive features: jealous insecure expression, Arian Christian symbols, rash impulsive posture. Clothing: Late Imperial eastern attire, purple silk tunica, gold cingulum, purple mantle with Arian cross. Jewelled buskins. Accessories: gold diadem, jewelled scepter, gold signet ring, Gothic treaty broken, burning farmhouse (death scene). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Gratian",
+        "id": 55,
+        "prompt": "A historically accurate stickman style portrait of Gratian (Flavius Gratianus), Western Roman Emperor, 359 to 383 AD, Gaul and Milan. Male, approximate age 20 years at death. Youthful handsome face, dark brown hair, clean shaven. Dark brown eyes, olive skin, lean build. Distinctive features: pious serious expression, refuses pontifex maximus title, Christian emperor. Clothing: Late Imperial Christian attire, purple silk tunica with gold cross embroidery, gold cingulum, purple mantle with chi rho. Jewelled buskins. Accessories: gold diadem with cross, jewelled scepter, gold signet ring, Nicene Creed scroll, Altar of Victory removed. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Theodosius I",
+        "id": 56,
+        "prompt": "A historically accurate stickman style portrait of Theodosius I (Flavius Theodosius), last Emperor of united Empire, 347 to 395 AD, Milan and Constantinople. Male, approximate age 48 years at death. Spanish features, grey hair and beard. Dark brown eyes, olive skin, stocky build. Distinctive features: penitent expression (Ambrose penance), orthodox Nicene zeal, law codex (Theodosian Code). Clothing: Late Imperial orthodox attire, purple silk tunica with gold cross, gold cingulum, purple mantle with cross. Jewelled buskins. Accessories: gold diadem with cross, jewelled scepter, gold signet ring, Theodosian Code scroll, Gothic foederati treaty. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Honorius",
+        "id": 57,
+        "prompt": "A historically accurate stickman style portrait of Honorius (Flavius Honorius), Western Roman Emperor, 384 to 423 AD, Ravenna. Male, approximate age 25 years during Alaric sack. Weak childlike face, blond hair, clean shaven. Blue eyes, pale skin, slight build. Distinctive features: vacant incompetent expression, chicken feeding hobby (famously cared for poultry), puppet emperor posture. Clothing: Late Imperial western attire, purple silk tunica, gold cingulum, purple mantle. Jewelled buskins. Accessories: gold diadem, jewelled scepter, gold signet ring, chicken coop at feet, Ravenna marshes background implied. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Arcadius",
+        "id": 58,
+        "prompt": "A historically accurate stickman style portrait of Arcadius (Flavius Arcadius), Eastern Roman Emperor, 377 to 408 AD, Constantinople. Male, approximate age 30 years during reign. Weak narrow face, dark hair, clean shaven. Dark brown eyes, olive skin, slight build. Distinctive features: passive dominated expression, controlled by ministers (Eutropius, Anthemius), ceremonial puppet. Clothing: Late Imperial eastern attire, purple silk tunica with gold embroidery, gold cingulum, purple mantle. Jewelled buskins. Accessories: gold diadem, jewelled scepter, gold signet ring, ceremonial catalog, empty throne real power elsewhere. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Stilicho",
+        "id": 59,
+        "prompt": "A historically accurate stickman style portrait of Stilicho (Flavius Stilicho), Vandal general and regent, 359 to 408 AD, Milan and Ravenna. Male, approximate age 45 to 49 years at execution. Strong Germanic face, blond hair cut in Roman military style, clean shaven. Blue eyes, fair skin, muscular build. Distinctive features: loyal competent expression, half Vandal heritage, magister militum bearing, executed by court coup. Clothing: Late Imperial magister militum attire, red wool tunica, lorica segmentata late type, leather pteruges. Red paludamentum with gold fibula. Leather caligae. Accessories: gold corona laurea, ivory baton, gold signet ring, Vandal style brooch, executed order scroll. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Alaric I",
+        "id": 60,
+        "prompt": "A historically accurate stickman style portrait of Alaric I, King of the Visigoths, 370 to 410 AD, Italy and Balkans. Male, approximate age 40 years at sack of Rome. Noble Germanic face, long blond hair in royal style, full blond beard. Blue eyes, fair skin, tall imposing build. Distinctive features: kingly bearing, Christian Arian faith, Roman magister militum experience, sack of Rome 410. Clothing: Gothic royal attire, wool tunic with gold embroidery (Roman influence), wool trousers (bracae), gold belt. Red wool cloak (sagum) with gold fibula. Leather boots. Accessories: gold royal torc, iron sword with gold hilt, Christian cross, Rome city gates keys. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Augustine of Hippo",
+        "id": 61,
+        "prompt": "A historically accurate stickman style portrait of Augustine of Hippo (Aurelius Augustinus), Bishop and theologian, 354 to 430 AD, Hippo Regius. Male, approximate age 60 to 70 years during Vandal siege. Ascetic intellectual face, tonsured grey hair, grey beard. Dark brown eyes, olive skin, frail build. Distinctive features: intense theological expression, writing City of God, bishop vestments, burning candles. Clothing: Late Roman episcopal attire, white linen alb, wool chasuble in liturgical color, pallium (wool band with crosses). Leather sandals. Accessories: gold pectoral cross, crozier (bishop staff), City of God codex, pen and ink, burning Hippo background implied. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Attila the Hun",
+        "id": 62,
+        "prompt": "A historically accurate stickman style portrait of Attila, King of the Huns, 406 to 453 AD, Pannonia and Gaul. Male, approximate age 45 years at height. Short broad face, flat nose, thin beard, shaved scalp with long hair at back (Hun style). Dark brown eyes, weathered olive skin, short stocky powerful build. Distinctive features: terrifying gaze, simple unadorned dress (contrast to Romans), Scourge of God bearing. Clothing: Hunnic royal attire, simple wool tunic, wool trousers, leather belt. Simple wool cloak. Leather boots. Accessories: iron sword (Mars sword legend), simple gold torc, no crown, Pope Leo meeting scroll. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Flavius Aetius",
+        "id": 63,
+        "prompt": "A historically accurate stickman style portrait of Flavius Aetius, last great Roman general, 391 to 454 AD, Gaul and Italy. Male, approximate age 60 years at murder. Hard weathered face, grey hair military cut, clean shaven. Dark brown eyes, tanned olive skin, lean muscular build. Distinctive features: competent weary expression, Hunnic upbringing influence, barbarian coalition builder, murdered by Valentinian III. Clothing: Late Imperial magister militum attire, red wool tunica, lorica hamata late type, leather pteruges. Red paludamentum with gold fibula. Leather caligae. Accessories: gold corona laurea, ivory baton, gold signet ring, Hunnic bow, Catalaunian Plains map, Valentinian dagger. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Pope Leo I",
+        "id": 64,
+        "prompt": "A historically accurate stickman style portrait of Pope Leo I (Leo the Great), Bishop of Rome, 400 to 461 AD, Rome. Male, approximate age 50 years at Attila meeting. Aristocratic Roman face, tonsured grey hair, clean shaven. Dark brown eyes, olive skin, average build. Distinctive features: authoritative spiritual bearing, met Attila unarmed, Tome of Leo, Petrine primacy. Clothing: 5th century papal attire, white linen alb, red wool chasuble, pallium with black crosses. Red leather papal shoes. Accessories: gold pectoral cross, pastoral staff, Tome of Leo scroll, Attila withdrawal gesture. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Valentinian III",
+        "id": 65,
+        "prompt": "A historically accurate stickman style portrait of Valentinian III, Western Roman Emperor, 419 to 455 AD, Ravenna. Male, approximate age 35 years at death. Weak petulant face, dark hair, clean shaven. Dark brown eyes, olive skin, slight build. Distinctive features: jealous incompetent expression, murdered Aetius, puppet of mother Galla Placidia. Clothing: Late Imperial western attire, purple silk tunica, gold cingulum, purple mantle. Jewelled buskins. Accessories: gold diadem, jewelled scepter, gold signet ring, Aetius murder dagger, Galla Placidia influence implied. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Ricimer",
+        "id": 66,
+        "prompt": "A historically accurate stickman style portrait of Ricimer (Flavius Ricimer), Suevic Gothic general, kingmaker, 405 to 472 AD, Italy. Male, approximate age 60 years at death. Germanic face, blond hair, clean shaven. Blue eyes, fair skin, muscular build. Distinctive features: power behind throne, Germanic kingmaker, puppet emperors, real ruler of West. Clothing: Late Imperial magister militum attire, red wool tunica, lorica squamata, leather pteruges. Red paludamentum with gold fibula. Leather caligae. Accessories: gold corona laurea, ivory baton, gold signet ring, Suevic brooch, puppet emperor crowns at feet. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Gundobad",
+        "id": 67,
+        "prompt": "A historically accurate stickman style portrait of Gundobad, Burgundian king and Roman general, 420 to 516 AD, Gaul and Italy. Male, approximate age 50 years during Ricimer era. Burgundian face, long red blond hair, red blond beard. Blue eyes, fair skin, tall build. Distinctive features: dual loyalty Burgundian king/Roman magister militum, Lex Gundobada law code. Clothing: Hybrid attire, Roman lorica hamata over Burgundian wool tunic and trousers. Red wool cloak with gold fibula. Leather boots. Accessories: gold torc, iron sword, Roman gold signet ring, Lex Gundobada scroll, Burgundian crown. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Orestes",
+        "id": 68,
+        "prompt": "A historically accurate stickman style portrait of Orestes, Roman general and father of last emperor, 430 to 476 AD, Pannonia and Italy. Male, approximate age 46 years at death. Pannonian Roman face, grey hair military cut, clean shaven. Dark brown eyes, olive skin, stocky build. Distinctive features: Attila former secretary, refused foederati land, killed by Odoacer. Clothing: Late Imperial magister militum attire, red wool tunica, lorica segmentata late, leather pteruges. Red paludamentum. Leather caligae. Accessories: gold corona laurea, ivory baton, gold signet ring, Attila seal ring, foederati land refusal decree. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Odoacer",
+        "id": 69,
+        "prompt": "A historically accurate stickman style portrait of Odoacer (Flavius Odoacer), King of Italy, first barbarian king, 433 to 493 AD, Italy. Male, approximate age 43 years at deposition of Romulus Augustulus. Rugged Germanic face, blond hair, full blond beard. Blue eyes, fair skin, muscular build. Distinctive features: practical king not emperor, sent regalia to Constantinople, first barbarian king of Italy. Clothing: Hybrid king attire, Roman lorica hamata over Germanic wool tunic and trousers. Purple wool cloak (Roman gift) with gold fibula. Leather boots. Accessories: gold torc, iron sword, Roman Patrician rank insignia, imperial regalia (diadem, purple cloak) packaged for Constantinople. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Romulus Augustulus",
+        "id": 70,
+        "prompt": "A historically accurate stickman style portrait of Romulus Augustulus, last Western Roman Emperor, 460 to after 476 AD, Ravenna. Male, approximate age 16 years at deposition. Boyish face, blond hair, clean shaven. Blue eyes, pale skin, slight build. Distinctive features: child emperor, nickname Augustulus (little Augustus), pensioned off to Campania, lived decades after. Clothing: Late Imperial child emperor attire, purple silk tunica small, gold cingulum, purple mantle small. Jewelled buskins small. Accessories: gold diadem small, jewelled scepter small, gold signet ring, toy sword, pension decree from Odoacer. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Justinian I",
+        "id": 71,
+        "prompt": "A historically accurate stickman style portrait of Justinian I (Flavius Petrus Sabbatius Iustinianus), Eastern Roman Emperor, 482 to 565 AD, Constantinople. Male, approximate age 50 years during reconquest. Illyrian peasant face risen to power, grey hair and beard. Dark brown eyes, olive skin, average build. Distinctive features: tireless workaholic, theologian emperor, Corpus Juris Civilis, Hagia Sophia builder, plague survivor. Clothing: Early Byzantine imperial attire, purple silk tunica with gold embroidery (loros), gold cingulum, purple mantle with tablion. Jewelled buskins. Accessories: gold crown with pendilia (pearl strings), jewelled scepter, gold signet ring, Corpus Juris Civilis codex, Hagia Sophia model, Nika riot scars. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Constantine XI Palaiologos",
+        "id": 72,
+        "prompt": "A historically accurate stickman style portrait of Constantine XI Palaiologos, last Byzantine Emperor, 1405 to 1453 AD, Constantinople. Male, approximate age 48 years at fall. Greek aristocratic face, grey hair and forked beard (Byzantine style). Dark brown eyes, olive skin, lean build. Distinctive features: tragic heroic bearing, last emperor, died fighting at Gate of St Romanus, purple boots discarded. Clothing: Late Byzantine imperial attire, silk tunica with gold loros, gold cingulum, purple mantle with double headed eagle. Jewelled boots. Accessories: gold crown with pendilia, jewelled scepter, gold signet ring, Theodosian Walls, Ottoman cannon breach, sword drawn for final charge. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    },
+    {
+        "name": "Bar Kokhba",
+        "id": 73,
+        "prompt": "A historically accurate stickman style portrait of Simon bar Kokhba, leader of Jewish revolt, 132 to 136 AD, Judea. Male, approximate age 40 years during revolt. Intense Jewish leader face, dark hair and beard in Jewish style. Dark brown eyes, olive skin, muscular build. Distinctive features: messianic fervor, Son of Star (Bar Kokhba), Roman style military organization, Tetradrachm coins. Clothing: Jewish revolt attire, wool tunic with tzitzit (fringes), wool tallit (prayer shawl) over shoulders. Leather sandals. Accessories: tefillin (phylacteries) on arm and head, shofar (ram horn), Bar Kokhba coin (Temple facade), Roman captured weapons, cave refuge (Betar). Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate, suitable as reference image for future scenes."
+    }
+]

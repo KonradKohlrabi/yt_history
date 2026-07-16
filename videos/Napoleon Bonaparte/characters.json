@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Napoleon Bonaparte",
+        "id": 0,
+        "prompt": "A historically accurate stickmanstyle reference image of Napoleon Bonaparte, Emperor of the French, during his prime years 1800-1812. Male, approximately 35 years old, height approximately 168 cm, stocky compact build with broad shoulders. Face shape oval with slightly receding hairline, dark brown hair brushed forward over forehead in the characteristic coup de vent style, clean-shaven. Gray-blue eyes, pale olive skin tone typical of Corsican heritage. Distinctive features: intense penetrating gaze, slight forward head carriage, hand often tucked inside waistcoat. Clothing: dark blue colonel's uniform of the Chasseurs \u00e0 Cheval de la Garde Imp\u00e9riale with red collar and cuffs, gold epaulettes, white breeches, black knee-high boots, red silk sash, Legion of Honor star on left breast. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Maximilien Robespierre",
+        "id": 1,
+        "prompt": "A historically accurate stickmanstyle reference image of Maximilien Robespierre, French revolutionary lawyer and politician, during the Reign of Terror 1793-1794. Male, approximately 36 years old, height approximately 165 cm, slender fragile build. Face shape long and narrow with high forehead, powdered light brown hair worn in late 18th century style with side curls and queue at back, clean-shaven. Pale blue eyes, very pale translucent skin tone. Distinctive features: green-tinted spectacles, tight thin lips, anxious intensity in expression. Clothing: dark green frock coat with velvet collar, white waistcoat, white cravat, black knee breeches, silk stockings, buckled shoes. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Augustin Robespierre",
+        "id": 2,
+        "prompt": "A historically accurate stickmanstyle reference image of Augustin Robespierre, younger brother of Maximilien, French revolutionary politician, 1793-1794. Male, approximately 30 years old, height approximately 170 cm, lean build. Face shape similar to his brother but softer, powdered light brown hair in fashionable queue style, clean-shaven. Blue-gray eyes, pale skin. Distinctive features: less severe expression than Maximilien, slight cleft chin. Clothing: blue revolutionary coat with red collar, white waistcoat, white cravat, black breeches, stockings, buckled shoes, red Phrygian cap occasionally worn. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Horatio Nelson",
+        "id": 3,
+        "prompt": "A historically accurate stickmanstyle reference image of Horatio Nelson, British Royal Navy Vice-Admiral, during the Napoleonic Wars 1798-1805. Male, approximately 45 years old, height approximately 163 cm, slight build. Face shape round with weathered complexion, graying brown hair worn short and curled at sides, clean-shaven. Right eye blind and sightless (clouded appearance), left eye bright blue, skin deeply tanned and lined from sea exposure. Distinctive features: empty right sleeve pinned across chest, slight stoop, authoritative posture. Clothing: British Royal Navy rear-admiral's full dress uniform - dark blue coat with gold lace on cuffs and collar, gold epaulettes with anchor motif, white waistcoat and breeches, black stockings, buckled shoes, bicorne hat worn fore-and-aft. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Lucien Bonaparte",
+        "id": 4,
+        "prompt": "A historically accurate stickmanstyle reference image of Lucien Bonaparte, Napoleon's younger brother, President of the Council of Five Hundred, 1799. Male, approximately 24 years old, height approximately 180 cm, tall athletic build. Face shape oval with strong jawline, dark brown hair worn in fashionable Titan cut with sideburns, clean-shaven. Dark brown eyes, olive skin tone. Distinctive features: confident bearing, resemblance to Napoleon but taller and more classically handsome. Clothing: directoire style civilian coat in dark blue velvet, high white collar with ruffled cravat, buff waistcoat, tan breeches, black Hessian boots. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Louis Desaix",
+        "id": 5,
+        "prompt": "A historically accurate stickmanstyle reference image of Louis Desaix, French Revolutionary general, Battle of Marengo 1800. Male, approximately 32 years old, height approximately 175 cm, lean muscular build. Face shape square with determined jaw, dark hair worn short and unpowdered, clean-shaven. Dark eyes, sun-tanned skin from campaigning. Distinctive features: calm assured expression, soldierly bearing, slight scar on left cheek. Clothing: French general of division uniform - dark blue coat with red facings, gold epaulettes, white waistcoat and breeches, black boots, red sash, bicorne hat with tricolor cockade. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Pope Pius VII",
+        "id": 6,
+        "prompt": "A historically accurate stickmanstyle reference image of Pope Pius VII (Barnaba Chiaramonti), Bishop of Rome, during Napoleon's coronation 1804. Male, approximately 62 years old, height approximately 170 cm, frail stooped build. Face shape long and thin, white hair tonsured, clean-shaven. Pale blue eyes, very pale translucent skin. Distinctive features: gentle patient expression, hands often folded in prayer. Clothing: full papal regalia - white cassock, red mozzetta cape with ermine trim, white rochet, red stole with gold embroidery, white zucchetto skullcap, red papal shoes, ferula staff with cross. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Jos\u00e9phine de Beauharnais",
+        "id": 7,
+        "prompt": "A historically accurate stickmanstyle reference image of Jos\u00e9phine de Beauharnais, Empress of the French, during the Consulate and early Empire 1800-1809. Female, approximately 37 years old, height approximately 162 cm, slender graceful figure. Face shape heart-shaped with delicate features, chestnut brown hair styled in classical Empire fashion with curls framing face and chignon at back, no facial hair. Hazel eyes, fair porcelain skin with rose tint. Distinctive features: charming smile, slightly decayed teeth (historically documented), elegant neck and shoulders. Clothing: Empire waist white silk gown with gold embroidery at hem, short sleeves with lace overlay, cashmere shawl draped over arms, pearl necklace and earrings, diadem tiara. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Arthur Wellesley",
+        "id": 8,
+        "prompt": "A historically accurate stickmanstyle reference image of Arthur Wellesley, 1st Duke of Wellington, British general during the Peninsular War and Waterloo 1808-1815. Male, approximately 45 years old, height approximately 173 cm, lean athletic build. Face shape long and narrow with aquiline nose, dark brown hair worn short with sideburns, clean-shaven. Blue-gray eyes, fair skin weathered by campaigning. Distinctive features: thin compressed lips, hawk-like gaze, ramrod straight posture. Clothing: British field marshal's uniform - dark blue coat with red collar and cuffs, gold epaulettes and extensive gold braid, white breeches, black knee-high boots, red sash, numerous order stars and medals, bicorne hat. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Gebhard Leberecht von Bl\u00fccher",
+        "id": 9,
+        "prompt": "A historically accurate stickmanstyle reference image of Gebhard Leberecht von Bl\u00fccher, Prussian Field Marshal, during the Wars of Liberation 1813-1815. Male, approximately 72 years old, height approximately 175 cm, wiry tough build. Face shape rugged and weather-beaten, white hair cut short military style, white mustache and sideburns. Blue eyes, deeply lined and ruddy skin from decades of campaigning. Distinctive features: fierce energetic expression despite age, forward-leaning aggressive posture, nickname 'Marschall Vorw\u00e4rts' (Marshal Forward). Clothing: Prussian field marshal uniform - dark blue coat with red collar and cuffs, heavy gold epaulettes, black leather breeches, black boots, Iron Cross at throat, Pour le M\u00e9rite, numerous decorations. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Emmanuel de Grouchy",
+        "id": 10,
+        "prompt": "A historically accurate stickmanstyle reference image of Emmanuel de Grouchy, Marshal of France, during the Hundred Days 1815. Male, approximately 48 years old, height approximately 180 cm, tall imposing build. Face shape long with high forehead, dark hair graying at temples worn in military queue, clean-shaven. Dark eyes, olive complexion. Distinctive features: aristocratic bearing, calm professional demeanor, slightly haughty expression. Clothing: French marshal's uniform 1815 pattern - dark blue coat with gold oak leaf embroidery on collar, cuffs, and front, silver epaulettes with marshal's baton devices, white waistcoat and breeches, black boots, marshal's baton carried. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Michel Ney",
+        "id": 11,
+        "prompt": "A historically accurate stickmanstyle reference image of Michel Ney, Marshal of France, 'Le Rougeaud' 'The Bravest of the Brave', during the Napoleonic Wars 1805-1815. Male, approximately 45 years old, height approximately 178 cm, powerfully built. Face shape square and ruddy, red-brown hair receding at temples worn short, clean-shaven. Brown eyes, florid complexion. Distinctive features: intense fiery expression, thick neck, soldier's bearing, numerous campaign scars. Clothing: French marshal's uniform - dark blue coat with gold embroidery, red collar and cuffs, silver epaulettes, red sash, white breeches, black boots, Legion of Honor grand cross, marshal's baton. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "J\u00f3zef Poniatowski",
+        "id": 12,
+        "prompt": "A historically accurate stickmanstyle reference image of J\u00f3zef Poniatowski, Polish Prince and Marshal of France, during the Leipzig campaign 1813. Male, approximately 50 years old, height approximately 175 cm, athletic elegant build. Face shape oval with refined features, dark hair worn in fashionable military style with sideburns, clean-shaven. Dark brown eyes, olive skin. Distinctive features: handsome charismatic bearing, slight smile, Polish cavalry officer's confidence. Clothing: French marshal's uniform with Polish distinctions - dark blue coat with gold embroidery, crimson Polish-style cuffs, silver epaulettes, white breeches, black hussar-style boots, Virtuti Militari cross, marshal's baton. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Emmanuel de Las Cases",
+        "id": 13,
+        "prompt": "A historically accurate stickmanstyle reference image of Emmanuel de Las Cases, French historian and Napoleon's memorialist on St. Helena, 1815-1816. Male, approximately 50 years old, height approximately 170 cm, medium build. Face shape round with gentle features, graying brown hair worn short, clean-shaven. Brown eyes, fair skin. Distinctive features: scholarly attentive expression, always with notebook and quill, slight stoop from writing. Clothing: civilian empire period coat in dark brown, high collar with white cravat, buff waistcoat, gray trousers, black shoes, spectacles perched on nose. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Alexander I of Russia",
+        "id": 14,
+        "prompt": "A historically accurate stickmanstyle reference image of Alexander I, Emperor of Russia, during the Napoleonic Wars 1805-1815. Male, approximately 35 years old, height approximately 175 cm, slender graceful build. Face shape oval with delicate almost feminine features, blond hair worn in fashionable short curls, clean-shaven. Blue eyes, very fair translucent skin. Distinctive features: enigmatic expression, graceful bearing, hands often clasped behind back. Clothing: Russian imperial guard uniform - dark green coat with red collar and cuffs, gold epaulettes, white breeches, black boots, blue sash of St. Andrew, star of St. Andrew on breast, bicorne hat with white plume. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Joseph Bonaparte",
+        "id": 15,
+        "prompt": "A historically accurate stickmanstyle reference image of Joseph Bonaparte, Napoleon's elder brother, King of Spain 1808-1813. Male, approximately 45 years old, height approximately 178 cm, heavy-set build tending to corpulence. Face shape round with double chin, graying brown hair worn in empire style, clean-shaven. Brown eyes, florid complexion. Distinctive features: benign kindly expression, lacks Napoleon's intensity, comfortable aristocratic bearing. Clothing: Spanish royal uniform - dark blue coat with gold embroidery, red collar and cuffs, gold epaulettes, white breeches, black boots, red sash, Golden Fleece collar, Spanish order stars. White background, clean line art style suitable for consistent character reference across scenes."
+    },
+    {
+        "name": "Francisco Goya",
+        "id": 16,
+        "prompt": "A historically accurate stickmanstyle reference image of Francisco Goya, Spanish painter, during the Peninsular War 1808-1814. Male, approximately 62 years old, height approximately 168 cm, stocky build. Face shape round with strong features, dark gray hair thinning at crown worn long at back, clean-shaven. Dark brown eyes, olive skin. Distinctive features: penetrating observant gaze, deaf (head often tilted to listen), artist's hands stained with pigment. Clothing: Spanish civilian dress - dark brown frock coat, yellow waistcoat, white cravat, gray breeches, black stockings, buckled shoes, painter's beret. White background, clean line art style suitable for consistent character reference across scenes."
+    }
+]

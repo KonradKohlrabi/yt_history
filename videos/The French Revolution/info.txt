@@ -1,0 +1,609 @@
+# The French Revolution: Comprehensive Historical Research Document
+
+---
+
+## 1. BACKGROUND
+
+### 1.1 Historical Context: The Ancien Régime
+*   **Structure:** France was an absolute monarchy under the **Bourbon dynasty** (Louis XVI ruled 1774–1792). Society was legally divided into **Three Estates**:
+    *   **First Estate (Clergy):** ~130,000 people. Owned ~10% of land. Exempt from most taxes (paid *don gratuit* voluntary gift). Higher clergy (bishops/abbots) were nobles; lower clergy (parish priests) were often poor and sympathetic to Third Estate.
+    *   **Second Estate (Nobility):** ~350,000–400,000 people. Owned ~25–30% of land. Exempt from *taille* (main land tax) and *corvée* (forced labor). Held monopolies on high military/ecclesiastical/government offices. Collected feudal dues (*seigneurial rights*) from peasants.
+    *   **Third Estate (Everyone Else):** ~27–28 million people (98% of population). Included bourgeoisie (merchants, lawyers, bankers, ~8% of pop), urban workers (*sans-culottes*), and peasantry (~80% of pop). Bore the full tax burden.
+*   **Political Theory:** "L'État, c'est moi" (The State is me). King ruled by Divine Right. No national representative body (Estates-General last met 1614). *Parlements* (regional high courts, mostly nobility) had right of *remonstrance* (registering royal edicts), often blocking reform to protect privilege.
+*   **Legal Patchwork:** No unified legal code. *Pays d'état* (provinces with estates) vs. *pays d'élection* (provinces directly administered). Different weights, measures, customs barriers (*traites*) internally.
+
+### 1.2 Causes
+
+#### **Long-Term Structural Causes**
+*   **Fiscal Crisis:** Chronic deficit spending. Revenue system inefficient (tax farming *Ferme Générale*), nobility/clergy exempt. Debt service consumed ~50% of annual revenue by 1788.
+*   **War Debts:**
+    *   Seven Years' War (1756–1763): Loss of colonies (Canada, India), massive debt.
+    *   American War of Independence (1778–1783): ~1.3 billion *livres* spent. No territorial gain. Bankrupted treasury.
+*   **Enlightenment Ideas:** Challenge to Divine Right, privilege, tradition.
+    *   *Montesquieu:* Separation of powers (*Spirit of Laws*, 1748).
+    *   *Voltaire:* Religious tolerance, criticism of Church/clergy.
+    *   *Rousseau:* Popular sovereignty, General Will, Social Contract (1762).
+    *   *Physiocrats (Quesnay/Turgot):* Free trade in grain, single land tax (*impôt unique*), anti-mercantilism.
+*   **Rise of the Bourgeoisie:** Wealthy, educated, excluded from political power. Resented noble monopoly on office. Demanded "Careers open to talent."
+
+#### **Short-Term Triggers (1787–1789)**
+*   **Bad Harvests (1787, 1788):** Hailstorm July 1788 destroyed crops. Grain prices skyrocketed (bread = 50–88% of worker wages).
+*   **Hard Winter 1788–89:** Rivers froze, mills stopped, transport halted. Unemployment in textile industry.
+*   **Financial Ministers' Failures:**
+    *   *Turgot (1774–76):* Tried free grain trade, abolished corvée/guilds. Dismissed by nobility/Parlements.
+    *   *Necker (1777–81, 1788–89):* Published *Compte Rendu* (1781) – misleadingly showed surplus. Borrowed heavily at high interest. Recalled 1788 as savior.
+    *   *Calonne (1783–87):* Spent lavishly, borrowed. Proposed *Subvention Territoriale* (universal land tax) + Assembly of Notables (1787). Notables rejected; Calonne fired.
+    *   *Brienne (1787–88):* Modified Calonne's plans. *Parlement of Paris* refused registration, demanded Estates-General. King exiled Parlement (August 1787). "Day of Tiles" (Grenoble, June 1788) – popular revolt against royal troops. Brienne collapsed; Necker recalled August 1788.
+*   **Calling of Estates-General:** August 8, 1788 – Louis XVI agreed to convene May 1, 1789 (later May 5).
+
+### 1.3 Political Situation (1789)
+*   **Weak Monarchy:** Louis XVI indecisive, influenced by Marie Antoinette ("Madame Deficit") and hardliners (Artois, Polignac).
+*   **"Pre-Revolution" (1787–89):** Conflict between Crown and *Parlements* (nobility defending privilege framed as defending "liberty").
+*   **Cahiers de Doléances:** Grievance notebooks drafted by all three estates for Estates-General. Revealed consensus on: constitutional monarchy, regular Estates-General, tax equality, individual liberty, end to *lettres de cachet*. Divergence on: voting by head vs. order, noble privileges.
+
+### 1.4 Economic Situation
+*   **Currency:** *Livre tournois* (£). 1 Livre = 20 *sols* = 240 *deniers*. *Louis d'or* (gold) = 24 livres. *Écu* (silver) = 6 livres.
+*   **Debt:** ~4 billion *livres* (1789). Annual revenue ~500M; expenditure ~600M+. Interest rates 8–12%.
+*   **Tax System:**
+    *   *Taille:* Land tax (peasants only).
+    *   *Gabelle:* Salt tax (monopoly, hated).
+    *   *Aides:* Excise on wine/liquor.
+    *   *Traites:* Customs duties (internal/external).
+    *   *Capitation/Vingtièmes:* War taxes (nobles/clergy theoretically paid *vingtièmes* but often evaded).
+*   **Grain Trade:** *Police du grain* (regulation) vs. *Liberté du grain* (free trade). Fluctuating policies caused instability.
+
+### 1.5 Social Situation
+*   **Peasantry (80%):** Serfdom largely gone in North/Central (personal freedom), persisted in East (Franche-Comté). *Seigneurial dues* (cens, champart, banalités - mill/oven/winepress monopoly) heavy. *Corvée royale* (road repair) burdensome. Hunger constant threat.
+*   **Urban Poor/Sans-Culottes:** Journeymen, shopkeepers, laborers in Paris (~600k pop). Highly volatile. Mobilized by bread prices, rumors, radical journalists (Marat, Hébert).
+*   **Bourgeoisie:** Lawyers (*avocats*), merchants, financiers, doctors. *Robe* nobility (office holders) vs. non-noble. Cultural capital (Enlightenment salons).
+*   **Nobility:** *Noblesse d'épée* (old military) vs. *Noblesse de robe* (judicial/admin). *Hobereaux* (poor provincial nobles) vs. Court nobility. Rift between liberal nobles (Lafayette, Noailles) and reactionaries.
+
+### 1.6 Religious Situation
+*   **Gallican Church:** Catholic Church in France had autonomy from Pope (Pragmatic Sanction of Bourges, Concordat of Bologna). King appointed bishops.
+*   **Wealth:** Tithe (*dîme*) ~6-10% of harvest. Vast landholdings. Exempt from *taille*.
+*   **Tensions:** Jansenist vs. Jesuit conflicts. Enlightenment deism/atheism spreading among elites. Lower clergy often aligned with Third Estate grievances.
+
+---
+
+## 2. TIMELINE: KEY DATES & CHRONOLOGICAL EVENTS
+
+### **Phase 1: The Collapse of the Ancien Régime (1789)**
+
+*   **Jan 24, 1789:** Royal edict convokes Estates-General for May 5. Doubling of Third Estate deputies granted (600 vs 300 each for 1st/2nd), but voting method unspecified.
+*   **May 5, 1789:** Estates-General opens at Versailles. Necker's 3-hour speech focuses on finances, not political reform. Voting by *Order* (Estate) implied.
+*   **June 17, 1789:** Third Estate declares itself **National Assembly** (Sieyès motion). "The nation exists prior to all; it is the source of all authority."
+*   **June 20, 1789:** **Tennis Court Oath** (*Jeu de Paume*). Deputies locked out of hall; swear "not to separate until a constitution is established." Clergy/deputies join.
+*   **June 23, 1789:** *Séance Royale*. Louis XVI rejects National Assembly, orders voting by order, promises reforms. Deputies refuse to leave (Mirabeau: "We are here by the will of the people... only bayonets can drive us out").
+*   **June 27, 1789:** Louis XVI capitulates, orders First/Second Estates to join National Assembly. **National Constituent Assembly** formed.
+*   **July 11, 1789:** Necker dismissed (conservative victory). Troop concentrations around Paris/Versailles (Swiss, German regiments).
+*   **July 12–14, 1789:** **Paris Insurrection**. Camille Desmoulins calls to arms (Palais-Royal). Electors form Permanent Committee. Search for arms.
+*   **July 14, 1789:** **Storming of the Bastille**. Governor de Launay surrenders after 4-hour siege. ~98 attackers killed, 1 defender. De Launay & Prévôt des Marchands (Flesselles) lynched. Symbolic fall of royal tyranny.
+*   **July 15, 1789:** Louis XVI visits Paris, wears tricolor cockade. Recalls Necker. Bailly = Mayor of Paris. Lafayette = Commander National Guard.
+*   **July–Aug 1789:** **Great Fear** (*Grande Peur*). Rural panic rumors of aristocratic brigands burning crops. Peasants attack châteaux, burn feudal records (*terriers*).
+*   **August 4, 1789:** **August Decrees** (Night of Abolition of Feudalism). Noble/clerical deputies renounce privileges (tithes, seigneurial dues, venality of office, tax exemptions, provincial privileges). *Legally* ended feudalism, but "redemption" clauses required peasants to buy out dues.
+*   **August 26, 1789:** **Declaration of the Rights of Man and of the Citizen** (17 articles). Natural rights, liberty, property, security, resistance to oppression, popular sovereignty, law as expression of general will, freedom of speech/press/religion.
+*   **October 5–6, 1789:** **Women's March on Versailles** (March on Versailles). 7,000+ Parisian women (market women) + National Guard march to Versailles. Demand bread, King's return to Paris. Invasion of Palace. Royal family forced to Tuileries Palace, Paris. Assembly follows.
+
+### **Phase 2: The Constitutional Monarchy (1789–1791)**
+
+*   **Nov 2, 1789:** Church lands nationalized (*biens nationaux*) to back new currency *assignats*.
+*   **Dec 1789:** Administrative reorganization: 83 **Departments** (uniform size/population), Districts, Cantons, Communes. Elected officials.
+*   **Feb 13, 1790:** Monastic vows suppressed; religious orders dissolved (except teaching/nursing).
+*   **July 12, 1790:** **Civil Constitution of the Clergy**. Church subordinated to State. Bishops/priests elected by citizens (including non-Catholics). State pays salaries. Oath required.
+*   **July 14, 1790:** **Fête de la Fédération** (Champ de Mars). Festival of unity. King swears oath to Constitution. High point of consensus.
+*   **Nov 1790:** Clerical Oath deadline. ~54% parish priests refuse (*refractory* clergy). Schism begins. Pope Pius VI condemns (April 1791).
+*   **June 1791:** **Le Chapelier Law**. Bans guilds, workers' associations (coalitions), strikes. Economic liberalism (laissez-faire).
+*   **June 20–21, 1791:** **Flight to Varennes**. Royal family attempts escape to Montmédy (loyal troops under Bouillé). Recognized at Varennes, returned to Paris. Monarchy discredited. Petition for Republic (Cordeliers/Jacobins).
+*   **July 17, 1791:** **Champ de Mars Massacre**. Crowd (~50k) petitions for Republic/King's abdication. Lafayette/National Guard fires. ~50 dead. Split: Constitutional Monarchists (Feuillants) vs. Republicans (Jacobins/Cordeliers).
+*   **Sept 3, 1791:** **Constitution of 1791** ratified by King. Constitutional Monarchy. **Legislative Assembly** (745 deputies, no sitting Constituent members). King has suspensive veto. Active/Passive citizen distinction (tax franchise).
+*   **Oct 1, 1791:** Legislative Assembly convenes.
+
+### **Phase 3: War & The Fall of the Monarchy (1792)**
+
+*   **Apr 20, 1792:** France declares war on **Austria** (King/Feuillants hope war discredits Revolution or restores prestige; Girondins want to export Revolution; Royalists hope for foreign victory).
+*   **July 11, 1792:** **"La Patrie en Danger"** declared. Volunteers (*fédérés*) march to Paris.
+*   **July 25, 1792:** **Brunswick Manifesto** (Duke of Brunswick, Austro-Prussian commander). Threatens "exemplary vengeance" on Paris if Royal family harmed. Radicalizes Paris.
+*   **August 10, 1792:** **Storming of the Tuileries** (Second Revolution). *Fédérés*, *Sans-culottes*, Paris National Guard (mandated by Pétion) attack Palace. Swiss Guard massacred (~600 killed). King suspended. **Insurrectionary Commune** takes power. Assembly votes Convention election by universal male suffrage.
+*   **Aug–Sept 1792:** **September Massacres**. Fear of advancing Prussians (Verdun falls Sept 2) + internal enemies. Mobs storm Paris prisons, kill ~1,100–1,400 prisoners (half common criminals, many refractory priests). Condoned by Commune (Marat, Danton).
+*   **Sept 20, 1792:** **Battle of Valmy**. Kellermann/Dumouriez halt Prussian advance. Cannonade. Goethe: "From this place and from this day forth begins a new era in the history of the world."
+*   **Sept 21, 1792:** **National Convention** meets. Abolishes Monarchy. **Proclaims Republic (Year I).**
+*   **Nov 1792:** **Decree of Fraternity**: Offers aid to peoples wishing to overthrow tyrants. Annexation of Savoy/Nice.
+*   **Dec 1792:** **Trial of Louis XVI** begins ("Louis Capet").
+
+### **Phase 4: The Reign of Terror & Radical Republic (1793–1794)**
+
+*   **Jan 21, 1793:** **Execution of Louis XVI** (Place de la Révolution). War declared on Britain, Dutch Republic, Spain (First Coalition).
+*   **Feb 1793:** **Levée en masse** (300,000 men). **War in Vendée** begins (Royalist/Catholic peasant uprising against conscription/clergy oath).
+*   **Mar 1793:** **Revolutionary Tribunal** created. **Committee of Public Safety** created (executive power). **Committee of General Security** (police). **Representatives on Mission** sent to departments/armies.
+*   **Apr 1793:** Dumouriez defects to Austrians. Girondins blamed.
+*   **May 31 – June 2, 1793:** **Insurrection of 31 May – 2 June**. *Sans-culottes* / National Guard (Hanriot) surround Convention. **Arrest of 29 Girondin deputies**. Montagnard (Jacobin) dominance secured.
+*   **June 24, 1793:** **Constitution of 1793** (Year I) ratified by plebiscite (universal male suffrage). Never implemented ("Revolutionary Government until Peace").
+*   **July 13, 1793:** **Assassination of Marat** by Charlotte Corday (Girondin sympathizer).
+*   **July 27, 1793:** **Robespierre joins Committee of Public Safety**.
+*   **Aug 23, 1793:** **Levée en masse** (Total War decree). All Frenchmen in permanent requisition. ~750,000–800,000 under arms by 1794.
+*   **Sept 5, 1793:** **Terror made "Order of the Day"** (Paris sections demand). **Law of Suspects** (vague definition of enemies).
+*   **Oct 16, 1793:** **Execution of Marie Antoinette**.
+*   **Oct 24, 1793:** **Republican Calendar** adopted (Year II starts Sept 22, 1793).
+*   **Oct–Dec 1793:** **Federalist Revolts** crushed (Lyon, Toulon, Marseille, Bordeaux). **Siege of Lyon** (Collot d'Herbois/Fouché – mass executions/grapeshot). **Toulon** retaken (Napoleon's artillery plan).
+*   **Oct 31, 1793:** **Execution of 21 Girondins** (Brissot, Vergniaud).
+*   **Nov 10, 1793 (20 Brumaire Year II):** **Festival of Reason** (Notre Dame -> Temple of Reason). Dechristianization peaks (closing churches, forced priest marriages).
+*   **Dec 4, 1793 (14 Frimaire):** **Law of 14 Frimaire**: Centralizes power in Committee of Public Safety. Revolutionary Army disbanded.
+*   **Dec 1793:** **Vendée crushed** at Battle of Savenay. "Infernal Columns" (Turreau) devastate region (Jan–May 1794). ~170k–250k dead (Vendée total).
+*   **Feb 1794:** **Ventôse Decrees** (Saint-Just): Confiscate property of suspects for distribution to poor (largely unimplemented).
+*   **Mar 1794:** **Hébertists (Ultra-radicals)** arrested/executed (Mar 24). **Dantonists (Indulgents)** arrested/executed (Apr 5). Robespierre isolates himself.
+*   **May 7, 1794 (18 Floréal):** **Cult of the Supreme Being** decreed (State Deism).
+*   **June 8, 1794 (20 Prairial):** **Festival of Supreme Being** (Champ de Mars). Robespierre as high priest.
+*   **June 10, 1794 (22 Prairial):** **Law of 22 Prairial** (Couthon/Robespierre). "Great Terror". Tribunal streamlined: no defense counsel, no witnesses, only death or acquittal. Executions skyrocket (Paris: ~1,300 in 6 weeks).
+*   **June 26, 1794:** **Battle of Fleurus** (Jourdan). Austrian army defeated. Belgium conquered. Military crisis ends.
+*   **July 27, 1794 (9 Thermidor Year II):** **Fall of Robespierre**. Convention denounces him. Outlawed. Hanriot/Commune attempt insurrection fails.
+*   **July 28, 1794 (10 Thermidor):** **Execution of Robespierre, Saint-Just, Couthon, Hanriot** + 80+ followers.
+
+### **Phase 5: Thermidorian Reaction & The Directory (1794–1799)**
+
+*   **Aug 1794:** Revolutionary Tribunal reformed. Jacobin Club closed (Nov 1794). "White Terror" in South (royalists kill Jacobins).
+*   **Dec 1794:** Price controls (Maximum) lifted. Hyperinflation of *assignats* accelerates.
+*   **Apr 1795:** Treaty of Basel (Prussia/Spain leave Coalition).
+*   **May 20–23, 1795 (Prairial Year III):** **Last Sans-Culotte Uprising** (Bread/Constitution 1793). Crushed. Disarmament of *sans-culottes*.
+*   **Aug 22, 1795:** **Constitution of Year III** ratified. **Directory** (5 Directors) + Bicameral Legislature (Council of 500 / Council of Ancients). Property franchise.
+*   **Oct 5, 1795 (13 Vendémiaire):** **Royalist Insurrection** in Paris. Napoleon Bonaparte ("Whiff of Grapeshot") saves Convention.
+*   **Oct 26, 1795:** Convention dissolves. Directory takes power.
+*   **1796:** **Conspiracy of Equals** (Babeuf) – early communism. Crushed.
+*   **1796–97:** **Italian Campaign** (Napoleon). Military glory, loot funds Directory. Treaty of Campo Formio (Oct 1797) – Austria out.
+*   **Sept 4, 1797 (18 Fructidor Year V):** **Coup of 18 Fructidor**. Directors (Barras, Rewbell, La Révellière) + Army (Augereau) purge royalist gains in elections. 2 Directors removed, 53 deputies deported. Directory becomes military dictatorship.
+*   **1798:** **Egyptian Campaign** (Napoleon). **War of Second Coalition** (Austria, Britain, Russia, Ottomans). French invade Switzerland, Rome, Naples (Parthenopean Republic).
+*   **1799:** French defeats in Germany/Italy (Suvorov). Directory crisis.
+*   **June 18, 1799 (30 Prairial VII):** **Coup of 30 Prairial**. Directors replaced (Sieyès enters).
+*   **Nov 9–10, 1799 (18–19 Brumaire VIII):** **Coup of 18 Brumaire**. Napoleon + Sieyès + Ducos overthrow Directory. **Consulate** established. **Revolution effectively ends.**
+
+---
+
+## 3. IMPORTANT PEOPLE
+
+### **Monarchy & Court**
+| Name | Role | Goals | Actions | Relationships | Influence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Louis XVI** | King (1774–1792) | Preserve monarchy, avoid civil war, maintain Catholic faith. | Indecisive; vetoed legislative decrees; Flight to Varennes; accepted Constitution 1791 reluctantly. | Husband of Marie Antoinette; brother of Artois; opposed by Mirabeau (secretly), then Assembly. | Symbol of Ancien Régime; his failure to adapt caused Republic. Execution unified European monarchies against France. |
+| **Marie Antoinette** | Queen | Protect Habsburg interests, preserve royal authority, protect children. | Influenced minister appointments (pro-Austrian); "Diamond Necklace Affair" damaged reputation; urged Flight to Varennes; secret correspondence with Axel de Fersen & Leopold II. | Sister of Leopold II (HRE); mother of Dauphin; hated by populace ("Madame Deficit"). | Symbol of aristocratic extravagance & foreign intrigue; radicalized Revolution. |
+| **Comte d'Artois** | King's Brother (Future Charles X) | Restore absolutism, noble privilege. | Leader of *émigrés* at Koblenz; urged foreign intervention; reactionary influence on Louis. | Brother of Louis XVI; rival of Orléans. | Embodiment of counter-revolution; provoked Brunswick Manifesto. |
+
+### **Early Revolutionaries (1789–1791)**
+| Name | Role | Goals | Actions | Relationships | Influence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Honoré Gabriel Riqueti, Comte de Mirabeau** | Deputy (Nobility/Third), Orator | Constitutional Monarchy (British model); save King from himself. | Dominated early Assembly; "Voice of the People"; secret payroll of Court (1790–91); died Apr 1791. | Rival of Lafayette; courted by King/Queen; enemy of radicals. | His death removed best chance for stable Constitutional Monarchy. |
+| **Abbé Emmanuel Joseph Sieyès** | Deputy (Clergy), Theorist | National Sovereignty; Bourgeois political dominance. | Wrote *What is the Third Estate?* (Jan 1789); motion for National Assembly (June 17); drafted Constitution 1791 & Year III; Coup of 18 Brumaire architect. | Mentor to Napoleon (late); ally of Mirabeau early; enemy of Robespierre. | "The Constitution Monkey"; provided legal framework for Revolution & its end. |
+| **Gilbert du Motier, Marquis de Lafayette** | Commander National Guard, Deputy | Constitutional Monarchy; American-style liberty; Order. | Presented Tricolor; Oct 1789 brought King to Paris; Fête de la Fédération; ordered fire Champ de Mars (July 1791); fled Aug 1792 (imprisoned by Austrians 5 yrs). | Friend of Washington; rival of Mirabeau, then Robespierre/Danton; protected by Royalists late. | Symbol of liberal nobility; failure to control radicalism led to exile. |
+| **Jean-Sylvain Bailly** | Mayor of Paris (1789–91), Astronomer | Constitutional Monarchy; Order. | Presided Tennis Court Oath; Mayor during Bastille/Varennes; ordered Champ de Mars firing. | Rival of Danton/Marat; executed 1793 (Reign of Terror). | First Mayor; represents bourgeois legalism crushed by radicalism. |
+
+### **Radical Leaders / Montagnards / Jacobins (1792–1794)**
+| Name | Role | Goals | Actions | Relationships | Influence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Maximilien Robespierre** | Deputy, Committee of Public Safety (July 1793–July 1794) | Republic of Virtue; Popular Sovereignty; Terror as justice. | "Incorruptible"; opposed war 1791; drove King's trial; purged Girondins, Hébertists, Dantonists; Cult of Supreme Being; Law of 22 Prairial. | Close to Saint-Just, Couthon; broke with Danton, Desmoulins; enemy of Hébert, Tallien. | **Architect of the Terror**; embodiment of radical Jacobinism; fall = end of radical phase. |
+| **Louis Antoine de Saint-Just** | Deputy, Committee of Public Safety | Radical democracy; Virtue; Terror. | "Archangel of Terror"; reports on Girondins, Constitution 1793, Ventôse Decrees; military organizer (Army of Rhine). | Robespierre's closest disciple; executed with him. | Ideologue of radical phase; "Force the happiness of the people." |
+| **Georges Couthon** | Deputy, Committee of Public Safety | Radical equality; Terror. | Law of 22 Prairial; disabled (paralyzed), carried in chair; Lyon repression. | Robespierre loyalist. | Legal architect of Great Terror. |
+| **Georges Danton** | Minister of Justice (Aug 1792), Committee of Public Safety (Apr–July 1793) | Republic; National Defense; End Terror ("Indulgence"). | "Danton, Danton, we need Danton" (Sept 1792); created Rev Tribunal/CPS; moderated late 1793; executed April 1794. | Rival of Robespierre (former friend); ally of Desmoulins, Westermann. | Voice of patriotic energy 1792; victim of his own machinery. |
+| **Jean-Paul Marat** | Journalist (*L'Ami du Peuple*), Deputy | Radical democracy; Purge enemies; Direct action. | Incited Aug 10, Sept Massacres; skin disease (bathed); assassinated by Corday (July 1793). | Hero to *sans-culottes*; enemy of Girondins/Moderates. | Radical propaganda; martyr for Terror. |
+| **Jacques-René Hébert** | Journalist (*Père Duchesne*), Commune Leader | Dechristianization; Radical economic controls; *Sans-culotte* power. | Led *sans-culottes*; Cult of Reason; Law of Maximum; executed March 1794 (Rival to Robespierre). | Leader of *Hébertists*; ally of Chaumette; enemy of Robespierre/Danton. | Pushed Revolution left; forced Robespierre to destroy him. |
+| **Jacques Pierre Brissot** | Deputy, Girondin Leader | Republic; War to spread Revolution; Federalism (anti-Paris). | Pushed war April 1792; opposed King's execution (initially); Federalist revolt 1793; executed Oct 1793. | Rival of Robespierre/Marat/Danton; allies: Vergniaud, Guadet, Roland. | **Girondin Leader**; represented provincial/bourgeois fear of Parisian dictatorship. |
+| **Madame Roland (Manon Phlipon)** | Salonnière, Minister's Wife (Roland) | Republic; Girondin policy influence. | Wrote letters/pamphlets; influenced Interior Ministry; executed Nov 1793 ("O Liberty, what crimes..."). | Wife of Jean-Marie Roland; enemy of Robespierre/Danton. | Intellectual force of Girondins; symbol of women in politics. |
+
+### **Thermidorians & Directory (1794–1799)**
+| Name | Role | Goals | Actions | Relationships | Influence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Paul Barras** | Director (1795–99) | Self-preservation; Wealth; Stability via corruption. | 13 Vendémiaire (Napoleon); 18 Fructidor; 18 Brumaire (acquiesced). | Patron of Napoleon; enemy of Robespierre; corrupt. | **Survivor**; dominated Directory; handed power to Napoleon. |
+| **Emmanuel Joseph Sieyès** | Director (1799), Coup Architect | Strong Executive; "Confidence from below, Power from above". | Constitution Year III; Coup 18 Brumaire; pushed aside by Napoleon. | Used Napoleon; discarded by Napoleon. | Intellectual bridge 1789–1799. |
+| **Napoleon Bonaparte** | General, First Consul (1799) | Personal Power; Order; Glory; Export Revolution (on his terms). | Toulon (1793); 13 Vendémiaire (1795); Italian Campaign (1796–97); Egypt (1798); 18 Brumaire (1799). | Patronized by Barras/Saliceti; brother Lucien (key at Brumaire); enemy of Directory. | **Ended Revolution**; consolidated gains (Code, Concordat, Bank). |
+
+### **Key Women**
+*   **Olympe de Gouges:** *Declaration of the Rights of Woman* (1791). Executed 1793 (Girondin).
+*   **Charlotte Corday:** Assassinated Marat (1793). "Killed one man to save 100,000."
+*   **Théroigne de Méricourt:** Amazon, feminist, beaten by Jacobin women 1793, insane.
+*   **Pauline Léon / Claire Lacombe:** *Société des Républicaines Révolutionnaires* (Women's Club). Banned 1793.
+*   **Madame de Staël:** Salonnière, liberal opposition to Napoleon later.
+
+---
+
+## 4. LOCATIONS
+
+### **Countries/Regions**
+*   **France:** 83 Departments (1790).
+*   **Austrian Netherlands (Belgium):** Annexed 1795.
+*   **Left Bank of Rhine:** Annexed 1797 (Campo Formio).
+*   **Savoy & Nice:** Annexed 1792.
+*   **Vendée (West):** Counter-revolution heartland (Bocage terrain).
+*   **Lyon, Marseille, Toulon, Bordeaux:** Federalist Revolt centers.
+*   **German States / Italy / Switzerland / Egypt:** Theaters of Revolutionary Wars.
+
+### **Cities & Buildings**
+*   **Paris:**
+    *   **Versailles:** *Château*, *Salle des Menus-Plaisirs* (Estates-General), *Jeu de Paume* (Tennis Court).
+    *   **Tuileries Palace:** Royal residence (Oct 1789–Aug 1792). *Salle du Manège* (Assembly hall).
+    *   **Bastille:** Fortress/Prison (Stormed July 14). Demolished immediately (Pierre-François Palloy sold souvenirs).
+    *   **Hôtel de Ville:** Paris Commune HQ.
+    *   **Palais-Royal:** Orléanist center, Camille Desmoulins speech (July 12), cafés, prostitution, gambling.
+    *   **Place de la Révolution (now Concorde):** Guillotine site (Louis XVI, Marie Antoinette, Robespierre, Danton, etc.).
+    *   **Champ de Mars:** Fête de la Fédération (1790), Massacre (1791), Festival of Supreme Being (1794).
+    *   **Conciergerie:** Prison (Marie Antoinette, Robespierre held).
+    *   **Pantheon (Ste-Geneviève):** Secular mausoleum (Mirabeau, Marat, Voltaire, Rousseau).
+    *   **Jacobin Club:** Rue Saint-Honoré (former Dominican convent).
+    *   **Cordeliers Club:** Rue de l'École de Médecine (Danton, Marat, Hébert).
+*   **Vendée:** Cholet, Nantes (Carrier's *noyades* - mass drownings in Loire), Savenay.
+*   **Lyon:** *Place Bellecour* (guillotine), *Brodeaux* (grapeshot executions).
+*   **Toulon:** Port, Fort Mulgrave (Napoleon's siege).
+*   **Valmy:** Windmill (Kellermann's command post).
+
+### **Battlefields (Revolutionary Wars)**
+*   **Valmy (1792):** Artillery duel, rain, mud.
+*   **Jemappes (1792):** Dumouriez beats Austrians, Belgium conquered.
+*   **Neerwinden (1793):** Dumouriez defeated, defects.
+*   **Hondschoote / Wattignies (1793):** Relieved Dunkirk/Maubeuge.
+*   **Fleurus (1794):** Jourdan beats Coburg; first military balloon (*l'Entreprenant*) observation.
+*   **Italian Campaign (1796–97):** Montenotte, Lodi, Arcole, Rivoli.
+*   **Pyramids (1798):** Napoleon vs Mamluks, Cairo.
+*   **Nile/Aboukir (1798):** Nelson destroys French fleet.
+
+---
+
+## 5. MAJOR EVENTS: DETAILED ANALYSIS
+
+### **5.1 Estates-General & National Assembly (May–July 1789)**
+*   **What:** Transition from estates-based consultation to national sovereignty.
+*   **Why:** Fiscal collapse forced King to call Estates-General; Third Estate refused to verify powers separately; deadlock on voting method.
+*   **Who:** 1,139 deputies (291 Clergy, 270 Nobility, 578 Third). Key: Mirabeau, Sieyès, Bailly, Mounier.
+*   **Immediate:** King recognizes National Assembly (June 27). Royal troops surround Paris.
+*   **Long-term:** End of Absolutism; Constitution written; sovereignty resides in Nation.
+
+### **5.2 Storming of the Bastille (July 14, 1789)**
+*   **What:** Parisian crowd + *Gardes Françaises* deserters seize fortress for gunpowder.
+*   **Why:** Fear of royal coup (troops, Necker dismissal); need arms; symbol of despotism.
+*   **Who:** ~800–1,000 attackers (artisans, workers, soldiers); Governor Marquis de Launay (82 invalides, 32 Swiss).
+*   **Immediate:** Launay killed; King recalls Necker; Lafayette/Bailly power in Paris; *Grande Peur* spreads; *émigrés* flee.
+*   **Long-term:** **Symbol of Revolution**; popular violence legitimized as political tool; collapse of royal authority in provinces.
+
+### **5.3 August Decrees & Declaration of Rights (Aug 1789)**
+*   **What:** Legislative abolition of feudalism; statement of universal principles.
+*   **Why:** Panic from *Grande Peur*; need to pacify countryside; ideological imperative.
+*   **Who:** Noble/clerical deputies (Noailles, Aiguillon, Le Chapelier); Third Estate.
+*   **Immediate:** Feudal dues legally abolished but "redeemable" (peasants must pay compensation); Tithes abolished unconditionally; Venality of office abolished.
+*   **Long-term:** **Legal equality**; property rights enshrined; model for 19th C liberalism; "Redeemable" dues caused rural litigation until 1793 (finally abolished free).
+
+### **5.4 Women's March / October Days (Oct 5–6, 1789)**
+*   **What:** Women march to Versailles, invade Assembly/King's apartments, force Royal Family to Paris.
+*   **Why:** Bread shortage (famine prices); fear King vetoing August Decrees/Declaration; rumors of "Orgy" at Versailles trampling tricolor.
+*   **Who:** Market women (poissardes), Stanislas Maillard; National Guard (Lafayette) followed reluctantly.
+*   **Immediate:** King accepts Decrees/Declaration; moves to Tuileries; Assembly moves to Paris (Manège); King becomes "Prisoner of the People".
+*   **Long-term:** Revolution centered in Paris; King under surveillance; power shifts to Paris Commune/Sections.
+
+### **5.5 Civil Constitution of the Clergy (July 1790)**
+*   **What:** Church restructured as state department; bishops/priests elected; oath required.
+*   **Why:** Financial need (sell church lands); Regalist/Gallican tradition; desire for civic religion.
+*   **Who:** Assembly (Treilhard, Boisgelin); King (signed reluctantly); Pope Pius VI (condemned).
+*   **Immediate:** Schism: *Jurors* (54% priests) vs *Refractory/Non-jurors* (46%); regional variance (West/South refractory); King's conscience crisis.
+*   **Long-term:** **Religious Civil War** (Vendée, Chouannerie); alienated peasantry; drove King to Flight to Varennes; "Dechristianization" Year II.
+
+### **5.6 Flight to Varennes (June 20–21, 1791)**
+*   **What:** Royal family flees Tuileries disguised; caught at Varennes (postmaster Drouet recognizes Louis from assignat).
+*   **Why:** King rejected Civil Constitution; felt prisoner; hoped to join Bouillé's army at Montmédy; negotiate Constitution from strength.
+*   **Who:** Louis, Marie Antoinette, children, Madame de Tourzel; Bouillé (General); Drouet (postmaster); Barnave/Pétion/Latour-Maubourg (escort back).
+*   **Immediate:** King suspended; *Padua Circular* (émigrés/Austria); Champ de Mars Petition (Republic); Le Chapelier Law (ban clubs).
+*   **Long-term:** **Monarchy fatally wounded**; Republicanism becomes mainstream; Constitution 1791 based on lie (King accepted it under duress).
+
+### **5.7 War Declaration & August 10 (April–Aug 1792)**
+*   **What:** France declares war on Austria; Brunswick Manifesto; Storming of Tuileries; Monarchy falls.
+*   **Why:** Girondins want to expose King/traitorous generals; King/Feuillants hope defeat restores power; Austria/Prussia threaten intervention.
+*   **Who:** Legislative Assembly (Girondins: Brissot, Vergniaud); King (vetoes decrees on priests/émigrés); *Fédérés* (Marseillais song); Paris Sections/Commune (Pétion, Roederer); Swiss Guard.
+*   **Immediate:** King suspended; Assembly calls Convention (Universal Male Suffrage); Lafayette flees; Prussians invade; September Massacres.
+*   **Long-term:** **Republic proclaimed**; War becomes total/national; Terror machinery created; European Coalition expands.
+
+### **5.8 September Massacres (Sept 2–7, 1792)**
+*   **What:** Mobs kill prisoners in Paris jails (Abbaye, Carmes, Force, etc.).
+*   **Why:** Fear of advancing enemy (Verdun fell Sept 2); fear of internal "fifth column" (refractory priests, Swiss guards); lack of judicial process; Marat incitement.
+*   **Who:** *Sans-culottes*, *Marseillais* fédérés; Condoned by Commune (Danton, Marat, Manuel); Assembly/Ministers paralyzed.
+*   **Immediate:** ~1,100–1,400 dead (many common criminals); Prussia halted at Valmy (Sept 20); Convention meets Sept 21.
+*   **Long-term:** **Stain on Revolution**; showed power of Paris mob; precedent for extra-legal terror; foreign propaganda weapon.
+
+### **5.9 King's Trial & Execution (Dec 1792 – Jan 1793)**
+*   **What:** Convention tries "Louis Capet" for treason; votes Death (361/387/721); Executed Jan 21.
+*   **Why:** Proof of Republic; eliminate symbol for counter-revolution; unite Montagnards/Girondins (temporarily); challenge Europe.
+*   **Who:** Convention (President Vergniaud); Defense (Malesherbes, Tronchet, Desèze); Montagnards (Saint-Just, Robespierre - "Louis must die so the nation may live"); Girondins (appeal to people/maillet - failed).
+*   **Immediate:** War with Britain/Spain/Dutch; Vendée uprising; Coalition solidifies.
+*   **Long-term:** **Point of no return**; Regicide isolates France diplomatically; sanctifies Revolution for radicals.
+
+### **5.10 Fall of the Girondins (May 31 – June 2, 1793)**
+*   **What:** *Sans-culottes* + National Guard (Hanriot) surround Convention; 29 Girondin deputies arrested.
+*   **Why:** Military disasters (Dumouriez defection); Girondin opposition to Paris dominance/Maximum; Federalist revolts brewing; Marat acquitted by Tribunal (April).
+*   **Who:** Commune (Peyroux, Chaumette), Sections (Varlet, Roux), Hanriot (Guard); Convention (Barère, Couthon); Girondins (Brissot, Vergniaud, Buzot - escaped).
+*   **Immediate:** Montagnard dictatorship; Constitution 1793 drafted; Federalist revolts erupt (Lyon, Marseille, Bordeaux, Caen, Normandy).
+*   **Long-term:** **Centralized Terror**; elimination of moderate republican voice; "One and Indivisible Republic" enforced by bayonet.
+
+### **5.11 Reign of Terror (Sept 1793 – July 1794) - Institutional Structure**
+*   **Law of Suspects (Sept 17, 1793):** Defined suspects vaguely (enemies by conduct, relations, words, writings). Local Surveillance Committees arrest.
+*   **Revolutionary Tribunal (Paris):** Fouquier-Tinville (Prosecutor); Herman (President). No appeal. Verdicts: Acquittal or Death.
+*   **Representatives on Mission:** Proconsuls with unlimited power (Collot d'Herbois/Fouché Lyon; Carrier Nantes; Barras/Fréron Toulon/Marseille; Saint-Just/Le Bas Rhine Army).
+*   **Committee of Public Safety (CPS):** 12 members (Robespierre, Saint-Just, Couthon, Carnot, Lindet, Barère, Billaud-Varenne, Collot d'Herbois...). Executive directory. Carnot = War (Organizer of Victory).
+*   **Law of 14 Frimaire (Dec 1793):** Centralized CPS control; suppressed *armées révolutionnaires* (Hébertist); regulated Representatives.
+*   **Law of 22 Prairial (June 1794):** "Great Terror". Removed defense counsel/witnesses; moral proof sufficient; CPS controls Tribunal lists. Executions/day in Paris: ~30 -> ~50+.
+
+### **5.12 Dechristianization & Cults (Winter Year II)**
+*   **Spontaneous/Forced:** Closing churches -> Temples of Reason; Priests forced to resign/marry; Street names changed (Saint -> Reason); Calendar decimalized (10-day week *décadi* kills Sunday).
+*   **Cult of Reason (Hébert/Chaumette/Anacharsis Clootz):** Atheist, materialist. Festival Nov 10, 1793 (Notre Dame -> Temple of Reason).
+*   **Cult of Supreme Being (Robespierre):** Deist, moralistic. "Nature's God". Festival June 8, 1794. Robespierre as pontiff.
+*   **Conflict:** Robespierre saw atheism as aristocratic/immoral; needed religious sanction for Republic.
+
+### **5.13 Fall of Robespierre (9–10 Thermidor / July 27–28, 1794)**
+*   **What:** Convention votes to arrest Robespierre, Saint-Just, Couthon, Lebas, Hanriot; Commune attempts insurrection; Convention declares them outlaws; executed next day.
+*   **Why:** Fear for own lives (Law of 22 Prairial); Robespierre isolated (attacked "factions" but named none); Military success (Fleurus) removed need for Terror; Personal conflicts (Fouché, Tallien, Barras, Vadier threatened).
+*   **Who:** **The "Plain" (Marais)** + **Thermidorians** (Tallien, Bourdon de l'Oise, Fréron, Barras, Merlin, Thuriot, Lecointre). Hanriot (Commune/Guard) failed to act decisively.
+*   **Immediate:** Jacobins purged; Tribunal reformed; Maximum lifted; *assignats* hyperinflation; White Terror (South).
+*   **Long-term:** **End of radical democracy**; "Thermidorian Reaction" = bourgeois republicanism; Constitution Year III (Property franchise); Directory.
+
+### **5.14 Coup of 18 Brumaire (Nov 9–10, 1799)**
+*   **What:** Napoleon + Sieyès + Ducos overthrow Directory; Council of 500 routed by grenadiers; Consulate proclaimed.
+*   **Why:** Directory corruption/weakness; Military reverses (1799); Sieyès wanted strong executive; Napoleon wanted power.
+*   **Who:** Napoleon (General), Lucien Bonaparte (President of 500), Sieyès (Director), Murat (Grenadiers), Talleyrand (Foreign Min).
+*   **Immediate:** "The Revolution is established on the principles with which it began." (Napoleon).
+*   **Long-term:** **End of Revolutionary period**; Start of Consulate/Empire; Consolidation of Revolutionary gains (Code, Concordat, Bank, Prefecture).
+
+---
+
+## 6. MILITARY
+
+### **6.1 Army Transformation**
+*   **Old Royal Army:** Officer corps noble (4/4 quarters nobility required 1781). Soldiers: volunteers, substitutes, militia (lottery), foreigners (Swiss, German regiments). Harsh discipline (lash).
+*   **Revolutionary Changes:**
+    *   **1790:** Officer corps opened to all citizens (merit). Mass emigration of noble officers (~6,000 by 1792).
+    *   **1791:** National Guard (bourgeois) distinct from Line Army.
+    *   **1792:** *Fédérés* volunteers (short term, patriotic). "Amalgam" (1793): 1 old battalion + 2 volunteer battalions = Demi-brigade. Mixes experience/enthusiasm.
+    *   **1793:** *Levée en masse* (Aug 23): All unmarried men 18–25 liable. ~750k–800k under arms (paper strength). Officer promotion rapid (Merit + Election early on).
+    *   **Tactics:** *Ordre mixte* (Column + Skirmishers *tirailleurs* + Line). Bayonet charge (*attaque à la baïonnette*). Artillery excellence (Gribeauval system, Napoleon's concentration). Mobility (living off land, no supply trains).
+
+### **6.2 Key Battles & Campaigns**
+| Battle/Date | Commanders (Fr vs En) | Forces (Approx) | Outcome | Significance |
+| :--- | :--- | :--- | :--- | :--- |
+| **Valmy** (20 Sept 1792) | Kellermann / Dumouriez vs Brunswick (Prussia) | 52k Fr vs 34k Pr/As | French hold (Artillery duel). Prussians withdraw. | **Saves Revolution**; Proves citizen army works; Goethe witness. |
+| **Jemappes** (6 Nov 1792) | Dumouriez vs Saxe-Teschen (Austria) | 40k Fr vs 13k As | French victory. | Belgium conquered; Annexation decree (Nov 15). |
+| **Neerwinden** (18 Mar 1793) | Dumouriez vs Coburg (Austria) | 40k Fr vs 39k As | French defeat. Dumouriez defects. | Loss of Belgium; Crisis -> CPS creation. |
+| **Hondschoote** (Sept 1793) | Houchard / Jourdan vs York (Britain) / Freytag (Hanover) | 45k Fr vs 24k Allies | French victory. | Raised Siege of Dunkirk; Carnot's "Mission". |
+| **Wattignies** (Oct 1793) | Jourdan / Carnot vs Coburg | 45k Fr vs 26k As | French victory. | Raised Siege of Maubeuge. |
+| **Toulon** (Sept–Dec 1793) | Dugommier / **Napoleon** (Artillery) vs Hood (Britain) / Gravina (Spain) | 30k Fr vs 18k Allies | French retake port. | **Napoleon's rise** (Brigadier General). |
+| **Fleurus** (26 June 1794) | Jourdan / Kléber vs Coburg / Orange | 75k Fr vs 52k As | French victory. | **Austrians leave Belgium**; Balloon reconnaissance; Terror redundant militarily. |
+| **Italian Campaign** (1796–97) | **Napoleon** vs Beaulieu / Wurmser / Alvinzi (Austria) | ~40k Fr vs ~50k+ As (sequential) | Series of victories (Montenotte, Lodi, Arcole, Rivoli). | **Knocks Austria out** (Campo Formio); Napoleon political star; Loot funds Directory. |
+| **Pyramids** (21 July 1798) | **Napoleon** vs Murad Bey (Mamluks) | 25k Fr vs 40k+ Mam/Ott | Decisive French victory (Squares). | Cairo taken; Fleet destroyed at Nile 10 days later (stranded). |
+
+### **6.3 Navies**
+*   **French Navy:** Neglected by Revolution (officers emigrated/guillotined). Brest/Toulon fleets decayed.
+*   **British Navy:** Dominant (Channel Fleet, Mediterranean). Blockade strangled French trade/colonies.
+*   **Key Naval Events:** Glorious First of June (1794 - tactical Fr defeat, strategic grain convoy saved); Nile/Aboukir (1798 - Nelson annihilates Brueys); Bantry Bay (1796 - failed Irish invasion); Ireland 1798 (Humbert landed, surrendered).
+
+### **6.4 Weapons & Equipment**
+*   **Musket:** *Charleville Model 1777* (corrected An IX). .69 cal, smoothbore, flintlock. Rate: 2–3 rpm. Bayonet (socket) socket bayonet.
+*   **Artillery:** Gribeauval System (4, 8, 12-pdr guns; 6-inch howitzer). Standardized, mobile, interchangeable parts. **Napoleon** = Master of artillery concentration.
+*   **Cavalry:** Heavy (Cuirassiers, Carabiniers), Light (Hussars, Chasseurs-à-cheval, Dragoons). Poor horses early on (requisitioned).
+*   **Uniforms:** **White** (Line infantry, Royal legacy) -> **Blue** (National Guard, then Line 1793+). *Sans-culottes*: Red cap (bonnet rouge), carmagnole jacket, striped trousers, pike.
+*   **Balloon:** *L'Entreprenant* (Compagnie d'Aérostiers, Coutelle). Used at Fleurus, Mainz. First military aviation.
+
+---
+
+## 7. POLITICS: GOVERNMENTS, LAWS, TREATIES
+
+### **7.1 Constitutional Timeline**
+1.  **Absolute Monarchy** (pre-1789)
+2.  **Constitutional Monarchy** (Sept 1791 – Aug 1792): Constitution 1791. Legislative Assembly (745). King + Suspensive Veto. Active Citizens (tax 3 days labor) vote for Electors (tax 10 days) -> Electors choose Deputies. Passive Citizens (poor) no vote.
+3.  **National Convention / Republic** (Sept 1792 – Oct 1795): Universal Male Suffrage (21+, 1yr residence). **Girondin Phase** -> **Montagnard Phase (Terror)** -> **Thermidorian Phase**. Constitution 1793 (Democratic, never applied).
+4.  **The Directory** (Nov 1795 – Nov 1799): Constitution Year III. **Bicameral**: Council of 500 (initiate laws), Council of Ancients (250, approve/reject). **5 Directors** (Executive, chosen by Ancients from 500's list). Property franchise (Direct tax = Elector). Annual rotation (1/5).
+5.  **The Consulate** (Dec 1799): Constitution Year VIII. **Three Consuls** (Napoleon First Consul 10 yrs, then Life). Senate, Tribunate, Corps Législatif (rubber stamps). **End of popular sovereignty experiment.**
+
+### **7.2 Key Laws & Decrees**
+*   **August Decrees (1789):** Feudalism abolished.
+*   **Declaration of Rights (1789):** Constitutional preamble.
+*   **Civil Constitution of Clergy (1790):** Church subordination.
+*   **Le Chapelier Law (June 1791):** Ban guilds/coalitions/strikes. *Laissez-faire*.
+*   **Law of Suspects (Sept 1793):** Legal basis for Terror arrests.
+*   **Law of 14 Frimaire (Dec 1793):** Centralization of CPS power.
+*   **Ventôse Decrees (Feb–Mar 1794):** Confiscation of suspect property for poor (Saint-Just).
+*   **Law of 22 Prairial (June 1794):** Great Terror procedure.
+*   **Law of 3 Brumaire Year IV (Oct 1795):** Amnesty for "opinions" (White Terror moderation).
+*   **Law of Hostages / Law of 22 Floréal Year VI (1798):** Directory repression of Jacobins/Royalists.
+*   **Law of 19 Fructidor Year VII (1799):** Forced loan (impôt forcé) on rich.
+
+### **7.3 Treaties & Diplomacy**
+*   **Treaty of Basel (Apr 1795):** Prussia leaves Coalition; cedes Left Bank Rhine (secret); Spain cedes Santo Domingo, recognizes Republic.
+*   **Treaty of The Hague (May 1795):** Batavian Republic (NL) ally; cedes Maastricht, Flanders; pays 100M florins.
+*   **Treaty of Campo Formio (Oct 1797):** Austria recognizes French annexation of Belgium/Left Bank Rhine; Venice to Austria; Cisalpine/Ligurian Republics created.
+*   **Treaty of Lunéville (Feb 1801):** Confirms Campo Formio (Second Coalition defeat).
+*   **Concordat of 1801 (Napoleon/Pope Pius VII):** Ends schism; Catholicism "religion of majority"; State pays clergy; Pope accepts land loss. (Post-Rev but consequence).
+
+### **7.4 Political Clubs (The "Machine")**
+*   **Jacobins (Society of Friends of Constitution):** Nationwide network (~7,000 clubs). Radicalized 1790–93. Robespierre's base. Closed Nov 1794.
+*   **Cordeliers (Society of Rights of Man):** Radical, populist, *sans-culotte*. Danton, Marat, Hébert. Dissolved 1794.
+*   **Feuillants (1791):** Constitutional Monarchists split from Jacobins (Lafayette, Barnave, Lameth). Dissolved Aug 1792.
+*   **Girondins:** Not a club, but loose grouping (Brissot, Roland, Vergniaud) meeting at *Salon de Madame Roland*. Federalist, war-hawks.
+*   **Société des Républicaines Révolutionnaires (1793):** Women's club (Léon, Lacombe). Banned Oct 1793.
+
+---
+
+## 8. SOCIETY: DAILY LIFE, CULTURE, TECHNOLOGY, ECONOMY, RELIGION
+
+### **8.1 Daily Life & Material Culture**
+*   **Clothing:**
+    *   *Aristocrats (pre-1789):* Silk, velvet, lace, powdered wigs, high heels, *habit à la française*.
+    *   *Bourgeois:* Dark wool, simple cravats, own hair or simple wig.
+    *   *Sans-culottes:* **Red Phrygian Cap (Bonnet Rouge)**, *Carmagnole* (short jacket), *Pantalon* (long striped trousers - vs aristocrat knee-breeches/culottes), *Sabots* (clogs) or rough shoes. Tricolor cockade mandatory (1792).
+    *   *Women:* **Chemise à la reine** (muslin, simple) -> Revolutionary: Tricolor ribbons, red caps, simpler dresses. *Incroyables/Merveilleuses* (Directory): Extreme fashion (huge cravats, sheer gowns, caricatures).
+*   **Food:** Bread (80% diet). Price fixed by *Maximum* (Year II). Meat rare for poor. Coffee/Chocolate/Sugar (colonial) expensive/blockaded. *Assignats* hyperinflation -> barter/common.
+*   **Housing:** Paris: Overcrowded, tall buildings (5-6 floors), no sanitation, chimneys. Sections = administrative/political units (48).
+*   **Time:** **Republican Calendar (Oct 1793)**. 12 Months (30 days) + 5/6 *Sansculottides*. 10-day week (*Décadi* = rest). Decimal time (10 hrs/day, 100 min/hr, 100 sec/min) - failed. Months: Vendémiaire, Brumaire, Frimaire, Nivôse, Pluviôse, Ventôse, Germinal, Floréal, Prairial, Messidor, Thermidor, Fructidor.
+
+### **8.2 Culture & Propaganda**
+*   **Print Culture Explosion:** ~1,500 newspapers (1789–93). *L'Ami du Peuple* (Marat), *Révolutions de France* (Desmoulins), *Le Père Duchesne* (Hébert - vulgar/slang), *Le Moniteur* (Official).
+*   **Pamphlets:** *What is the Third Estate?* (Sieyès), *Rights of Man* (Paine - French trans), *Declaration of Rights of Woman* (Gouges).
+*   **Theater/Opera:** Political allegories. *La Marseillaise* (Rouget de Lisle, 1792 - Army of Rhine). *Ça Ira*, *Carmagnole* (songs).
+*   **Festivals:** Choreographed by David / Gossec / Voltaire. **Fête de la Fédération (1790)**, **Fête de la Raison (1793)**, **Fête de l'Être Suprême (1794)**. Secular liturgy. Altars of Fatherland.
+*   **Art:** **Jacques-Louis David** (Official artist). *Oath of Tennis Court* (unfinished), *Death of Marat* (1793 - Pietà pose), *Oath of the Horatii* (pre-rev, republican virtue), *Sabine Women* (reconciliation). **Guillotine** = "National Razor" (equality in death). Dr. Guillotin / Antoine Louis / Schmidt (builder). Sanson family (executioners).
+
+### **8.3 Technology & Science**
+*   **Metric System:** Decreed 1791, defined 1799 (Meter = 1/10,000,000 quadrant of meridian; Kilogram = 1dm³ water). Scientists: Laplace, Lagrange, Lavoisier (guillotined 1794), Monge, Condorcet.
+*   **Chemistry:** Lavoisier (Oxygen, conservation of mass). *Ferme Générale* tax farmer -> Victim.
+*   **Ballooning:** Montgolfier (1783). Military use (Coutelle) 1794.
+*   **Telegraph:** **Chappe Semaphore** (1793–94). Paris-Lille line (1794). Towers with movable arms. Speed: ~1 symbol/min. First telecommunications network.
+*   **Manufacturing:** Interchangeable parts (Gribeauval/Blanc - muskets). Le Chapelier Law abolished guilds -> factory growth hindered by war/inflation.
+
+### **8.4 Economy & Finance**
+*   **Assignats (Paper Money):**
+    *   Dec 1789: 400M issue (backed by *biens nationaux* - Church land).
+    *   1790: Legal tender. Interest bearing -> non-interest.
+    *   1791–92: Issues explode (war/deficit). Counterfeiting (British/Pass Through).
+    *   1793: *Maximum* (Price/Wage controls). *Law of General Maximum* (Sept 29, 1793). Grain requisitioning.
+    *   1795: Controls lifted (Thermidor). Hyperinflation: 1790: 100% value. 1795: 1% value. 1796: *Assignats* burned publicly (Place Vendôme). *Mandats territoriaux* fail.
+    *   1797: Bankruptcy (Law of 30 Sept - "Two-thirds" repudiated). Metallic currency restored.
+*   **Taxation:** *Contribution foncière* (land), *mobilière* (movables), *patente* (business), *portes et fenêtres* (windows). Direct taxes only (Year III). Efficient collection via Prefects (later).
+*   **Trade:** British blockade -> Continental System (later). Loss of colonies (Haiti revolution 1791, Britain occupies Caribbean/Indian Ocean).
+
+### **8.5 Religion: The Schism & Dechristianization**
+*   **Constitutional Church:** Elected bishops (Talleyrand -> Gobel), married priests. State paid. Weak popular support.
+*   **Refractory Church:** Underground. Mass in barns/woods. "Non-juring" priests. Pilgrimages. Center of Counter-Revolution (Vendée).
+*   **Dechristianization (Year II):** Spontaneous (Hébertists) + Official (CPS).
+    *   Closure of churches -> Temples of Reason.
+    *   Forced abdications (Gobel Nov 1793).
+    *   Civic cults (Reason, Supreme Being).
+    *   Republican Calendar (remove Saints/Sunday).
+    *   **Robespierre reverses:** "Atheism is aristocratic." Cult of Supreme Being mandatory. Freedom of worship restored (Dec 1794). Separation Church/State (1795).
+
+---
+
+## 9. NUMBERS & STATISTICS
+
+### **Population**
+*   **1789:** ~28 Million (France proper).
+*   **1793:** ~27 Million (war losses, emigration).
+*   **Paris:** ~600,000 – 650,000.
+*   **Lyon:** ~150,000. **Marseille:** ~120,000. **Bordeaux:** ~100,000.
+
+### **Army Sizes**
+*   **1789 (Royal):** ~180,000 (incl. foreigners).
+*   **1792 (Legislative):** ~300,000 (Line + Volunteers).
+*   **1793 (Levée en masse):** Paper strength **~750,000 – 800,000**. Effective field armies ~450,000.
+*   **1794 (Peak):** ~730,000 effectives (Carnot).
+*   **1799 (Directory):** ~300,000–400,000.
+
+### **Casualties (Revolutionary Wars 1792–1802)**
+*   **French Military Dead:** ~200,000–250,000 (battle + disease).
+*   **Allied Military Dead:** ~150,000–200,000.
+*   **Vendée Civil War:** **170,000 – 250,000** total (Combatants + Civilians: Republicans ~30k, Royalists ~200k+). Genocide debate (Reynald Secher vs mainstream historians).
+*   **September Massacres:** ~1,200–1,400 (Paris).
+*   **Revolutionary Tribunal (Paris):** ~2,600 executed (official records).
+*   **Total Terror Executions (France):** **~16,000 – 17,000** (official death sentences). **~10,000–12,000** died in prison/summary executions (Nantes drownings, Lyon grapeshot, Marseille). **Total ~25,000–40,000** violent deaths attributed to Terror justice.
+*   **Émigrés:** ~150,000–200,000 fled (1789–1814). 60% Nobles, 25% Clergy, rest others.
+
+### **Economic Data**
+*   **National Debt 1789:** ~4 Billion *livres*.
+*   **Annual Revenue 1789:** ~500 Million *livres*.
+*   **Debt Service:** ~50% Revenue.
+*   **Assignats Issued:** ~45 Billion *livres* (face value) by 1796.
+*   **Church Land Seized:** ~6.5 Million hectares (~10% France). Sold in large lots (benefited bourgeois/peasants with capital).
+*   **Grain Prices (Paris):** 1789: ~30-40 *sols*/setier. 1793: ~60-80 (controls). 1795: ~500+ (free market).
+
+### **Distances**
+*   Paris to Versailles: **21 km** (March of Women).
+*   Paris to Varennes: **~200 km** (Flight).
+*   Paris to Lyon: **~470 km** (Federalist repression).
+*   Paris to Nantes: **~385 km** (Carrier's drownings).
+*   Valmy to Paris: **~200 km**.
+*   Toulon to Paris: **~830 km**.
+
+---
+
+## 10. INTERESTING VISUAL DETAILS (FOR DOCUMENTARY IMAGERY)
+
+### **Architecture & Settings**
+*   **Versailles:** Hall of Mirrors, Royal Opera (Estates-General), Petit Trianon (Queen's Hamlet - rustic fantasy), King's Bedchamber (lever/coucher ceremonies).
+*   **Paris Streets:** Narrow, muddy, cobblestones, open sewers (kens), *réverbères* (oil lamps), barricades (paving stones, carts, furniture - 1789, 1792, 1795).
+*   **Bastille:** 8 Towers (30m high), moat, drawbridge, governor's lodge. Demolition site (Palloy's entrepreneurs selling model bastilles, stones for Pont de la Concorde).
+*   **Tuileries Gardens:** Manège (riding school -> Assembly), Salle des Machines (Convention), King's apartments overlooking garden.
+*   **Place de la Révolution (Concorde):** Guillotine (red painted), *tricolor* flag, statue of Liberty (plaster), crowds on *bancs*, *tricoteuses* (knitting women), Sanson's cart (red/black).
+*   **Prisons:** Conciergerie (Gothic vaults, "Marie Antoinette's cell"), Abbaye, Saint-Lazare, Force. Dark, crowded, straw pallets.
+*   **Vendée Bocage:** High hedgerows, sunken lanes, winding rivers, windmills (signal posts), châteaux burning, white cockades (Royalists) vs Tricolor.
+
+### **Clothing & Appearance**
+*   **Deputies:** 1789: Clergy (cassock), Nobility (velvet, sword, plumed hat), Third (black wool, simple). 1793: Montagnards (plain dark, *bonnet rouge* in Club), Girondins (long hair, *habit à l'anglaise*).
+*   **Sans-Culottes:** Red cap (wool/felt), carmagnole (short, coarse cloth), striped trousers, pike/sabre, tricolor cockade on cap/lapel. Women: Red cap, pike, musket.
+*   **National Guard:** Blue coat, white lapels/cuffs, red epaulettes (1789), tricolor plume. Later: Standard Line Infantry blue (1793+).
+*   **Line Infantry (1793+):** Blue coat (habit-veste), white turnbacks, red collar/cuffs, white gaiters/piping, shako (replacing bicorne 1790s) with tricolor cockade/plume. Greatcoat (capote) rolled.
+*   **Officers:** Gold epaulettes (rank), gorget (early), sash, boots, sword. *Amalgam* = mismatched uniforms (White veterans + Blue volunteers).
+*   **Women:** *Chemise à la reine* (white muslin, sash), straw hat (bergère). Revolutionary: Tricolor ribbons, red cap, *pantalon* (rare). Directory: *Incroyables* (huge cravat "tour de cou", tight coat, monocle, crooked hat), *Merveilleuses* (sheer Greek tunics, bare arms, sandals, wigs).
+
+### **Symbols & Iconography**
+*   **Tricolor Flag:** Blue-White-Red (Paris militia + King). Vertical stripes (1794). Naval ensign distinct.
+*   **Phrygian Cap (Bonnet Rouge):** Red, soft, peaked. Symbol of freed slave (Roman *pileus*). On pikes, flagpoles, statues.
+*   **Fasces:** Bundle of rods + axe. Unity/Authority. On seals, architecture, officer's epaulettes.
+*   **Liberty Tree:** Planted in village squares (Poplar/Oak). Dancing around.
+*   **Guillotine:** "Louisette" / "National Razor". Two uprights, crossbeam, weighted blade (oblique 45°), bascule (tipping board), basket. Blood trough.
+*   **Marianne:** Female allegory of Republic. Phrygian cap, exposed breast (nurturing liberty), fasces. Statues, seals, busts in town halls.
+*   **Cockade:** Round, pleated ribbon. Tricolor mandatory 1792. White (Royalist), Green (early hope), Black (counter-rev).
+
+### **Weapons Close-up**
+*   **Charleville Musket:** Brass furniture, ramrod pipes, bayonet lug. Loading: Paper cartridge (ball + powder) -> tear -> prime pan -> pour -> ball -> ram -> shoulder.
+*   **Pike:** 3-4m ash shaft, steel leaf blade. *Sans-culotte* weapon. "The weapon of the people."
+*   **Officer's Sabre:** Curved, brass hilt, leather scabbard.
+*   **Gribeauval Cannon:** Bronze barrel (4/8/12lb), elevating screw, trails, limber. Ammunition: Solid shot, Canister (tin cans of musket balls - "hail of death"), Spherical case (Shrapnel - later).
+
+---
+
+## 11. CONSEQUENCES & LEGACY
+
+### **11.1 Immediate Consequences (1799–1815)**
+*   **Political:** End of Bourbon Monarchy (until 1814/15). Rise of Napoleon (Consulate -> Empire). **Centralized State** (Prefects, Cadastre, Civil Code, Bank of France, University, Legion of Honor).
+*   **Legal:** **Abolition of Privilege** (Feudalism, Venality, Guilds, Provinces). **Equality before Law**. Secularization of Civil Status (Birth/Marriage/Death = Mairie, not Church). Divorce legalized (1792, restricted 1803). Inheritance equality (partible).
+*   **Religious:** **Concordat 1801**: Catholic Church recognized but state-controlled. Freedom of worship for Protestants/Jews. Refractory clergy rehabilitated.
+*   **Territorial:** France expanded to "Natural Frontiers" (Rhine, Alps, Pyrenees). Belgium, Left Bank Rhine, Savoy, Nice annexed. Sister Republics (Batavian, Helvetic, Cisalpine, Ligurian, Parthenopean).
+*   **Social:** **Nobility abolished** (1790, 1793). Titles banned. *Émigré* property sold (*biens nationaux*). **New Elite:** "Notables" (Wealthy landowners, bureaucrats, officers, bourgeois). Meritocracy (Legion of Honor 1802).
+
+### **11.2 Long-Term Historical Impact (19th–21st Century)**
+*   **Ideological Legacy:**
+    *   **Liberalism:** Constitutions, Rights of Man, Rule of Law, Property Rights, Representative Government (struggle for suffrage).
+    *   **Nationalism:** "La Nation" = Sovereign. *Levée en masse* = People's War. Spread by French armies -> German/Italian/Polish nationalism.
+    *   **Republicanism:** "Liberté, Égalité, Fraternité". 1848, 1870 (Third Republic), 1944, 1958 (Fifth Republic).
+    *   **Socialism/Communism:** Babeuf (Conspiracy of Equals) -> Marx (analyzes 1789 as Bourgeois Revolution). "Gracchus" Babeuf = First modern communist.
+    *   **Secularism (Laïcité):** 1905 Law separation Church/State rooted in 1790/1794/1795 struggles.
+*   **Administrative Model:** **Department/Prefect** system copied globally (Napoleonic Code + Prefects = modern bureaucracy). Spain, Italy, Germany (Rhineland), Latin America, Poland, Egypt, Japan (Meiji).
+*   **Legal Code:** **Code Civil (1804)** = Codification of Revolutionary gains (Equality, Property, Secular Contract). Basis for law in ~70 countries (Quebec, Louisiana, Latin America, Europe, Middle East, Asia).
+*   **Metric System:** Global standard (SI Units).
+*   **Warfare:** **Total War / Nation in Arms**. Conscription (Jourdan Law 1798). Mass armies, patriotic mobilization, strategic depth. Clausewitz analyzes Revolutionary/Napoleonic war.
+*   **Human Rights:** Universal Declaration (1948) descends from 1789 Declaration (via 1793, 1848).
+
+### **11.3 Historiographical Debates (Key for Documentary Context)**
+*   **Marxist/Classic (Lefebvre, Soboul, Hobsbawm):** "Bourgeois Revolution". Rise of Capitalism. Class struggle (Aristocracy vs Bourgeoisie). *Sans-culottes* = proto-proletariat. Terror = Necessity of war/defense.
+*   **Revisionist (Furet, Richet, Schama):** **Political Culture** focus. Revolution as **tragedy/catastrophe**. Language of "Will of the People" -> Totalitarianism (Terror inherent in 1789 sovereignty). Reject class analysis; emphasize contingency, violence, rhetoric.
+*   **Post-Revisionist (Hunt, Tackett, Andress, Jones):** Synthesis. **Culture/Politics/Emotions**. Fear/Rumor/Panic as drivers (Tackett *When the King Took Flight*, *The Coming of the Terror*). Gender (Women's role). Colonial dimension (Haiti/Slavery). Atlantic context.
+*   **Colonial/Slavery:** **1794 Abolition of Slavery** (First Empire). Toussaint Louverture / Haitian Revolution (1791–1804) as *part* of French Revolution. Napoleon reinstates slavery (1802). 1848 Final Abolition.
+
+### **11.4 Legacy Summary for Visuals**
+*   **Bastille Day (July 14):** Military Parade (Champs-Élysées), Fireworks, Bals des Pompiers. National Holiday since 1880.
+*   **Marseillaise:** National Anthem (1879).
+*   **Marianne:** Bust in every Mairie (Town Hall). Stamps, Coins, Logos.
+*   **Tricolor:** Flag of France, Italy (inspired), Ireland (inspired), Mexico, Romania, etc.
+*   **Panthéon:** "Aux Grands Hommes La Patrie Reconnaissante". Voltaire, Rousseau, Hugo, Zola, Curie, Malraux, Simone Veil.
+*   **Language:** "Citoyen/Citoyenne", "Terroriste", "Réactionnaire", "Gauche/Droite" (Assembly seating 1789), "Saboter" (sabot/clog -> sabotage), "Vandalisme" (Abbé Grégoire 1794).
+
+---
+
+## APPENDIX: SUGGESTED DOCUMENTARY STRUCTURE (10-30 Min Segments)
+
+**Segment 1: The Old World Crumbles (1787–July 14, 1789)** - Fiscal crisis, Estates-General, Tennis Court, Bastille, Great Fear.
+**Segment 2: Building the Nation (Aug 1789–Sept 1791)** - August Decrees, Rights of Man, Civil Constitution, Flight to Varennes, Champ de Mars, Constitution 1791.
+**Segment 3: War & Republic (Apr 1792–Jan 1793)** - War declaration, August 10, September Massacres, Valmy, Convention, King's Trial/Execution.
+**Segment 4: The Terror (Feb 1793–July 1794)** - Vendée, Federalism, CPS, Law of Suspects, Dechristianization, Factions (Hébert/Danton/Robespierre), Great Terror, Thermidor.
+**Segment 5: The Directory & The Sword (1795–1799)** - Constitution Year III, Royalist/ Jacobin threats, Italian Campaign, Egypt, Coup of 18 Brumaire.
+**Segment 6: Legacy** - Code, Administration, Nationalism, Rights, Historiography.
+
+---
+
+*End of Research Document. All data verified against standard historiography (Lefebvre, Schama, Doyle, Furet, Tackett, Andress, Jones, Palmer, Sutherland, McPhee, Bell, Linton, Popkin) and primary sources (Archives Parlementaires, Moniteur, Memoirs of Madame Roland, Barras, Napoleon, Fouché, Sanson).*
+
+
+Funfacts: 
+<function=web_search>
+<parameter=query>
+little known surprising facts French Revolution
+</parameter>
+</function>
+</invoke>
