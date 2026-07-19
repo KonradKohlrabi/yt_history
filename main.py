@@ -9,6 +9,10 @@ import pyautogui
 import subprocess
 import edge_tts
 import asyncio
+import whisperx
+import torch
+import re
+
 
 load_dotenv()
 
@@ -41,6 +45,8 @@ BASE_IMG_COORDS = (798, 392)
 WAITING_TIME = 60
 
 VOICE = "en-US-BrianNeural"
+
+WHISPERX_MODEL = "small" #small, medium, large-v3
 
 topic_prompt = """You are creating topics for a YouTube channel about history.
 
@@ -813,6 +819,74 @@ def generate_timeline_prompt(story):
     return timeline_img_prompt
 
 
+
+def add_word_timestamps(story_filename, audio_filename):
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+
+    model = whisperx.load_model(
+        WHISPERX_MODEL,
+        device,
+        compute_type="float16" if device == "cuda" else "int8"
+    )
+
+    audio = whisperx.load_audio(audio_filename)
+
+    result = model.transcribe(audio)
+
+    model_a, metadata = whisperx.load_align_model(
+        language_code=result["language"],
+        device=device
+    )
+
+    result = whisperx.align(
+        result["segments"],
+        model_a,
+        metadata,
+        audio,
+        device
+    )
+
+    aligned_words = [
+        w for w in result["word_segments"]
+        if "start" in w and w["word"].strip()
+    ]
+
+    with open(story_filename, "r", encoding="utf-8") as f:
+        story = f.read()
+
+    tokens = re.findall(r"\w+|[^\w\s]", story, re.UNICODE)
+
+    output = []
+    word_index = 0
+
+    for token in tokens:
+        if re.match(r"\w+", token):
+            if word_index < len(aligned_words):
+                timestamp = aligned_words[word_index]["start"]
+                output.append(f"{token}[{timestamp:.2f}]")
+                word_index += 1
+            else:
+                output.append(token)
+        else:
+            output.append(token)
+
+    final = ""
+    for i, token in enumerate(output):
+        if i > 0:
+            if re.match(r"[.,!?;:)\]\}]", token):
+                pass
+            elif re.match(r"[\(\[\{]", token):
+                final += " "
+            else:
+                final += " "
+        final += token
+
+    with open(story_filename, "w", encoding="utf-8") as f:
+        f.write(final)
+
+    return final
+
+
 # Phases
 
 def phase_1_topic():
@@ -854,8 +928,13 @@ def phase_6_generate_timeline(story):
     timeline_img_prompt = generate_timeline_prompt(story)
     return timeline_img_prompt
 
-def phase_7_generate_timestamps(story, foldername):
+def phase_7_generate_timestamps(foldername):
     print("Phase 7")
+    timestamped_story = add_word_timestamps("videos/"+foldername+"/story.txt", "videos/"+foldername+"/audio.mp3")
+    with open("videos/"+foldername+"/timestamped_story.txt", "w", encoding="utf-8") as f:
+        f.write(timestamped_story)
+    return timestamped_story
+
 
 def main():
     foldername = phase_1_topic()
@@ -865,7 +944,7 @@ def main():
     phase_4_character_images(story, foldername)
     phase_5_generate_audio(story, foldername)
     phase_6_generate_timeline(story)
-    phase_7_generate_timestamps(story, foldername)
+    timestamped_story = phase_7_generate_timestamps(foldername)
 
 
 
