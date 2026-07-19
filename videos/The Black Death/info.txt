@@ -1,0 +1,12 @@
+<invoke name="web_search">
+<parameter name="query">Black Death comprehensive history overview causes spread timeline mortality</parameter>
+</invoke>
+
+
+Funfacts: 
+<function=web_search>
+<parameter=query>
+Black Death surprising little-known facts unusual details
+</parameter>
+</function>
+</invoke>

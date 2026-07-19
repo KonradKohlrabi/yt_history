@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Napoleon Bonaparte",
+        "id": 0,
+        "prompt": "Identity: Napoleon Bonaparte, Emperor of the French, military commander and statesman, France 1799-1815. Appearance: Male, approximately 42 years old during 1812 campaign, height approximately 168 cm, oval face with slightly protruding chin, dark chestnut hair brushed forward over forehead in early 19th century style, clean-shaven, gray-blue eyes, pale olive skin tone, compact stocky build with slightly rounded shoulders, distinctive habit of placing hand inside waistcoat. Clothing: Colonel of the Imperial Guard uniform, dark blue habit-veste with red facings, gold epaulettes, white breeches, black knee-high boots, Legion of Honor star on left breast, black bicorne worn sideways with red-white-blue cockade, gray overcoat often draped over shoulders. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Carlo Bonaparte",
+        "id": 1,
+        "prompt": "Identity: Carlo Maria Buonaparte, father of Napoleon, Corsican lawyer and minor nobility representative, Corsica 1760s-1785. Appearance: Male, approximately 38 years old at death, height approximately 170 cm, long narrow face with aquiline nose, dark brown hair worn in queue tied with black ribbon, clean-shaven with thin mustache, dark brown eyes, olive Mediterranean skin tone, slender build. Clothing: Late 18th century Corsican-French provincial attorney attire, dark wool justacorps coat with brass buttons, waistcoat, white linen shirt with jabot, knee breeches, silk stockings, buckled shoes, tricorne hat. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Pasquale Paoli",
+        "id": 2,
+        "prompt": "Identity: Pasquale Paoli, Corsican nationalist leader and statesman, Corsica 1750s-1790s. Appearance: Male, approximately 44 years old during Napoleon's youth, height approximately 175 cm, strong rectangular face with high forehead, iron-gray hair worn long and tied back, full white beard trimmed neat, penetrating dark eyes, weathered olive skin from mountain campaigns, tall lean athletic build. Clothing: Traditional Corsican mountain leader costume mixed with Enlightenment gentleman attire, dark velvet jacket with frogging, white shirt, red sash, loose trousers tucked into leather boots, pistols at belt, sometimes wearing a scholar's cap. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Paul Barras",
+        "id": 3,
+        "prompt": "Identity: Paul Fran\u00e7ois Jean Nicolas Barras, member of the Directory, French Revolution politician, France 1795-1799. Appearance: Male, approximately 40 years old during 1795, height approximately 178 cm, round fleshy face with double chin, powdered white hair in late aristocratic style, clean-shaven, small dark eyes, florid complexion, heavy-set corpulent build. Clothing: Director's official costume, long blue coat with red collar and cuffs, white waistcoat with gold embroidery, white breeches, silk stockings, ceremonial sword, plumed bicorne hat carried under arm. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Joachim Murat",
+        "id": 4,
+        "prompt": "Identity: Joachim Murat, Marshal of France, King of Naples, flamboyant cavalry commander, France 1795-1815. Appearance: Male, approximately 35 years old during 1812 campaign, height approximately 180 cm, handsome oval face with strong jawline, long dark curling hair worn flowing to shoulders, clean-shaven with occasional mustache, large expressive dark eyes, olive skin, tall muscular athletic build, theatrical bearing. Clothing: Elaborate hussar-style uniform of his own design, bright colored dolman and pelisse with extensive gold braiding, fur-trimmed busby with colored bag and plume, tight breeches, hussar boots, multiple orders and decorations, saber with gold hilt. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Josephine de Beauharnais",
+        "id": 5,
+        "prompt": "Identity: Josephine de Beauharnais, n\u00e9e Tascher de La Pagerie, Empress of the French, first wife of Napoleon, France 1796-1809. Appearance: Female, approximately 46 years old during 1809 divorce, height approximately 162 cm, delicate oval face with small mouth, chestnut brown hair dressed in fashionable Empire style with curls framing face, hazel eyes, fair creamy skin with freckles, slender graceful figure, damaged teeth from childhood sugar consumption often hidden. Clothing: High-waisted white muslin Empire gown with short sleeves, cashmere shawl draped over shoulders, diamond tiara and jewelry, red velvet coronation mantle trimmed with ermine for formal occasions, flat slippers. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Horatio Nelson",
+        "id": 6,
+        "prompt": "Identity: Horatio Nelson, Viscount Nelson, British Royal Navy admiral, United Kingdom 1793-1805. Appearance: Male, approximately 45 years old at death, height approximately 168 cm, thin weathered face, graying hair worn in queue, clean-shaven, right eye blind and sightless (often covered), left eye piercing blue, deeply tanned leathery skin, right sleeve pinned empty (lost arm at Tenerife), slight stoop from wounds. Clothing: British rear-admiral full dress uniform 1795 pattern, blue coat with gold lace, white waistcoat and breeches, four gold epaulettes, numerous orders including Bath star, bicorne hat worn athwartships. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Jean-Baptiste Kl\u00e9ber",
+        "id": 7,
+        "prompt": "Identity: Jean-Baptiste Kl\u00e9ber, French general, commander in Egypt, France 1792-1800. Appearance: Male, approximately 47 years old at assassination, height approximately 188 cm, massive square jawed face, brown hair receding at temples worn short, thick brown mustache, blue-gray eyes, ruddy complexion, enormous broad-shouldered powerful build. Clothing: General of Division uniform, dark blue coat with red cuffs and collar, gold epaulettes, white breeches, black boots, blue sash, bicorne hat, often wearing cloak in Egyptian heat. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Jacques-Fran\u00e7ois Menou",
+        "id": 8,
+        "prompt": "Identity: Jacques-Fran\u00e7ois Menou, French general, commander in Egypt after Kl\u00e9ber, France 1798-1801. Appearance: Male, approximately 50 years old in Egypt, height approximately 175 cm, long narrow face with hooked nose, dark hair thinning on top, clean-shaven, dark eyes, sallow complexion, thin wiry build. Clothing: General's uniform adapted for Egyptian climate, light colored coat, turban adopted after conversion to Islam, loose trousers, sandals, sometimes European uniform with Legion of Honor. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Lucien Bonaparte",
+        "id": 9,
+        "prompt": "Identity: Lucien Bonaparte, Prince of Canino, Napoleon's brother, President of Council of Five Hundred, France 1799-1814. Appearance: Male, approximately 24 years old during Brumaire, height approximately 178 cm, handsome regular features resembling Napoleon but softer, dark curling hair worn fashionably long, clean-shaven, dark eyes, pale skin, tall slender elegant build. Clothing: President of Council official costume, long blue velvet coat with gold embroidery, white waistcoat, white breeches, ceremonial sword, plumed hat. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Louis Desaix",
+        "id": 10,
+        "prompt": "Identity: Louis Charles Antoine Desaix, French general, hero of Marengo, France 1792-1800. Appearance: Male, approximately 32 years old at death, height approximately 175 cm, severe ascetic face with high forehead, dark hair worn short and brushed forward, thick dark eyebrows, intense dark eyes, pale olive skin, lean muscular build. Clothing: General of Division campaign uniform, dark blue coat with red facings, gold epaulettes, white breeches, black boots, plain bicorne, often seen leading from front on horseback. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Fran\u00e7ois Kellermann",
+        "id": 11,
+        "prompt": "Identity: Fran\u00e7ois Christophe Kellermann, Duke of Valmy, Marshal of France, hero of Valmy, France 1792-1815. Appearance: Male, approximately 65 years old during 1800 Marengo, height approximately 170 cm, lined weathered face with jowls, white hair worn in old-fashioned queue, clean-shaven, pale blue eyes, florid complexion, stocky build. Clothing: Marshal's uniform with extensive gold lace, red collar and cuffs, multiple decorations, white breeches, boots, bicorne with white plumes. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Joseph Fouch\u00e9",
+        "id": 12,
+        "prompt": "Identity: Joseph Fouch\u00e9, Duke of Otranto, Minister of Police, former priest and regicide, France 1792-1815. Appearance: Male, approximately 40 years old during Consulate, height approximately 173 cm, sharp fox-like face with thin lips, dark hair receding worn combed forward, clean-shaven, cold gray eyes, pale waxy complexion, slender nervous build. Clothing: Civil official attire, dark blue coat with black velvet collar, white waistcoat, dark breeches, silk stockings, buckled shoes, Legion of Honor, carrying cane. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Georges Cadoudal",
+        "id": 13,
+        "prompt": "Identity: Georges Cadoudal, Breton royalist leader, conspirator against Napoleon, France 1793-1804. Appearance: Male, approximately 33 years old at execution, height approximately 178 cm, rugged square Breton face, dark hair worn long tied back, thick mustache and sideburns, dark intense eyes, weathered tanned skin, powerful athletic build. Clothing: Breton peasant costume adapted for guerrilla warfare, blue wool jacket, red waistcoat, loose trousers, gaiters, heavy boots, Catholic medallion, pistols and dagger at belt. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Louis Antoine de Bourbon, Duke of Enghien",
+        "id": 14,
+        "prompt": "Identity: Louis Antoine Henri de Bourbon-Cond\u00e9, Duke of Enghien, Bourbon prince, executed 1804. Appearance: Male, approximately 31 years old at death, height approximately 175 cm, refined aristocratic features, blond hair worn in queue, clean-shaven, blue eyes, very fair skin, slender elegant build. Clothing: French \u00e9migr\u00e9 noble attire, dark blue coat with gold embroidery, white waistcoat and breeches, Order of Saint Louis, white stockings, buckled shoes, sword, bicorne with white cockade. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Pope Pius VII",
+        "id": 15,
+        "prompt": "Identity: Pope Pius VII, born Barnaba Chiaramonti, Pope 1800-1823, Italy/France. Appearance: Male, approximately 62 years old at 1804 coronation, height approximately 173 cm, benevolent oval face with gentle expression, white hair tonsured, clean-shaven, kind blue eyes, pale translucent skin, frail stooped build. Clothing: Papal ceremonial vestments, white cassock, red mozzetta, white rochet, stole, tiara for coronation, red slippers, Fisherman's Ring. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Karl Mack von Leiberich",
+        "id": 16,
+        "prompt": "Identity: Karl Mack von Leiberich, Austrian general, surrendered at Ulm 1805. Appearance: Male, approximately 53 years old at Ulm, height approximately 175 cm, severe lined face with drooping mustaches, graying hair worn short, thick gray mustache, brown eyes, florid complexion, stocky build. Clothing: Austrian Feldmarschalleutnant uniform 1805, white coat with red facings, gold epaulettes, white breeches, black boots, Maria Theresa Order, bicorne with green plume. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Alexander I of Russia",
+        "id": 17,
+        "prompt": "Identity: Alexander I Pavlovich, Tsar of Russia, Russia 1801-1825. Appearance: Male, approximately 35 years old during 1812, height approximately 170 cm, handsome regular features, blond hair worn in fashionable brushed style, clean-shaven, large expressive blue eyes, fair skin, well-proportioned athletic build. Clothing: Russian imperial guard uniform, dark green coat with red collar and cuffs, gold epaulettes, white breeches, black boots, Order of Saint Andrew star and ribbon, bicorne with white plume. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Francis II, Holy Roman Emperor",
+        "id": 18,
+        "prompt": "Identity: Francis II, last Holy Roman Emperor, first Emperor of Austria, Austria 1792-1835. Appearance: Male, approximately 37 years old during 1805, height approximately 168 cm, round Habsburg face with prominent lower lip, light brown hair worn short, clean-shaven, pale blue eyes, fair skin, slightly plump build. Clothing: Austrian Emperor ceremonial uniform, white coat with red collar and cuffs heavily gold embroidered, Order of Golden Fleece, white breeches, boots, imperial crown for portraits. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Nicolas Soult",
+        "id": 19,
+        "prompt": "Identity: Nicolas Jean-de-Dieu Soult, Duke of Dalmatia, Marshal of France, France 1792-1815. Appearance: Male, approximately 43 years old during 1812, height approximately 175 cm, intelligent angular face, dark hair receding at temples, clean-shaven, dark penetrating eyes, olive skin, lean wiry build. Clothing: Marshal's uniform, dark blue coat with red facings, extensive gold embroidery on collar cuffs and lapels, gold epaulettes, white breeches, black boots, Marshal's baton, multiple orders. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Louis-Nicolas Davout",
+        "id": 20,
+        "prompt": "Identity: Louis-Nicolas Davout, Duke of Auerstedt, Prince of Eckm\u00fchl, Marshal of France, France 1792-1815. Appearance: Male, approximately 42 years old during 1812, height approximately 173 cm, severe cold face with thin lips, dark hair worn short brushed forward, clean-shaven, steely gray eyes, pale skin, compact muscular build. Clothing: Marshal's campaign uniform, dark blue coat with red facings, gold epaulettes, white breeches, black boots, simple bicorne, Legion of Honor, Iron Marshal reputation reflected in austere dress. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Frederick the Great",
+        "id": 21,
+        "prompt": "Identity: Frederick II, King of Prussia, visited by Napoleon at tomb 1806, Prussia 1740-1786. Appearance: Male, approximately 74 years old at death (portrait age), height approximately 168 cm, long thin face with aquiline nose, gray hair worn in queue with black ribbon, clean-shaven, piercing blue eyes, sallow skin, very thin frail build. Clothing: Prussian general's uniform 1780s, blue coat with red facings, gold lace, yellow waistcoat and breeches, black boots, Order of Black Eagle, tricorne hat. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Charles IV of Spain",
+        "id": 22,
+        "prompt": "Identity: Charles IV, King of Spain, forced to abdicate 1808, Spain 1788-1808. Appearance: Male, approximately 60 years old at abdication, height approximately 170 cm, heavy Bourbon face with protruding jaw, gray hair worn in queue, clean-shaven, small dark eyes, florid complexion, stout build. Clothing: Spanish royal court dress, dark velvet coat with gold embroidery, white waistcoat, Order of Golden Fleece, white breeches, silk stockings, buckled shoes, sash of Charles III. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Ferdinand VII of Spain",
+        "id": 23,
+        "prompt": "Identity: Ferdinand VII, King of Spain, forced to abdicate 1808, Spain 1808-1833. Appearance: Male, approximately 24 years old at abdication, height approximately 173 cm, weak chin with Bourbon jaw, dark hair worn in fashionable style, clean-shaven, dark eyes, sallow complexion, slight build. Clothing: Spanish prince's uniform, dark blue coat with red collar and gold embroidery, white breeches, Order of Golden Fleece, bicorne. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Joseph Bonaparte",
+        "id": 24,
+        "prompt": "Identity: Joseph Bonaparte, King of Naples then Spain, Napoleon's elder brother, France/Spain 1806-1813. Appearance: Male, approximately 40 years old as King of Spain, height approximately 175 cm, round pleasant face resembling Napoleon but softer, dark hair receding worn brushed forward, clean-shaven, dark eyes, olive skin, slightly portly build. Clothing: Spanish royal uniform, dark blue coat with red facings and gold embroidery, white breeches, Order of Golden Fleece, Legion of Honor, bicorne with red plume. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Francisco Goya",
+        "id": 25,
+        "prompt": "Identity: Francisco de Goya y Lucientes, Spanish painter, chronicler of Peninsular War, Spain 1780s-1828. Appearance: Male, approximately 62 years old during 1808, height approximately 168 cm, intense weathered face, dark hair graying worn long tied back, clean-shaven, penetrating dark eyes, olive skin, stocky build, became deaf 1792. Clothing: Spanish gentleman's attire, dark brown coat, yellow waistcoat, white shirt with ruffled cravat, knee breeches, silk stockings, buckled shoes, painter's beret sometimes worn. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Archduke Charles of Austria",
+        "id": 26,
+        "prompt": "Identity: Archduke Charles of Austria, Duke of Teschen, Austrian field marshal, Austria 1792-1809. Appearance: Male, approximately 38 years old at Aspern-Essling, height approximately 178 cm, long Habsburg face with prominent lip, blond hair worn short, clean-shaven, pale blue eyes, fair skin, tall slender build, epileptic condition. Clothing: Austrian field marshal uniform, white coat with red facings, gold epaulettes, Order of Maria Theresa, white breeches, black boots, bicorne with green plume. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Jean Lannes",
+        "id": 27,
+        "prompt": "Identity: Jean Lannes, Duke of Montebello, Marshal of France, Napoleon's closest friend, France 1792-1809. Appearance: Male, approximately 40 years old at death, height approximately 178 cm, rugged Gascon face with strong nose, dark hair worn short, thick dark mustache, bright dark eyes, sun-bronzed skin, powerful athletic build. Clothing: Marshal's uniform, dark blue coat with red facings, gold epaulettes, white breeches, black boots, simple bicorne, often dusty from campaign. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Marie Louise of Austria",
+        "id": 28,
+        "prompt": "Identity: Marie Louise of Austria, Empress of the French, Napoleon's second wife, France 1810-1814. Appearance: Female, approximately 21 years old during 1812, height approximately 165 cm, round fair face with blue eyes, blond hair dressed in Empire style with curls, very fair translucent skin, fuller figure than Josephine, Habsburg lip slightly visible. Clothing: White silk Empire gown with silver embroidery, diamond parure, red velvet coronation mantle with ermine, flat slippers, pearl tiara. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Marie Antoinette",
+        "id": 29,
+        "prompt": "Identity: Marie Antoinette, Queen of France, executed 1793, France 1774-1793. Appearance: Female, approximately 38 years old at death, height approximately 163 cm, oval face with high forehead, strawberry-blond hair dressed in elaborate pouf style, blue eyes, porcelain skin, slender graceful figure. Clothing: French queen's court dress, wide panniered gown of silk with extensive lace and ribbon trim, diamond jewelry, feathered headdress, high heels. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Napoleon II",
+        "id": 30,
+        "prompt": "Identity: Napoleon Fran\u00e7ois Charles Joseph Bonaparte, King of Rome, son of Napoleon and Marie Louise, France 1811-1814. Appearance: Male, approximately 2 years old during 1812-1813, height approximately 85 cm, round childish face with blond curls, large blue eyes, fair skin, chubby toddler build. Clothing: White muslin Empire-style child's dress with short sleeves, cashmere shawl, coral necklace for teething, soft leather shoes. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Michael Andreas Barclay de Tolly",
+        "id": 31,
+        "prompt": "Identity: Michael Andreas Barclay de Tolly, Russian field marshal, Minister of War, Russia 1810-1814. Appearance: Male, approximately 51 years old during 1812, height approximately 175 cm, stern Scottish-Russian face, graying hair worn short, clean-shaven, cold gray eyes, pale skin, lean wiry build. Clothing: Russian general's uniform, dark green coat with red collar and cuffs, gold epaulettes, Order of Saint Andrew, white breeches, black boots, bicorne. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Pyotr Bagration",
+        "id": 32,
+        "prompt": "Identity: Pyotr Ivanovich Bagration, Russian general, Prince, mortally wounded at Borodino, Russia 1805-1812. Appearance: Male, approximately 47 years old at death, height approximately 180 cm, rugged Georgian aristocratic face, dark hair graying at temples, thick mustache, dark intense eyes, weathered olive skin, tall powerful build. Clothing: Russian general's uniform, dark green coat with red facings, gold epaulettes, multiple orders including Saint George, white breeches, black boots, bicorne. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Fyodor Rostopchin",
+        "id": 33,
+        "prompt": "Identity: Fyodor Vasilyevich Rostopchin, Count, Governor of Moscow 1812, Russia. Appearance: Male, approximately 49 years old during 1812, height approximately 173 cm, round fleshy face, dark hair receding, clean-shaven, shrewd dark eyes, florid complexion, heavy build. Clothing: Russian civil governor uniform, dark green coat with red collar, gold embroidery, white waistcoat, breeches, boots, Order of Saint Vladimir. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Mikhail Kutuzov",
+        "id": 34,
+        "prompt": "Identity: Mikhail Illarionovich Kutuzov, Prince of Smolensk, Russian field marshal, Russia 1812-1813. Appearance: Male, approximately 67 years old during 1812, height approximately 175 cm, deeply lined face, right eye missing (lost at Ochakov), left eye piercing, gray hair thin on top, clean-shaven, scarred weathered skin, stooped heavy build. Clothing: Russian field marshal uniform, dark green coat with red collar heavily gold embroidered, gold epaulettes, Order of Saint George star, white breeches, boots, bicorne. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Jean-Baptiste Ebl\u00e9",
+        "id": 35,
+        "prompt": "Identity: Jean-Baptiste Ebl\u00e9, French general, commander of pontonniers at Berezina, France 1792-1812. Appearance: Male, approximately 54 years old at death, height approximately 170 cm, weathered face, gray hair worn short, gray mustache, blue eyes, ruddy complexion, stocky strong build. Clothing: General of Division artillery uniform, dark blue coat with red facings, gold epaulettes, white breeches, black boots, bicorne, often seen in mud and freezing water. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Klemens von Metternich",
+        "id": 36,
+        "prompt": "Identity: Klemens Wenzel von Metternich, Austrian foreign minister and chancellor, Austria 1809-1848. Appearance: Male, approximately 39 years old during 1813, height approximately 178 cm, elegant aristocratic face, dark hair worn in fashionable brushed style, clean-shaven, intelligent brown eyes, pale skin, tall slender graceful build. Clothing: Austrian diplomatic uniform, dark blue coat with gold embroidery on collar and cuffs, white waistcoat and breeches, Order of Golden Fleece, silk stockings, buckled shoes. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Gebhard Leberecht von Bl\u00fccher",
+        "id": 37,
+        "prompt": "Identity: Gebhard Leberecht von Bl\u00fccher, Prince of Wahlstatt, Prussian field marshal, Prussia 1813-1815. Appearance: Male, approximately 73 years old during 1815, height approximately 173 cm, rugged weather-beaten face, white hair cut short, thick white mustache, piercing blue eyes, deeply tanned leathery skin, stocky powerful build despite age. Clothing: Prussian field marshal uniform, dark blue coat with red facings, gold epaulettes, Order of Black Eagle, Pour le M\u00e9rite, white breeches, black boots, bicorne. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "J\u00f3zef Poniatowski",
+        "id": 38,
+        "prompt": "Identity: J\u00f3zef Antoni Poniatowski, Prince, Marshal of France, Polish national hero, Poland/France 1807-1813. Appearance: Male, approximately 50 years old at death, height approximately 175 cm, handsome Polish face with mustache, dark hair graying worn short, thick dark mustache, dark expressive eyes, olive skin, athletic build. Clothing: Marshal of France uniform with Polish elements, dark blue coat with red facings, gold epaulettes, Virtuti Militari, white breeches, black boots, Polish czapka with white plume. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Charles Maurice de Talleyrand-P\u00e9rigord",
+        "id": 39,
+        "prompt": "Identity: Charles Maurice de Talleyrand-P\u00e9rigord, Prince of Benevento, French foreign minister, France 1797-1815. Appearance: Male, approximately 60 years old during 1814, height approximately 175 cm, sharp fox-like face with club foot (hidden), gray hair worn in queue, clean-shaven, cold gray eyes, pale waxy complexion, slender build. Clothing: Diplomatic civil uniform, dark blue coat with gold embroidery, white waistcoat, dark breeches, silk stockings, buckled shoes, Legion of Honor, cane for club foot. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Michel Ney",
+        "id": 40,
+        "prompt": "Identity: Michel Ney, Duke of Elchingen, Prince of the Moskova, Marshal of France, Bravest of the Brave, France 1792-1815. Appearance: Male, approximately 46 years old during 1815, height approximately 180 cm, rugged soldier's face with broken nose, dark hair graying worn short, thick mustache, fierce dark eyes, deeply tanned weathered skin, tall muscular powerful build. Clothing: Marshal's campaign uniform, dark blue coat with red facings, gold epaulettes, white breeches, black boots, simple bicorne worn forward, multiple wound stripes, Legion of Honor. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Hudson Lowe",
+        "id": 41,
+        "prompt": "Identity: Sir Hudson Lowe, British governor of St. Helena, United Kingdom 1816-1821. Appearance: Male, approximately 47 years old during Napoleon's captivity, height approximately 175 cm, severe angular face, dark hair receding worn short, clean-shaven, cold gray eyes, fair skin, lean rigid military bearing. Clothing: British governor full dress uniform, scarlet coat with blue facings, gold epaulettes, white breeches, black boots, Order of Bath, bicorne. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Emmanuel de Las Cases",
+        "id": 42,
+        "prompt": "Identity: Emmanuel-Augustin-Dieudonn\u00e9-Joseph de Las Cases, French historian, Napoleon's memorialist at St. Helena, France 1815-1821. Appearance: Male, approximately 50 years old on St. Helena, height approximately 173 cm, intellectual face with high forehead, gray hair worn brushed back, clean-shaven, thoughtful brown eyes, pale skin, slender build. Clothing: Civilian gentleman's attire, dark frock coat, waistcoat, cravat, trousers, boots, spectacles, often writing. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Arthur Wellesley, Duke of Wellington",
+        "id": 43,
+        "prompt": "Identity: Arthur Wellesley, Duke of Wellington, British field marshal, victor of Waterloo, United Kingdom 1808-1815. Appearance: Male, approximately 46 years old at Waterloo, height approximately 175 cm, long aquiline face with hooked nose, dark hair graying at temples worn short, clean-shaven, piercing blue eyes, sallow complexion, lean athletic build. Clothing: British field marshal uniform, scarlet coat with blue facings, gold epaulettes, white breeches, black boots, Order of Garter star, Peninsular Gold Cross, bicorne worn fore-and-aft. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Emmanuel de Grouchy",
+        "id": 44,
+        "prompt": "Identity: Emmanuel de Grouchy, Marquis de Grouchy, Marshal of France, commander at Waterloo, France 1792-1815. Appearance: Male, approximately 49 years old at Waterloo, height approximately 180 cm, long aristocratic face, dark hair graying worn brushed back, clean-shaven, dark eyes, pale skin, tall elegant build. Clothing: Marshal's uniform, dark blue coat with red facings, gold epaulettes, white breeches, black boots, bicorne, Legion of Honor, calm demeanor. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Jean-Baptiste Drouet, comte d'Erlon",
+        "id": 45,
+        "prompt": "Identity: Jean-Baptiste Drouet, Comte d'Erlon, Marshal of France, corps commander at Waterloo, France 1792-1815. Appearance: Male, approximately 50 years old at Waterloo, height approximately 178 cm, square jawed determined face, dark hair graying worn short, thick mustache, dark eyes, weathered olive skin, sturdy muscular build. Clothing: Marshal's uniform, dark blue coat with red facings, gold epaulettes, white breeches, black boots, bicorne, Legion of Honor. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Thomas Picton",
+        "id": 46,
+        "prompt": "Identity: Sir Thomas Picton, British lieutenant general, killed at Waterloo, United Kingdom 1815. Appearance: Male, approximately 57 years old at death, height approximately 175 cm, harsh weathered face, gray hair worn short, clean-shaven, sharp gray eyes, deeply tanned leathery skin, lean wiry build. Clothing: British general's uniform (famously wore civilian top hat and coat at Waterloo), dark blue civilian frock coat, white waistcoat, buff breeches, top hat, Order of Bath. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    },
+    {
+        "name": "Peregrine Maitland",
+        "id": 47,
+        "prompt": "Identity: Sir Peregrine Maitland, British major general, commanded 1st Foot Guards at Waterloo, United Kingdom 1815. Appearance: Male, approximately 38 years old at Waterloo, height approximately 178 cm, handsome regular features, dark hair worn brushed back, clean-shaven, blue eyes, fair skin, tall athletic build. Clothing: British Guards major general uniform, scarlet coat with blue facings, gold epaulettes, white breeches, black boots, Order of Bath, bicorne, Guards badge. Style: Stickmanstyle exactly like reference picture, white background, historically accurate reference image for consistent character appearance across scenes"
+    }
+]

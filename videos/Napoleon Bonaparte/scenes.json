@@ -1,0 +1,1177 @@
+[
+    {
+        "id": 0,
+        "timeline": 1,
+        "time_start": 0.13,
+        "time_end": 2.25,
+        "text": "The[0.13] year[0.27] is[0.61] 1812[0.83]. Six[2.25]",
+        "goal": "Introduce the Invasion of Russia chapter.",
+        "plan": [
+            "Timeline with Invasion of Russia (1812) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Documentary opens with 1812 framing device; timeline scene marks Chapter 11 start."
+    },
+    {
+        "id": 1,
+        "timeline": 0,
+        "time_start": 2.25,
+        "time_end": 21.89,
+        "text": "hundred[3.15] thousand[3.57] men[4.15] stand[4.27] on[4.41] the[4.89] banks[5.01] of[5.13] the[5.47] Niemen[6.23] River[6.37]. They[6.53] are[6.99] French[7.51], Polish[8.39], German[9.55], Italian[10.51], Swiss[11.35], Dutch[12.41], Croatian[13.59], Portuguese[14.65], Spanish[15.53], Austrian[16.33], Prussian[16.53]. They[16.67] are[16.79] the[17.33] Grande[18.11] Arm\u00e9e[18.23], the[18.52] most[19.05] formidable[19.52] military[20.00] machine[20.14] the[20.45] world[20.71] has[20.93] ever[21.82] seen[21.89].",
+        "goal": "Show the multinational Grande Arm\u00e9e assembled at the Niemen.",
+        "plan": [
+            "Map of Europe with Niemen River highlighted",
+            "Army camps spread along river bank",
+            "Nationality flags appear over camp sections",
+            "Napoleon on horseback observing"
+        ],
+        "frames": 4,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Europe Map",
+            "Grande Arm\u00e9e Camp",
+            "National Flags"
+        ],
+        "reason": "Progressive reveal: map location \u2192 army scale \u2192 multinational composition \u2192 Napoleon's presence."
+    },
+    {
+        "id": 2,
+        "timeline": 0,
+        "time_start": 22.11,
+        "time_end": 59.72,
+        "text": "At[22.11] their[22.36] head[22.75] rides[22.84] a[23.18] man[23.86] who[23.94], in[24.08] the[24.40] span[24.46] of[24.52] sixteen[25.92] years[26.16], has[26.50] risen[26.70] from[26.80] a[27.28] lonely[27.78] artillery[28.36] lieutenant[28.50] on[28.80] leave[28.92] in[29.48] Corsica[29.62] to[29.74] the[30.22] master[30.36] of[31.00] continental[31.68] Europe[31.78]. He[31.98] has[32.48] humbled[32.94] Austria[33.20] three[34.20] times[34.34]. He[34.54] has[35.04] shattered[35.28] the[35.72] ancient[36.24] military[36.84] reputation[36.98] of[37.56] Prussia[37.68] in[37.80] a[38.20] single[39.34] afternoon[39.48]. He[39.70] has[40.20] dictated[40.56] peace[40.70] to[40.80] the[41.16] Tsar[41.30] of[41.84] Russia[41.96] on[42.06] a[42.56] raft[42.66] in[42.78] the[43.08] middle[43.18] of[43.30] the[44.16] Niemen[44.32]. He[44.54] has[45.04] redrawn[45.16] the[45.64] map[46.08], rewritten[46.20] the[46.74] laws[46.92], and[47.37] remade[47.51] the[48.09] societies[48.19] of[48.27] a[49.21] continent[49.33]. He[49.51] is[50.03] forty[50.39] - two[51.09] years[51.19] old[51.41]. He[51.73] has[52.15] never[52.23] lost[52.61] a[53.51] major[53.65] battle[53.81]. And[54.09] in[54.89] six[55.33] months[55.49], almost[55.59] all[55.90] of[56.72] these[56.98] six[57.18] hundred[57.32] thousand[58.08] men[59.02] will[59.18] be[59.60] dead[59.72]",
+        "goal": "Summarize Napoleon's rise and foreshadow the catastrophe ahead.",
+        "plan": [
+            "Napoleon close-up on horseback",
+            "Montage: Austerlitz sun, Jena ruins, Tilsit raft",
+            "Map of Europe redrawing animated",
+            "Napoleon's face aging slightly",
+            "Number '600,000' crosses out to '0'"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Europe Map Animated",
+            "Battle Montage"
+        ],
+        "reason": "Fast-paced visual resume of achievements; final frame introduces the grim statistic."
+    },
+    {
+        "id": 3,
+        "timeline": 0,
+        "time_start": 59.72,
+        "time_end": 71.1,
+        "text": "captured[59.84], or[60.60] scattered[60.74] to[60.98] the[61.44] wind[61.62]. The[61.76] man[62.24] himself[62.56] will[63.06] be[63.16] retreating[63.22] toward[63.60] Paris[64.60] in[64.94] a[65.04] borrowed[65.42] carriage[65.52], fleeing[65.70] the[65.88] wreckage[66.70] of[66.90] his[67.02] own[67.34] making[67.50], while[67.78] the[67.90] kings[68.06] he[68.52] thought[68.90] he[69.08] had[69.22] caged[69.34] close[70.14] in[70.32] for[70.54] the[70.66] kill[71.10].",
+        "goal": "Contrast the 1812 peak with the coming collapse.",
+        "plan": [
+            "Carriage speeding west through snow",
+            "Caged kings (metaphor) breaking bars",
+            "Napoleon alone in carriage, reflective"
+        ],
+        "frames": 3,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Carriage",
+            "Crown Cage Metaphor"
+        ],
+        "reason": "Visual metaphor for hubris; transition to philosophical questions."
+    },
+    {
+        "id": 4,
+        "timeline": 0,
+        "time_start": 71.28,
+        "time_end": 97.53,
+        "text": "How[71.28] does[71.66] a[72.14] son[72.72] of[73.12] minor[73.32] Corsican[73.80] nobility[73.98] become[74.78] the[74.94] arbiter[75.12] of[75.22] Europe[75.86]? How[76.06] does[76.55] a[76.64] revolution[76.78] that[77.07] began[77.21] in[77.73] the[77.93] name[78.11] of[78.19] liberty[78.63] end[79.11] with[79.21] a[79.37] crown[79.77] placed[80.03] on[80.21] an[80.37] emperor[80.55] ' s[81.39] head[81.53] by[81.75] his[81.93] own[82.07] hand[82.49]? And[82.99] why[83.27] does[83.37] the[83.59] greatest[83.83] military[84.33] mind[84.55] of[84.67] his[85.21] age[85.35] march[85.79] into[86.01] the[86.23] vastness[86.63] of[86.79] Russia[86.99] with[87.49] no[87.61] plan[87.79] for[88.11] what[88.49] happens[88.99] if[89.13] the[89.89] enemy[90.11] simply[90.47] refuses[90.79] to[91.07] fight[91.21]? The[92.37] answer[92.63] lies[92.73] not[92.83] in[93.39] destiny[94.13], but[94.29] in[94.87] a[95.01] specific[96.09] convergence[96.23] of[96.53] chaos[97.13] and[97.33] opportunity[97.53].",
+        "goal": "Pose the central historical questions of the documentary.",
+        "plan": [
+            "Young Napoleon silhouette against Corsican cliffs",
+            "Liberty cap transforms into imperial crown",
+            "Map arrow pointing to Russia with '?'",
+            "Chaos/opportunity word collage"
+        ],
+        "frames": 4,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Corsica Landscape",
+            "Crown",
+            "Russia Map"
+        ],
+        "reason": "Abstract visual treatment for rhetorical questions; each frame addresses one question."
+    },
+    {
+        "id": 5,
+        "timeline": 0,
+        "time_start": 97.75,
+        "time_end": 122.27,
+        "text": "The[97.75] French[98.16] Revolution[98.22] did[99.30] not[99.42] just[99.81] topple[99.94] a[100.36] king[100.52]; it[100.84] shattered[101.16] the[101.26] walls[101.44] that[102.36] kept[102.50] men[102.84] in[103.00] their[103.44] place[103.78]. It[103.94] opened[104.88] the[105.00] officer[105.54] corps[105.70] to[106.16] talent[106.40]. It[107.28] invented[107.38] the[107.80] nation[107.90] in[108.34] arms[108.48]. It[108.94] created[109.16] a[109.78] vacuum[109.94] of[110.16] power[110.44] so[110.76] profound[111.24] that[111.36] the[111.74] only[111.90] force[112.10] capable[112.30] of[112.58] filling[113.54] it[114.10] was[114.84] the[115.36] army[115.67] itself[116.19]. Napoleon[116.57] Bonaparte[117.35] understood[117.47] this[117.63] before[117.87] anyone[118.15] else[118.27]. He[118.81] did[118.99] not[119.31] ride[119.45] the[119.81] wave[120.41]; he[120.53] learned[120.71] to[120.97] steer[121.53] it[121.71].",
+        "goal": "Explain the revolutionary context that enabled Napoleon's rise.",
+        "plan": [
+            "Bastille fall \u2192 social walls crumbling",
+            "Officer corps: noble portraits replaced by merit list",
+            "Lev\u00e9e en masse: citizens becoming soldiers",
+            "Young Napoleon studying maps, eyes intense"
+        ],
+        "frames": 4,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Bastille",
+            "Officer Register",
+            "Conscription Poster"
+        ],
+        "reason": "Step-by-step visualization of revolutionary changes; ends on Napoleon's insight."
+    },
+    {
+        "id": 6,
+        "timeline": 1,
+        "time_start": 122.35,
+        "time_end": 127.65,
+        "text": "He[122.35] was[122.47] born[123.73] Napoleone[124.29] di[125.85] Buonaparte[126.19] in[126.57] Ajaccio[127.01], August[127.29] 1769[127.65]",
+        "goal": "Introduce the Corsican Origins chapter.",
+        "plan": [
+            "Timeline with Corsican Origins (1769\u20131793) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 1 begins; timeline scene inserted before first content scene."
+    },
+    {
+        "id": 7,
+        "timeline": 0,
+        "time_start": 127.65,
+        "time_end": 145.08,
+        "text": "just[128.05] fifteen[128.59] months[128.79] after[129.69] France[129.89] purchased[130.41] Corsica[131.01] from[131.11] Genoa[131.51]. His[131.63] father[131.93], Carlo[132.89], a[133.11] lawyer[133.23] of[133.77] petty[134.87] nobility[135.07], made[135.45] the[135.97] pragmatic[136.11] choice[136.25]: he[136.47] switched[136.79] allegiance[137.72] to[137.94] the[138.44] new[138.74] French[138.94] rulers[139.26]. That[139.56] decision[139.88] bought[140.54] his[140.72] two[141.02] eldest[141.52] sons[142.00] scholarships[142.08] to[142.20] royal[143.24] military[143.36] schools[144.40] on[144.58] the[144.72] mainland[145.08].",
+        "goal": "Show Napoleon's family background and the pivotal decision that opened his path.",
+        "plan": [
+            "Corsica map: Genoa \u2192 France transfer arrow",
+            "Carlo Buonaparte signing allegiance",
+            "Two scholarship letters arriving",
+            "Young Napoleon and Joseph departing by ship"
+        ],
+        "frames": 4,
+        "characters": [
+            "Carlo Buonaparte",
+            "Napoleon",
+            "Joseph Bonaparte"
+        ],
+        "items": [
+            "Corsica Map",
+            "Scholarship Document"
+        ],
+        "reason": "Causal chain: geopolitics \u2192 father's choice \u2192 opportunity \u2192 departure."
+    },
+    {
+        "id": 8,
+        "timeline": 0,
+        "time_start": 145.56,
+        "time_end": 189.83,
+        "text": "At[145.56] Brienne[145.68], then[146.50] the[146.62] \u00c9cole[146.84] Militaire[147.36] in[147.52] Paris[147.64], the[148.64] young[149.32] Napoleon[149.66] was[150.42] an[150.88] outsider[151.72] \u2014 poor[151.90], accent[152.32] - heavy[152.50], fiercely[153.04] proud[153.78], and[153.92] obsessed[155.06] with[155.22] history[155.80], geography[156.70], and[156.86] mathematics[156.92]. He[157.60] graduated[157.74] forty[158.82] - second[158.92] out[159.06] of[159.28] fifty[159.56] - eight[160.04] in[160.30] artillery[160.72]. It[161.02] was[161.44] the[161.65] only[161.82] branch[162.72] where[162.87] merit[163.09] still[163.61] mattered[163.95] more[164.57] than[164.69] birth[164.81]. He[165.05] was[165.35] commissioned[165.89] second[166.15] lieutenant[167.17] in[167.31] the[167.57] La[167.71] F\u00e8re[167.95] regiment[168.29] at[168.39] sixteen[168.83]. He[169.80] spent[170.08] the[170.86] next[171.18] years[171.44] in[172.16] garrison[172.30] towns[172.64], reading[173.12] Rousseau[173.34], writing[173.46] bad[174.40] novels[174.58], and[174.72] taking[175.16] extended[175.30] leave[175.47] to[176.03] Corsica[176.35], where[176.93] he[177.83] tangled[177.99] with[178.19] the[178.27] nationalist[179.05] hero[179.21] Pasquale[180.05] Paoli[180.15]. He[180.79] was[180.91] a[181.93] revolutionary[182.07] in[182.75] France[182.87], a[183.05] nationalist[183.77] in[183.93] Corsica[183.93], and[184.37] a[184.63] Jacobin[185.09] in[185.41] the[185.53] army[185.93]. He[186.19] played[186.93] every[187.09] side[187.75] until[187.99] the[188.25] sides[188.47] fell[188.81] away[189.83].",
+        "goal": "Depict Napoleon's formative years: education, outsider status, and ideological fluidity.",
+        "plan": [
+            "Brienne courtyard: Napoleon isolated, reading",
+            "\u00c9cole Militaire: artillery drill, merit list shown",
+            "La F\u00e8re garrison: books, manuscripts, Corsica map",
+            "Paoli confrontation: heated debate in Corsican salon",
+            "Three hats (revolutionary, nationalist, Jacobin) spinning, falling away"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon",
+            "Pasquale Paoli"
+        ],
+        "items": [
+            "Brienne School",
+            "Artillery Manual",
+            "Rousseau Book",
+            "Three Hats Metaphor"
+        ],
+        "reason": "Progressive frames: school \u2192 commission \u2192 intellectual ferment \u2192 political conflict \u2192 synthesis."
+    },
+    {
+        "id": 9,
+        "timeline": 1,
+        "time_start": 189.95,
+        "time_end": 194.72,
+        "text": "The[189.95] Revolution[190.53] gave[190.68] him[191.41] his[192.28] first[192.64] command[192.98]. At[193.24] Toulon[193.36] in[194.20] 1793[194.72]",
+        "goal": "Introduce the Siege of Toulon chapter.",
+        "plan": [
+            "Timeline with Siege of Toulon (1793) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 2 begins; timeline scene marks transition."
+    },
+    {
+        "id": 10,
+        "timeline": 0,
+        "time_start": 194.9,
+        "time_end": 228.09,
+        "text": "the[194.90] British[195.16] fleet[195.62] held[196.54] the[196.70] harbor[197.32], invited[197.92] in[198.24] by[199.50] royalist[200.22] rebels[200.32]. The[200.72] republican[201.14] generals[201.26] were[201.38] incompetent[201.86]. Napoleon[202.08], a[202.20] captain[203.46] attached[203.66] to[203.96] the[204.32] staff[204.44], saw[204.56] the[205.24] ground[205.48]. He[205.60] saw[206.22] that[206.65] if[206.97] the[208.23] republicans[208.37] took[208.75] the[208.95] promontory[209.17] called[210.17] \"[210.33] Little[210.64] Gibraltar[210.87],\"[211.51] the[211.67] harbor[212.01] would[212.43] be[212.71] untenable[212.71]. He[212.81] bullied[213.09], browbeat[213.29], and[214.19] bullied[214.31] again[215.18] until[215.32] the[215.72] plan[217.12] was[217.52] tried[217.66]. It[218.04] worked[218.80]. The[219.28] British[219.42] evacuated[219.60], burning[220.42] the[221.08] French[221.32] Mediterranean[221.40] fleet[222.03] as[222.12] they[222.26] left[223.11]. Napoleon[223.27] took[223.57] a[223.73] bayonet[224.19] in[224.27] the[224.79] thigh[225.33]. He[225.55] left[226.61] Toulon[226.85] a[227.17] brigadier[227.99] general[228.09] at[228.21] twenty[228.59] - four[228.73].",
+        "goal": "Show Napoleon's tactical insight and decisive action at Toulon.",
+        "plan": [
+            "Toulon harbor map: British fleet, 'Little Gibraltar' promontory",
+            "Napoleon pointing at map, arguing with generals",
+            "Artillery batteries installed on promontory",
+            "British fleet sailing away, burning French ships",
+            "Napoleon bandaged, promoted to brigadier general"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Toulon Map",
+            "Artillery Battery",
+            "British Fleet",
+            "Brigadier Epaulettes"
+        ],
+        "reason": "Tactical problem \u2192 solution \u2192 execution \u2192 result \u2192 reward; classic military narrative arc."
+    },
+    {
+        "id": 11,
+        "timeline": 1,
+        "time_start": 228.21,
+        "time_end": 231.94,
+        "text": "Two[228.21] years[228.59] later[230.05], in[230.57] the[231.17] streets[231.37] of[231.51] Paris[231.94]",
+        "goal": "Introduce the Whiff of Grapeshot and Italian Campaign chapter.",
+        "plan": [
+            "Timeline with Whiff of Grapeshot and Italian Campaign (1795\u20131797) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 3 begins; covers 13 Vend\u00e9miaire and Italian Campaign."
+    },
+    {
+        "id": 12,
+        "timeline": 0,
+        "time_start": 232.07,
+        "time_end": 279.22,
+        "text": "he[232.07] saved[233.20] the[233.68] Directory[234.28] with[234.78] a[235.18] \"[235.34] whiff[235.56] of[235.56] grapeshot[236.84].\"[236.84] Royalist[237.60] sections[237.90] rose[238.04] against[238.18] the[238.64] new[238.76] constitution[239.10]. Napoleon[239.92], now[240.12] out[240.50] of[240.62] favor[241.12] and[241.22] nearly[241.34] broke[241.90], was[242.12] handed[242.38] the[243.36] defense[243.54] of[243.76] the[244.36] Convention[244.84] by[245.38] Paul[245.50] Barras[245.62]. He[246.12] sent[246.48] Joachim[246.64] Murat[246.92] galloping[247.22] to[247.72] the[248.04] Sablons[248.14] camp[248.70] to[249.44] seize[249.62] forty[250.00] cannons[250.32] before[250.42] the[250.54] insurgents[251.52] could[251.70]. He[251.84] placed[252.30] them[252.94] in[253.14] the[254.02] streets[254.20]. When[254.82] the[255.44] columns[255.62] advanced[256.04], he[256.20] fired[257.00]. The[257.14] uprising[257.78] dissolved[258.92] in[259.48] smoke[259.88] and[260.48] blood[260.60]. The[260.80] Directory[261.14] survived[261.24]. Napoleon[261.36] became[262.44] commander[262.66] of[262.88] the[263.16] Army[263.30] of[264.08] the[264.23] Interior[264.58], then[265.17] the[265.29] Army[266.40] of[266.50] Italy[266.85]. He[267.13] married[267.43] Josephine[267.57] de[268.47] Beauharnais[268.67], a[269.23] widow[269.39] six[269.87] years[270.31] his[270.41] senior[271.23], whose[271.43] connections[271.81] to[272.05] Barras[272.17] smoothed[272.67] the[272.85] path[273.13]. Two[273.29] days[274.13] after[274.25] the[274.46] wedding[274.68], he[274.90] left[275.10] for[275.50] Nice[275.72]. He[276.10] would[276.92] not[277.14] see[277.42] her[277.58] again[277.88] for[278.06] eighteen[278.14] months[279.22].",
+        "goal": "Depict 13 Vend\u00e9miaire, marriage to Josephine, and departure for Italy.",
+        "plan": [
+            "Paris streets: royalist columns advancing",
+            "Murat galloping to Sablons camp for cannons",
+            "Cannons deployed, grapeshot firing, insurgents fleeing",
+            "Napoleon and Josephine wedding",
+            "Napoleon riding south alone toward Nice"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon",
+            "Joachim Murat",
+            "Paul Barras",
+            "Josephine de Beauharnais"
+        ],
+        "items": [
+            "Cannons",
+            "Grapeshot",
+            "Wedding Ring",
+            "Horse"
+        ],
+        "reason": "Action sequence: crisis \u2192 improvisation \u2192 violence \u2192 personal life \u2192 departure."
+    },
+    {
+        "id": 13,
+        "timeline": 0,
+        "time_start": 279.4,
+        "time_end": 334.89,
+        "text": "The[279.40] Army[279.54] of[279.82] Italy[283.41] was[284.37] a[284.77] ghost[285.59]: thirty[285.81] - seven[286.33] thousand[286.49] men[287.11], ragged[287.53], unpaid[288.01], shoeless[288.89], muttering[289.19] mutiny[290.07]. The[290.41] Austrian[291.15] and[291.51] Sardinian[291.68] armies[292.48] outnumbered[293.04] them[294.04], better[294.30] fed[294.40], better[294.52] equipped[295.16], behind[295.30] the[295.54] Alps[295.74]. Napoleon[297.20] arrived[297.84], looked[298.00] at[298.16] the[299.00] maps[299.20], and[299.88] told[300.02] his[300.60] officers[300.80], \"[300.98] Soldiers[300.98], you[302.12] are[302.22] naked[302.40], ill[302.58] - fed[302.76]. The[303.63] government[303.81] owes[304.39] you[304.61] much[305.57]; it[305.71] can[305.89] give[306.87] you[306.99] nothing[307.17]. Your[307.39] patience[307.55], your[307.89] courage[308.43], do[308.65] you[309.73] honor[309.81], but[310.05] they[310.31] bring[310.65] you[311.03] neither[311.03] glory[311.33] nor[311.65] advantage[312.13]. I[312.23] will[312.37] lead[313.29] you[313.57] into[314.63] the[314.95] most[315.37] fertile[315.57] plains[315.87] in[316.17] the[316.17] world[317.05]. Rich[317.33] provinces[317.47], great[317.67] cities[317.91] will[318.93] be[319.93] in[320.11] your[321.03] power[321.19]. There[321.49] you[322.36] will[322.56] find[322.94] honor[323.12], glory[324.24], and[324.42] riches[324.77].\"[324.77] He[324.89] moved[325.27] fast[325.42]. He[325.77] split[326.02] the[326.88] enemy[327.18]. He[327.30] crossed[327.68] the[327.82] bridge[328.08] at[328.66] Lodi[328.88] under[329.18] fire[329.32], earning[329.48] the[329.76] name[330.04] \"[330.24] the[330.24] Little[330.64] Corporal[330.92]\"[330.92] from[331.10] men[331.94] who[332.10] had[332.72] never[333.28] seen[333.54] a[333.66] general[335.04] share[335.22] their[335.52] danger[335.88].",
+        "goal": "Show the transformation of the Army of Italy and Napoleon's leadership at Lodi.",
+        "plan": [
+            "Ragged army: bare feet, empty haversacks, muttering groups",
+            "Napoleon before maps, then addressing troops (speech bubbles)",
+            "Army moving fast through mountain passes",
+            "Lodi bridge: Napoleon under fire, men following",
+            "Soldiers cheering 'Le Petit Caporal'"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Italy Map",
+            "Ragged Uniforms",
+            "Lodi Bridge",
+            "Speech Scroll"
+        ],
+        "reason": "Contrast: desperation \u2192 inspiration \u2192 movement \u2192 trial by fire \u2192 bond forged."
+    },
+    {
+        "id": 14,
+        "timeline": 0,
+        "time_start": 336.04,
+        "time_end": 373.97,
+        "text": "He[336.04] besieged[336.58] Mantua[336.72] through[336.92] the[337.12] winter[337.54]. He[337.92] raced[338.02] across[338.16] the[339.08] Apennines[339.42] to[339.52] cut[339.92] the[340.02] Austrian[340.10] relief[341.02] at[341.42] Arcole[341.64], waving[341.74] a[342.64] flag[343.21] on[343.41] a[343.81] bridge[343.95], falling[344.05] into[344.51] a[344.61] swamp[344.79], surviving[345.53] by[345.65] luck[346.41] and[346.61] the[347.29] devotion[347.43] of[347.85] his[348.33] men[349.07]. At[349.21] Rivoli[349.75], he[350.19] annihilated[350.29] the[350.69] last[351.67] Austrian[352.15] army[352.53]. He[352.65] dictated[353.87] peace[354.62] at[354.77] Campo[355.48] Formio[356.58]. Austria[357.18] ceded[357.50] the[357.86] Netherlands[358.18], recognized[358.40] the[359.14] Cisalpine[360.10] Republic[360.28]. Napoleon[360.70] sent[360.82] wagonloads[361.74] of[361.86] art[362.08], gold[362.26], and[362.64] treasure[362.74] to[363.66] Paris[363.80]. He[364.02] was[364.12] no[364.66] longer[365.54] a[365.68] general[366.32]. He[366.66] was[367.38] a[367.58] political[367.84] force[368.04]. The[368.30] Directory[368.82] feared[368.98] him[369.40]. They[369.80] sent[370.70] him[370.86] to[371.08] Egypt[371.22], to[371.94] threaten[372.19] British[372.69] India[373.39].",
+        "goal": "Conclude Italian Campaign: Mantua, Arcole, Rivoli, Campo Formio, and political consequences.",
+        "plan": [
+            "Mantua siege winter: snow, trenches, surrender",
+            "Arcole bridge: Napoleon with flag, falling in swamp, men pulling him out",
+            "Rivoli: French artillery decimating Austrian columns",
+            "Campo Formio: treaty signing, map changes",
+            "Wagons of loot arriving in Paris; Directory members watching nervously"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Mantua Fortress",
+            "Flag",
+            "Rivoli Battlefield",
+            "Campo Formio Treaty",
+            "Loot Wagons"
+        ],
+        "reason": "Campaign climax sequence; final frame sets up Egyptian exile."
+    },
+    {
+        "id": 15,
+        "timeline": 1,
+        "time_start": 373.97,
+        "time_end": 378.05,
+        "text": "He[373.97] took[375.01] a[375.19] fleet[375.49], an[375.61] army[376.03], and[376.13] one[376.27] hundred[377.37] sixty[377.91] - seven[378.05]",
+        "goal": "Introduce the Egyptian Campaign chapter.",
+        "plan": [
+            "Timeline with Egyptian Campaign (1798\u20131799) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 4 begins."
+    },
+    {
+        "id": 16,
+        "timeline": 0,
+        "time_start": 378.05,
+        "time_end": 406.67,
+        "text": "scientists[378.63]. He[378.91] won[379.01] the[379.87] Battle[380.17] of[380.71] the[381.19] Pyramids[381.47], gazing[381.67] at[382.17] four[382.37] thousand[382.89] years[383.63] of[383.83] history[384.13]. Then[384.31] Horatio[385.35] Nelson[385.92] found[386.27] his[386.51] fleet[387.00] in[387.22] Aboukir[388.28] Bay[388.64]. The[388.80] army[389.52] was[389.94] stranded[390.18]. Napoleon[390.52] marched[390.68] into[391.82] Syria[391.98], took[392.46] Jaffa[392.64], failed[393.38] at[393.96] Acre[394.16], retreated[394.58] through[394.76] plague[394.88] and[396.32] heat[396.64]. He[396.84] abandoned[397.72] the[397.88] army[398.24] \u2014 Kl\u00e9ber[398.48], his[398.62] friend[399.06], would[399.17] be[399.25] assassinated[399.61]; Menou[400.37] would[400.69] surrender[400.87] \u2014 and[401.11] slipped[401.23] back[401.43] to[402.13] France[402.25] on[402.89] a[403.41] fast[403.85] frigate[404.01], leaving[404.59] his[404.75] men[404.85] to[405.85] their[406.67] fate[406.67].",
+        "goal": "Show Egyptian campaign: Pyramids victory, naval disaster, Syrian failure, and Napoleon's abandonment of his army.",
+        "plan": [
+            "Pyramids battle: French squares vs Mamluk cavalry, Napoleon pointing at monuments",
+            "Aboukir Bay: burning French fleet, Nelson victorious",
+            "Syria: Jaffa captured, Acre siege failing, plague victims",
+            "Napoleon boarding frigate at night, army left behind",
+            "Kl\u00e9ber assassinated, Menou surrendering"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon",
+            "Horatio Nelson",
+            "Jean-Baptiste Kl\u00e9ber",
+            "Jacques-Fran\u00e7ois Menou"
+        ],
+        "items": [
+            "Pyramids",
+            "French Fleet",
+            "Acre Walls",
+            "Frigate",
+            "Plague Symbol"
+        ],
+        "reason": "Rise and fall arc; final frames emphasize moral cost of abandonment."
+    },
+    {
+        "id": 17,
+        "timeline": 0,
+        "time_start": 406.99,
+        "time_end": 427.67,
+        "text": "The[406.99] propaganda[407.27] machine[407.41] spun[407.85] the[408.69] retreat[408.85] as[409.11] a[409.89] triumph[410.27]. The[410.48] scientists[411.58] brought[412.60] back[413.70] the[413.84] Rosetta[414.46] Stone[414.98]. The[415.08] myth[415.28] grew[415.60]. Paris[415.76] was[416.80] bankrupt[417.42], corrupt[417.96], paralyzed[418.06]. The[418.26] Directory[418.62] leaned[418.78] on[419.25] the[419.91] army[420.05] to[420.49] survive[421.07]. Napoleon[421.35] leaned[421.75] on[422.27] the[422.61] army[423.65] to[423.81] replace[424.23] it[424.35].",
+        "goal": "Contrast propaganda success with political decay in Paris; set up the coup.",
+        "plan": [
+            "Newspaper headlines: 'Victory in Egypt!'",
+            "Rosetta Stone displayed in Paris salon",
+            "Directory chambers: empty treasury, arguing directors",
+            "Napoleon studying Paris map, army loyalty arrows pointing to him"
+        ],
+        "frames": 4,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Newspaper",
+            "Rosetta Stone",
+            "Directory Chamber",
+            "Paris Map"
+        ],
+        "reason": "Irony: military failure spun as triumph; scientific success overshadows; power vacuum visualized."
+    },
+    {
+        "id": 18,
+        "timeline": 1,
+        "time_start": 425.11,
+        "time_end": 427.67,
+        "text": "On[425.11] 18[425.19] Brumaire[425.39], Year[426.63] VIII[426.81] \u2014 November[427.13] 9[427.33], 1799[427.67] \u2014",
+        "goal": "Introduce the Coup of 18 Brumaire chapter.",
+        "plan": [
+            "Timeline with Coup of 18 Brumaire (9 November 1799) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 5 begins; exact date given in narration."
+    },
+    {
+        "id": 19,
+        "timeline": 0,
+        "time_start": 427.77,
+        "time_end": 447.87,
+        "text": "he[427.77] staged[427.89] the[428.31] coup[428.42]. It[429.57] was[429.78] clumsy[430.46]. He[430.82] lost[431.74] his[432.18] nerve[432.38] in[432.56] the[432.76] Council[432.96] of[434.14] Five[434.34] Hundred[434.64], was[435.74] jostled[436.24], nearly[436.32] stabbed[436.44], dragged[437.56] out[437.90] by[438.10] his[438.30] own[438.68] grenadiers[438.84]. His[438.96] brother[439.84] Lucien[440.04], president[440.68] of[440.80] the[441.35] Council[441.55], saved[442.39] him[442.71] by[443.31] calling[444.27] out[444.91] the[445.15] troops[446.07]. By[446.19] nightfall[446.91], the[447.01] Directory[447.27] was[447.63] gone[447.87].",
+        "goal": "Depict the chaotic, nearly failed coup and Lucien's crucial intervention.",
+        "plan": [
+            "Council of Five Hundred: Napoleon speaking, deputies shouting, physical attack",
+            "Grenadiers dragging Napoleon out",
+            "Lucien Bonaparte at president's desk, calling for troops",
+            "Troops entering hall, deputies fleeing",
+            "Empty Directory chambers at nightfall"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon",
+            "Lucien Bonaparte"
+        ],
+        "items": [
+            "Council Hall",
+            "Grenadiers",
+            "President's Gavel"
+        ],
+        "reason": "Clumsy reality vs legend; Lucien's role often overlooked; nightfall = regime change."
+    },
+    {
+        "id": 20,
+        "timeline": 0,
+        "time_start": 448.09,
+        "time_end": 456.86,
+        "text": "Three[448.09] consuls[448.21] remained[448.69]. Napoleon[448.79] was[448.89] First[449.47]. The[449.87] Constitution[449.97] of[450.09] Year[450.51] VIII[450.63] gave[450.73] him[451.77] the[451.93] power[452.59] of[452.81] a[453.49] dictator[453.65] wrapped[454.51] in[454.73] the[454.89] language[455.05] of[456.31] a[456.50] republic[456.86].",
+        "goal": "Show the new Consulate structure and Napoleon's dominant position.",
+        "plan": [
+            "Three consular chairs: center largest, Napoleon seated",
+            "Constitution document: Article highlighting First Consul powers",
+            "Republican symbols (fasces, liberty cap) framing dictatorial text"
+        ],
+        "frames": 3,
+        "characters": [
+            "Napoleon"
+        ],
+        "items": [
+            "Consular Chairs",
+            "Constitution Year VIII"
+        ],
+        "reason": "Visual shorthand for constitutional fa\u00e7ade over autocracy."
+    },
+    {
+        "id": 21,
+        "timeline": 1,
+        "time_start": 457.07,
+        "time_end": 459.44,
+        "text": "\"[457.07] The[457.39] Revolution[457.51] is[458.68] over[458.68],\"[458.68] he[459.27] said[459.44].",
+        "goal": "Introduce the Consulate and Civil Code chapter with Napoleon's declaration.",
+        "plan": [
+            "Timeline with The Consulate and the Civil Code (1799\u20131804) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 6 begins; Napoleon's quote marks the era."
+    },
+    {
+        "id": 22,
+        "timeline": 0,
+        "time_start": 459.27,
+        "time_end": 488.25,
+        "text": "he[459.27] said[459.44]. \"[460.42] I[460.42] am[461.02] the[461.20] Revolution[461.74].\"[461.74] He[461.88] crossed[462.70] the[462.82] Alps[463.52] in[463.70] 1800[464.04], artillery[464.96] on[465.12] sleds[465.78], surprising[466.58] the[466.74] Austrians[467.18] in[467.74] Italy[467.94]. At[468.06] Marengo[468.52], he[468.72] nearly[468.80] lost[469.78]. His[470.30] subordinates[470.88] held[471.06]. Desaix[471.16] returned[472.16] from[472.36] the[472.94] chase[473.84] with[474.46] a[474.94] division[475.08]. Kellermann[476.22] charged[476.64] with[476.76] the[477.18] cavalry[477.38]. The[478.22] Austrians[478.36] broke[478.72]. Napoleon[478.86] rewrote[479.38] the[480.26] bulletin[480.50], claiming[481.40] the[481.54] victory[481.68] was[481.98] planned[482.30]. The[482.46] Peace[482.68] of[483.24] Lun\u00e9ville[483.58] followed[483.82]. Then[483.94] Amiens[484.90]. For[485.20] the[485.50] first[485.64] time[486.04] in[486.44] ten[486.58] years[486.88], Europe[487.00] was[487.85] at[487.96] peace[488.25].",
+        "goal": "Show Marengo campaign, propaganda, and the brief Peace of Amiens.",
+        "plan": [
+            "Alps crossing: artillery on sleds, Napoleon on mule",
+            "Marengo battlefield: near defeat, Desaix arriving, Kellermann's charge",
+            "Napoleon writing bulletin: 'victory planned'",
+            "Lun\u00e9ville and Amiens treaties signed",
+            "Europe map: weapons laid down, olive branches"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon",
+            "Louis Desaix",
+            "Fran\u00e7ois Kellermann"
+        ],
+        "items": [
+            "Alps Crossing",
+            "Marengo Battlefield",
+            "Bulletin",
+            "Peace Treaties"
+        ],
+        "reason": "Bold maneuver \u2192 near disaster \u2192 saved by subordinates \u2192 mythmaking \u2192 peace."
+    },
+    {
+        "id": 23,
+        "timeline": 0,
+        "time_start": 488.37,
+        "time_end": 519.88,
+        "text": "He[488.37] used[489.25] the[489.41] breathing[489.85] space[489.93] to[490.33] build[490.93] the[491.57] state[491.73]. The[491.85] Bank[492.47] of[492.89] France[493.03]. The[493.53] Legion[494.33] of[494.47] Honor[495.59]. The[496.01] Concordat[496.13] with[496.73] the[496.87] Pope[497.81], healing[497.95] the[498.27] religious[498.75] wound[499.27]. The[499.63] Prefects[499.77], binding[500.47] the[500.87] departments[501.77] to[502.23] Paris[502.65]. The[503.05] Civil[503.21] Code[503.65] \u2014 equality[504.21] before[504.39] the[504.53] law[505.35], secular[505.55] marriage[506.21], absolute[506.35] property[506.97] rights[507.35], the[507.47] husband[508.23] ' s[508.75] authority[508.85] over[509.31] the[509.54] wife[510.48]. He[510.66] centralized[510.96] the[511.10] schools[511.60], censored[512.46] the[512.62] press[512.86], organized[512.98] the[513.72] police[513.86] under[514.10] Fouch\u00e9[514.24]. He[515.14] made[515.24] the[516.20] government[516.42] work[516.92]. He[517.02] made[517.50] it[517.90] pay[518.02]. He[517.50] made[517.90] it[518.02] feared[519.88].",
+        "goal": "Visualize the administrative and legal foundations of the Napoleonic state.",
+        "plan": [
+            "Bank of France: vault doors closing, gold flowing in",
+            "Legion of Honor: medal ceremony, cross design",
+            "Concordat: Pope and Napoleon signing, church bells ringing",
+            "Prefects: map of France lighting up department by department",
+            "Civil Code pages turning: key articles highlighted",
+            "Fouch\u00e9 police network: shadowy figures, censored newspapers"
+        ],
+        "frames": 6,
+        "characters": [
+            "Napoleon",
+            "Pope Pius VII",
+            "Joseph Fouch\u00e9"
+        ],
+        "items": [
+            "Bank of France",
+            "Legion of Honor Medal",
+            "Concordat Document",
+            "France Map Departments",
+            "Civil Code",
+            "Censored Newspaper"
+        ],
+        "reason": "Rapid-fire institutional creation; each frame a pillar of the state. Six frames justified by density of reforms."
+    },
+    {
+        "id": 24,
+        "timeline": 1,
+        "time_start": 520.54,
+        "time_end": 523.44,
+        "text": "In[520.54] 1804[520.70], he[520.88] uncovered[521.00] a[521.24] royalist[521.78] plot[522.30], the[522.50] Cadoudal[522.86] affair[523.44].",
+        "goal": "Introduce the Coronation chapter.",
+        "plan": [
+            "Timeline with Coronation of the Emperor (2 December 1804) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 7 begins; Cadoudal affair is pretext for empire."
+    },
+    {
+        "id": 25,
+        "timeline": 0,
+        "time_start": 523.62,
+        "time_end": 553.86,
+        "text": "He[523.62] used[524.00] it[524.10]. He[524.22] had[524.50] the[524.64] Duc[525.64] d[525.76] ' Enghien[526.21] kidnapped[526.45] from[527.52] neutral[527.64] Baden[528.14] and[528.33] shot[529.23] in[529.39] the[529.81] moat[530.33] of[530.55] Vincennes[531.51]. The[531.63] message[532.33] was[532.67] clear[532.79]: the[533.13] Bourbons[533.53] were[533.83] finished[534.59]. The[534.93] Senate[535.37] proclaimed[536.11] him[536.73] Emperor[536.97]. On[537.09] December[537.49] 2[537.67], in[537.87] Notre[538.35] Dame[538.53], Pope[538.93] Pius[539.15] VII[539.25] anointed[539.45] him[539.65]. Napoleon[540.37] took[540.61] the[540.79] crown[541.19] from[542.35] the[542.51] altar[542.81] and[542.95] placed[543.37] it[543.47] on[544.45] his[544.61] own[544.87] head[544.87]. Then[545.03] he[546.03] crowned[546.19] Josephine[546.49]. \"[546.65] I[547.25] found[547.37] the[547.77] crown[548.09] in[548.50] the[548.50] gutter[549.41],\"[549.41] he[549.77] told[550.22] his[550.38] council[550.52]. \"[551.80] I[552.44] picked[552.98] it[553.46] up[553.46].\"[553.46]",
+        "goal": "Show the ruthless elimination of Bourbon hope, the coronation ceremony, and Napoleon's self-coronation.",
+        "plan": [
+            "Enghien kidnapped at night, executed in Vincennes moat",
+            "Senate proclamation: 'Emperor' banner unfurled",
+            "Notre Dame: Pope anointing, Napoleon taking crown from altar",
+            "Napoleon crowning himself, then Josephine",
+            "Gutter metaphor: crown in mud, Napoleon's hand picking it up"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon",
+            "Duc d'Enghien",
+            "Pope Pius VII",
+            "Josephine"
+        ],
+        "items": [
+            "Vincennes Moat",
+            "Senate Proclamation",
+            "Notre Dame Interior",
+            "Imperial Crown",
+            "Gutter Crown Metaphor"
+        ],
+        "reason": "Crime \u2192 legitimacy \u2192 ritual \u2192 iconography \u2192 philosophy of power."
+    },
+    {
+        "id": 26,
+        "timeline": 1,
+        "time_start": 553.86,
+        "time_end": 556.86,
+        "text": "The[553.86] war[554.38] never[554.58] truly[555.58] stopped[556.02].",
+        "goal": "Introduce Austerlitz, Jena, and Tilsit chapter.",
+        "plan": [
+            "Timeline with Austerlitz, Jena, and Tilsit (1805\u20131807) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 8 begins; war resumes immediately after coronation."
+    },
+    {
+        "id": 27,
+        "timeline": 0,
+        "time_start": 556.86,
+        "time_end": 625.14,
+        "text": "Britain[556.86] paid[557.42] for[557.72] the[557.90] coalitions[558.16]. Austria[558.30], Russia[559.06], Prussia[559.88] traded[560.16] subsidies[560.56] for[560.68] blood[561.62]. In[562.62] 1805[562.80], Napoleon[563.10] turned[563.30] the[563.40] Army[563.48] of[563.98] England[564.76] \u2014 two[564.83] hundred[565.38] thousand[566.35] men[566.65] camped[566.97] at[567.09] Boulogne[567.45] \u2014 eastward[568.43]. He[568.85] marched[568.95] them[569.39] in[569.71] a[569.89] *[570.33] bataillon[570.33] carr\u00e9[570.51] *[570.51], a[570.65] strategic[570.79] square[571.55], corps[571.81] moving[572.25] on[572.63] mutual[572.99] support[573.47], crossing[574.29] the[574.61] Danube[574.99] before[575.07] the[575.91] Austrians[576.63] knew[576.99] they[577.89] were[578.03] there[578.58]. At[578.72] Ulm[578.90], General[579.36] Mack[579.78] surrendered[580.22] sixty[580.42] thousand[581.58] men[581.70] without[582.16] a[583.02] battle[583.20]. Napoleon[583.78] entered[583.86] Vienna[584.02]. The[585.24] Tsar[585.80] and[586.38] the[586.78] Austrian[586.98] Emperor[587.26] waited[588.22] at[588.80] Austerlitz[588.92]. On[589.35] December[590.15] 2[590.35], the[590.77] anniversary[591.01] of[591.15] his[591.87] coronation[592.05], Napoleon[592.47] deliberately[592.71] weakened[593.47] his[593.69] right[594.19] flank[595.11], abandoning[595.87] the[596.31] Pratzen[596.49] Heights[596.61]. The[597.05] Allies[597.45] took[597.55] the[597.67] bait[598.45]. They[598.65] attacked[599.05] his[599.33] right[599.53]. Their[600.57] center[601.65] emptied[602.13]. Soult[602.31] ' s[602.45] corps[602.89] surged[603.25] up[603.37] the[604.41] Pratzen[604.65] Heights[604.89] in[605.39] the[605.63] fog[605.74]. The[606.96] Allied[607.34] army[607.50] was[607.96] split[608.94], shattered[609.38], driven[609.70] onto[609.88] the[610.70] frozen[610.84] ponds[611.18] of[611.56] Satschan[612.52]. The[612.60] ice[612.98] cracked[613.32] under[613.62] the[613.84] cannonballs[614.92]. Men[615.66] and[616.20] horses[616.34] drowned[617.18]. Austria[617.28] sued[617.42] for[618.22] peace[618.38]. The[618.60] Holy[619.66] Roman[620.36] Empire[621.26], a[621.92] thousand[622.82] years[622.92] old[624.20], was[624.76] dissolved[625.14].",
+        "goal": "Depict the 1805 campaign: Ulm maneuver, Austerlitz trap, and dissolution of Holy Roman Empire.",
+        "plan": [
+            "Boulogne camp emptying; corps moving in bataillon carr\u00e9 formation",
+            "Map: Danube crossing, Mack surrounded at Ulm",
+            "Vienna occupied; Allies at Austerlitz",
+            "Austerlitz: Pratzen Heights abandoned, Allied attack, fog, Soult's assault",
+            "Frozen ponds cracking under fleeing soldiers",
+            "Holy Roman Empire crown shattering on map"
+        ],
+        "frames": 6,
+        "characters": [
+            "Napoleon",
+            "General Mack",
+            "Tsar Alexander I",
+            "Francis II",
+            "Marshal Soult"
+        ],
+        "items": [
+            "Bataillon Carr\u00e9 Diagram",
+            "Ulm Map",
+            "Austerlitz Battlefield",
+            "Frozen Ponds",
+            "Holy Roman Empire Crown"
+        ],
+        "reason": "Strategic masterpiece visualized stepwise; final frame marks era-ending event."
+    },
+    {
+        "id": 28,
+        "timeline": 0,
+        "time_start": 625.28,
+        "time_end": 670.9,
+        "text": "Napoleon[625.28] created[625.57] the[625.95] Confederation[626.37] of[626.47] the[627.85] Rhine[628.45]. He[629.01] was[629.87] Protector[630.41]. Prussia[630.51], terrified[630.93], mobilized[631.33] alone[631.75]. At[631.91] Jena[632.81] - Auerstedt[632.93], Napoleon[633.35] crushed[633.73] the[634.79] main[635.51] Prussian[635.89] force[636.83] at[636.99] Jena[637.45] while[637.95] Davout[638.09], with[638.47] twenty[639.33] - seven[639.73] thousand[639.99] men[640.99], destroyed[641.15] the[642.05] Prussian[642.19] king[642.43] ' s[642.43] army[643.01] at[643.17] Auerstedt[643.39]. The[643.62] Prussian[643.82] state[644.58] collapsed[644.82]. Napoleon[645.26] entered[645.38] Berlin[645.80]. He[646.88] visited[647.02] Frederick[647.60] the[648.52] Great[648.72] ' s[649.08] tomb[649.96]. \"[650.18] Hats[650.54] off[650.54], gentlemen[651.53],\"[651.53] he[651.91] said[652.13]. \"[652.67] If[652.87] he[653.19] were[653.19] alive[654.05], we[654.25] would[654.41] not[654.89] be[655.55] here[655.89].\"[655.89] He[657.03] issued[657.59] the[658.70] Berlin[659.08] Decree[660.00]: the[660.10] Continental[661.38] System[661.92]. No[662.28] British[662.50] goods[662.94]. No[663.22] British[663.68] ships[663.82]. Europe[664.90] would[665.12] strangle[665.54] the[665.72] island[666.50] nation[666.64]. But[667.06] the[667.72] System[667.88] required[668.56] total[669.22] compliance[669.36]. Portugal[669.60] refused[669.80]. Spain[670.18] wavered[670.62].",
+        "goal": "Show Jena-Auerstedt, Prussian collapse, Berlin visit, and Continental System launch.",
+        "plan": [
+            "Confederation of the Rhine map: German states reorganizing",
+            "Jena-Auerstedt twin battles: Napoleon at Jena, Davout at Auerstedt",
+            "Prussian king fleeing, state dissolving",
+            "Napoleon at Frederick's tomb, hat off",
+            "Berlin Decree document; Continental System map: British Isles surrounded"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon",
+            "Marshal Davout",
+            "Frederick the Great (statue/tomb)"
+        ],
+        "items": [
+            "Confederation of Rhine Map",
+            "Jena-Auerstedt Map",
+            "Frederick's Tomb",
+            "Berlin Decree",
+            "Continental System Map"
+        ],
+        "reason": "Political reorganization \u2192 military annihilation \u2192 symbolic gesture \u2192 economic warfare."
+    },
+    {
+        "id": 29,
+        "timeline": 1,
+        "time_start": 670.9,
+        "time_end": 674.72,
+        "text": "In[670.90] 1808[671.02], Napoleon[671.90] summoned[672.32] the[672.80] Spanish[672.92] royal[673.16] family[674.02] to[674.16] Bayonne[674.72].",
+        "goal": "Introduce the Spanish Ulcer chapter.",
+        "plan": [
+            "Timeline with The Spanish Ulcer Begins (1808) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 9 begins; Bayonne trap sets off Spanish tragedy."
+    },
+    {
+        "id": 30,
+        "timeline": 0,
+        "time_start": 674.96,
+        "time_end": 715.92,
+        "text": "He[674.96] forced[675.84] the[676.23] abdications[676.62] of[677.28] Charles[677.45] IV[678.02] and[678.35] Ferdinand[678.54] VII[678.76]. He[680.11] made[680.27] his[680.79] brother[681.03] Joseph[681.15] King[682.03] of[682.17] Spain[682.47]. Madrid[682.87] rose[682.97] on[683.37] May[683.55] 2[684.05]. The[684.19] repression[685.07] was[685.23] brutal[685.81]. Goya[685.95] painted[687.13] it[687.23]. The[687.67] Spanish[688.01] army[688.53] did[688.67] not[689.49] disappear[689.65]; it[690.05] melted[690.31] into[690.63] the[691.23] hills[691.35]. The[691.47] war[692.13] became[693.01] a[693.55] war[694.03] of[694.37] priests[694.49] and[695.49] peasants[695.91], of[696.99] guerrillas[697.37] and[697.47] reprisals[697.83]. A[697.95] French[698.83] army[698.99] surrendered[699.31] at[699.59] Bail\u00e9n[700.47] \u2014 the[700.65] first[701.07] open[702.35] - field[703.07] surrender[703.43] of[703.81] the[704.05] Napoleonic[704.31] wars[704.45]. Napoleon[704.85] himself[705.05] crossed[705.31] the[706.31] Pyrenees[706.61], retook[706.97] Madrid[707.15], drove[707.31] the[707.67] British[707.84] to[708.03] Corunna[708.25]. He[708.58] left[708.72] for[709.66] Austria[710.14]. The[710.44] ulcer[710.74] remained[710.80]. Three[712.38] hundred[712.54] thousand[712.86] French[714.02] troops[714.64] would[715.02] rot[715.14] in[715.72] Spain[715.92] for[716.47] six[717.39] years[717.83], bled[718.21] white[719.05] by[719.53] an[719.73] enemy[720.21] that[721.15] had[721.53] no[721.65] center[722.75] to[722.85] strike[722.85].",
+        "goal": "Show the Spanish tragedy: Bayonne abdications, Madrid uprising, guerrilla war, Bail\u00e9n, and Napoleon's temporary return.",
+        "plan": [
+            "Bayonne: Spanish royals coerced into abdication",
+            "Joseph Bonaparte crowned in Madrid; May 2 uprising, Goya's executions",
+            "Spanish army dissolving into hills; priests blessing guerrillas",
+            "Bail\u00e9n: French general surrendering sword",
+            "Napoleon crossing Pyrenees, retaking Madrid, British evacuating Corunna",
+            "Map: Spain bleeding, 300,000 French troops pinned down"
+        ],
+        "frames": 6,
+        "characters": [
+            "Napoleon",
+            "Charles IV",
+            "Ferdinand VII",
+            "Joseph Bonaparte",
+            "Francisco Goya"
+        ],
+        "items": [
+            "Bayonne Palace",
+            "Goya Painting",
+            "Guerrilla Fighters",
+            "Bail\u00e9n Surrender",
+            "Pyrenees Map"
+        ],
+        "reason": "Causes \u2192 explosion \u2192 transformation into people's war \u2192 first major defeat \u2192 Napoleon's burst \u2192 enduring ulcer."
+    },
+    {
+        "id": 31,
+        "timeline": 1,
+        "time_start": 723.03,
+        "time_end": 725.05,
+        "text": "Austria[723.03] tried[723.27] again[723.67] in[724.05] 1809[725.05].",
+        "goal": "Introduce Wagram and the Austrian Marriage chapter.",
+        "plan": [
+            "Timeline with Wagram and the Austrian Marriage (1809\u20131810) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 10 begins; Austria's 1809 challenge."
+    },
+    {
+        "id": 32,
+        "timeline": 0,
+        "time_start": 725.33,
+        "time_end": 761.47,
+        "text": "At[725.33] Aspern[725.63] - Essling[726.43], Napoleon[726.55] crossed[727.48] the[727.64] Danube[727.98] on[728.06] unstable[728.46] bridges[728.96]. Archduke[729.14] Charles[729.36] held[729.46]. Lannes[729.76], his[730.62] closest[730.80] friend[731.12], died[731.22] in[731.68] his[731.78] arms[731.96]. It[732.40] was[733.24] his[733.38] first[734.08] major[734.36] defeat[734.84]. Six[734.98] weeks[735.50] later[736.60], at[736.74] Wagram[737.26], he[738.37] massed[738.57] a[739.07] grand[739.07] battery[740.19] of[740.35] over[740.73] a[741.05] hundred[742.11] guns[742.55]. He[742.65] blew[742.85] a[743.31] hole[744.29] in[744.61] the[744.97] Austrian[745.09] center[745.49]. He[746.43] won[746.57]. He[747.29] annexed[747.53] the[747.77] Illyrian[749.11] Provinces[749.51]. He[750.32] divorced[750.50] Josephine[750.78]. She[750.90] wept[751.50] at[751.64] Malmaison[751.88]. He[752.04] married[752.80] Marie[752.94] Louise[753.58], daughter[753.78] of[754.88] the[755.00] Austrian[755.62] Emperor[756.08], great[756.32] - niece[757.30] of[758.18] Marie[758.69] Antoinette[759.01]. The[759.37] Habsburgs[760.49] gave[760.75] him[760.93] legitimacy[761.31].",
+        "goal": "Show Aspern-Essling defeat, Wagram victory, divorce of Josephine, and marriage to Marie Louise for legitimacy.",
+        "plan": [
+            "Aspern-Essling: unstable Danube bridges breaking, Lannes mortally wounded in Napoleon's arms",
+            "Six weeks later: Wagram, grand battery of 100+ guns firing, Austrian center shattered",
+            "Illyrian Provinces added to map",
+            "Malmaison: Josephine weeping, divorce papers signed",
+            "Marie Louise wedding: Habsburgs watching, legitimacy conferred"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon",
+            "Marshal Lannes",
+            "Archduke Charles",
+            "Josephine",
+            "Marie Louise"
+        ],
+        "items": [
+            "Danube Bridges",
+            "Grand Battery",
+            "Illyrian Provinces Map",
+            "Divorce Document",
+            "Wedding Ring"
+        ],
+        "reason": "Personal and military turning point; first defeat \u2192 revenge \u2192 dynastic calculation."
+    },
+    {
+        "id": 33,
+        "timeline": 1,
+        "time_start": 761.47,
+        "time_end": 767.76,
+        "text": "In[761.47] 1811[761.85], she[762.77] bore[763.11] a[763.55] son[763.67], the[764.79] King[765.25] of[765.32] Rome[765.70]. The[766.41] dynasty[767.00] was[767.20] secured[767.66].",
+        "goal": "Introduce Invasion of Russia chapter with heir born and dynasty seemingly secure.",
+        "plan": [
+            "Timeline with Invasion of Russia (1812) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 11 main narrative begins; heir born, system at peak before overextension."
+    },
+    {
+        "id": 34,
+        "timeline": 0,
+        "time_start": 767.76,
+        "time_end": 797.16,
+        "text": "The[767.76] Continental[767.86] System[768.28] was[768.40] leaking[769.28]. Russia[769.68], Britain[770.44] ' s[770.56] oldest[770.96] trading[771.54] partner[771.66], opened[772.06] its[772.18] ports[772.84] to[773.28] neutral[773.68] ships[774.50] \u2014 British[774.64] goods[775.10] in[775.60] disguise[776.78]. Alexander[776.92] I[777.32], the[777.85] Tsar[779.55] Napoleon[780.35] had[780.69] charmed[781.07] on[781.19] a[782.05] raft[782.67] at[783.15] Tilsit[783.25], drifted[783.51] away[784.69]. The[784.77] Polish[785.33] question[785.83] \u2014 the[785.93] Duchy[786.41] of[787.21] Warsaw[787.39] \u2014 threatened[787.91] Russia[789.07] ' s[790.11] border[790.27]. The[790.96] clash[792.10] became[792.46] inevitable[792.67]. On[792.86] June[793.86] 24[794.34], 1812[794.48], six[794.84] hundred[795.28] thousand[795.76] men[796.00] crossed[796.18] the[797.00] Niemen[797.16].",
+        "goal": "Explain the causes of the Russian invasion: Continental System failure, Tilsit breakdown, Polish threat.",
+        "plan": [
+            "Continental System map: leaks at Russia, Britain smiling",
+            "Tilsit raft revisited: Alexander cold, drifting away",
+            "Duchy of Warsaw on map: dagger at Russia's border",
+            "June 24, 1812: Niemen crossing, vast army entering Russia"
+        ],
+        "frames": 4,
+        "characters": [
+            "Napoleon",
+            "Tsar Alexander I"
+        ],
+        "items": [
+            "Continental System Map",
+            "Tilsit Raft",
+            "Duchy of Warsaw Map",
+            "Niemen Crossing"
+        ],
+        "reason": "Structural causes visualized; final frame echoes opening but now with context."
+    },
+    {
+        "id": 35,
+        "timeline": 0,
+        "time_start": 797.62,
+        "time_end": 850.16,
+        "text": "Napoleon[797.62] expected[797.94] a[798.80] quick[798.96] campaign[799.46], a[799.78] decisive[800.62] battle[801.22], a[801.36] dictated[802.08] peace[802.56]. The[802.68] Russians[803.64] refused[803.80]. Barclay[803.94] de[804.30] Tolly[804.50] and[804.88] Bagration[805.54] retreated[806.06], burning[806.44] their[806.64] own[807.58] lands[807.72], stretching[808.16] the[808.56] French[808.74] supply[808.82] lines[809.76] until[809.88] they[810.50] snapped[810.96]. The[812.14] horses[812.44] died[812.88] first[813.00]. The[813.08] wagons[813.46] couldn[813.60] ' t[813.86] move[814.74]. Typhus[814.88] and[815.20] dysentery[815.66] ravaged[816.07] the[816.92] camps[817.71]. By[818.03] the[818.49] time[819.39] they[819.55] reached[819.97] Borodino[820.21], seventy[820.35] miles[821.33] from[821.47] Moscow[821.91], the[822.19] Grande[822.61] Arm\u00e9e[822.79] was[822.99] a[823.23] shadow[824.17].",
+        "goal": "Show the advance into Russia: Russian refusal to fight, scorched earth, supply collapse, army attrition.",
+        "plan": [
+            "Napoleon planning quick victory; Russian generals shaking heads",
+            "Retreat: Barclay and Bagration burning villages, French supply wagons stranded",
+            "Horses dying, wagons abandoned, sick camps",
+            "Borodino approach: Grande Arm\u00e9e diminished, shadow of itself"
+        ],
+        "frames": 4,
+        "characters": [
+            "Napoleon",
+            "Barclay de Tolly",
+            "Prince Bagration"
+        ],
+        "items": [
+            "Campaign Plan",
+            "Burning Village",
+            "Dead Horse",
+            "Borodino Map"
+        ],
+        "reason": "Expectation vs reality; each frame a stage of disintegration."
+    },
+    {
+        "id": 36,
+        "timeline": 0,
+        "time_start": 824.89,
+        "time_end": 873.07,
+        "text": "On[824.89] September[825.43] 7[825.85], two[826.01] hundred[826.13] fifty[827.07] thousand[827.15] men[827.35] fought[827.61] in[827.99] a[828.17] space[828.99] of[829.29] three[829.71] miles[829.91]. The[830.81] Great[830.97] Redoubt[831.65] changed[831.79] hands[832.23]. Bagration[832.61] fell[833.27] mortally[833.41] wounded[834.21]. The[834.31] French[834.49] took[834.63] the[835.17] fleches[835.53]. The[835.81] Russian[835.95] army[836.62] bent[836.91] but[837.01] did[837.89] not[838.76] break[839.98]. Napoleon[840.64] ' s[840.96] marshals[841.66] begged[841.80] for[842.22] the[843.36] Guard[843.52]. \"[843.92] I[844.22] will[844.22] not[845.02] risk[845.16] my[846.08] guard[847.26] fifteen[847.50] hundred[847.76] miles[847.88] from[848.46] Paris[848.68],\"[848.68] he[849.02] said[849.14]. The[850.16] Russian[850.33] army[850.68] withdrew[851.07] in[851.27] order[851.57]. It[852.43] was[853.09] the[853.51] bloodiest[853.61] single[853.71] day[854.23] of[854.41] warfare[854.51] until[855.03] the[855.27] Somme[855.49]. Seventy[855.77] thousand[856.57] casualties[856.71]. Napoleon[857.05] entered[857.41] Moscow[857.57] on[858.55] September[858.71] 14[859.05]. The[859.21] city[859.69] was[860.25] empty[860.48]. The[861.20] governor[861.36], Rostopchin[861.70], had[861.80] opened[862.14] the[862.60] prisons[862.76] and[864.32] fired[864.94] the[865.38] granaries[865.94]. The[866.08] fire[866.28] burned[866.64] for[867.10] five[867.38] days[867.52]. Napoleon[868.14] waited[868.68] in[869.44] the[869.60] Kremlin[870.16] for[870.57] a[871.97] peace[872.31] offer[872.77] that[872.87] never[873.07] came[873.07].",
+        "goal": "Depict Borodino bloodbath, Napoleon's refusal to commit Guard, Moscow empty and burning, futile wait for peace.",
+        "plan": [
+            "Borodino panorama: three-mile front, Great Redoubt changing hands",
+            "Bagration carried away dying; fleches captured",
+            "Marshals pleading, Napoleon refusing Guard",
+            "Casualty counter: 70,000",
+            "Moscow empty, Kremlin gates open, granaries burning",
+            "Napoleon in Kremlin throne room, waiting, no envoy arrives"
+        ],
+        "frames": 6,
+        "characters": [
+            "Napoleon",
+            "Prince Bagration",
+            "Marshal Ney (implied)",
+            "Count Rostopchin"
+        ],
+        "items": [
+            "Borodino Battlefield",
+            "Great Redoubt",
+            "Imperial Guard",
+            "Moscow Kremlin",
+            "Burning Granaries"
+        ],
+        "reason": "Climax of campaign; refusal to use Guard = strategic caution; Moscow fire = strategic failure."
+    },
+    {
+        "id": 37,
+        "timeline": 0,
+        "time_start": 873.91,
+        "time_end": 934.89,
+        "text": "The[873.91] snow[874.13] fell[874.33] in[874.95] October[875.61]. He[875.81] left[876.13] on[876.77] October[876.93] 19[877.99], too[878.09] late[878.19]. He[878.93] tried[879.05] a[879.69] southern[879.83] road[880.19] at[880.39] Malo[881.29] - Yaroslavets[881.68]. Kutuzov[882.44] blocked[882.78] it[883.44]. He[883.60] was[884.04] forced[885.02] back[885.40] onto[886.30] the[886.84] devastated[887.36] Smolensk[887.46] road[887.58]. The[888.50] retreat[889.10] became[890.04] a[890.22] dissolution[890.50]. Men[890.70] froze[891.06] in[891.18] their[892.30] sleep[892.72]. They[892.88] ate[893.38] horseflesh[893.48] raw[893.58]. They[894.38] fought[894.58] Cossacks[894.96] in[895.11] blizzards[895.78]. At[895.92] the[896.38] Berezina[897.43] in[897.57] November[897.99], the[898.43] river[899.17] was[899.39] thawing[899.83]. Ebl\u00e9[900.01] ' s[901.01] pontonniers[901.13] worked[901.63] waist[902.67] - deep[903.45] in[904.07] freezing[904.31] water[904.75], building[904.89] bridges[905.75]. Thousands[906.13] drowned[906.31] in[907.15] the[907.81] crush[908.19]. Napoleon[909.05] crossed[909.23]. He[909.69] left[909.85] the[910.77] army[910.99] at[911.93] Smorgonie[912.38], racing[912.72] for[913.64] Paris[914.14] in[915.34] a[915.92] sled[916.30]. He[916.38] reached[916.66] the[917.46] Tuileries[917.80] on[917.86] December[919.02] 18[920.54]. The[920.78] Senate[921.44] greeted[921.78] him[921.96]. \"[922.92] The[923.08] Emperor[923.40] is[923.56] well[923.56],\"[923.56] the[924.06] bulletin[924.20] read[925.16]. Three[925.30] hundred[925.92] thousand[926.09] Frenchmen[927.27] had[927.81] crossed[928.11] the[928.23] Niemen[928.67]. Fewer[930.09] than[930.45] thirty[930.75] thousand[930.93] combatants[931.31] crossed[931.95] back[932.09]. The[932.55] myth[932.77] of[933.11] invincibility[933.25] was[934.25] broken[934.89].",
+        "goal": "Show the catastrophic retreat: Maloyaroslavets, Smolensk road, Berezina crossing, Napoleon's flight to Paris, and the statistical catastrophe.",
+        "plan": [
+            "Snow falling; army leaving Moscow late",
+            "Malo-Yaroslavets: Kutuzov blocking, forced back to Smolensk road",
+            "Retreat horrors: frozen sleep, raw horseflesh, Cossack attacks",
+            "Berezina: pontonniers in freezing water building bridges, thousands drowning",
+            "Napoleon in sled leaving Smorgonie, army left behind",
+            "Paris: Senate, bulletin 'Emperor is well', counter: 600,000 \u2192 30,000"
+        ],
+        "frames": 6,
+        "characters": [
+            "Napoleon",
+            "Kutuzov",
+            "General Ebl\u00e9"
+        ],
+        "items": [
+            "Berezina Bridges",
+            "Sled",
+            "Senate Bulletin",
+            "Casualty Counter"
+        ],
+        "reason": "Unrelenting descent; Berezina as miracle of engineering amid disaster; final numbers shatter myth."
+    },
+    {
+        "id": 38,
+        "timeline": 1,
+        "time_start": 934.89,
+        "time_end": 936.11,
+        "text": "Prussia[936.11] switched[936.19] sides[936.43].",
+        "goal": "Introduce Battle of Leipzig chapter.",
+        "plan": [
+            "Timeline with Battle of Leipzig (1813) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 12 begins; Prussia defects after Russian disaster."
+    },
+    {
+        "id": 39,
+        "timeline": 0,
+        "time_start": 936.11,
+        "time_end": 996.2,
+        "text": "Austria[936.67] hesitated[936.91]. Napoleon[937.11] raised[937.57] a[937.91] new[938.13] army[939.03] \u2014 boys[939.52] of[939.90] eighteen[940.08], \"[940.98] Marie[940.98] - Louises[941.12],\"[941.12] few[941.74] veterans[942.86], almost[943.28] no[944.20] cavalry[944.46]. He[944.68] won[945.76] at[945.92] L\u00fctzen[946.62] and[946.76] Bautzen[947.10]. He[947.24] accepted[947.70] an[948.34] armistice[948.48]. Metternich[948.62] offered[948.90] the[949.16] Frankfurt[949.42] proposals[949.78]: France[950.18] keeps[954.93] its[955.35] natural[955.67] frontiers[955.79], the[956.27] Rhine[956.39], the[956.95] Alps[957.27], the[957.57] Pyrenees[958.79]. Napoleon[959.09] refused[959.31]. \"[960.19] I[961.03] will[961.93] not[962.55] have[963.19] my[963.61] crown[963.73] held[964.07] by[964.07] another[966.35].\"[966.35] Austria[966.47] joined[967.01] the[967.17] Allies[968.55]. The[969.01] Trachenberg[969.49] Plan[969.83]: avoid[971.51] Napoleon[972.05], beat[972.33] his[972.47] marshals[972.69]. At[972.93] Leipzig[973.97], the[975.05] Battle[976.15] of[976.49] Nations[976.93], three[978.15] hundred[978.41] sixty[978.95] thousand[979.11] Allies[979.33] faced[979.63] one[979.93] hundred[980.83] ninety[980.91] thousand[981.11] French[981.63]. Saxon[982.74] troops[982.86] defected[983.01] mid[983.75] - battle[984.91]. A[985.12] corporal[985.60] blew[986.00] the[986.16] bridge[987.10] at[987.26] Lindenau[988.18] too[988.40] early[988.58]. Thirty[989.72] thousand[990.24] men[990.78] were[991.80] trapped[991.96]. Poniatowski[992.48] drowned[993.10]. Napoleon[993.24] retreated[994.44] across[994.70] the[995.64] Rhine[995.88].",
+        "goal": "Show 1813 campaign: new raw army, tactical victories, failed diplomacy, Leipzig catastrophe.",
+        "plan": [
+            "Young 'Marie-Louises' drilling, few veterans, no cavalry",
+            "L\u00fctzen and Bautzen: tactical wins but no decisive result",
+            "Frankfurt proposals map: generous terms, Napoleon refusing",
+            "Trachenberg Plan: Allies avoiding Napoleon, beating marshals",
+            "Leipzig: massive armies, Saxon defection, bridge blown early",
+            "Poniatowski drowning; Napoleon crossing Rhine, Germany lost"
+        ],
+        "frames": 6,
+        "characters": [
+            "Napoleon",
+            "Metternich",
+            "Prince Poniatowski"
+        ],
+        "items": [
+            "Marie-Louise Recruits",
+            "Frankfurt Proposals Map",
+            "Leipzig Battlefield",
+            "Lindenau Bridge",
+            "Rhine Crossing"
+        ],
+        "reason": "Hubris \u2192 missed peace \u2192 coalition strategy \u2192 battle of nations \u2192 irreversible defeat."
+    },
+    {
+        "id": 40,
+        "timeline": 1,
+        "time_start": 996.2,
+        "time_end": 998.0,
+        "text": "1814[996.20]. The[996.44] Campaign[996.86] in[997.06] France[998.00].",
+        "goal": "Introduce Campaign of France and First Abdication chapter.",
+        "plan": [
+            "Timeline with Campaign of France and First Abdication (1814) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 13 begins; defense of France."
+    },
+    {
+        "id": 41,
+        "timeline": 0,
+        "time_start": 998.62,
+        "time_end": 1048.15,
+        "text": "Seventy[998.62] thousand[998.96] men[999.99] against[1000.83] three[1001.03] hundred[1001.41] thousand[1001.57]. Napoleon[1002.75] fought[1003.49] the[1004.09] Six[1004.37] Days[1004.71] ' Campaign[1005.03] \u2014 Champaubert[1005.95], Montmirail[1006.03], Ch\u00e2teau[1006.39] - Thierry[1006.53], Vauchamps[1006.79] \u2014 four[1007.69] victories[1007.91] in[1008.33] six[1008.69] days[1008.87] against[1009.67] Bl\u00fccher[1009.85]. It[1010.27] was[1010.43] tactical[1010.85] brilliance[1011.05]. It[1011.17] was[1011.51] strategic[1011.67] irrelevance[1012.45]. The[1012.63] Allies[1012.89] marched[1013.03] on[1014.23] Paris[1014.37]. The[1014.85] Senate[1015.13], led[1016.13] by[1016.73] Talleyrand[1016.93], declared[1017.69] Napoleon[1017.83] deposed[1018.37]. The[1018.53] marshals[1019.49] mutinied[1019.69] at[1020.11] Fontainebleau[1020.65]. Ney[1020.77] said[1021.71], \"[1021.85] The[1021.85] army[1022.39] will[1023.51] obey[1024.47] its[1024.67] chiefs[1025.07].\"[1025.07] Napoleon[1025.27] tried[1025.35] poison[1025.77]. It[1026.49] failed[1026.63]. He[1027.11] signed[1027.23] the[1027.99] abdication[1028.11]. Elba[1028.39]. Sovereignty[1029.33] over[1029.58] twelve[1029.91] square[1030.40] miles[1030.66]. A[1031.12] guard[1031.28] of[1032.28] four[1032.36] hundred[1033.00]. Two[1033.16] million[1033.60] francs[1034.12] a[1034.48] year[1034.64]. He[1035.44] watched[1035.70] the[1036.21] ships[1037.37] from[1038.31] the[1038.91] cliffs[1039.23] of[1040.25] Elba[1040.53].",
+        "goal": "Show the Six Days' Campaign brilliance, strategic futility, Paris fall, marshals' mutiny, abdication, and Elba exile.",
+        "plan": [
+            "Map: 70,000 vs 300,000; Six Days' Campaign lightning strikes",
+            "Four battle names flashing: victories but Allies keep coming",
+            "Paris: Talleyrand in Senate declaring deposition",
+            "Fontainebleau: marshals confronting Napoleon, Ney speaking",
+            "Poison attempt failing; abdication signed",
+            "Elba: tiny island, Napoleon on cliffs watching ships"
+        ],
+        "frames": 6,
+        "characters": [
+            "Napoleon",
+            "Bl\u00fccher",
+            "Talleyrand",
+            "Marshal Ney"
+        ],
+        "items": [
+            "Six Days Map",
+            "Senate Chamber",
+            "Fontainebleau Palace",
+            "Poison Vial",
+            "Abdication Document",
+            "Elba Island"
+        ],
+        "reason": "Final military genius display \u2192 political collapse \u2192 personal nadir \u2192 miniature kingdom."
+    },
+    {
+        "id": 42,
+        "timeline": 1,
+        "time_start": 1048.15,
+        "time_end": 1050.22,
+        "text": "He[1040.71] read[1041.63] the[1042.75] newspapers[1042.85]. The[1043.05] Bourbons[1043.27] were[1043.41] arrogant[1043.69], alienating[1043.99] the[1044.17] army[1044.57], the[1044.71] peasants[1044.99], the[1045.21] officials[1046.07]. The[1046.43] Allies[1046.63] quarreled[1047.23] at[1047.36] Vienna[1047.76]. On[1048.15] February[1048.34] 26[1049.30], 1815[1049.74], he[1050.04] sailed[1050.22]",
+        "goal": "Introduce Hundred Days and Waterloo chapter.",
+        "plan": [
+            "Timeline with The Hundred Days and Waterloo (1815) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 14 begins; conditions for return align."
+    },
+    {
+        "id": 43,
+        "timeline": 0,
+        "time_start": 1050.22,
+        "time_end": 1099.68,
+        "text": "with[1051.10] a[1051.26] thousand[1051.80] men[1052.92]. He[1053.08] landed[1053.38] at[1053.96] Golfe[1054.10] - Juan[1054.54] on[1055.50] March[1055.82] 1[1055.96]. \"[1056.44] The[1056.66] Eagle[1056.66] flies[1057.48] from[1057.62] steeple[1057.96] to[1058.86] steeple[1059.14].\"[1059.14] At[1059.54] Grenoble[1059.66], the[1060.06] 7th[1061.18] Regiment[1061.44] blocked[1061.70] the[1062.68] road[1062.86]. Their[1063.30] colonel[1063.78] ordered[1063.94], \"[1064.12] Fire[1064.12]!\"[1064.12] Napoleon[1065.28] walked[1065.44] forward[1065.82], opened[1066.18] his[1066.94] coat[1067.79]. \"[1068.48] Soldiers[1068.64], if[1068.96] there[1069.20] is[1069.93] one[1070.11] among[1070.47] you[1070.47] who[1071.07] wishes[1071.21] to[1071.77] kill[1071.89] his[1072.81] Emperor[1072.95], here[1073.39] I[1073.51] am[1073.85].\"[1073.85] The[1074.61] colonel[1074.79] lowered[1075.03] his[1075.51] sword[1075.71]. \"[1076.23] Long[1076.53] live[1076.67] the[1077.05] Emperor[1077.05]!\"[1077.05] The[1078.75] regiment[1079.13] defected[1079.27]. He[1079.49] entered[1079.61] Paris[1080.79] on[1080.95] March[1081.19] 20[1082.09]. Louis[1082.23] XVIII[1082.67] had[1082.81] fled[1083.39]. The[1083.59] Hundred[1084.01] Days[1084.25]. He[1085.03] offered[1085.63] a[1086.03] liberal[1086.17] constitution[1086.65], the[1087.01] Acte[1088.31] Additionnel[1088.45]. The[1088.85] Allies[1089.43] declared[1089.65] him[1090.77] an[1090.95] outlaw[1091.39]. He[1091.89] marched[1092.07] north[1092.57] with[1092.69] one[1093.13] hundred[1093.67] twenty[1094.69] - five[1095.19] thousand[1095.58] men[1095.99] \u2014 the[1096.17] Arm\u00e9e[1096.49] du[1097.36] Nord[1097.56] \u2014 to[1098.08] split[1098.30] Wellington[1098.82] and[1098.94] Bl\u00fccher[1099.06] in[1099.46] Belgium[1099.56].",
+        "goal": "Show the Hundred Days: landing, Grenoble confrontation, triumphal return to Paris, liberal constitution, march to Belgium.",
+        "plan": [
+            "Golfe-Juan landing: small force on beach",
+            "Grenoble: 7th Regiment blocking, Napoleon opening coat, 'here I am'",
+            "Regiment defecting, 'Vive l'Empereur!'",
+            "Paris entry March 20; Louis XVIII fleeing",
+            "Acte Additionnel proclaimed",
+            "Arm\u00e9e du Nord marching north toward Belgium map"
+        ],
+        "frames": 6,
+        "characters": [
+            "Napoleon",
+            "Colonel of 7th Regiment",
+            "Louis XVIII"
+        ],
+        "items": [
+            "Eagle Standard",
+            "7th Regiment",
+            "Acte Additionnel",
+            "Belgium Map"
+        ],
+        "reason": "Mythic return sequence; Grenoble moment defines charisma; political pivot to liberalism; strategic gamble."
+    },
+    {
+        "id": 44,
+        "timeline": 0,
+        "time_start": 1099.68,
+        "time_end": 1170.98,
+        "text": "At[1099.68] Ligny[1100.06] on[1100.94] June[1101.30] 16[1101.70], he[1102.10] beat[1102.50] Bl\u00fccher[1102.84] but[1102.96] Grouchy[1103.10] failed[1104.02] to[1104.32] pursue[1104.52]. At[1104.82] Quatre[1105.02] Bras[1106.04], Ney[1106.24] failed[1106.72] to[1106.84] take[1107.22] the[1107.68] crossroads[1108.84]. On[1109.58] June[1109.86] 18[1110.44], the[1110.66] ground[1111.66] at[1111.81] Waterloo[1112.14] was[1112.70] sodden[1113.14] from[1113.24] rain[1113.38]. Napoleon[1114.21] delayed[1114.43] the[1114.69] start[1114.97] until[1115.27] eleven[1115.41] - thirty[1116.27]. The[1116.49] mud[1116.85] nullified[1116.99] his[1117.11] artillery[1117.93]. He[1118.59] wasted[1119.67] hours[1119.79] and[1120.35] thousands[1120.95] of[1121.07] men[1122.19] assaulting[1122.33] Hougoumont[1122.59]. D[1122.97] ' Erlon[1123.19] ' s[1124.23] corps[1124.75] attacked[1125.15] the[1125.31] Allied[1125.59] center[1125.97], was[1126.97] repulsed[1127.21] by[1127.58] Picton[1127.71] and[1128.64] the[1129.12] charge[1129.60] of[1129.98] the[1130.16] Scots[1130.28] Greys[1131.20]. Ney[1131.28], seeing[1131.56] Allied[1131.92] wounded[1132.72] moving[1132.86] to[1133.22] the[1134.36] rear[1134.64], thought[1135.02] the[1135.90] army[1136.04] was[1136.36] retreating[1136.36]. He[1137.40] launched[1137.72] the[1138.74] massed[1139.38] cavalry[1140.19] charges[1140.35] \u2014 unsupported[1140.69], into[1141.59] squares[1141.73], into[1142.29] canister[1142.87]. The[1143.13] French[1144.31] cavalry[1144.53] died[1145.09] on[1145.29] the[1145.47] ridge[1146.31]. La[1146.43] Haye[1146.63] Sainte[1147.85] fell[1148.07] at[1148.69] six[1148.85]. Ney[1148.97] begged[1149.55] for[1149.65] the[1149.77] Guard[1151.02]. Napoleon[1151.15] refused[1151.39]. The[1151.54] Prussians[1151.84] arrived[1152.47] at[1152.58] Plancenoit[1152.69]. The[1153.28] Young[1153.39] Guard[1153.62] was[1154.16] committed[1154.30]. At[1154.52] seven[1155.40] - thirty[1155.62], the[1155.86] Middle[1156.10] Guard[1156.28] advanced[1156.56]. They[1157.52] reached[1157.62] the[1158.54] crest[1159.10]. Maitland[1159.46] ' s[1159.56] Guards[1159.70] rose[1160.02] from[1161.02] the[1161.46] grass[1162.40]. A[1162.62] point[1163.70] - blank[1163.94] volley[1164.98]. The[1165.42] Guard[1165.94] recoiled[1166.28]. \"[1166.64] La[1166.84] Garde[1166.84] recule[1167.34]!\"[1167.34] The[1167.52] cry[1167.94] spread[1168.12]. The[1169.06] army[1169.70] dissolved[1170.22]. Napoleon[1170.42] fled[1170.98].",
+        "goal": "Depict Waterloo in detail: Ligny, Quatre Bras, rain delay, Hougoumont, cavalry charges, La Haye Sainte, Guard's final advance and repulse.",
+        "plan": [
+            "Ligny: Napoleon beating Bl\u00fccher; Grouchy failing to pursue",
+            "Quatre Bras: Ney failing to take crossroads",
+            "Waterloo morning: rain, mud, delayed start",
+            "Hougoumont assault wasting men; d'Erlon's corps repulsed by Scots Greys",
+            "Ney's massed cavalry charges into squares, destroyed by canister",
+            "La Haye Sainte falls; Ney begs for Guard; Napoleon refuses",
+            "Prussians arrive at Plancenoit; Young Guard committed",
+            "7:30 PM: Middle Guard advances, reaches crest, Maitland's Guards rise, point-blank volley",
+            "Guard recoils; 'La Garde recule!' spreads; army dissolves; Napoleon flees"
+        ],
+        "frames": 9,
+        "characters": [
+            "Napoleon",
+            "Bl\u00fccher",
+            "Grouchy",
+            "Ney",
+            "Wellington",
+            "Picton",
+            "Maitland"
+        ],
+        "items": [
+            "Ligny Map",
+            "Waterloo Battlefield",
+            "Hougoumont Farm",
+            "Scots Greys",
+            "Cavalry Charges",
+            "La Haye Sainte",
+            "Imperial Guard",
+            "Plancenoit"
+        ],
+        "reason": "Waterloo demands granular visualization; 9 frames for 9 decisive moments. Longest scene justified by complexity."
+    },
+    {
+        "id": 45,
+        "timeline": 0,
+        "time_start": 1170.98,
+        "time_end": 1191.93,
+        "text": "He[1171.14] reached[1171.44] Paris[1172.52]. The[1173.00] Chambers[1173.12] demanded[1173.96] his[1174.12] abdication[1175.00]. He[1175.20] abdicated[1175.86] for[1176.14] his[1176.54] son[1176.84]. It[1177.02] was[1178.02] refused[1178.14]. He[1178.52] surrendered[1178.64] to[1178.90] the[1179.86] British[1180.90] on[1181.96] the[1182.08] *[1182.16] Bellerophon[1182.16] *[1182.16]. \"[1183.04] I[1183.30] come[1183.96] to[1185.02] throw[1185.46] myself[1185.76] on[1186.48] the[1187.24] protection[1187.24] of[1187.24] your[1187.72] Prince[1187.88] and[1188.85] your[1188.92] laws[1189.31].\"[1189.31] They[1189.70] sent[1190.11] him[1190.24] to[1191.31] St[1191.51]. Helena[1191.93].",
+        "goal": "Show final abdication, surrender to British on Bellerophon, and exile to St. Helena.",
+        "plan": [
+            "Paris: Chambers demanding abdication",
+            "Napoleon abdicating for son; refused",
+            "Bellerophon gangway: Napoleon in greatcoat, British officers",
+            "Quote: 'throw myself on the protection of your Prince and your laws'",
+            "Ship sailing toward horizon: St. Helena destination"
+        ],
+        "frames": 5,
+        "characters": [
+            "Napoleon",
+            "Captain Maitland (Bellerophon)"
+        ],
+        "items": [
+            "Chambers",
+            "Abdication Document",
+            "HMS Bellerophon",
+            "Greatcoat"
+        ],
+        "reason": "Dignified end to Hundred Days; legalistic surrender; voyage to final exile."
+    },
+    {
+        "id": 46,
+        "timeline": 1,
+        "time_start": 1191.93,
+        "time_end": 1193.33,
+        "text": "A[1192.05] damp[1192.35], volcanic[1193.01] rock[1193.21] in[1193.33] the[1194.31] South[1194.41] Atlantic[1194.51].",
+        "goal": "Introduce Exile on St. Helena and Death chapter.",
+        "plan": [
+            "Timeline with Exile on St. Helena and Death (1815\u20131821) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 15 begins; final chapter."
+    },
+    {
+        "id": 47,
+        "timeline": 0,
+        "time_start": 1193.33,
+        "time_end": 1248.18,
+        "text": "Longwood[1195.27] House[1195.43], rat[1195.69] - infested[1196.35], wind[1196.49] - scoured[1196.81]. Governor[1197.13] Hudson[1198.15] Lowe[1198.63] counted[1198.83] his[1199.15] wine[1200.17] and[1200.31] censored[1200.97] his[1201.13] letters[1201.49]. Napoleon[1201.85] dictated[1202.87] his[1203.05] memoirs[1203.43] to[1204.13] Las[1204.28] Cases[1204.90], crafting[1205.36] the[1205.96] legend[1206.96]. He[1207.12] gardened[1207.42]. He[1207.70] read[1207.82]. He[1208.12] argued[1208.54] about[1208.68] his[1209.26] stomach[1209.40]. He[1209.98] died[1210.10] on[1210.46] May[1210.94] 5[1211.08], 1821[1211.34]. \"[1211.78] France[1211.78], l[1211.92] ' arm\u00e9e[1212.28], t\u00eate[1212.66] d[1212.80] ' arm\u00e9e[1213.22], Jos\u00e9phine[1213.32].\"[1213.32] Nineteen[1213.44] years[1213.78] later[1213.96], his[1214.74] remains[1214.92] returned[1215.34] to[1215.62] Paris[1216.00]. A[1216.66] million[1216.81] people[1217.24] lined[1217.53] the[1217.89] streets[1218.95]. He[1219.25] rests[1219.55] at[1219.67] Les[1220.35] Invalides[1220.57], under[1221.03] the[1221.75] dome[1221.93], in[1222.23] a[1222.37] sarcophagus[1222.77] of[1223.21] red[1223.43] quartzite[1223.71] on[1224.29] green[1224.89] Vosges[1225.01] granite[1225.01], surrounded[1225.45] by[1226.69] twelve[1226.88] victories[1227.10]. He[1227.22] destroyed[1227.90] the[1228.04] Holy[1229.12] Roman[1229.28] Empire[1229.46]. He[1229.76] buried[1230.50] feudalism[1230.70] in[1231.02] Germany[1231.14], Italy[1231.44], Poland[1231.54], Spain[1231.66]. He[1232.00] gave[1232.20] Europe[1232.48] the[1232.82] Civil[1233.46] Code[1233.60], the[1234.51] prefect[1234.61], the[1234.70] lycee[1235.07], the[1235.17] metric[1235.69] system[1235.87], the[1236.65] corps[1236.75] system[1236.85], the[1237.17] general[1237.49] staff[1237.65], the[1237.73] concept[1238.05] of[1238.39] the[1238.53] nation[1239.13] in[1239.35] arms[1239.49]. He[1240.23] killed[1240.39] three[1240.69] million[1240.85] soldiers[1240.97] and[1241.45] perhaps[1241.55] three[1241.69] million[1242.47] civilians[1242.64]. He[1243.04] ended[1243.24] the[1243.34] Revolution[1243.54] by[1243.74] crowning[1244.52] it[1244.66]. He[1244.84] made[1245.00] the[1245.44] modern[1245.60] world[1246.02] by[1246.20] trying[1246.44] to[1247.42] conquer[1247.52] it[1248.02]. The[1248.18] question[1248.80] remains[1248.92]: was[1249.06] he[1249.46] the Revolution on horseback, or its gravedigger? The answer is written in the Code that still governs Louisiana and Cairo, in the borders of Germany and Italy, in the very idea that a state serves its citizens, not its king. He picked up the crown in the gutter. He placed it on his own head. And when he fell, the crown did not vanish. It became the standard of the modern age.",
+        "goal": "Show St. Helena exile, death, return of remains, and final historical assessment of Napoleon's legacy.",
+        "plan": [
+            "Longwood House: damp, rats, wind; Lowe counting wine, censoring letters",
+            "Napoleon dictating memoirs to Las Cases, crafting legend",
+            "Daily life: gardening, reading, stomach pains",
+            "Deathbed: final words 'France, l'arm\u00e9e, t\u00eate d'arm\u00e9e, Jos\u00e9phine'",
+            "1840: remains returning to Paris, million lining streets",
+            "Les Invalides: sarcophagus under dome, twelve victories carved",
+            "Legacy montage: Civil Code in Louisiana/Cairo, German/Italian borders, metric system, corps system, nation-in-arms concept",
+            "Cost: 3M soldiers, 3M civilians; Revolution ended by crowning it",
+            "Final image: crown in gutter \u2192 on head \u2192 becomes modern standard"
+        ],
+        "frames": 9,
+        "characters": [
+            "Napoleon",
+            "Hudson Lowe",
+            "Las Cases",
+            "Jos\u00e9phine (memory)"
+        ],
+        "items": [
+            "Longwood House",
+            "Memoirs Manuscript",
+            "Deathbed",
+            "Les Invalides Sarcophagus",
+            "Civil Code",
+            "Metric System",
+            "Crown in Gutter",
+            "Crown on Head",
+            "Modern Crown Standard"
+        ],
+        "reason": "Epilogue demands breadth: exile misery \u2192 mythmaking \u2192 death \u2192 apotheosis \u2192 balanced legacy \u2192 final philosophical image. Nine frames for nine movements."
+    }
+]

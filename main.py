@@ -561,8 +561,548 @@ Story:
 additional_img_prompt = "The Image should NOT be just Black and white, even though the background must be white. The face of the person must be white, except if it was explicitly stated above to have a specific color. Do NOT change the head style, it should be exactly like the one in the reference picture. The rest of the person must be colored, and NOT just textured with black and white.Do NOT write any text, only generate ONE person, NOT many views from the same person, or many styles from the same person. Just generate ONE SINGLE PERSON.  The Person must be drawn standing and NOT for example sitting in a throne. The only possibility a person does not have to stand ist when he/she sits in a wheelchair."
 
 
-timeline_prompt = """""" #still missing
+timeline_prompt = """
+You are a professional documentary editor.
 
+Your task is to divide the following historical story into its major documentary chapters.
+
+The chapters should represent the main parts of the story, not every individual event.
+
+Imagine you are creating the chapter markers for a high-quality history documentary.
+
+Rules:
+
+- Create between 5 and 15 chapters, depending on the story.
+- Every chapter should cover one major phase of the historical narrative.
+- Do NOT create chapters for minor events.
+- Do NOT skip major turning points.
+- The chapters should follow the chronological order of the story.
+- Every chapter title must contain the relevant year.
+- If an exact date is important to the story (for example "28 June 1914"), include the full date instead of only the year.
+- Keep chapter titles concise (usually 3–10 words).
+- Use title case.
+- Write all chapter titles in English.
+- Do NOT number the chapters.
+- Do NOT add explanations.
+- Do NOT use bullet points.
+- Return ONLY the chapter titles, one per line.
+
+Good examples:
+
+Assassination in Sarajevo (28 June 1914)
+Outbreak of World War I (1914)
+Battle of Stalingrad (1942–1943)
+The Fall of Berlin (1945)
+
+Bad examples:
+
+The Story Begins
+The Next Event
+Important Things Happened
+Chapter 1
+
+Historical story:
+""" 
+
+generate_scenes_prompt = """
+You are a professional documentary director and storyboard planner for high-quality history documentaries.
+
+Your task is to convert the following timestamped narration into a visual scene plan.
+
+The narration contains a timestamp after every spoken word.
+
+You will also receive a chronological list of the documentary chapters.
+
+Your job is NOT to generate image prompts.
+
+Instead, generate a JSON file describing how the documentary should be divided into scenes.
+
+The output will later be used by another AI that generates the actual image prompts.
+
+-----------------------------------
+GENERAL GOAL
+-----------------------------------
+
+Create scenes that maximize viewer understanding and engagement.
+
+A scene consists of 1 to 5 frames.
+
+Whenever possible, introduce information progressively. Do not reveal everything in the first frame if showing it step-by-step improves understanding.
+
+All frames inside a scene must belong to the same visual idea.
+
+Every new frame should only modify or extend the previous image instead of replacing it completely whenever possible.
+
+Example:
+
+Frame 1:
+Europe map
+
+Frame 2:
+Same map with the Slavic region highlighted
+
+Frame 3:
+Same map with a historically accurate Slavic settler added
+
+This is ONE scene with three frames.
+
+Do NOT split these into separate scenes.
+
+-----------------------------------
+WHEN TO START A NEW SCENE
+-----------------------------------
+
+Start a new scene whenever at least one of these happens:
+
+- The narration switches to a different event.
+- A new location becomes important.
+- Time jumps.
+- The viewer should see something completely different.
+- The visual focus changes.
+- A new historical concept is introduced.
+- A new documentary chapter begins (see Timeline Scenes below).
+- The scene becomes too long
+
+A scene may contain between 1 and 5 frames.
+
+A scene may consist of only a single frame if no visual transition is needed.
+
+Most scenes should last between 1 and 8 seconds.
+
+Longer scenes are allowed only when the narration stays focused on the same visual idea and changing the image would not improve the storytelling.
+
+Avoid scenes that remain visually unchanged for too long.
+
+-----------------------------------
+TIMELINE SCENES
+-----------------------------------
+
+You will receive a chronological list of documentary chapters.
+
+Example:
+
+- Assassination in Sarajevo (1914)
+- Beginning of World War I (1914)
+- The Western Front
+- The End of the War
+
+Every chapter MUST begin with a dedicated timeline scene.
+
+Do NOT skip any chapter.
+
+The timeline scene must always be inserted immediately before the first scene belonging to that chapter.
+
+A timeline scene should:
+
+- last approximately 1-2 seconds,
+- contain only one frame,
+- show the documentary timeline,
+- highlight the current chapter,
+- introduce the next section of the documentary.
+
+The narration continues normally while the timeline is shown.
+
+Timeline scenes should not contain any other visual content.
+
+For every timeline scene set:
+
+"timeline": 1
+
+For every normal scene set:
+
+"timeline": 0
+
+-----------------------------------
+FRAMES
+-----------------------------------
+
+Choose between 1 and 5 frames.
+
+Use more frames when information is gradually introduced.
+
+Examples:
+
+- Maps
+- Timelines
+- Territory expansion
+- Movement
+- Lists
+- Explanations that benefit from step-by-step visualization
+
+Use fewer frames for simple narration or when nothing visually changes.
+
+Each frame should naturally build upon the previous one whenever possible.
+
+-----------------------------------
+TIMESTAMPS
+-----------------------------------
+
+Use the timestamps already contained inside the narration.
+
+time_start must be the timestamp of the first spoken word of the scene.
+
+time_end must be the timestamp of the last spoken word of the scene.
+
+Never invent timestamps.
+
+-----------------------------------
+PLAN
+-----------------------------------
+
+The "plan" field describes what happens visually.
+
+Each entry corresponds to ONE frame.
+
+Keep every entry short.
+
+Good examples:
+
+- Timeline with current chapter highlighted
+- Europe map
+- Slavic territory highlighted
+- Arrow toward Serbia
+- Castle exterior
+- King sitting on throne
+- Guard approaches
+- Guard attacks
+
+Bad examples:
+
+- Long image prompts
+- Camera descriptions
+- Lighting descriptions
+- Image generation prompts
+
+-----------------------------------
+GOAL
+-----------------------------------
+
+Describe in one short sentence what the viewer should understand after watching this scene.
+
+-----------------------------------
+TEXT
+-----------------------------------
+
+Include only the narration spoken during this scene.
+
+Keep the timestamps inside the text exactly as they appear.
+
+Do not modify or remove timestamps.
+
+-----------------------------------
+CHARACTERS
+-----------------------------------
+
+List every named character that should visually appear in this scene.
+
+Only include important characters.
+
+Do not include unnamed soldiers, crowds, civilians, servants, guards, etc., unless they are specifically named.
+
+-----------------------------------
+ITEMS
+-----------------------------------
+
+List reusable visual assets required for this scene.
+
+Examples:
+
+- Timeline
+- Europe Map
+- Roman Empire Map
+- Crown
+- Sword
+- Tank
+- Castle
+- Ship
+- French Flag
+
+Only include items that should later receive reference images.
+
+-----------------------------------
+REASON
+-----------------------------------
+
+Briefly explain why the scene was divided this way.
+
+Focus on visual storytelling and viewer understanding.
+
+-----------------------------------
+OUTPUT FORMAT
+-----------------------------------
+
+Return ONLY valid JSON.
+
+Example:
+
+[
+  {
+    "id": 0,
+    "timeline": 1,
+    "time_start": 0.00,
+    "time_end": 1.85,
+    "text": "...",
+    "goal": "Introduce the next chapter.",
+    "plan": [
+      "Timeline with current chapter highlighted"
+    ],
+    "frames": 1,
+    "characters": [],
+    "items": [
+      "Timeline"
+    ],
+    "reason": "Every documentary chapter begins with a timeline scene."
+  },
+  {
+    "id": 1,
+    "timeline": 0,
+    "time_start": 1.85,
+    "time_end": 6.40,
+    "text": "...",
+    "goal": "...",
+    "plan": [
+      "...",
+      "...",
+      "..."
+    ],
+    "frames": 3,
+    "characters": [
+      "..."
+    ],
+    "items": [
+      "..."
+    ],
+    "reason": "..."
+  }
+]
+
+Do not output anything except the JSON.
+
+Below you will receive:
+
+1. The timestamped narration.
+2. The chronological chapter list.
+"""
+
+frames_prompt = """
+You are a storyboard editor for a high-quality history documentary.
+
+You will receive a JSON file describing documentary scenes.
+
+Your task is to convert every scene into one or more individual frames.
+
+Do NOT generate image prompts.
+
+Do NOT invent new visual ideas.
+
+The visual decisions have already been made in the scene JSON.
+
+Your only task is to split every scene into its individual frames and assign the correct information to each frame.
+
+-----------------------------------
+GENERAL RULES
+-----------------------------------
+
+Every entry in the "plan" array becomes exactly ONE frame.
+
+Example:
+
+Scene:
+
+{
+    "frames": 3,
+    "plan": [
+        "Europe map",
+        "Slavic territory highlighted",
+        "Slavic settler added"
+    ]
+}
+
+becomes
+
+Frame 0:
+Europe map
+
+Frame 1:
+Slavic territory highlighted
+
+Frame 2:
+Slavic settler added
+
+Do not merge frames.
+
+Do not split frames.
+
+-----------------------------------
+TIMESTAMPS
+-----------------------------------
+
+Use the scene timestamps.
+
+The first frame starts at scene.time_start.
+
+The last frame ends at scene.time_end.
+
+Distribute the remaining timestamps evenly across the frames.
+
+Example:
+
+Scene:
+0.00 - 6.00
+3 frames
+
+Frame 1:
+0.00 - 2.00
+
+Frame 2:
+2.00 - 4.00
+
+Frame 3:
+4.00 - 6.00
+
+-----------------------------------
+TEXT
+-----------------------------------
+
+Split the narration approximately evenly across the frames.
+
+Each frame should contain the narration that is spoken while the image is displayed.
+
+Never modify the narration.
+
+Never remove timestamps.
+
+-----------------------------------
+CHARACTERS
+-----------------------------------
+
+Copy the character list from the scene.
+
+Every frame inside the same scene receives exactly the same character list.
+
+-----------------------------------
+ITEMS
+-----------------------------------
+
+Copy the item list from the scene.
+
+Every frame inside the same scene receives exactly the same item list.
+
+-----------------------------------
+PLAN
+-----------------------------------
+
+Each frame receives exactly one plan entry.
+
+Frame 0 → first plan entry
+
+Frame 1 → second plan entry
+
+etc.
+
+-----------------------------------
+IDS
+-----------------------------------
+
+"id"
+
+Global frame id.
+
+Starts at 0 and increases by one for every frame.
+
+"scene_id"
+
+Copy the scene id.
+
+"id_scene_relative"
+
+Starts at 0 for every new scene.
+
+Example:
+
+Scene 5 with four frames
+
+Frame 0
+
+scene_id = 5
+
+id_scene_relative = 0
+
+Frame 1
+
+scene_id = 5
+
+id_scene_relative = 1
+
+Frame 2
+
+scene_id = 5
+
+id_scene_relative = 2
+
+Frame 3
+
+scene_id = 5
+
+id_scene_relative = 3
+
+-----------------------------------
+TIMELINE
+-----------------------------------
+
+Copy the timeline value from the scene.
+
+If the scene contains
+
+"timeline": 1
+
+every frame inside that scene also has
+
+"timeline": 1
+
+-----------------------------------
+OUTPUT FORMAT
+-----------------------------------
+
+Return ONLY valid JSON.
+
+Example:
+
+[
+    {
+        "id": 0,
+        "scene_id": 0,
+        "id_scene_relative": 0,
+        "timeline": 1,
+        "time_start": 0.00,
+        "time_end": 2.00,
+        "text": "...",
+        "items": [
+            "Timeline"
+        ],
+        "characters": [],
+        "plan": "Timeline with current chapter highlighted"
+    },
+    {
+        "id": 1,
+        "scene_id": 1,
+        "id_scene_relative": 0,
+        "timeline": 0,
+        "time_start": 2.00,
+        "time_end": 4.10,
+        "text": "...",
+        "items": [
+            "Europe Map"
+        ],
+        "characters": [],
+        "plan": "Europe map"
+    }
+]
+
+Do not output anything except the JSON.
+
+Below you will receive the scene JSON.
+"""
 
 or_api_key = random.choice(OR_API_KEYS)
 
@@ -703,9 +1243,9 @@ def extract_characters(story, foldername):
     characters_string = call_openrouter(or_data)
     characters_json = safe_json_parse(characters_string)
     
-    with open("videos/"+foldername+"/"+ CHARACTERS_FILE, "w") as f:
+    with open("videos/"+foldername+"/"+ CHARACTERS_FILE, "w", encoding="utf-8") as f:
         json.dump(characters_json, f, indent=4)
-    
+
     return characters_json
 
 def get_character_descriptions(characters_json, story, foldername):
@@ -725,7 +1265,7 @@ def get_character_descriptions(characters_json, story, foldername):
 
     
     
-    with open("videos/"+foldername+"/"+ CHARACTERS_FILE, "w") as f:
+    with open("videos/"+foldername+"/"+ CHARACTERS_FILE, "w", encoding="utf-8") as f:
         json.dump(characters_json, f, indent=4)
     return characters_json
 
@@ -803,7 +1343,7 @@ async def tts(text, foldername):
     communicate = edge_tts.Communicate(text, VOICE)
     await communicate.save("videos/"+ foldername + "/audio.mp3")
 
-def generate_timeline_prompt(story):
+def generate_timeline_prompt(story, foldername):
     content = timeline_prompt + "\n\n" + story
     or_data = {
         "model": OR_MODEL,
@@ -814,7 +1354,7 @@ def generate_timeline_prompt(story):
         ]
     }
     timeline_img_prompt = call_openrouter(or_data)
-    with open("timeline_prompt.txt", "w", encoding="utf-8") as f:
+    with open("videos/"+foldername+"/timeline_prompt.txt", "w", encoding="utf-8") as f:
         f.write(timeline_img_prompt)
     return timeline_img_prompt
 
@@ -886,6 +1426,27 @@ def add_word_timestamps(story_filename, audio_filename):
 
     return final
 
+def generate_scenes_json(story, foldername, timeline):
+    content = generate_scenes_prompt + "\nThis is the Story: \n" + story + "\nThis is the timeline:\n" + timeline
+    or_data = {
+        "model": OR_MODEL,
+        "messages": [{
+            "role": "user",
+            "content": content
+        }
+        ]
+    }
+    scenes_string = call_openrouter(or_data)
+
+    scenes_json = safe_json_parse(scenes_string)
+    
+    with open("videos/"+foldername+"/"+ "scenes.json", "w", encoding="utf-8") as f:
+        json.dump(scenes_json, f, indent=4)
+    return scenes_json
+
+def generate_frames_json():
+    pass
+
 
 # Phases
 
@@ -923,10 +1484,11 @@ def phase_5_generate_audio(story, foldername):
     print("Phase 5")
     asyncio.run(tts(story, foldername))
 
-def phase_6_generate_timeline(story):
+def phase_6_generate_timeline(story, foldername):
     print("Phase 6")
-    timeline_img_prompt = generate_timeline_prompt(story)
-    return timeline_img_prompt
+    timeline_prompt = generate_timeline_prompt(story, foldername)
+    print("Timeline: " + timeline_prompt)
+    return timeline_prompt
 
 def phase_7_generate_timestamps(foldername):
     print("Phase 7")
@@ -935,6 +1497,12 @@ def phase_7_generate_timestamps(foldername):
         f.write(timestamped_story)
     return timestamped_story
 
+def phase_8_generate_scenes(story, foldername, timeline):
+    print("Phase 8")
+    return generate_scenes_json(story, foldername, timeline)
+
+def phase_9_generate_frames():
+    print("Phase 9")
 
 def main():
     foldername = phase_1_topic()
@@ -943,8 +1511,9 @@ def main():
     save_story_and_info(foldername, story, research_material, research_funfacts_material)
     phase_4_character_images(story, foldername)
     phase_5_generate_audio(story, foldername)
-    phase_6_generate_timeline(story)
+    timeline = phase_6_generate_timeline(story, foldername)
     timestamped_story = phase_7_generate_timestamps(foldername)
+    scenes = phase_8_generate_scenes(timestamped_story, foldername, timeline)
 
 
 
