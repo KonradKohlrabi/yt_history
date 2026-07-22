@@ -1504,6 +1504,7 @@ def phase_8_generate_scenes(story, foldername, timeline):
 def phase_9_generate_frames():
     print("Phase 9")
 
+
 def main():
     foldername = phase_1_topic()
     research_material, research_funfacts_material = phase_2_research(foldername)
