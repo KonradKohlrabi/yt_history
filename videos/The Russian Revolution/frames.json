@@ -1,0 +1,520 @@
+[
+    {
+        "id": 0,
+        "scene_id": 0,
+        "id_scene_relative": 0,
+        "timeline": 1,
+        "time_start": 0.15,
+        "time_end": 0.15,
+        "text": "The[0.15]",
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "plan": "Timeline with current chapter highlighted"
+    },
+    {
+        "id": 1,
+        "scene_id": 1,
+        "id_scene_relative": 0,
+        "timeline": 0,
+        "time_start": 0.15,
+        "time_end": 12.35,
+        "text": "The[0.15] Russian[0.29] Empire[0.65] stretched[1.15] across[1.55] one[2.03] sixth[2.71] of[2.81] the[2.97] earth[3.27] \u2019[3.57] s[3.57] land[4.67] surface[4.75], a[5.36] colossus[5.44] of[6.34] 170[6.70] million[7.06] souls[7.32] bound[7.78] together[7.94] by[8.06] the[8.52] divine[8.88] right[9.00] of[9.10] a[9.42] single[10.30] family[10.38]. In[10.50] the[10.86] winter[10.92] of[11.36] 1913[12.52], the[13.08] Romanovs[13.70] celebrated[13.98] three[14.62] centuries[14.72] on[14.84] the[15.66] throne[15.80]. The[16.25] streets[16.41] of[16.70] St[17.45]. Petersburg[17.95] glittered[18.21] with[18.75] imperial[19.75] ceremony[19.89]. The[20.37] economy[20.59] was[21.53] roaring[21.69], the[22.09] fourth[22.55] largest[22.65] in[22.77] the[23.79] world[24.07], fed[24.31] by[24.65] French[25.09] gold[25.23] and[25.61] peasant[26.35] sweat[26.49]. To[26.63] the[27.13] casual[28.00] observer[28.16], the[28.62] Giant[29.10] stood[30.20] unshakeable[30.38]. But[30.52] the[31.30] foundations[31.54] were[32.44] rotting[32.72]. Eighty[33.20] percent[33.30] of[33.42] the[34.02] population[34.20] were[35.22] peasants[35.98], land[36.15] -[37.17] hungry[37.17] and[37.51] illiterate[37.73], governed[38.13] by[38.49] laws[38.69] written[38.77] for[39.17] a[39.93] feudal[40.07] age[40.59]. The[40.77] factories[41.15] that[41.27] powered[41.45] the[41.75] new[42.03] wealth[42.37] were[42.49] islands[43.49] of[43.71] misery[43.99], where[44.45] men[44.93] worked[45.21] twelve[45.39] -[46.38] hour[46.38] days[46.77] for[47.13] pennies[47.53], breathing[47.70] cotton[48.14] dust[48.64] and[48.80] radical[49.08] ideas[49.94] in[50.22] equal[50.32] measure[50.70]. Over[51.04] a[51.52] hundred[52.08] ethnic[52.34] groups[52.42] chafed[53.02] under[53.18] a[53.52] policy[54.76] of[54.90] forced[55.66] Russification[56.32]. The[57.26] Tsar[57.34], Nicholas[57.62] II[57.76], a[58.12] man[58.66] of[58.92] quiet[59.16] devotion[60.02] and[60.44] iron[60.60] will[61.30], believed[61.52] his[61.82] coronation[62.00] oath[62.18] bound[62.92] him[63.08] to[63.50] autocracy[63.62] as[64.08] surely[64.44] as[64.61] gravity[65.27] binds[65.39] the[65.58] earth[65.81]. He[66.11] would[67.03] not[67.17] share[67.37] power[67.63]. He[68.11] could[68.19] not[68.67] imagine[68.89] a[69.05] world[69.23] where[69.45] he[69.75] did[70.35] not[70.49] hold[70.95] it[71.15]. The[71.41] stakes[71.83] were[71.91] not[73.01] merely[73.19] a[73.37] dynasty[73.51]. They[74.17] were[74.29] the[74.37] survival[75.65] of[75.79] a[75.93] civilization[76.27], and[76.39] the[76.49] birth[76.97] of[77.15] a[77.35] system[77.83] that[78.05] would[78.37] define[79.25] the[79.37] twentieth[79.77] century[79.97]. The[80.33] question[80.47] was[80.61] not[81.03] if[81.21] the[82.17] structure[82.39] would[82.58] crack[82.81], but[83.17] what[83.36] would[83.50] rise[84.28] from[84.42] the[84.74] rubble[85.18]. The[85.56]",
+        "characters": [
+            "Nicholas II"
+        ],
+        "items": [
+            "Russian Empire Map",
+            "St Petersburg Street",
+            "Imperial Ceremony",
+            "Peasant Group",
+            "Factory Interior",
+            "Ethnic Groups Map",
+            "Nicholas II Portrait"
+        ],
+        "plan": "Russian Empire map spanning Eurasia"
+    },
+    {
+        "id": 2,
+        "scene_id": 1,
+        "id_scene_relative": 1,
+        "timeline": 0,
+        "time_start": 12.35,
+        "time_end": 24.55,
+        "text": "The[0.15] Russian[0.29] Empire[0.65] stretched[1.15] across[1.55] one[2.03] sixth[2.71] of[2.81] the[2.97] earth[3.27] \u2019[3.57] s[3.57] land[4.67] surface[4.75], a[5.36] colossus[5.44] of[6.34] 170[6.70] million[7.06] souls[7.32] bound[7.78] together[7.94] by[8.06] the[8.52] divine[8.88] right[9.00] of[9.10] a[9.42] single[10.30] family[10.38]. In[10.50] the[10.86] winter[10.92] of[11.36] 1913[12.52], the[13.08] Romanovs[13.70] celebrated[13.98] three[14.62] centuries[14.72] on[14.84] the[15.66] throne[15.80]. The[16.25] streets[16.41] of[16.70] St[17.45]. Petersburg[17.95] glittered[18.21] with[18.75] imperial[19.75] ceremony[19.89]. The[20.37] economy[20.59] was[21.53] roaring[21.69], the[22.09] fourth[22.55] largest[22.65] in[22.77] the[23.79] world[24.07], fed[24.31] by[24.65] French[25.09] gold[25.23] and[25.61] peasant[26.35] sweat[26.49]. To[26.63] the[27.13] casual[28.00] observer[28.16], the[28.62] Giant[29.10] stood[30.20] unshakeable[30.38]. But[30.52] the[31.30] foundations[31.54] were[32.44] rotting[32.72]. Eighty[33.20] percent[33.30] of[33.42] the[34.02] population[34.20] were[35.22] peasants[35.98], land[36.15] -[37.17] hungry[37.17] and[37.51] illiterate[37.73], governed[38.13] by[38.49] laws[38.69] written[38.77] for[39.17] a[39.93] feudal[40.07] age[40.59]. The[40.77] factories[41.15] that[41.27] powered[41.45] the[41.75] new[42.03] wealth[42.37] were[42.49] islands[43.49] of[43.71] misery[43.99], where[44.45] men[44.93] worked[45.21] twelve[45.39] -[46.38] hour[46.38] days[46.77] for[47.13] pennies[47.53], breathing[47.70] cotton[48.14] dust[48.64] and[48.80] radical[49.08] ideas[49.94] in[50.22] equal[50.32] measure[50.70]. Over[51.04] a[51.52] hundred[52.08] ethnic[52.34] groups[52.42] chafed[53.02] under[53.18] a[53.52] policy[54.76] of[54.90] forced[55.66] Russification[56.32]. The[57.26] Tsar[57.34], Nicholas[57.62] II[57.76], a[58.12] man[58.66] of[58.92] quiet[59.16] devotion[60.02] and[60.44] iron[60.60] will[61.30], believed[61.52] his[61.82] coronation[62.00] oath[62.18] bound[62.92] him[63.08] to[63.50] autocracy[63.62] as[64.08] surely[64.44] as[64.61] gravity[65.27] binds[65.39] the[65.58] earth[65.81]. He[66.11] would[67.03] not[67.17] share[67.37] power[67.63]. He[68.11] could[68.19] not[68.67] imagine[68.89] a[69.05] world[69.23] where[69.45] he[69.75] did[70.35] not[70.49] hold[70.95] it[71.15]. The[71.41] stakes[71.83] were[71.91] not[73.01] merely[73.19] a[73.37] dynasty[73.51]. They[74.17] were[74.29] the[74.37] survival[75.65] of[75.79] a[75.93] civilization[76.27], and[76.39] the[76.49] birth[76.97] of[77.15] a[77.35] system[77.83] that[78.05] would[78.37] define[79.25] the[79.37] twentieth[79.77] century[79.97]. The[80.33] question[80.47] was[80.61] not[81.03] if[81.21] the[82.17] structure[82.39] would[82.58] crack[82.81], but[83.17] what[83.36] would[83.50] rise[84.28] from[84.42] the[84.74] rubble[85.18]. The[85.56]",
+        "characters": [
+            "Nicholas II"
+        ],
+        "items": [
+            "Russian Empire Map",
+            "St Petersburg Street",
+            "Imperial Ceremony",
+            "Peasant Group",
+            "Factory Interior",
+            "Ethnic Groups Map",
+            "Nicholas II Portrait"
+        ],
+        "plan": "Map highlighting vast territory and 170 million population"
+    },
+    {
+        "id": 3,
+        "scene_id": 1,
+        "id_scene_relative": 2,
+        "timeline": 0,
+        "time_start": 24.55,
+        "time_end": 36.75,
+        "text": "The[0.15] Russian[0.29] Empire[0.65] stretched[1.15] across[1.55] one[2.03] sixth[2.71] of[2.81] the[2.97] earth[3.27] \u2019[3.57] s[3.57] land[4.67] surface[4.75], a[5.36] colossus[5.44] of[6.34] 170[6.70] million[7.06] souls[7.32] bound[7.78] together[7.94] by[8.06] the[8.52] divine[8.88] right[9.00] of[9.10] a[9.42] single[10.30] family[10.38]. In[10.50] the[10.86] winter[10.92] of[11.36] 1913[12.52], the[13.08] Romanovs[13.70] celebrated[13.98] three[14.62] centuries[14.72] on[14.84] the[15.66] throne[15.80]. The[16.25] streets[16.41] of[16.70] St[17.45]. Petersburg[17.95] glittered[18.21] with[18.75] imperial[19.75] ceremony[19.89]. The[20.37] economy[20.59] was[21.53] roaring[21.69], the[22.09] fourth[22.55] largest[22.65] in[22.77] the[23.79] world[24.07], fed[24.31] by[24.65] French[25.09] gold[25.23] and[25.61] peasant[26.35] sweat[26.49]. To[26.63] the[27.13] casual[28.00] observer[28.16], the[28.62] Giant[29.10] stood[30.20] unshakeable[30.38]. But[30.52] the[31.30] foundations[31.54] were[32.44] rotting[32.72]. Eighty[33.20] percent[33.30] of[33.42] the[34.02] population[34.20] were[35.22] peasants[35.98], land[36.15] -[37.17] hungry[37.17] and[37.51] illiterate[37.73], governed[38.13] by[38.49] laws[38.69] written[38.77] for[39.17] a[39.93] feudal[40.07] age[40.59]. The[40.77] factories[41.15] that[41.27] powered[41.45] the[41.75] new[42.03] wealth[42.37] were[42.49] islands[43.49] of[43.71] misery[43.99], where[44.45] men[44.93] worked[45.21] twelve[45.39] -[46.38] hour[46.38] days[46.77] for[47.13] pennies[47.53], breathing[47.70] cotton[48.14] dust[48.64] and[48.80] radical[49.08] ideas[49.94] in[50.22] equal[50.32] measure[50.70]. Over[51.04] a[51.52] hundred[52.08] ethnic[52.34] groups[52.42] chafed[53.02] under[53.18] a[53.52] policy[54.76] of[54.90] forced[55.66] Russification[56.32]. The[57.26] Tsar[57.34], Nicholas[57.62] II[57.76], a[58.12] man[58.66] of[58.92] quiet[59.16] devotion[60.02] and[60.44] iron[60.60] will[61.30], believed[61.52] his[61.82] coronation[62.00] oath[62.18] bound[62.92] him[63.08] to[63.50] autocracy[63.62] as[64.08] surely[64.44] as[64.61] gravity[65.27] binds[65.39] the[65.58] earth[65.81]. He[66.11] would[67.03] not[67.17] share[67.37] power[67.63]. He[68.11] could[68.19] not[68.67] imagine[68.89] a[69.05] world[69.23] where[69.45] he[69.75] did[70.35] not[70.49] hold[70.95] it[71.15]. The[71.41] stakes[71.83] were[71.91] not[73.01] merely[73.19] a[73.37] dynasty[73.51]. They[74.17] were[74.29] the[74.37] survival[75.65] of[75.79] a[75.93] civilization[76.27], and[76.39] the[76.49] birth[76.97] of[77.15] a[77.35] system[77.83] that[78.05] would[78.37] define[79.25] the[79.37] twentieth[79.77] century[79.97]. The[80.33] question[80.47] was[80.61] not[81.03] if[81.21] the[82.17] structure[82.39] would[82.58] crack[82.81], but[83.17] what[83.36] would[83.50] rise[84.28] from[84.42] the[84.74] rubble[85.18]. The[85.56]",
+        "characters": [
+            "Nicholas II"
+        ],
+        "items": [
+            "Russian Empire Map",
+            "St Petersburg Street",
+            "Imperial Ceremony",
+            "Peasant Group",
+            "Factory Interior",
+            "Ethnic Groups Map",
+            "Nicholas II Portrait"
+        ],
+        "plan": "St Petersburg streets with imperial ceremony"
+    },
+    {
+        "id": 4,
+        "scene_id": 1,
+        "id_scene_relative": 3,
+        "timeline": 0,
+        "time_start": 36.75,
+        "time_end": 48.96,
+        "text": "The[0.15] Russian[0.29] Empire[0.65] stretched[1.15] across[1.55] one[2.03] sixth[2.71] of[2.81] the[2.97] earth[3.27] \u2019[3.57] s[3.57] land[4.67] surface[4.75], a[5.36] colossus[5.44] of[6.34] 170[6.70] million[7.06] souls[7.32] bound[7.78] together[7.94] by[8.06] the[8.52] divine[8.88] right[9.00] of[9.10] a[9.42] single[10.30] family[10.38]. In[10.50] the[10.86] winter[10.92] of[11.36] 1913[12.52], the[13.08] Romanovs[13.70] celebrated[13.98] three[14.62] centuries[14.72] on[14.84] the[15.66] throne[15.80]. The[16.25] streets[16.41] of[16.70] St[17.45]. Petersburg[17.95] glittered[18.21] with[18.75] imperial[19.75] ceremony[19.89]. The[20.37] economy[20.59] was[21.53] roaring[21.69], the[22.09] fourth[22.55] largest[22.65] in[22.77] the[23.79] world[24.07], fed[24.31] by[24.65] French[25.09] gold[25.23] and[25.61] peasant[26.35] sweat[26.49]. To[26.63] the[27.13] casual[28.00] observer[28.16], the[28.62] Giant[29.10] stood[30.20] unshakeable[30.38]. But[30.52] the[31.30] foundations[31.54] were[32.44] rotting[32.72]. Eighty[33.20] percent[33.30] of[33.42] the[34.02] population[34.20] were[35.22] peasants[35.98], land[36.15] -[37.17] hungry[37.17] and[37.51] illiterate[37.73], governed[38.13] by[38.49] laws[38.69] written[38.77] for[39.17] a[39.93] feudal[40.07] age[40.59]. The[40.77] factories[41.15] that[41.27] powered[41.45] the[41.75] new[42.03] wealth[42.37] were[42.49] islands[43.49] of[43.71] misery[43.99], where[44.45] men[44.93] worked[45.21] twelve[45.39] -[46.38] hour[46.38] days[46.77] for[47.13] pennies[47.53], breathing[47.70] cotton[48.14] dust[48.64] and[48.80] radical[49.08] ideas[49.94] in[50.22] equal[50.32] measure[50.70]. Over[51.04] a[51.52] hundred[52.08] ethnic[52.34] groups[52.42] chafed[53.02] under[53.18] a[53.52] policy[54.76] of[54.90] forced[55.66] Russification[56.32]. The[57.26] Tsar[57.34], Nicholas[57.62] II[57.76], a[58.12] man[58.66] of[58.92] quiet[59.16] devotion[60.02] and[60.44] iron[60.60] will[61.30], believed[61.52] his[61.82] coronation[62.00] oath[62.18] bound[62.92] him[63.08] to[63.50] autocracy[63.62] as[64.08] surely[64.44] as[64.61] gravity[65.27] binds[65.39] the[65.58] earth[65.81]. He[66.11] would[67.03] not[67.17] share[67.37] power[67.63]. He[68.11] could[68.19] not[68.67] imagine[68.89] a[69.05] world[69.23] where[69.45] he[69.75] did[70.35] not[70.49] hold[70.95] it[71.15]. The[71.41] stakes[71.83] were[71.91] not[73.01] merely[73.19] a[73.37] dynasty[73.51]. They[74.17] were[74.29] the[74.37] survival[75.65] of[75.79] a[75.93] civilization[76.27], and[76.39] the[76.49] birth[76.97] of[77.15] a[77.35] system[77.83] that[78.05] would[78.37] define[79.25] the[79.37] twentieth[79.77] century[79.97]. The[80.33] question[80.47] was[80.61] not[81.03] if[81.21] the[82.17] structure[82.39] would[82.58] crack[82.81], but[83.17] what[83.36] would[83.50] rise[84.28] from[84.42] the[84.74] rubble[85.18]. The[85.56]",
+        "characters": [
+            "Nicholas II"
+        ],
+        "items": [
+            "Russian Empire Map",
+            "St Petersburg Street",
+            "Imperial Ceremony",
+            "Peasant Group",
+            "Factory Interior",
+            "Ethnic Groups Map",
+            "Nicholas II Portrait"
+        ],
+        "plan": "Split view: glittering ceremony vs hungry peasants"
+    },
+    {
+        "id": 5,
+        "scene_id": 1,
+        "id_scene_relative": 4,
+        "timeline": 0,
+        "time_start": 48.96,
+        "time_end": 61.16,
+        "text": "The[0.15] Russian[0.29] Empire[0.65] stretched[1.15] across[1.55] one[2.03] sixth[2.71] of[2.81] the[2.97] earth[3.27] \u2019[3.57] s[3.57] land[4.67] surface[4.75], a[5.36] colossus[5.44] of[6.34] 170[6.70] million[7.06] souls[7.32] bound[7.78] together[7.94] by[8.06] the[8.52] divine[8.88] right[9.00] of[9.10] a[9.42] single[10.30] family[10.38]. In[10.50] the[10.86] winter[10.92] of[11.36] 1913[12.52], the[13.08] Romanovs[13.70] celebrated[13.98] three[14.62] centuries[14.72] on[14.84] the[15.66] throne[15.80]. The[16.25] streets[16.41] of[16.70] St[17.45]. Petersburg[17.95] glittered[18.21] with[18.75] imperial[19.75] ceremony[19.89]. The[20.37] economy[20.59] was[21.53] roaring[21.69], the[22.09] fourth[22.55] largest[22.65] in[22.77] the[23.79] world[24.07], fed[24.31] by[24.65] French[25.09] gold[25.23] and[25.61] peasant[26.35] sweat[26.49]. To[26.63] the[27.13] casual[28.00] observer[28.16], the[28.62] Giant[29.10] stood[30.20] unshakeable[30.38]. But[30.52] the[31.30] foundations[31.54] were[32.44] rotting[32.72]. Eighty[33.20] percent[33.30] of[33.42] the[34.02] population[34.20] were[35.22] peasants[35.98], land[36.15] -[37.17] hungry[37.17] and[37.51] illiterate[37.73], governed[38.13] by[38.49] laws[38.69] written[38.77] for[39.17] a[39.93] feudal[40.07] age[40.59]. The[40.77] factories[41.15] that[41.27] powered[41.45] the[41.75] new[42.03] wealth[42.37] were[42.49] islands[43.49] of[43.71] misery[43.99], where[44.45] men[44.93] worked[45.21] twelve[45.39] -[46.38] hour[46.38] days[46.77] for[47.13] pennies[47.53], breathing[47.70] cotton[48.14] dust[48.64] and[48.80] radical[49.08] ideas[49.94] in[50.22] equal[50.32] measure[50.70]. Over[51.04] a[51.52] hundred[52.08] ethnic[52.34] groups[52.42] chafed[53.02] under[53.18] a[53.52] policy[54.76] of[54.90] forced[55.66] Russification[56.32]. The[57.26] Tsar[57.34], Nicholas[57.62] II[57.76], a[58.12] man[58.66] of[58.92] quiet[59.16] devotion[60.02] and[60.44] iron[60.60] will[61.30], believed[61.52] his[61.82] coronation[62.00] oath[62.18] bound[62.92] him[63.08] to[63.50] autocracy[63.62] as[64.08] surely[64.44] as[64.61] gravity[65.27] binds[65.39] the[65.58] earth[65.81]. He[66.11] would[67.03] not[67.17] share[67.37] power[67.63]. He[68.11] could[68.19] not[68.67] imagine[68.89] a[69.05] world[69.23] where[69.45] he[69.75] did[70.35] not[70.49] hold[70.95] it[71.15]. The[71.41] stakes[71.83] were[71.91] not[73.01] merely[73.19] a[73.37] dynasty[73.51]. They[74.17] were[74.29] the[74.37] survival[75.65] of[75.79] a[75.93] civilization[76.27], and[76.39] the[76.49] birth[76.97] of[77.15] a[77.35] system[77.83] that[78.05] would[78.37] define[79.25] the[79.37] twentieth[79.77] century[79.97]. The[80.33] question[80.47] was[80.61] not[81.03] if[81.21] the[82.17] structure[82.39] would[82.58] crack[82.81], but[83.17] what[83.36] would[83.50] rise[84.28] from[84.42] the[84.74] rubble[85.18]. The[85.56]",
+        "characters": [
+            "Nicholas II"
+        ],
+        "items": [
+            "Russian Empire Map",
+            "St Petersburg Street",
+            "Imperial Ceremony",
+            "Peasant Group",
+            "Factory Interior",
+            "Ethnic Groups Map",
+            "Nicholas II Portrait"
+        ],
+        "plan": "Factory interior with workers in cotton dust"
+    },
+    {
+        "id": 6,
+        "scene_id": 1,
+        "id_scene_relative": 5,
+        "timeline": 0,
+        "time_start": 61.16,
+        "time_end": 73.36,
+        "text": "The[0.15] Russian[0.29] Empire[0.65] stretched[1.15] across[1.55] one[2.03] sixth[2.71] of[2.81] the[2.97] earth[3.27] \u2019[3.57] s[3.57] land[4.67] surface[4.75], a[5.36] colossus[5.44] of[6.34] 170[6.70] million[7.06] souls[7.32] bound[7.78] together[7.94] by[8.06] the[8.52] divine[8.88] right[9.00] of[9.10] a[9.42] single[10.30] family[10.38]. In[10.50] the[10.86] winter[10.92] of[11.36] 1913[12.52], the[13.08] Romanovs[13.70] celebrated[13.98] three[14.62] centuries[14.72] on[14.84] the[15.66] throne[15.80]. The[16.25] streets[16.41] of[16.70] St[17.45]. Petersburg[17.95] glittered[18.21] with[18.75] imperial[19.75] ceremony[19.89]. The[20.37] economy[20.59] was[21.53] roaring[21.69], the[22.09] fourth[22.55] largest[22.65] in[22.77] the[23.79] world[24.07], fed[24.31] by[24.65] French[25.09] gold[25.23] and[25.61] peasant[26.35] sweat[26.49]. To[26.63] the[27.13] casual[28.00] observer[28.16], the[28.62] Giant[29.10] stood[30.20] unshakeable[30.38]. But[30.52] the[31.30] foundations[31.54] were[32.44] rotting[32.72]. Eighty[33.20] percent[33.30] of[33.42] the[34.02] population[34.20] were[35.22] peasants[35.98], land[36.15] -[37.17] hungry[37.17] and[37.51] illiterate[37.73], governed[38.13] by[38.49] laws[38.69] written[38.77] for[39.17] a[39.93] feudal[40.07] age[40.59]. The[40.77] factories[41.15] that[41.27] powered[41.45] the[41.75] new[42.03] wealth[42.37] were[42.49] islands[43.49] of[43.71] misery[43.99], where[44.45] men[44.93] worked[45.21] twelve[45.39] -[46.38] hour[46.38] days[46.77] for[47.13] pennies[47.53], breathing[47.70] cotton[48.14] dust[48.64] and[48.80] radical[49.08] ideas[49.94] in[50.22] equal[50.32] measure[50.70]. Over[51.04] a[51.52] hundred[52.08] ethnic[52.34] groups[52.42] chafed[53.02] under[53.18] a[53.52] policy[54.76] of[54.90] forced[55.66] Russification[56.32]. The[57.26] Tsar[57.34], Nicholas[57.62] II[57.76], a[58.12] man[58.66] of[58.92] quiet[59.16] devotion[60.02] and[60.44] iron[60.60] will[61.30], believed[61.52] his[61.82] coronation[62.00] oath[62.18] bound[62.92] him[63.08] to[63.50] autocracy[63.62] as[64.08] surely[64.44] as[64.61] gravity[65.27] binds[65.39] the[65.58] earth[65.81]. He[66.11] would[67.03] not[67.17] share[67.37] power[67.63]. He[68.11] could[68.19] not[68.67] imagine[68.89] a[69.05] world[69.23] where[69.45] he[69.75] did[70.35] not[70.49] hold[70.95] it[71.15]. The[71.41] stakes[71.83] were[71.91] not[73.01] merely[73.19] a[73.37] dynasty[73.51]. They[74.17] were[74.29] the[74.37] survival[75.65] of[75.79] a[75.93] civilization[76.27], and[76.39] the[76.49] birth[76.97] of[77.15] a[77.35] system[77.83] that[78.05] would[78.37] define[79.25] the[79.37] twentieth[79.77] century[79.97]. The[80.33] question[80.47] was[80.61] not[81.03] if[81.21] the[82.17] structure[82.39] would[82.58] crack[82.81], but[83.17] what[83.36] would[83.50] rise[84.28] from[84.42] the[84.74] rubble[85.18]. The[85.56]",
+        "characters": [
+            "Nicholas II"
+        ],
+        "items": [
+            "Russian Empire Map",
+            "St Petersburg Street",
+            "Imperial Ceremony",
+            "Peasant Group",
+            "Factory Interior",
+            "Ethnic Groups Map",
+            "Nicholas II Portrait"
+        ],
+        "plan": "Ethnic groups map with Russification policy overlay"
+    },
+    {
+        "id": 7,
+        "scene_id": 1,
+        "id_scene_relative": 6,
+        "timeline": 0,
+        "time_start": 73.36,
+        "time_end": 85.56,
+        "text": "The[0.15] Russian[0.29] Empire[0.65] stretched[1.15] across[1.55] one[2.03] sixth[2.71] of[2.81] the[2.97] earth[3.27] \u2019[3.57] s[3.57] land[4.67] surface[4.75], a[5.36] colossus[5.44] of[6.34] 170[6.70] million[7.06] souls[7.32] bound[7.78] together[7.94] by[8.06] the[8.52] divine[8.88] right[9.00] of[9.10] a[9.42] single[10.30] family[10.38]. In[10.50] the[10.86] winter[10.92] of[11.36] 1913[12.52], the[13.08] Romanovs[13.70] celebrated[13.98] three[14.62] centuries[14.72] on[14.84] the[15.66] throne[15.80]. The[16.25] streets[16.41] of[16.70] St[17.45]. Petersburg[17.95] glittered[18.21] with[18.75] imperial[19.75] ceremony[19.89]. The[20.37] economy[20.59] was[21.53] roaring[21.69], the[22.09] fourth[22.55] largest[22.65] in[22.77] the[23.79] world[24.07], fed[24.31] by[24.65] French[25.09] gold[25.23] and[25.61] peasant[26.35] sweat[26.49]. To[26.63] the[27.13] casual[28.00] observer[28.16], the[28.62] Giant[29.10] stood[30.20] unshakeable[30.38]. But[30.52] the[31.30] foundations[31.54] were[32.44] rotting[32.72]. Eighty[33.20] percent[33.30] of[33.42] the[34.02] population[34.20] were[35.22] peasants[35.98], land[36.15] -[37.17] hungry[37.17] and[37.51] illiterate[37.73], governed[38.13] by[38.49] laws[38.69] written[38.77] for[39.17] a[39.93] feudal[40.07] age[40.59]. The[40.77] factories[41.15] that[41.27] powered[41.45] the[41.75] new[42.03] wealth[42.37] were[42.49] islands[43.49] of[43.71] misery[43.99], where[44.45] men[44.93] worked[45.21] twelve[45.39] -[46.38] hour[46.38] days[46.77] for[47.13] pennies[47.53], breathing[47.70] cotton[48.14] dust[48.64] and[48.80] radical[49.08] ideas[49.94] in[50.22] equal[50.32] measure[50.70]. Over[51.04] a[51.52] hundred[52.08] ethnic[52.34] groups[52.42] chafed[53.02] under[53.18] a[53.52] policy[54.76] of[54.90] forced[55.66] Russification[56.32]. The[57.26] Tsar[57.34], Nicholas[57.62] II[57.76], a[58.12] man[58.66] of[58.92] quiet[59.16] devotion[60.02] and[60.44] iron[60.60] will[61.30], believed[61.52] his[61.82] coronation[62.00] oath[62.18] bound[62.92] him[63.08] to[63.50] autocracy[63.62] as[64.08] surely[64.44] as[64.61] gravity[65.27] binds[65.39] the[65.58] earth[65.81]. He[66.11] would[67.03] not[67.17] share[67.37] power[67.63]. He[68.11] could[68.19] not[68.67] imagine[68.89] a[69.05] world[69.23] where[69.45] he[69.75] did[70.35] not[70.49] hold[70.95] it[71.15]. The[71.41] stakes[71.83] were[71.91] not[73.01] merely[73.19] a[73.37] dynasty[73.51]. They[74.17] were[74.29] the[74.37] survival[75.65] of[75.79] a[75.93] civilization[76.27], and[76.39] the[76.49] birth[76.97] of[77.15] a[77.35] system[77.83] that[78.05] would[78.37] define[79.25] the[79.37] twentieth[79.77] century[79.97]. The[80.33] question[80.47] was[80.61] not[81.03] if[81.21] the[82.17] structure[82.39] would[82.58] crack[82.81], but[83.17] what[83.36] would[83.50] rise[84.28] from[84.42] the[84.74] rubble[85.18]. The[85.56]",
+        "characters": [
+            "Nicholas II"
+        ],
+        "items": [
+            "Russian Empire Map",
+            "St Petersburg Street",
+            "Imperial Ceremony",
+            "Peasant Group",
+            "Factory Interior",
+            "Ethnic Groups Map",
+            "Nicholas II Portrait"
+        ],
+        "plan": "Portrait of Nicholas II with autocracy symbol"
+    },
+    {
+        "id": 8,
+        "scene_id": 2,
+        "id_scene_relative": 0,
+        "timeline": 1,
+        "time_start": 85.56,
+        "time_end": 85.56,
+        "text": "The[85.56]",
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "plan": "Timeline with current chapter highlighted"
+    },
+    {
+        "id": 9,
+        "scene_id": 3,
+        "id_scene_relative": 0,
+        "timeline": 0,
+        "time_start": 85.56,
+        "time_end": 91.38,
+        "text": "first[85.66] tremor[85.78] came[86.34] on[86.46] a[86.98] Sunday[88.34] in[88.44] January[88.86] 1905[89.14]. A[89.72] priest[89.90] named[89.98] Gapon[90.47] led[90.58] a[91.61] procession[92.13] of[92.63] workers[92.81], carrying[93.27] icons[93.37] and[93.47] portraits[94.25] of[94.37] the[94.49] Tsar[94.79], to[95.17] the[96.01] Winter[96.21] Palace[96.51] gates[96.65]. They[97.21] came[97.53] to[97.83] petition[98.38] their[98.60] \"[98.98] Little[98.98] Father[99.12] \"[99.12] for[100.08] bread[100.22] and[100.42] justice[100.72]. They[100.98] were[101.36] met[102.32] by[102.70] rifle[103.24] fire[103.72]. Bloody[103.84] Sunday[104.30] shattered[104.72] the[105.12] mystical[105.54] bond[105.70] between[106.52] Tsar[106.70] and[107.20] people[108.32]. The[108.82]",
+        "characters": [
+            "Father Gapon"
+        ],
+        "items": [
+            "Winter Palace Gates",
+            "Worker Procession",
+            "Icons and Tsar Portraits",
+            "Rifles"
+        ],
+        "plan": "Winter Palace gates with worker procession carrying icons and Tsar portraits"
+    },
+    {
+        "id": 10,
+        "scene_id": 3,
+        "id_scene_relative": 1,
+        "timeline": 0,
+        "time_start": 91.38,
+        "time_end": 97.19,
+        "text": "first[85.66] tremor[85.78] came[86.34] on[86.46] a[86.98] Sunday[88.34] in[88.44] January[88.86] 1905[89.14]. A[89.72] priest[89.90] named[89.98] Gapon[90.47] led[90.58] a[91.61] procession[92.13] of[92.63] workers[92.81], carrying[93.27] icons[93.37] and[93.47] portraits[94.25] of[94.37] the[94.49] Tsar[94.79], to[95.17] the[96.01] Winter[96.21] Palace[96.51] gates[96.65]. They[97.21] came[97.53] to[97.83] petition[98.38] their[98.60] \"[98.98] Little[98.98] Father[99.12] \"[99.12] for[100.08] bread[100.22] and[100.42] justice[100.72]. They[100.98] were[101.36] met[102.32] by[102.70] rifle[103.24] fire[103.72]. Bloody[103.84] Sunday[104.30] shattered[104.72] the[105.12] mystical[105.54] bond[105.70] between[106.52] Tsar[106.70] and[107.20] people[108.32]. The[108.82]",
+        "characters": [
+            "Father Gapon"
+        ],
+        "items": [
+            "Winter Palace Gates",
+            "Worker Procession",
+            "Icons and Tsar Portraits",
+            "Rifles"
+        ],
+        "plan": "Father Gapon at front of procession"
+    },
+    {
+        "id": 11,
+        "scene_id": 3,
+        "id_scene_relative": 2,
+        "timeline": 0,
+        "time_start": 97.19,
+        "time_end": 103.01,
+        "text": "first[85.66] tremor[85.78] came[86.34] on[86.46] a[86.98] Sunday[88.34] in[88.44] January[88.86] 1905[89.14]. A[89.72] priest[89.90] named[89.98] Gapon[90.47] led[90.58] a[91.61] procession[92.13] of[92.63] workers[92.81], carrying[93.27] icons[93.37] and[93.47] portraits[94.25] of[94.37] the[94.49] Tsar[94.79], to[95.17] the[96.01] Winter[96.21] Palace[96.51] gates[96.65]. They[97.21] came[97.53] to[97.83] petition[98.38] their[98.60] \"[98.98] Little[98.98] Father[99.12] \"[99.12] for[100.08] bread[100.22] and[100.42] justice[100.72]. They[100.98] were[101.36] met[102.32] by[102.70] rifle[103.24] fire[103.72]. Bloody[103.84] Sunday[104.30] shattered[104.72] the[105.12] mystical[105.54] bond[105.70] between[106.52] Tsar[106.70] and[107.20] people[108.32]. The[108.82]",
+        "characters": [
+            "Father Gapon"
+        ],
+        "items": [
+            "Winter Palace Gates",
+            "Worker Procession",
+            "Icons and Tsar Portraits",
+            "Rifles"
+        ],
+        "plan": "Rifle fire erupting, workers falling"
+    },
+    {
+        "id": 12,
+        "scene_id": 3,
+        "id_scene_relative": 3,
+        "timeline": 0,
+        "time_start": 103.01,
+        "time_end": 108.82,
+        "text": "first[85.66] tremor[85.78] came[86.34] on[86.46] a[86.98] Sunday[88.34] in[88.44] January[88.86] 1905[89.14]. A[89.72] priest[89.90] named[89.98] Gapon[90.47] led[90.58] a[91.61] procession[92.13] of[92.63] workers[92.81], carrying[93.27] icons[93.37] and[93.47] portraits[94.25] of[94.37] the[94.49] Tsar[94.79], to[95.17] the[96.01] Winter[96.21] Palace[96.51] gates[96.65]. They[97.21] came[97.53] to[97.83] petition[98.38] their[98.60] \"[98.98] Little[98.98] Father[99.12] \"[99.12] for[100.08] bread[100.22] and[100.42] justice[100.72]. They[100.98] were[101.36] met[102.32] by[102.70] rifle[103.24] fire[103.72]. Bloody[103.84] Sunday[104.30] shattered[104.72] the[105.12] mystical[105.54] bond[105.70] between[106.52] Tsar[106.70] and[107.20] people[108.32]. The[108.82]",
+        "characters": [
+            "Father Gapon"
+        ],
+        "items": [
+            "Winter Palace Gates",
+            "Worker Procession",
+            "Icons and Tsar Portraits",
+            "Rifles"
+        ],
+        "plan": "Shattered icon of Tsar symbolizing broken bond"
+    },
+    {
+        "id": 13,
+        "scene_id": 4,
+        "id_scene_relative": 0,
+        "timeline": 1,
+        "time_start": 108.82,
+        "time_end": 108.82,
+        "text": "The[108.82]",
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "plan": "Timeline with current chapter highlighted"
+    },
+    {
+        "id": 14,
+        "scene_id": 5,
+        "id_scene_relative": 0,
+        "timeline": 0,
+        "time_start": 108.82,
+        "time_end": 118.57,
+        "text": "empire[109.46] convulsed[109.60]. Strikes[110.64] paralyzed[111.14] the[111.54] railways[111.91]. Peasants[112.86] burned[113.00] manor[113.59] houses[114.17]. The[114.79] battleship[114.89] Potemkin[115.01] mutinied[115.35] on[116.15] the[116.25] Black[116.35] Sea[116.89]. In[117.31] the[117.61] capital[117.69], workers[118.27] formed[118.37] a[118.93] council[119.03] \u2014[119.23] a[119.57] *[119.57] Soviet[119.57] *[119.77] \u2014[119.77] a[119.85] new[120.03] word[120.25] for[120.35] a[120.35] new[121.29] kind[121.71] of[122.49] power[122.77]. Nicholas[123.13] wavered[123.27], then[123.65] signed[124.41] the[124.83] October[124.91] Manifesto[125.49], granting[125.57] a[126.11] parliament[126.27], a[126.57] Duma[127.49], and[127.65] civil[128.12] liberties[128.97]. The[129.16] liberals[130.10] cheered[131.14]. The[131.34] revolutionaries[132.38] reloaded[132.52]. By[133.14] December[133.72], the[133.92] Moscow[134.44] uprising[134.60] was[135.14] drowned[135.98] in[136.10] artillery[136.50] fire[136.70]. The[137.76] Tsar[137.92] had[138.08] survived[138.28]. But[138.70] he[140.02] had[140.20] learned[140.56] nothing[140.82]. He[140.92] clawed[142.12] back[142.44] the[142.56] concessions[143.46], neutered[143.62] the[143.86] Duma[144.04], and[144.49] sent[145.04] his[145.21] minister[145.61] Stolypin[145.71] to[146.01] wage[146.41] a[146.53] grim[147.13] war[147.27] of[148.31] reform[148.97] and[149.61] repression[149.75]. Stolypin[150.21] \u2019[150.99] s[151.41] neckties[151.55] \u2014[151.55] the[152.05] hangman[152.05] \u2019[152.17] s[152.35] noose[152.35] \u2014[152.35] became[153.09] the[153.31] symbol[153.39] of[153.97] the[154.31] era[154.61]. When[155.47] a[155.97] terrorist[156.64] \u2019[156.78] s[156.78] bullet[157.12] killed[157.56] Stolypin[158.04] in[158.20] 1911[158.98], the[159.12] last[159.54] competent[159.74] statesman[160.08] was[160.22] gone[160.36]. The[160.82] stage[161.56] was[161.74] set[161.86] for[162.24] the[162.48] final[162.56] act[163.56]. All[163.70] it[164.20] needed[164.42] was[164.50] a[164.82] spark[165.69]. The[165.82] spark[166.23] was[167.69] a[167.83] world[168.27] war[168.55]. In[169.45] August[169.63] 1914[169.85], the[170.15] streets[170.33] roared[171.49] again[171.65], but[172.11] this[172.49] time[173.29] with[173.57] patriotism[173.88]. The[174.98] \"[174.98] Sacred[175.12] Union[175.74] \"[175.74] held[176.56]. Then[176.72] came[177.04] Tannenberg[177.58]. The[177.66] Masurian[179.32] Lakes[179.44]. The[179.84] Great[180.22] Retreat[180.72] of[181.64] 1915[182.58]. Two[182.74] million[183.56] Russian[183.78] soldiers[184.06] dead[184.34], captured[184.77], or[184.99] missing[185.09]. The[185.61] army[185.83] bled[185.97] white[186.53], short[186.75] of[186.87] shells[187.71], short[187.85] of[188.67] rifles[189.65], short[189.91] of[190.33] boots[190.77]. The[190.87] Tsar[190.99], desperate[191.89], took[192.19] personal[192.31] command[192.81] at[192.91] the[193.03] front[193.31], leaving[193.41] the[193.61] capital[194.47] in[195.62] the[195.75] hands[195.84] of[196.44] his[196.82] wife[197.32], Alexandra[197.60], and[198.14] a[199.12] Siberian[199.26] peasant[199.58] mystic[200.50] named[200.82] Grigori[200.94] Rasputin[201.12]. The[201.54] \"[201.54] Dark[201.66] Forces[202.56] \"[202.56] seemed[203.16] to[203.82] have[203.92] seized[204.00] the[204.52] throne[205.78]. Ministers[206.08] rotated[206.40] in[207.02] a[207.18] grotesque[207.64] carousel[208.47] \u2014[208.47] four[208.60] Prime[208.97] Ministers[209.41] in[209.66] sixteen[209.81] months[210.37]. The[210.53] Duma[211.61] begged[211.73] for[212.13] a[213.23] \"[213.23] government[213.33] of[213.49] confidence[213.93]. \"[214.31] The[214.31] Tsar[214.39] refused[215.89]. In[216.03]",
+        "characters": [
+            "Nicholas II",
+            "Stolypin",
+            "Alexandra",
+            "Rasputin"
+        ],
+        "items": [
+            "Empire Map",
+            "Battleship Potemkin",
+            "First Soviet Meeting",
+            "October Manifesto Document",
+            "Artillery",
+            "Stolypin Portrait",
+            "Hangman's Noose",
+            "Tannenberg Map",
+            "Great Retreat Map",
+            "Front Headquarters",
+            "Rasputin Figure",
+            "Minister Carousel"
+        ],
+        "plan": "Map of empire with strike/riot/mutiny icons spreading"
+    },
+    {
+        "id": 15,
+        "scene_id": 5,
+        "id_scene_relative": 1,
+        "timeline": 0,
+        "time_start": 118.57,
+        "time_end": 128.31,
+        "text": "empire[109.46] convulsed[109.60]. Strikes[110.64] paralyzed[111.14] the[111.54] railways[111.91]. Peasants[112.86] burned[113.00] manor[113.59] houses[114.17]. The[114.79] battleship[114.89] Potemkin[115.01] mutinied[115.35] on[116.15] the[116.25] Black[116.35] Sea[116.89]. In[117.31] the[117.61] capital[117.69], workers[118.27] formed[118.37] a[118.93] council[119.03] \u2014[119.23] a[119.57] *[119.57] Soviet[119.57] *[119.77] \u2014[119.77] a[119.85] new[120.03] word[120.25] for[120.35] a[120.35] new[121.29] kind[121.71] of[122.49] power[122.77]. Nicholas[123.13] wavered[123.27], then[123.65] signed[124.41] the[124.83] October[124.91] Manifesto[125.49], granting[125.57] a[126.11] parliament[126.27], a[126.57] Duma[127.49], and[127.65] civil[128.12] liberties[128.97]. The[129.16] liberals[130.10] cheered[131.14]. The[131.34] revolutionaries[132.38] reloaded[132.52]. By[133.14] December[133.72], the[133.92] Moscow[134.44] uprising[134.60] was[135.14] drowned[135.98] in[136.10] artillery[136.50] fire[136.70]. The[137.76] Tsar[137.92] had[138.08] survived[138.28]. But[138.70] he[140.02] had[140.20] learned[140.56] nothing[140.82]. He[140.92] clawed[142.12] back[142.44] the[142.56] concessions[143.46], neutered[143.62] the[143.86] Duma[144.04], and[144.49] sent[145.04] his[145.21] minister[145.61] Stolypin[145.71] to[146.01] wage[146.41] a[146.53] grim[147.13] war[147.27] of[148.31] reform[148.97] and[149.61] repression[149.75]. Stolypin[150.21] \u2019[150.99] s[151.41] neckties[151.55] \u2014[151.55] the[152.05] hangman[152.05] \u2019[152.17] s[152.35] noose[152.35] \u2014[152.35] became[153.09] the[153.31] symbol[153.39] of[153.97] the[154.31] era[154.61]. When[155.47] a[155.97] terrorist[156.64] \u2019[156.78] s[156.78] bullet[157.12] killed[157.56] Stolypin[158.04] in[158.20] 1911[158.98], the[159.12] last[159.54] competent[159.74] statesman[160.08] was[160.22] gone[160.36]. The[160.82] stage[161.56] was[161.74] set[161.86] for[162.24] the[162.48] final[162.56] act[163.56]. All[163.70] it[164.20] needed[164.42] was[164.50] a[164.82] spark[165.69]. The[165.82] spark[166.23] was[167.69] a[167.83] world[168.27] war[168.55]. In[169.45] August[169.63] 1914[169.85], the[170.15] streets[170.33] roared[171.49] again[171.65], but[172.11] this[172.49] time[173.29] with[173.57] patriotism[173.88]. The[174.98] \"[174.98] Sacred[175.12] Union[175.74] \"[175.74] held[176.56]. Then[176.72] came[177.04] Tannenberg[177.58]. The[177.66] Masurian[179.32] Lakes[179.44]. The[179.84] Great[180.22] Retreat[180.72] of[181.64] 1915[182.58]. Two[182.74] million[183.56] Russian[183.78] soldiers[184.06] dead[184.34], captured[184.77], or[184.99] missing[185.09]. The[185.61] army[185.83] bled[185.97] white[186.53], short[186.75] of[186.87] shells[187.71], short[187.85] of[188.67] rifles[189.65], short[189.91] of[190.33] boots[190.77]. The[190.87] Tsar[190.99], desperate[191.89], took[192.19] personal[192.31] command[192.81] at[192.91] the[193.03] front[193.31], leaving[193.41] the[193.61] capital[194.47] in[195.62] the[195.75] hands[195.84] of[196.44] his[196.82] wife[197.32], Alexandra[197.60], and[198.14] a[199.12] Siberian[199.26] peasant[199.58] mystic[200.50] named[200.82] Grigori[200.94] Rasputin[201.12]. The[201.54] \"[201.54] Dark[201.66] Forces[202.56] \"[202.56] seemed[203.16] to[203.82] have[203.92] seized[204.00] the[204.52] throne[205.78]. Ministers[206.08] rotated[206.40] in[207.02] a[207.18] grotesque[207.64] carousel[208.47] \u2014[208.47] four[208.60] Prime[208.97] Ministers[209.41] in[209.66] sixteen[209.81] months[210.37]. The[210.53] Duma[211.61] begged[211.73] for[212.13] a[213.23] \"[213.23] government[213.33] of[213.49] confidence[213.93]. \"[214.31] The[214.31] Tsar[214.39] refused[215.89]. In[216.03]",
+        "characters": [
+            "Nicholas II",
+            "Stolypin",
+            "Alexandra",
+            "Rasputin"
+        ],
+        "items": [
+            "Empire Map",
+            "Battleship Potemkin",
+            "First Soviet Meeting",
+            "October Manifesto Document",
+            "Artillery",
+            "Stolypin Portrait",
+            "Hangman's Noose",
+            "Tannenberg Map",
+            "Great Retreat Map",
+            "Front Headquarters",
+            "Rasputin Figure",
+            "Minister Carousel"
+        ],
+        "plan": "Battleship Potemkin mutiny on Black Sea"
+    },
+    {
+        "id": 16,
+        "scene_id": 5,
+        "id_scene_relative": 2,
+        "timeline": 0,
+        "time_start": 128.31,
+        "time_end": 138.06,
+        "text": "empire[109.46] convulsed[109.60]. Strikes[110.64] paralyzed[111.14] the[111.54] railways[111.91]. Peasants[112.86] burned[113.00] manor[113.59] houses[114.17]. The[114.79] battleship[114.89] Potemkin[115.01] mutinied[115.35] on[116.15] the[116.25] Black[116.35] Sea[116.89]. In[117.31] the[117.61] capital[117.69], workers[118.27] formed[118.37] a[118.93] council[119.03] \u2014[119.23] a[119.57] *[119.57] Soviet[119.57] *[119.77] \u2014[119.77] a[119.85] new[120.03] word[120.25] for[120.35] a[120.35] new[121.29] kind[121.71] of[122.49] power[122.77]. Nicholas[123.13] wavered[123.27], then[123.65] signed[124.41] the[124.83] October[124.91] Manifesto[125.49], granting[125.57] a[126.11] parliament[126.27], a[126.57] Duma[127.49], and[127.65] civil[128.12] liberties[128.97]. The[129.16] liberals[130.10] cheered[131.14]. The[131.34] revolutionaries[132.38] reloaded[132.52]. By[133.14] December[133.72], the[133.92] Moscow[134.44] uprising[134.60] was[135.14] drowned[135.98] in[136.10] artillery[136.50] fire[136.70]. The[137.76] Tsar[137.92] had[138.08] survived[138.28]. But[138.70] he[140.02] had[140.20] learned[140.56] nothing[140.82]. He[140.92] clawed[142.12] back[142.44] the[142.56] concessions[143.46], neutered[143.62] the[143.86] Duma[144.04], and[144.49] sent[145.04] his[145.21] minister[145.61] Stolypin[145.71] to[146.01] wage[146.41] a[146.53] grim[147.13] war[147.27] of[148.31] reform[148.97] and[149.61] repression[149.75]. Stolypin[150.21] \u2019[150.99] s[151.41] neckties[151.55] \u2014[151.55] the[152.05] hangman[152.05] \u2019[152.17] s[152.35] noose[152.35] \u2014[152.35] became[153.09] the[153.31] symbol[153.39] of[153.97] the[154.31] era[154.61]. When[155.47] a[155.97] terrorist[156.64] \u2019[156.78] s[156.78] bullet[157.12] killed[157.56] Stolypin[158.04] in[158.20] 1911[158.98], the[159.12] last[159.54] competent[159.74] statesman[160.08] was[160.22] gone[160.36]. The[160.82] stage[161.56] was[161.74] set[161.86] for[162.24] the[162.48] final[162.56] act[163.56]. All[163.70] it[164.20] needed[164.42] was[164.50] a[164.82] spark[165.69]. The[165.82] spark[166.23] was[167.69] a[167.83] world[168.27] war[168.55]. In[169.45] August[169.63] 1914[169.85], the[170.15] streets[170.33] roared[171.49] again[171.65], but[172.11] this[172.49] time[173.29] with[173.57] patriotism[173.88]. The[174.98] \"[174.98] Sacred[175.12] Union[175.74] \"[175.74] held[176.56]. Then[176.72] came[177.04] Tannenberg[177.58]. The[177.66] Masurian[179.32] Lakes[179.44]. The[179.84] Great[180.22] Retreat[180.72] of[181.64] 1915[182.58]. Two[182.74] million[183.56] Russian[183.78] soldiers[184.06] dead[184.34], captured[184.77], or[184.99] missing[185.09]. The[185.61] army[185.83] bled[185.97] white[186.53], short[186.75] of[186.87] shells[187.71], short[187.85] of[188.67] rifles[189.65], short[189.91] of[190.33] boots[190.77]. The[190.87] Tsar[190.99], desperate[191.89], took[192.19] personal[192.31] command[192.81] at[192.91] the[193.03] front[193.31], leaving[193.41] the[193.61] capital[194.47] in[195.62] the[195.75] hands[195.84] of[196.44] his[196.82] wife[197.32], Alexandra[197.60], and[198.14] a[199.12] Siberian[199.26] peasant[199.58] mystic[200.50] named[200.82] Grigori[200.94] Rasputin[201.12]. The[201.54] \"[201.54] Dark[201.66] Forces[202.56] \"[202.56] seemed[203.16] to[203.82] have[203.92] seized[204.00] the[204.52] throne[205.78]. Ministers[206.08] rotated[206.40] in[207.02] a[207.18] grotesque[207.64] carousel[208.47] \u2014[208.47] four[208.60] Prime[208.97] Ministers[209.41] in[209.66] sixteen[209.81] months[210.37]. The[210.53] Duma[211.61] begged[211.73] for[212.13] a[213.23] \"[213.23] government[213.33] of[213.49] confidence[213.93]. \"[214.31] The[214.31] Tsar[214.39] refused[215.89]. In[216.03]",
+        "characters": [
+            "Nicholas II",
+            "Stolypin",
+            "Alexandra",
+            "Rasputin"
+        ],
+        "items": [
+            "Empire Map",
+            "Battleship Potemkin",
+            "First Soviet Meeting",
+            "October Manifesto Document",
+            "Artillery",
+            "Stolypin Portrait",
+            "Hangman's Noose",
+            "Tannenberg Map",
+            "Great Retreat Map",
+            "Front Headquarters",
+            "Rasputin Figure",
+            "Minister Carousel"
+        ],
+        "plan": "First Soviet formed in capital"
+    },
+    {
+        "id": 17,
+        "scene_id": 5,
+        "id_scene_relative": 3,
+        "timeline": 0,
+        "time_start": 138.06,
+        "time_end": 147.81,
+        "text": "empire[109.46] convulsed[109.60]. Strikes[110.64] paralyzed[111.14] the[111.54] railways[111.91]. Peasants[112.86] burned[113.00] manor[113.59] houses[114.17]. The[114.79] battleship[114.89] Potemkin[115.01] mutinied[115.35] on[116.15] the[116.25] Black[116.35] Sea[116.89]. In[117.31] the[117.61] capital[117.69], workers[118.27] formed[118.37] a[118.93] council[119.03] \u2014[119.23] a[119.57] *[119.57] Soviet[119.57] *[119.77] \u2014[119.77] a[119.85] new[120.03] word[120.25] for[120.35] a[120.35] new[121.29] kind[121.71] of[122.49] power[122.77]. Nicholas[123.13] wavered[123.27], then[123.65] signed[124.41] the[124.83] October[124.91] Manifesto[125.49], granting[125.57] a[126.11] parliament[126.27], a[126.57] Duma[127.49], and[127.65] civil[128.12] liberties[128.97]. The[129.16] liberals[130.10] cheered[131.14]. The[131.34] revolutionaries[132.38] reloaded[132.52]. By[133.14] December[133.72], the[133.92] Moscow[134.44] uprising[134.60] was[135.14] drowned[135.98] in[136.10] artillery[136.50] fire[136.70]. The[137.76] Tsar[137.92] had[138.08] survived[138.28]. But[138.70] he[140.02] had[140.20] learned[140.56] nothing[140.82]. He[140.92] clawed[142.12] back[142.44] the[142.56] concessions[143.46], neutered[143.62] the[143.86] Duma[144.04], and[144.49] sent[145.04] his[145.21] minister[145.61] Stolypin[145.71] to[146.01] wage[146.41] a[146.53] grim[147.13] war[147.27] of[148.31] reform[148.97] and[149.61] repression[149.75]. Stolypin[150.21] \u2019[150.99] s[151.41] neckties[151.55] \u2014[151.55] the[152.05] hangman[152.05] \u2019[152.17] s[152.35] noose[152.35] \u2014[152.35] became[153.09] the[153.31] symbol[153.39] of[153.97] the[154.31] era[154.61]. When[155.47] a[155.97] terrorist[156.64] \u2019[156.78] s[156.78] bullet[157.12] killed[157.56] Stolypin[158.04] in[158.20] 1911[158.98], the[159.12] last[159.54] competent[159.74] statesman[160.08] was[160.22] gone[160.36]. The[160.82] stage[161.56] was[161.74] set[161.86] for[162.24] the[162.48] final[162.56] act[163.56]. All[163.70] it[164.20] needed[164.42] was[164.50] a[164.82] spark[165.69]. The[165.82] spark[166.23] was[167.69] a[167.83] world[168.27] war[168.55]. In[169.45] August[169.63] 1914[169.85], the[170.15] streets[170.33] roared[171.49] again[171.65], but[172.11] this[172.49] time[173.29] with[173.57] patriotism[173.88]. The[174.98] \"[174.98] Sacred[175.12] Union[175.74] \"[175.74] held[176.56]. Then[176.72] came[177.04] Tannenberg[177.58]. The[177.66] Masurian[179.32] Lakes[179.44]. The[179.84] Great[180.22] Retreat[180.72] of[181.64] 1915[182.58]. Two[182.74] million[183.56] Russian[183.78] soldiers[184.06] dead[184.34], captured[184.77], or[184.99] missing[185.09]. The[185.61] army[185.83] bled[185.97] white[186.53], short[186.75] of[186.87] shells[187.71], short[187.85] of[188.67] rifles[189.65], short[189.91] of[190.33] boots[190.77]. The[190.87] Tsar[190.99], desperate[191.89], took[192.19] personal[192.31] command[192.81] at[192.91] the[193.03] front[193.31], leaving[193.41] the[193.61] capital[194.47] in[195.62] the[195.75] hands[195.84] of[196.44] his[196.82] wife[197.32], Alexandra[197.60], and[198.14] a[199.12] Siberian[199.26] peasant[199.58] mystic[200.50] named[200.82] Grigori[200.94] Rasputin[201.12]. The[201.54] \"[201.54] Dark[201.66] Forces[202.56] \"[202.56] seemed[203.16] to[203.82] have[203.92] seized[204.00] the[204.52] throne[205.78]. Ministers[206.08] rotated[206.40] in[207.02] a[207.18] grotesque[207.64] carousel[208.47] \u2014[208.47] four[208.60] Prime[208.97] Ministers[209.41] in[209.66] sixteen[209.81] months[210.37]. The[210.53] Duma[211.61] begged[211.73] for[212.13] a[213.23] \"[213.23] government[213.33] of[213.49] confidence[213.93]. \"[214.31] The[214.31] Tsar[214.39] refused[215.89]. In[216.03]",
+        "characters": [
+            "Nicholas II",
+            "Stolypin",
+            "Alexandra",
+            "Rasputin"
+        ],
+        "items": [
+            "Empire Map",
+            "Battleship Potemkin",
+            "First Soviet Meeting",
+            "October Manifesto Document",
+            "Artillery",
+            "Stolypin Portrait",
+            "Hangman's Noose",
+            "Tannenberg Map",
+            "Great Retreat Map",
+            "Front Headquarters",
+            "Rasputin Figure",
+            "Minister Carousel"
+        ],
+        "plan": "Nicholas signing October Manifesto"
+    },
+    {
+        "id": 18,
+        "scene_id": 5,
+        "id_scene_relative": 4,
+        "timeline": 0,
+        "time_start": 147.81,
+        "time_end": 157.55,
+        "text": "empire[109.46] convulsed[109.60]. Strikes[110.64] paralyzed[111.14] the[111.54] railways[111.91]. Peasants[112.86] burned[113.00] manor[113.59] houses[114.17]. The[114.79] battleship[114.89] Potemkin[115.01] mutinied[115.35] on[116.15] the[116.25] Black[116.35] Sea[116.89]. In[117.31] the[117.61] capital[117.69], workers[118.27] formed[118.37] a[118.93] council[119.03] \u2014[119.23] a[119.57] *[119.57] Soviet[119.57] *[119.77] \u2014[119.77] a[119.85] new[120.03] word[120.25] for[120.35] a[120.35] new[121.29] kind[121.71] of[122.49] power[122.77]. Nicholas[123.13] wavered[123.27], then[123.65] signed[124.41] the[124.83] October[124.91] Manifesto[125.49], granting[125.57] a[126.11] parliament[126.27], a[126.57] Duma[127.49], and[127.65] civil[128.12] liberties[128.97]. The[129.16] liberals[130.10] cheered[131.14]. The[131.34] revolutionaries[132.38] reloaded[132.52]. By[133.14] December[133.72], the[133.92] Moscow[134.44] uprising[134.60] was[135.14] drowned[135.98] in[136.10] artillery[136.50] fire[136.70]. The[137.76] Tsar[137.92] had[138.08] survived[138.28]. But[138.70] he[140.02] had[140.20] learned[140.56] nothing[140.82]. He[140.92] clawed[142.12] back[142.44] the[142.56] concessions[143.46], neutered[143.62] the[143.86] Duma[144.04], and[144.49] sent[145.04] his[145.21] minister[145.61] Stolypin[145.71] to[146.01] wage[146.41] a[146.53] grim[147.13] war[147.27] of[148.31] reform[148.97] and[149.61] repression[149.75]. Stolypin[150.21] \u2019[150.99] s[151.41] neckties[151.55] \u2014[151.55] the[152.05] hangman[152.05] \u2019[152.17] s[152.35] noose[152.35] \u2014[152.35] became[153.09] the[153.31] symbol[153.39] of[153.97] the[154.31] era[154.61]. When[155.47] a[155.97] terrorist[156.64] \u2019[156.78] s[156.78] bullet[157.12] killed[157.56] Stolypin[158.04] in[158.20] 1911[158.98], the[159.12] last[159.54] competent[159.74] statesman[160.08] was[160.22] gone[160.36]. The[160.82] stage[161.56] was[161.74] set[161.86] for[162.24] the[162.48] final[162.56] act[163.56]. All[163.70] it[164.20] needed[164.42] was[164.50] a[164.82] spark[165.69]. The[165.82] spark[166.23] was[167.69] a[167.83] world[168.27] war[168.55]. In[169.45] August[169.63] 1914[169.85], the[170.15] streets[170.33] roared[171.49] again[171.65], but[172.11] this[172.49] time[173.29] with[173.57] patriotism[173.88]. The[174.98] \"[174.98] Sacred[175.12] Union[175.74] \"[175.74] held[176.56]. Then[176.72] came[177.04] Tannenberg[177.58]. The[177.66] Masurian[179.32] Lakes[179.44]. The[179.84] Great[180.22] Retreat[180.72] of[181.64] 1915[182.58]. Two[182.74] million[183.56] Russian[183.78] soldiers[184.06] dead[184.34], captured[184.77], or[184.99] missing[185.09]. The[185.61] army[185.83] bled[185.97] white[186.53], short[186.75] of[186.87] shells[187.71], short[187.85] of[188.67] rifles[189.65], short[189.91] of[190.33] boots[190.77]. The[190.87] Tsar[190.99], desperate[191.89], took[192.19] personal[192.31] command[192.81] at[192.91] the[193.03] front[193.31], leaving[193.41] the[193.61] capital[194.47] in[195.62] the[195.75] hands[195.84] of[196.44] his[196.82] wife[197.32], Alexandra[197.60], and[198.14] a[199.12] Siberian[199.26] peasant[199.58] mystic[200.50] named[200.82] Grigori[200.94] Rasputin[201.12]. The[201.54] \"[201.54] Dark[201.66] Forces[202.56] \"[202.56] seemed[203.16] to[203.82] have[203.92] seized[204.00] the[204.52] throne[205.78]. Ministers[206.08] rotated[206.40] in[207.02] a[207.18] grotesque[207.64] carousel[208.47] \u2014[208.47] four[208.60] Prime[208.97] Ministers[209.41] in[209.66] sixteen[209.81] months[210.37]. The[210.53] Duma[211.61] begged[211.73] for[212.13] a[213.23] \"[213.23] government[213.33] of[213.49] confidence[213.93]. \"[214.31] The[214.31] Tsar[214.39] refused[215.89]. In[216.03]",
+        "characters": [
+            "Nicholas II",
+            "Stolypin",
+            "Alexandra",
+            "Rasputin"
+        ],
+        "items": [
+            "Empire Map",
+            "Battleship Potemkin",
+            "First Soviet Meeting",
+            "October Manifesto Document",
+            "Artillery",
+            "Stolypin Portrait",
+            "Hangman's Noose",
+            "Tannenberg Map",
+            "Great Retreat Map",
+            "Front Headquarters",
+            "Rasputin Figure",
+            "Minister Carousel"
+        ],
+        "plan": "Moscow uprising crushed by artillery"
+    },
+    {
+        "id": 19,
+        "scene_id": 5,
+        "id_scene_relative": 5,
+        "timeline": 0,
+        "time_start": 157.55,
+        "time_end": 167.3,
+        "text": "empire[109.46] convulsed[109.60]. Strikes[110.64] paralyzed[111.14] the[111.54] railways[111.91]. Peasants[112.86] burned[113.00] manor[113.59] houses[114.17]. The[114.79] battleship[114.89] Potemkin[115.01] mutinied[115.35] on[116.15] the[116.25] Black[116.35] Sea[116.89]. In[117.31] the[117.61] capital[117.69], workers[118.27] formed[118.37] a[118.93] council[119.03] \u2014[119.23] a[119.57] *[119.57] Soviet[119.57] *[119.77] \u2014[119.77] a[119.85] new[120.03] word[120.25] for[120.35] a[120.35] new[121.29] kind[121.71] of[122.49] power[122.77]. Nicholas[123.13] wavered[123.27], then[123.65] signed[124.41] the[124.83] October[124.91] Manifesto[125.49], granting[125.57] a[126.11] parliament[126.27], a[126.57] Duma[127.49], and[127.65] civil[128.12] liberties[128.97]. The[129.16] liberals[130.10] cheered[131.14]. The[131.34] revolutionaries[132.38] reloaded[132.52]. By[133.14] December[133.72], the[133.92] Moscow[134.44] uprising[134.60] was[135.14] drowned[135.98] in[136.10] artillery[136.50] fire[136.70]. The[137.76] Tsar[137.92] had[138.08] survived[138.28]. But[138.70] he[140.02] had[140.20] learned[140.56] nothing[140.82]. He[140.92] clawed[142.12] back[142.44] the[142.56] concessions[143.46], neutered[143.62] the[143.86] Duma[144.04], and[144.49] sent[145.04] his[145.21] minister[145.61] Stolypin[145.71] to[146.01] wage[146.41] a[146.53] grim[147.13] war[147.27] of[148.31] reform[148.97] and[149.61] repression[149.75]. Stolypin[150.21] \u2019[150.99] s[151.41] neckties[151.55] \u2014[151.55] the[152.05] hangman[152.05] \u2019[152.17] s[152.35] noose[152.35] \u2014[152.35] became[153.09] the[153.31] symbol[153.39] of[153.97] the[154.31] era[154.61]. When[155.47] a[155.97] terrorist[156.64] \u2019[156.78] s[156.78] bullet[157.12] killed[157.56] Stolypin[158.04] in[158.20] 1911[158.98], the[159.12] last[159.54] competent[159.74] statesman[160.08] was[160.22] gone[160.36]. The[160.82] stage[161.56] was[161.74] set[161.86] for[162.24] the[162.48] final[162.56] act[163.56]. All[163.70] it[164.20] needed[164.42] was[164.50] a[164.82] spark[165.69]. The[165.82] spark[166.23] was[167.69] a[167.83] world[168.27] war[168.55]. In[169.45] August[169.63] 1914[169.85], the[170.15] streets[170.33] roared[171.49] again[171.65], but[172.11] this[172.49] time[173.29] with[173.57] patriotism[173.88]. The[174.98] \"[174.98] Sacred[175.12] Union[175.74] \"[175.74] held[176.56]. Then[176.72] came[177.04] Tannenberg[177.58]. The[177.66] Masurian[179.32] Lakes[179.44]. The[179.84] Great[180.22] Retreat[180.72] of[181.64] 1915[182.58]. Two[182.74] million[183.56] Russian[183.78] soldiers[184.06] dead[184.34], captured[184.77], or[184.99] missing[185.09]. The[185.61] army[185.83] bled[185.97] white[186.53], short[186.75] of[186.87] shells[187.71], short[187.85] of[188.67] rifles[189.65], short[189.91] of[190.33] boots[190.77]. The[190.87] Tsar[190.99], desperate[191.89], took[192.19] personal[192.31] command[192.81] at[192.91] the[193.03] front[193.31], leaving[193.41] the[193.61] capital[194.47] in[195.62] the[195.75] hands[195.84] of[196.44] his[196.82] wife[197.32], Alexandra[197.60], and[198.14] a[199.12] Siberian[199.26] peasant[199.58] mystic[200.50] named[200.82] Grigori[200.94] Rasputin[201.12]. The[201.54] \"[201.54] Dark[201.66] Forces[202.56] \"[202.56] seemed[203.16] to[203.82] have[203.92] seized[204.00] the[204.52] throne[205.78]. Ministers[206.08] rotated[206.40] in[207.02] a[207.18] grotesque[207.64] carousel[208.47] \u2014[208.47] four[208.60] Prime[208.97] Ministers[209.41] in[209.66] sixteen[209.81] months[210.37]. The[210.53] Duma[211.61] begged[211.73] for[212.13] a[213.23] \"[213.23] government[213.33] of[213.49] confidence[213.93]. \"[214.31] The[214.31] Tsar[214.39] refused[215.89]. In[216.03]",
+        "characters": [
+            "Nicholas II",
+            "Stolypin",
+            "Alexandra",
+            "Rasputin"
+        ],
+        "items": [
+            "Empire Map",
+            "Battleship Potemkin",
+            "First Soviet Meeting",
+            "October Manifesto Document",
+            "Artillery",
+            "Stolypin Portrait",
+            "Hangman's Noose",
+            "Tannenberg Map",
+            "Great Retreat Map",
+            "Front Headquarters",
+            "Rasputin Figure",
+            "Minister Carousel"
+        ],
+        "plan": "Stolypin portrait with hangman's noose symbol"
+    },
+    {
+        "id": 20,
+        "scene_id": 5,
+        "id_scene_relative": 6,
+        "timeline": 0,
+        "time_start": 167.3,
+        "time_end": 177.04,
+        "text": "empire[109.46] convulsed[109.60]. Strikes[110.64] paralyzed[111.14] the[111.54] railways[111.91]. Peasants[112.86] burned[113.00] manor[113.59] houses[114.17]. The[114.79] battleship[114.89] Potemkin[115.01] mutinied[115.35] on[116.15] the[116.25] Black[116.35] Sea[116.89]. In[117.31] the[117.61] capital[117.69], workers[118.27] formed[118.37] a[118.93] council[119.03] \u2014[119.23] a[119.57] *[119.57] Soviet[119.57] *[119.77] \u2014[119.77] a[119.85] new[120.03] word[120.25] for[120.35] a[120.35] new[121.29] kind[121.71] of[122.49] power[122.77]. Nicholas[123.13] wavered[123.27], then[123.65] signed[124.41] the[124.83] October[124.91] Manifesto[125.49], granting[125.57] a[126.11] parliament[126.27], a[126.57] Duma[127.49], and[127.65] civil[128.12] liberties[128.97]. The[129.16] liberals[130.10] cheered[131.14]. The[131.34] revolutionaries[132.38] reloaded[132.52]. By[133.14] December[133.72], the[133.92] Moscow[134.44] uprising[134.60] was[135.14] drowned[135.98] in[136.10] artillery[136.50] fire[136.70]. The[137.76] Tsar[137.92] had[138.08] survived[138.28]. But[138.70] he[140.02] had[140.20] learned[140.56] nothing[140.82]. He[140.92] clawed[142.12] back[142.44] the[142.56] concessions[143.46], neutered[143.62] the[143.86] Duma[144.04], and[144.49] sent[145.04] his[145.21] minister[145.61] Stolypin[145.71] to[146.01] wage[146.41] a[146.53] grim[147.13] war[147.27] of[148.31] reform[148.97] and[149.61] repression[149.75]. Stolypin[150.21] \u2019[150.99] s[151.41] neckties[151.55] \u2014[151.55] the[152.05] hangman[152.05] \u2019[152.17] s[152.35] noose[152.35] \u2014[152.35] became[153.09] the[153.31] symbol[153.39] of[153.97] the[154.31] era[154.61]. When[155.47] a[155.97] terrorist[156.64] \u2019[156.78] s[156.78] bullet[157.12] killed[157.56] Stolypin[158.04] in[158.20] 1911[158.98], the[159.12] last[159.54] competent[159.74] statesman[160.08] was[160.22] gone[160.36]. The[160.82] stage[161.56] was[161.74] set[161.86] for[162.24] the[162.48] final[162.56] act[163.56]. All[163.70] it[164.20] needed[164.42] was[164.50] a[164.82] spark[165.69]. The[165.82] spark[166.23] was[167.69] a[167.83] world[168.27] war[168.55]. In[169.45] August[169.63] 1914[169.85], the[170.15] streets[170.33] roared[171.49] again[171.65], but[172.11] this[172.49] time[173.29] with[173.57] patriotism[173.88]. The[174.98] \"[174.98] Sacred[175.12] Union[175.74] \"[175.74] held[176.56]. Then[176.72] came[177.04] Tannenberg[177.58]. The[177.66] Masurian[179.32] Lakes[179.44]. The[179.84] Great[180.22] Retreat[180.72] of[181.64] 1915[182.58]. Two[182.74] million[183.56] Russian[183.78] soldiers[184.06] dead[184.34], captured[184.77], or[184.99] missing[185.09]. The[185.61] army[185.83] bled[185.97] white[186.53], short[186.75] of[186.87] shells[187.71], short[187.85] of[188.67] rifles[189.65], short[189.91] of[190.33] boots[190.77]. The[190.87] Tsar[190.99], desperate[191.89], took[192.19] personal[192.31] command[192.81] at[192.91] the[193.03] front[193.31], leaving[193.41] the[193.61] capital[194.47] in[195.62] the[195.75] hands[195.84] of[196.44] his[196.82] wife[197.32], Alexandra[197.60], and[198.14] a[199.12] Siberian[199.26] peasant[199.58] mystic[200.50] named[200.82] Grigori[200.94] Rasputin[201.12]. The[201.54] \"[201.54] Dark[201.66] Forces[202.56] \"[202.56] seemed[203.16] to[203.82] have[203.92] seized[204.00] the[204.52] throne[205.78]. Ministers[206.08] rotated[206.40] in[207.02] a[207.18] grotesque[207.64] carousel[208.47] \u2014[208.47] four[208.60] Prime[208.97] Ministers[209.41] in[209.66] sixteen[209.81] months[210.37]. The[210.53] Duma[211.61] begged[211.73] for[212.13] a[213.23] \"[213.23] government[213.33] of[213.49] confidence[213.93]. \"[214.31] The[214.31] Tsar[214.39] refused[215.89]. In[216.03]",
+        "characters": [
+            "Nicholas II",
+            "Stolypin",
+            "Alexandra",
+            "Rasputin"
+        ],
+        "items": [
+            "Empire Map",
+            "Battleship Potemkin",
+            "First Soviet Meeting",
+            "October Manifesto Document",
+            "Artillery",
+            "Stolypin Portrait",
+            "Hangman's Noose",
+            "Tannenberg Map",
+            "Great Retreat Map",
+            "Front Headquarters",
+            "Rasputin Figure",
+            "Minister Carousel"
+        ],
+        "plan": "Stolypin assassination"
+    },
+    {
+        "id": 21,
+        "scene_id": 5,
+        "id_scene_relative": 7,
+        "timeline": 0,
+        "time_start": 177.04,
+        "time_end": 186.79,
+        "text": "empire[109.46] convulsed[109.60]. Strikes[110.64] paralyzed[111.14] the[111.54] railways[111.91]. Peasants[112.86] burned[113.00] manor[113.59] houses[114.17]. The[114.79] battleship[114.89] Potemkin[115.01] mutinied[115.35] on[116.15] the[116.25] Black[116.35] Sea[116.89]. In[117.31] the[117.61] capital[117.69], workers[118.27] formed[118.37] a[118.93] council[119.03] \u2014[119.23] a[119.57] *[119.57] Soviet[119.57] *[119.77] \u2014[119.77] a[119.85] new[120.03] word[120.25] for[120.35] a[120.35] new[121.29] kind[121.71] of[122.49] power[122.77]. Nicholas[123.13] wavered[123.27], then[123.65] signed[124.41] the[124.83] October[124.91] Manifesto[125.49], granting[125.57] a[126.11] parliament[126.27], a[126.57] Duma[127.49], and[127.65] civil[128.12] liberties[128.97]. The[129.16] liberals[130.10] cheered[131.14]. The[131.34] revolutionaries[132.38] reloaded[132.52]. By[133.14] December[133.72], the[133.92] Moscow[134.44] uprising[134.60] was[135.14] drowned[135.98] in[136.10] artillery[136.50] fire[136.70]. The[137.76] Tsar[137.92] had[138.08] survived[138.28]. But[138.70] he[140.02] had[140.20] learned[140.56] nothing[140.82]. He[140.92] clawed[142.12] back[142.44] the[142.56] concessions[143.46], neutered[143.62] the[143.86] Duma[144.04], and[144.49] sent[145.04] his[145.21] minister[145.61] Stolypin[145.71] to[146.01] wage[146.41] a[146.53] grim[147.13] war[147.27] of[148.31] reform[148.97] and[149.61] repression[149.75]. Stolypin[150.21] \u2019[150.99] s[151.41] neckties[151.55] \u2014[151.55] the[152.05] hangman[152.05] \u2019[152.17] s[152.35] noose[152.35] \u2014[152.35] became[153.09] the[153.31] symbol[153.39] of[153.97] the[154.31] era[154.61]. When[155.47] a[155.97] terrorist[156.64] \u2019[156.78] s[156.78] bullet[157.12] killed[157.56] Stolypin[158.04] in[158.20] 1911[158.98], the[159.12] last[159.54] competent[159.74] statesman[160.08] was[160.22] gone[160.36]. The[160.82] stage[161.56] was[161.74] set[161.86] for[162.24] the[162.48] final[162.56] act[163.56]. All[163.70] it[164.20] needed[164.42] was[164.50] a[164.82] spark[165.69]. The[165.82] spark[166.23] was[167.69] a[167.83] world[168.27] war[168.55]. In[169.45] August[169.63] 1914[169.85], the[170.15] streets[170.33] roared[171.49] again[171.65], but[172.11] this[172.49] time[173.29] with[173.57] patriotism[173.88]. The[174.98] \"[174.98] Sacred[175.12] Union[175.74] \"[175.74] held[176.56]. Then[176.72] came[177.04] Tannenberg[177.58]. The[177.66] Masurian[179.32] Lakes[179.44]. The[179.84] Great[180.22] Retreat[180.72] of[181.64] 1915[182.58]. Two[182.74] million[183.56] Russian[183.78] soldiers[184.06] dead[184.34], captured[184.77], or[184.99] missing[185.09]. The[185.61] army[185.83] bled[185.97] white[186.53], short[186.75] of[186.87] shells[187.71], short[187.85] of[188.67] rifles[189.65], short[189.91] of[190.33] boots[190.77]. The[190.87] Tsar[190.99], desperate[191.89], took[192.19] personal[192.31] command[192.81] at[192.91] the[193.03] front[193.31], leaving[193.41] the[193.61] capital[194.47] in[195.62] the[195.75] hands[195.84] of[196.44] his[196.82] wife[197.32], Alexandra[197.60], and[198.14] a[199.12] Siberian[199.26] peasant[199.58] mystic[200.50] named[200.82] Grigori[200.94] Rasputin[201.12]. The[201.54] \"[201.54] Dark[201.66] Forces[202.56] \"[202.56] seemed[203.16] to[203.82] have[203.92] seized[204.00] the[204.52] throne[205.78]. Ministers[206.08] rotated[206.40] in[207.02] a[207.18] grotesque[207.64] carousel[208.47] \u2014[208.47] four[208.60] Prime[208.97] Ministers[209.41] in[209.66] sixteen[209.81] months[210.37]. The[210.53] Duma[211.61] begged[211.73] for[212.13] a[213.23] \"[213.23] government[213.33] of[213.49] confidence[213.93]. \"[214.31] The[214.31] Tsar[214.39] refused[215.89]. In[216.03]",
+        "characters": [
+            "Nicholas II",
+            "Stolypin",
+            "Alexandra",
+            "Rasputin"
+        ],
+        "items": [
+            "Empire Map",
+            "Battleship Potemkin",
+            "First Soviet Meeting",
+            "October Manifesto Document",
+            "Artillery",
+            "Stolypin Portrait",
+            "Hangman's Noose",
+            "Tannenberg Map",
+            "Great Retreat Map",
+            "Front Headquarters",
+            "Rasputin Figure",
+            "Minister Carousel"
+        ],
+        "plan": "1914 patriotic crowds vs Tannenberg defeat map"
+    },
+    {
+        "id": 22,
+        "scene_id": 5,
+        "id_scene_relative": 8,
+        "timeline": ""
+    }
+]

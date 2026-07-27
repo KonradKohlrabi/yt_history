@@ -1,0 +1,1565 @@
+[
+    {
+        "id": 0,
+        "timeline": 1,
+        "time_start": 0.13,
+        "time_end": 2.13,
+        "text": "The[0.13] United[0.27] States[0.65] of[1.05] 1860[1.19] was[2.13]",
+        "goal": "Introduce the Secession Crisis chapter.",
+        "plan": [
+            "Timeline with The Secession Crisis (1860\u20131861) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Every documentary chapter begins with a timeline scene."
+    },
+    {
+        "id": 1,
+        "timeline": 0,
+        "time_start": 2.13,
+        "time_end": 10.3,
+        "text": "a[2.37] nation[2.45] holding[2.95] its[3.31] breath[3.47]. Thirty[4.41] - one[4.93] million[5.32] people[5.70] lived[6.12] within[6.43] its[6.60] borders[7.70], but[7.84] they[8.04] no[8.20] longer[8.56] shared[8.94] a[9.02] common[9.36] future[10.30].",
+        "goal": "Establish the divided state of the nation in 1860.",
+        "plan": [
+            "Map of United States 1860",
+            "Population figures appear: 31 million",
+            "North and South regions subtly differentiated"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "United States Map 1860"
+        ],
+        "reason": "Progressive reveal: map first, then data, then regional divide."
+    },
+    {
+        "id": 2,
+        "timeline": 0,
+        "time_start": 10.4,
+        "time_end": 19.66,
+        "text": "In[10.40] the[10.52] North[11.40], factories[11.94] belched[12.34] smoke[12.68] over[12.90] cities[13.30] swollen[13.72] by[13.94] immigration[15.20], and[15.40] railroads[16.00] stitched[16.34] the[16.48] region[16.80] together[17.26] with[17.56] twenty[18.34] - two[18.72] thousand[18.94] miles[19.66] of[19.77] iron[19.91].",
+        "goal": "Show Northern industrialization and rail network.",
+        "plan": [
+            "Northern factories with smoke",
+            "Rail lines animate across the North",
+            "Text: 22,000 miles of track"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Factory",
+            "Railroad Map North"
+        ],
+        "reason": "Visual contrast to South; build industrial picture progressively."
+    },
+    {
+        "id": 3,
+        "timeline": 0,
+        "time_start": 20.39,
+        "time_end": 34.25,
+        "text": "In[20.39] the[20.55] South[20.85], four[21.13] million[21.43] human[21.61] beings[21.85] were[21.97] held[23.01] as[23.23] property[23.99], their[24.41] labor[24.61] producing[24.91] cotton[25.01] that[25.29] fueled[25.85] the[25.99] world[26.51] ' s[26.63] economy[26.95] and[27.37] represented[27.89] the[28.19] single[28.29] largest[28.39] financial[29.21] asset[29.51] in[29.73] the[29.91] nation[30.05] \u2014 worth[30.17] more[30.83] than[31.47] all[31.61] the[31.93] railroads[32.81], factories[32.95], and[33.65] banks[33.83] combined[34.25].",
+        "goal": "Show Southern slave economy and cotton's financial dominance.",
+        "plan": [
+            "Cotton fields with enslaved workers",
+            "Cotton bale icon grows, dwarfing railroad/factory/bank icons",
+            "Text: $3 billion asset value (1860)"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Cotton Field",
+            "Enslaved Workers",
+            "Financial Comparison Graphic"
+        ],
+        "reason": "Stark visual contrast to North; progressive data reveal emphasizes scale."
+    },
+    {
+        "id": 4,
+        "timeline": 0,
+        "time_start": 34.43,
+        "time_end": 44.16,
+        "text": "The[34.43] Constitution[34.53] had[35.19] papered[35.37] over[35.73] the[36.73] contradiction[36.87] for[37.03] seventy[37.45] years[37.55], but[37.66] the[38.20] election[38.38] of[38.95] a[39.08] president[39.34] who[39.80] refused[40.40] to[40.70] let[40.82] slavery[41.20] expand[42.00] broke[42.34] the[43.42] fragile[43.76] peace[44.16].",
+        "goal": "Show Lincoln's election as the breaking point.",
+        "plan": [
+            "Constitution document with cracks forming",
+            "Lincoln portrait appears",
+            "Map: Southern states begin to highlight"
+        ],
+        "frames": 3,
+        "characters": [
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Constitution Document",
+            "Lincoln Portrait"
+        ],
+        "reason": "Visual metaphor for constitutional fracture; Lincoln's election triggers secession."
+    },
+    {
+        "id": 5,
+        "timeline": 0,
+        "time_start": 44.34,
+        "time_end": 53.52,
+        "text": "Within[44.34] weeks[44.76], seven[45.40] states[45.52] had[45.90] declared[46.76] themselves[47.02] a[47.48] separate[47.62] nation[48.88]. The[49.02] Union[49.14], the[49.52] Constitution[49.92], and[50.08] the[50.58] very[50.86] idea[51.06] of[51.50] majority[51.64] rule[52.60] were[52.70] suddenly[52.82] at[53.18] stake[53.52].",
+        "goal": "Show secession of seven states and stakes.",
+        "plan": [
+            "Map: Seven Deep South states turn Confederate color",
+            "Confederacy label appears",
+            "Union/Constitution/majority rule words float, shaking"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Secession Map",
+            "Confederacy Flag"
+        ],
+        "reason": "Map animation shows speed of secession; abstract concepts visualized."
+    },
+    {
+        "id": 6,
+        "timeline": 0,
+        "time_start": 53.7,
+        "time_end": 64.21,
+        "text": "If[53.70] the[53.90] United[54.33] States[54.52] could[55.30] not[55.45] survive[56.01] this[56.13] test[56.79], the[57.19] experiment[57.89] in[58.37] self[58.57] - government[58.81] begun[58.89] in[59.81] 1776[59.93] would[60.07] prove[60.57] a[60.77] failure[61.21], and[61.35] the[61.75] enslaved[62.83] would[62.95] remain[63.39] in[63.63] chains[64.03] indefinitely[64.21].",
+        "goal": "Frame the existential stakes: democracy and slavery.",
+        "plan": [
+            "1776 Declaration \u2192 1860 timeline arrow",
+            "Chain links over enslaved figures",
+            "Question mark over Union map"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Declaration of Independence",
+            "Chains Graphic"
+        ],
+        "reason": "Connect founding to crisis; end chapter on dramatic stakes."
+    },
+    {
+        "id": 7,
+        "timeline": 1,
+        "time_start": 64.33,
+        "time_end": 66.29,
+        "text": "The[64.33] question[64.81] that[65.03] hung[65.41] over[65.61] the[65.87] capital[66.29]",
+        "goal": "Introduce Fort Sumter chapter.",
+        "plan": [
+            "Timeline with Fort Sumter (12 April 1861) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Fort Sumter."
+    },
+    {
+        "id": 8,
+        "timeline": 0,
+        "time_start": 66.29,
+        "time_end": 75.98,
+        "text": "that[66.61] winter[66.75] was[67.11] not[67.29] merely[67.43] whether[67.75] the[68.61] South[68.71] could[68.89] be[69.25] forced[69.33] back[70.01]. It[70.23] was[70.63] whether[70.73] a[71.19] democracy[71.31] could[71.53] wage[72.23] a[72.61] war[73.17] of[73.61] this[73.69] magnitude[73.82] without[74.84] destroying[75.22] itself[75.42] in[75.60] the[75.80] process[75.98].",
+        "goal": "Pose the central dilemma of democratic war.",
+        "plan": [
+            "Capitol dome half-finished, winter sky",
+            "Text: 'Can democracy survive total war?'",
+            "Reflection in water shows fractured Union"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Capitol Building Half-Finished"
+        ],
+        "reason": "Visual metaphor; half-finished dome mirrors unfinished nation."
+    },
+    {
+        "id": 9,
+        "timeline": 0,
+        "time_start": 76.38,
+        "time_end": 89.54,
+        "text": "Lincoln[76.38] took[76.50] the[77.08] oath[77.64] of[78.74] office[79.10] on[79.18] March[79.76] 4[80.16], 1861[80.96], beneath[81.10] a[81.58] half[81.74] - finished[81.94] Capitol[82.26] dome[82.46], and[83.52] declared[83.70] that[84.26] the[84.52] Union[84.70] was[85.26] perpetual[85.46]. He[86.04] promised[86.30] not[86.42] to[87.44] interfere[87.58] with[87.80] slavery[88.14] where[88.58] it[88.74] existed[89.54].",
+        "goal": "Show Lincoln's inauguration and his position.",
+        "plan": [
+            "Lincoln taking oath at Capitol",
+            "Speech scroll: 'Union perpetual' / 'No interference with slavery'",
+            "Crowd reaction mixed"
+        ],
+        "frames": 3,
+        "characters": [
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Capitol Building Half-Finished",
+            "Inauguration Podium"
+        ],
+        "reason": "Key moment; dual promise sets up conflict."
+    },
+    {
+        "id": 10,
+        "timeline": 0,
+        "time_start": 90.24,
+        "time_end": 100.69,
+        "text": "But[90.24] he[90.40] also[90.88] promised[91.24] to[92.20] hold[92.32], occupy[92.84], and[93.72] possess[93.82] federal[94.16] property[94.76]. In[94.90] Charleston[95.18] Harbor[95.54], a[95.84] small[96.02] garrison[97.08] at[97.26] Fort[97.40] Sumter[97.52] waited[97.84] for[98.62] supplies[98.75] \u2014 or[99.42] for[99.83] the[100.05] first[100.50] shot[100.69].",
+        "goal": "Show Fort Sumter as flashpoint.",
+        "plan": [
+            "Charleston Harbor map, Fort Sumter highlighted",
+            "Small Union garrison inside",
+            "Confederate batteries ring the harbor",
+            "Supply ship approaching / cannon aimed"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Fort Sumter",
+            "Charleston Harbor Map",
+            "Cannon"
+        ],
+        "reason": "Geography critical; tension builds through fort isolation."
+    },
+    {
+        "id": 11,
+        "timeline": 0,
+        "time_start": 101.0,
+        "time_end": 113.31,
+        "text": "The[101.00] Confederacy[101.92] fired[102.47] that[102.85] shot[103.75] on[103.91] April[104.37] 12[104.51]. Thirty[104.95] - four[105.21] hours[105.99] later[106.19], the[106.33] Stars[106.55] and[106.97] Stripes[107.07] came[107.19] down[108.15]. No[108.33] one[108.47] was[108.81] killed[108.99] in[109.95] the[110.35] bombardment[110.77], but[110.97] the[112.13] war[112.85] had[113.01] begun[113.31].",
+        "goal": "Show bombardment and surrender; war begins.",
+        "plan": [
+            "Confederate cannon fire animation",
+            "34-hour clock counts down",
+            "US flag lowers, Confederate flag raises",
+            "Text: 'Zero casualties \u2014 war begun'"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Fort Sumter",
+            "US Flag",
+            "Confederate Flag"
+        ],
+        "reason": "Iconic moment; flag change symbolizes war start."
+    },
+    {
+        "id": 12,
+        "timeline": 1,
+        "time_start": 113.69,
+        "time_end": 115.79,
+        "text": "Lincoln[113.69] called[114.53] for[114.67] seventy[115.23] - five[115.33] thousand[115.45] volunteers[115.79]",
+        "goal": "Introduce First Bull Run chapter.",
+        "plan": [
+            "Timeline with First Bull Run (1861) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: First Bull Run."
+    },
+    {
+        "id": 13,
+        "timeline": 0,
+        "time_start": 115.79,
+        "time_end": 127.54,
+        "text": "to[115.99] serve[117.61] ninety[117.95] days[118.45]. The[118.61] response[118.75] in[119.81] the[120.27] North[120.39] was[120.91] electrifying[121.09]; men[121.25] enlisted[121.73] by[121.85] the[121.95] thousands[122.27], believing[123.31] the[123.45] rebellion[124.45] would[124.63] be[124.93] crushed[125.49] in[125.97] a[127.08] single[127.25] campaign[127.54].",
+        "goal": "Show Northern enthusiasm and 90-day expectation.",
+        "plan": [
+            "Recruiting posters: '90 Days!'",
+            "Volunteers lining up, cheering",
+            "Map: Army moves toward Richmond",
+            "Calendar: 90 days marked"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Recruiting Poster",
+            "90-Day Calendar"
+        ],
+        "reason": "Naive optimism visualized; contrast coming reality."
+    },
+    {
+        "id": 14,
+        "timeline": 0,
+        "time_start": 127.82,
+        "time_end": 136.44,
+        "text": "In[127.82] Richmond[128.08], the[128.88] new[129.28] Confederate[129.36] government[130.54] celebrated[130.82]. They[131.28] had[131.50] won[131.80] their[131.92] independence[132.14] without[132.54] a[133.36] casualty[134.14]. Both[134.28] sides[134.60] were[134.88] about[135.30] to[135.56] be[135.66] proven[135.76] catastrophically[136.14] wrong[136.44].",
+        "goal": "Show Confederate overconfidence; foreshadow disaster.",
+        "plan": [
+            "Richmond celebration, Confederate flags",
+            "Split screen: North recruiting / South celebrating",
+            "Text: 'Both sides wrong' appears over both"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Confederate Flag",
+            "Richmond Capitol"
+        ],
+        "reason": "Parallel delusion; split screen emphasizes shared blindness."
+    },
+    {
+        "id": 15,
+        "timeline": 0,
+        "time_start": 136.72,
+        "time_end": 153.64,
+        "text": "The[136.72] first[137.66] great[138.26] clash[138.42] came[138.80] at[139.00] a[140.04] creek[140.71] called[140.87] Bull[141.31] Run[141.51], just[141.87] twenty[142.51] - five[142.81] miles[143.01] from[143.15] Washington[143.75]. Congressmen[143.91] and[144.25] ladies[144.41] with[144.77] picnic[145.09] baskets[145.43] rode[145.55] out[146.37] in[146.53] carriages[146.63] to[146.83] watch[147.35] the[147.47] Union[147.72] army[147.94] sweep[148.08] the[148.26] field[148.44]. For[149.32] a[149.60] few[150.08] hours[150.48], it[150.60] looked[151.18] like[151.60] they[152.00] would[152.12] be[152.54] right[153.64].",
+        "goal": "Show battle start and civilian spectators.",
+        "plan": [
+            "Bull Run map, Washington 25 miles away",
+            "Carriages with picnic baskets on hill",
+            "Union troops advance, Confederates fall back",
+            "Spectators cheer"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Bull Run Map",
+            "Picnic Baskets",
+            "Carriage"
+        ],
+        "reason": "Famous picnic detail; proximity to Washington; initial Union success."
+    },
+    {
+        "id": 16,
+        "timeline": 0,
+        "time_start": 153.94,
+        "time_end": 168.67,
+        "text": "Union[153.94] troops[154.02] drove[154.46] the[154.58] Confederates[155.34] back[155.60] across[155.98] the[156.50] Warrenton[156.78] Turnpike[157.26]. Then[157.40] a[157.72] brigade[158.00] of[158.74] Virginians[159.00] under[159.46] Thomas[159.96] Jackson[160.14] stood[160.24] firm[160.65] on[161.72] Henry[161.82] House[162.21] Hill[162.65]. \"[163.47] There[163.60] stands[163.88] Jackson[163.88] like[164.69] a[164.76] stone[165.29] wall[166.01], \"[166.45] a[166.63] fellow[166.93] general[167.71] shouted[167.71]. The[167.85] name[168.31] stuck[168.67].",
+        "goal": "Show Jackson's stand and nickname origin.",
+        "plan": [
+            "Henry House Hill, Union advance halts",
+            "Jackson's brigade firm in line",
+            "General Bee points: 'There stands Jackson like a stone wall'",
+            "Text: 'Stonewall' appears on Jackson"
+        ],
+        "frames": 4,
+        "characters": [
+            "Thomas Jackson"
+        ],
+        "items": [
+            "Henry House",
+            "Stone Wall"
+        ],
+        "reason": "Iconic moment; nickname birth visualized at exact location."
+    },
+    {
+        "id": 17,
+        "timeline": 0,
+        "time_start": 168.77,
+        "time_end": 181.15,
+        "text": "A[168.77] Confederate[169.67] counterattack[170.09] shattered[170.23] the[170.63] Union[170.85] line[171.21]. The[171.79] retreat[171.93] became[172.47] a[173.53] rout[173.73], clogging[174.19] the[174.55] roads[174.85] with[175.57] fleeing[175.73] soldiers[176.01] and[176.37] terrified[176.55] civilians[176.79]. The[177.77] ninety[177.87] - day[177.99] war[178.53] was[178.63] over[178.99]. The[179.21] real[179.35] war[179.67] had[179.87] just[180.27] begun[181.15].",
+        "goal": "Show Union rout and end of 90-day illusion.",
+        "plan": [
+            "Confederate charge breaks Union line",
+            "Road clogged with soldiers and carriages fleeing",
+            "90-day calendar burns / shatters",
+            "Text: 'The real war had just begun'"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Warrenton Turnpike",
+            "90-Day Calendar"
+        ],
+        "reason": "Chaotic retreat contrasts opening optimism; calendar visual closes chapter."
+    },
+    {
+        "id": 18,
+        "timeline": 1,
+        "time_start": 181.25,
+        "time_end": 183.35,
+        "text": "In[181.25] the[181.81] West[182.37], a[182.71] different[183.35] kind[183.63] of[184.17] war[185.17]",
+        "goal": "Introduce Grant's Western Victories chapter.",
+        "plan": [
+            "Timeline with Grant's Western Victories (1862) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Western Theater."
+    },
+    {
+        "id": 19,
+        "timeline": 0,
+        "time_start": 183.35,
+        "time_end": 196.86,
+        "text": "was[185.49] taking[185.91] shape[186.17]. A[186.59] quiet[186.73], unassuming[186.97] former[187.57] quartermaster[187.69] named[188.47] Ulysses[189.83] S[190.17]. Grant[190.29] captured[190.89] Fort[191.03] Henry[191.47] and[191.85] Fort[192.03] Donelson[192.13] in[192.44] February[192.86] 1862[193.06], opening[193.16] the[193.64] Tennessee[194.50] and[194.66] Cumberland[194.76] Rivers[195.26] like[195.76] a[195.84] knife[196.46] blade[196.68] into[196.86] the[197.82] Confederate[198.08] heartland[199.30].",
+        "goal": "Introduce Grant and his twin victories opening rivers.",
+        "plan": [
+            "Grant portrait: quiet, unassuming",
+            "Map: Fort Henry and Fort Donelson fall",
+            "Tennessee & Cumberland Rivers animate open like knife blade",
+            "Arrow drives into Confederate heartland"
+        ],
+        "frames": 4,
+        "characters": [
+            "Ulysses S. Grant"
+        ],
+        "items": [
+            "Grant Portrait",
+            "Western Rivers Map",
+            "Knife Blade Graphic"
+        ],
+        "reason": "Character intro + strategic map; knife metaphor visualized."
+    },
+    {
+        "id": 20,
+        "timeline": 0,
+        "time_start": 199.52,
+        "time_end": 209.18,
+        "text": "When[199.52] the[199.90] Confederate[200.40] commander[201.20] at[201.32] Donelson[201.80] asked[202.82] for[202.98] terms[203.36], Grant[203.60] replied[203.80], \"[204.12] No[204.12] terms[204.94] except[205.12] unconditional[205.28] and[205.64] immediate[205.78] surrender[206.24]. \"[206.48] The[207.48] North[207.62] had[208.14] its[208.32] first[208.32] hero[209.18].",
+        "goal": "Show 'Unconditional Surrender' moment and Grant's fame.",
+        "plan": [
+            "Fort Donelson, Confederate officer asks terms",
+            "Grant writes note: 'No terms except unconditional and immediate surrender'",
+            "Newspaper headline: 'UNCONDITIONAL SURRENDER GRANT'",
+            "Initials U.S. Grant highlighted"
+        ],
+        "frames": 4,
+        "characters": [
+            "Ulysses S. Grant"
+        ],
+        "items": [
+            "Surrender Note",
+            "Newspaper Headline"
+        ],
+        "reason": "Famous quote; initials become brand; Northern hero born."
+    },
+    {
+        "id": 21,
+        "timeline": 0,
+        "time_start": 209.66,
+        "time_end": 229.08,
+        "text": "But[209.66] the[210.00] cost[210.22] of[210.58] victory[211.26] was[211.38] rising[211.47]. At[211.94] Shiloh[212.82] in[212.97] April[213.31], Grant[213.71] ' s[214.09] army[214.35] was[216.41] nearly[216.65] destroyed[216.93] in[217.15] a[217.63] surprise[218.09] attack[218.49]. The[219.45] two[219.79] - day[220.57] battle[220.73] produced[221.05] twenty[221.81] - three[222.01] thousand[222.15] casualties[222.81] \u2014 more[223.11] than[223.39] all[224.45] previous[224.71] American[225.07] wars[225.45] combined[225.55]. Grant[225.65] held[225.89]. He[225.99] always[227.01] held[227.35]. But[227.90] the[228.28] bloodletting[228.50] had[228.84] only[228.96] started[229.08].",
+        "goal": "Show Shiloh's shock: unprecedented casualties; Grant holds.",
+        "plan": [
+            "Shiloh map: surprise attack at dawn",
+            "Casualty counter: 23,000 \u2014 exceeds all previous wars",
+            "Grant on horseback, calm amid chaos: 'He held. He always held.'",
+            "Blood drops spread across map: 'Bloodletting only started'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Ulysses S. Grant"
+        ],
+        "items": [
+            "Shiloh Map",
+            "Casualty Counter"
+        ],
+        "reason": "Casualty scale visualized; Grant's defining trait 'he held' established."
+    },
+    {
+        "id": 22,
+        "timeline": 1,
+        "time_start": 229.6,
+        "time_end": 232.76,
+        "text": "While[229.60] Grant[229.78] fought[229.90] in[230.28] the[230.84] mud[231.10] of[232.04] Tennessee[232.18], George[232.34] McClellan[232.68] marched[232.76]",
+        "goal": "Introduce Peninsula Campaign chapter.",
+        "plan": [
+            "Timeline with The Peninsula Campaign (1862) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Eastern Theater / McClellan."
+    },
+    {
+        "id": 23,
+        "timeline": 0,
+        "time_start": 232.76,
+        "time_end": 245.27,
+        "text": "the[233.42] Army[233.98] of[234.16] the[234.34] Potomac[234.90] up[235.12] the[235.36] Virginia[236.00] Peninsula[236.44] toward[236.56] Richmond[236.74]. He[237.22] had[237.42] built[237.64] a[238.24] magnificent[238.42] machine[238.52], but[239.00] he[239.14] refused[239.34] to[239.44] use[240.47] it[240.61]. Convinced[240.89] he[241.67] was[242.11] outnumbered[242.63] two[242.79] to[242.87] one[243.63] \u2014 when[243.75] in[243.93] reality[244.21] he[244.31] held[244.65] the[244.77] advantage[245.27].",
+        "goal": "Show McClellan's magnificent army but paralyzing caution.",
+        "plan": [
+            "Army of Potomac: massive, well-equipped, parading",
+            "McClellan with spyglass, seeing phantom enemies",
+            "Split screen: McClellan's map (2:1 enemy) vs Reality (Union advantage)",
+            "Text: 'The Slow Machine'"
+        ],
+        "frames": 4,
+        "characters": [
+            "George McClellan"
+        ],
+        "items": [
+            "Army of Potomac",
+            "McClellan's Map",
+            "Spyglass"
+        ],
+        "reason": "Contrast appearance vs reality; visualizes his delusion."
+    },
+    {
+        "id": 24,
+        "timeline": 0,
+        "time_start": 245.65,
+        "time_end": 254.6,
+        "text": "he[245.65] crept[245.77] forward[246.23], besieged[246.67] Yorktown[246.91] for[247.17] a[247.27] month[247.33], and[247.87] then[248.89] fought[249.37] a[250.47] series[250.83] of[250.99] battles[251.35] outside[251.91] the[252.01] Confederate[252.23] capital[252.57] that[252.75] ended[253.07] in[253.74] a[254.00] strategic[254.16] withdrawal[254.60].",
+        "goal": "Show month at Yorktown and failure at gates of Richmond.",
+        "plan": [
+            "Yorktown siege: calendar pages flip (1 month)",
+            "Battles near Richmond: Seven Days map",
+            "McClellan withdraws; Richmond safe",
+            "Arrow points back down peninsula"
+        ],
+        "frames": 4,
+        "characters": [
+            "George McClellan"
+        ],
+        "items": [
+            "Yorktown Map",
+            "Seven Days Map",
+            "Calendar"
+        ],
+        "reason": "Time waste visualized; strategic withdrawal = failure."
+    },
+    {
+        "id": 25,
+        "timeline": 0,
+        "time_start": 255.06,
+        "time_end": 272.53,
+        "text": "Robert[255.06] E[255.24]. Lee[256.10] had[256.24] taken[256.56] command[257.28] of[257.54] the[257.86] Army[258.40] of[258.68] Northern[258.82] Virginia[258.94] after[259.32] its[260.08] previous[260.20] commander[260.76] was[261.38] wounded[261.70]. In[262.46] seven[262.94] days[263.14], Lee[264.02] drove[264.18] McClellan[264.46] back[264.66] to[265.28] the[265.50] James[265.70] River[266.06]. The[266.38] Peninsula[266.56] Campaign[266.72] was[267.56] over[267.72]. Richmond[268.06] was[268.18] safe[268.68]. And[268.84] Lee[269.19] had[269.46] discovered[269.81] that[270.02] the[270.89] Union[271.33] army[271.43] could[271.81] be[272.13] beaten[272.53].",
+        "goal": "Show Lee takes command, drives McClellan back in Seven Days.",
+        "plan": [
+            "Lee arrives, takes command",
+            "Seven Days: Lee attacks, McClellan retreats day by day",
+            "McClellan at James River, Lee watches",
+            "Lightbulb over Lee: 'Union army can be beaten'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Robert E. Lee",
+            "George McClellan"
+        ],
+        "items": [
+            "Seven Days Map",
+            "Lee's Sword"
+        ],
+        "reason": "Lee's aggressive genius contrasts McClellan; strategic realization moment."
+    },
+    {
+        "id": 26,
+        "timeline": 1,
+        "time_start": 272.75,
+        "time_end": 274.37,
+        "text": "He[272.75] proved[273.05] it[273.81] again[274.07] at[274.37] Second[274.57] Bull[274.77] Run[275.93]",
+        "goal": "Introduce Antietam and Emancipation chapter (covers Second Bull Run lead-in).",
+        "plan": [
+            "Timeline with Antietam and Emancipation (1862) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Second Bull Run leads to Antietam/Emancipation."
+    },
+    {
+        "id": 27,
+        "timeline": 0,
+        "time_start": 274.37,
+        "time_end": 291.66,
+        "text": "in[276.11] August[276.47], crushing[276.57] a[277.05] second[277.29] Union[278.27] army[278.59] under[278.75] John[279.09] Pope[279.21]. Then[279.55] Lee[280.39] did[280.77] the[281.89] unthinkable[282.07]. He[282.55] crossed[282.89] the[283.05] Potomac[283.17] into[283.83] Maryland[283.99], hoping[284.07] to[284.43] rally[284.69] the[285.77] border[285.91] state[286.39], threaten[286.65] Washington[287.58], and[288.00] convince[288.52] Europe[289.04] that[289.18] the[289.60] Confederacy[290.00] was[290.88] a[290.98] nation[291.34] worth[291.44] recognizing[291.66].",
+        "goal": "Show Second Bull Run victory and Lee's invasion of Maryland.",
+        "plan": [
+            "Second Bull Run: Pope's army crushed",
+            "Lee crosses Potomac into Maryland (arrow north)",
+            "Three goal icons: Maryland rally / Threaten Washington / Europe recognition",
+            "European capitals (London, Paris) watching"
+        ],
+        "frames": 4,
+        "characters": [
+            "Robert E. Lee",
+            "John Pope"
+        ],
+        "items": [
+            "Potomac River Crossing",
+            "Maryland Map",
+            "European Capitals Icons"
+        ],
+        "reason": "Strategic gamble visualized; three objectives clear."
+    },
+    {
+        "id": 28,
+        "timeline": 0,
+        "time_start": 292.44,
+        "time_end": 305.83,
+        "text": "He[292.44] divided[292.80] his[293.14] army[293.40], sending[294.34] Stonewall[294.54] Jackson[294.90] to[295.02] capture[295.12] Harpers[295.54] Ferry[295.82]. A[296.12] copy[297.14] of[298.00] his[298.34] orders[298.52], wrapped[298.88] around[299.31] three[299.40] cigars[299.46], was[300.23] found[301.93] in[302.21] a[302.35] field[302.43] by[302.85] Union[303.05] soldiers[303.35].",
+        "goal": "Show Lee's divided army and the lost orders (cigars).",
+        "plan": [
+            "Map: Lee splits army, Jackson to Harpers Ferry",
+            "Orders wrapped around three cigars",
+            "Union soldiers find cigars in field",
+            "Orders unfold: Lee's complete plan revealed"
+        ],
+        "frames": 4,
+        "characters": [
+            "Thomas Jackson"
+        ],
+        "items": [
+            "Lost Orders (Cigars)",
+            "Harpers Ferry Map"
+        ],
+        "reason": "Famous 'lost orders' incident; cigars visual is iconic."
+    },
+    {
+        "id": 29,
+        "timeline": 0,
+        "time_start": 303.51,
+        "time_end": 318.26,
+        "text": "McClellan[303.51], handed[303.61] his[303.97] enemy[304.21] ' s[304.55] plans[305.41] on[305.49] a[305.69] platter[305.83], declared[306.17], \"[306.29] Here[306.29] is[306.49] a[307.23] paper[307.43] with[307.89] which[308.15] if[308.87] I[309.93] cannot[310.06] whip[310.57] Bobbie[311.96] Lee[312.86], I[313.02] will[313.34] be[313.74] willing[314.34] to[314.76] go[315.20] home[316.10]. \"[316.22] He[316.76] moved[316.90] with[317.46] characteristic[317.82] slowness[318.26].",
+        "goal": "Show McClellan gets the plans but moves slowly.",
+        "plan": [
+            "McClellan holds orders, confident quote appears",
+            "But army moves in slow motion",
+            "Clock ticks, Lee reassembles",
+            "Text: 'Characteristic slowness'"
+        ],
+        "frames": 4,
+        "characters": [
+            "George McClellan",
+            "Robert E. Lee"
+        ],
+        "items": [
+            "Lost Orders (Cigars)",
+            "Clock"
+        ],
+        "reason": "Tragic irony: golden opportunity wasted by temperament."
+    },
+    {
+        "id": 30,
+        "timeline": 0,
+        "time_start": 318.26,
+        "time_end": 336.61,
+        "text": "On[318.26] September[318.38] 17[318.84], 1862[319.74], the[320.10] two[320.46] armies[320.58] collided[321.00] along[321.35] Antietam[321.44] Creek[322.69]. It[322.79] remains[323.17] the[324.05] bloodiest[324.17] single[324.29] day[324.65] in[325.05] American[325.29] history[326.23]. Twelve[326.47] hours[327.41] of[328.21] fighting[328.33] across[329.17] a[329.57] cornfield[330.53], a[331.07] sunken[331.27] road[331.51], and[332.33] a[332.67] stone[332.81] bridge[332.97] left[333.49] twenty[333.71] - two[333.81] thousand[334.69] men[334.99] dead[335.35], wounded[335.59], or[336.13] missing[336.61].",
+        "goal": "Show Antietam's three phases and staggering casualties.",
+        "plan": [
+            "Antietam map: three sectors labeled Cornfield, Sunken Road, Burnside Bridge",
+            "12-hour clock sweeps; each sector erupts in sequence",
+            "Casualty counter: 22,000 in one day",
+            "Comparison: 'Bloodiest single day in American history'"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Antietam Map",
+            "Cornfield",
+            "Sunken Road",
+            "Burnside Bridge",
+            "Casualty Counter"
+        ],
+        "reason": "Three distinct fight zones; progressive through the day; casualty impact."
+    },
+    {
+        "id": 31,
+        "timeline": 0,
+        "time_start": 336.81,
+        "time_end": 355.25,
+        "text": "Lee[336.81] ' s[337.21] army[337.69], outnumbered[337.79] two[337.93] to[338.23] one[338.69], clung[339.05] to[339.21] its[339.51] position[339.63] by[340.15] a[340.91] thread[341.17]. A[341.95]. P[342.25]. Hill[342.87] ' s[343.31] Light[343.43] Division[344.27] arrived[344.93] from[345.17] Harpers[345.57] Ferry[346.19] at[347.37] the[347.55] last[347.71] possible[348.45] moment[348.53] to[348.69] save[348.77] the[349.27] Confederate[349.73] right[349.89]. Night[350.05] fell[350.69]. Lee[351.05] retreated[351.91] across[352.31] the[352.45] river[352.65]. McClellan[353.07], with[353.25] fresh[353.33] reserves[353.81] untouched[354.03], let[354.35] him[354.51] go[355.25].",
+        "goal": "Show Lee's desperate hold, A.P. Hill saves right, McClellan fails to finish.",
+        "plan": [
+            "Lee's thin line, 2:1 outnumbered",
+            "A.P. Hill's division arrives at sunset (Harpers Ferry march)",
+            "Night falls, Lee slips away across Potomac",
+            "McClellan with fresh reserves watches, does nothing"
+        ],
+        "frames": 4,
+        "characters": [
+            "Robert E. Lee",
+            "A.P. Hill",
+            "George McClellan"
+        ],
+        "items": [
+            "Antietam Map",
+            "Potomac River"
+        ],
+        "reason": "Dramatic rescue; McClellan's inaction with reserves is key criticism."
+    },
+    {
+        "id": 32,
+        "timeline": 0,
+        "time_start": 355.37,
+        "time_end": 359.42,
+        "text": "It[355.37] was[355.53] a[355.99] tactical[356.39] draw[357.35], but[357.63] a[357.97] strategic[358.25] turning[359.25] point[359.42].",
+        "goal": "Summarize Antietam as strategic turning point.",
+        "plan": [
+            "Scale: Tactical Draw / Strategic Turning Point",
+            "Arrow points to Emancipation Proclamation"
+        ],
+        "frames": 2,
+        "characters": [],
+        "items": [
+            "Strategic Turning Point Sign"
+        ],
+        "reason": "Bridge to Emancipation; concise visual summary."
+    },
+    {
+        "id": 33,
+        "timeline": 0,
+        "time_start": 359.83,
+        "time_end": 373.88,
+        "text": "Lincoln[359.83] had[360.13] been[360.27] waiting[360.75] for[361.62] a[361.86] victory[362.34] to[362.78] issue[362.90] a[363.38] proclamation[363.90] he[364.08] had[364.24] drafted[364.94] months[365.08] earlier[365.86]. Five[366.70] days[367.28] after[368.28] Antietam[368.40], he[368.68] announced[368.82] that[369.38] on[369.52] January[370.02] 1[370.20], all[370.58] enslaved[371.34] people[371.52] in[372.22] rebellious[372.40] territory[372.96] would[373.10] be[373.46] free[373.88].",
+        "goal": "Show Lincoln issues preliminary Emancipation Proclamation.",
+        "plan": [
+            "Lincoln at desk, draft waits in drawer",
+            "Antietam news arrives -> opens drawer",
+            "Five-day calendar count",
+            "Proclamation signed: 'Jan 1 - All enslaved in rebellious territory free'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Emancipation Proclamation",
+            "Desk with Drawer"
+        ],
+        "reason": "Direct cause-effect; Antietam enables proclamation."
+    },
+    {
+        "id": 34,
+        "timeline": 0,
+        "time_start": 374.12,
+        "time_end": 396.69,
+        "text": "The[374.12] Emancipation[374.30] Proclamation[374.64] changed[375.44] everything[375.56]. It[375.68] made[375.94] the[376.30] destruction[377.04] of[377.12] slavery[377.24] a[377.72] war[378.10] aim[378.60]. It[379.22] authorized[379.42] the[379.74] enlistment[379.88] of[380.90] Black[381.14] men[381.84] into[382.04] the[382.26] Union[382.66] army[382.74]. And[383.06] it[383.18] made[383.58] foreign[384.54] intervention[384.70] on[385.08] the[385.24] Confederate[385.46] side[385.84] politically[386.02] impossible[386.42] for[386.52] Britain[386.92] and[387.14] France[387.98], whose[388.16] populations[388.32] would[388.74] not[389.88] support[390.02] a[390.67] war[390.79] to[391.79] preserve[392.09] slavery[392.61]. The[392.99] war[393.53] for[393.81] the[394.23] Union[394.49] had[394.75] become[394.89] a[395.19] war[395.51] for[395.85] freedom[396.69].",
+        "goal": "Show three transformative effects of Emancipation.",
+        "plan": [
+            "War aim shifts: Union -> Freedom (banner changes)",
+            "Black soldiers enlist, don blue uniforms",
+            "London/Paris: public opinion turns, governments block intervention",
+            "Final: 'War for Union becomes War for Freedom'"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Emancipation Proclamation",
+            "Black Soldier Uniform",
+            "British/French Flags"
+        ],
+        "reason": "Three distinct consequences; progressive reveal matches narration."
+    },
+    {
+        "id": 35,
+        "timeline": 1,
+        "time_start": 396.91,
+        "time_end": 399.37,
+        "text": "But[396.91] the[397.47] killing[397.89] continued[398.23]. At[398.31] Fredericksburg[398.63] in[399.37]",
+        "goal": "Introduce Chancellorsville chapter (Fredericksburg leads into it).",
+        "plan": [
+            "Timeline with Chancellorsville (May 1863) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Fredericksburg disaster sets up Chancellorsville."
+    },
+    {
+        "id": 36,
+        "timeline": 0,
+        "time_start": 399.37,
+        "time_end": 410.5,
+        "text": "December[400.21], Union[400.53] commander[401.05] Ambrose[401.89] Burnside[401.99] sent[402.65] wave[403.87] after[404.07] wave[404.35] of[404.53] men[404.79] against[405.21] Marye[405.68] ' s[405.77] Heights[407.14], where[407.52] Confederates[407.76] sheltered[408.14] behind[408.24] a[408.36] stone[408.68] wall[408.78]. Twelve[408.86] thousand[409.38] Union[409.76] soldiers[409.92] fell[410.32].",
+        "goal": "Show Fredericksburg slaughter at Marye's Heights.",
+        "plan": [
+            "Marye's Heights: stone wall, Confederates behind",
+            "Wave after wave of Union blue advance, fall",
+            "Counter: 12,000 casualties",
+            "Burnside watches, helpless"
+        ],
+        "frames": 4,
+        "characters": [
+            "Ambrose Burnside"
+        ],
+        "items": [
+            "Marye's Heights",
+            "Stone Wall"
+        ],
+        "reason": "Famous futile assault; stone wall visual; casualty count."
+    },
+    {
+        "id": 37,
+        "timeline": 0,
+        "time_start": 410.5,
+        "time_end": 432.46,
+        "text": "In[410.50] May[410.76] 1863[411.02], Lee[411.82] won[412.04] his[412.14] most[412.26] brilliant[412.88] victory[413.08] at[413.22] Chancellorsville[414.20], splitting[414.68] his[415.20] army[415.40] in[415.74] the[415.92] face[416.12] of[416.30] a[417.00] superior[417.12] foe[417.51] and[417.71] crushing[418.01] the[418.81] Union[419.05] right[419.23] flank[419.47]. But[419.57] in[420.03] the[420.23] darkness[420.35] after[420.53] the[420.89] attack[421.07], Stonewall[421.43] Jackson[422.17] was[422.87] shot[423.27] by[423.47] his[423.93] own[424.03] men[424.39]. He[424.71] died[425.86] eight[426.00] days[426.72] later[426.82]. Lee[426.94] had[428.02] won[428.20] the[428.54] battle[428.68], but[429.60] he[430.16] had[430.32] lost[430.60] his[431.46] right[432.30] arm[432.46].",
+        "goal": "Show Lee's brilliant flanking victory and Jackson's mortal friendly-fire wounding.",
+        "plan": [
+            "Chancellorsville map: Lee splits army, Jackson flanking march",
+            "Jackson's corps smashes Union right flank",
+            "Darkness: Confederate pickets fire on Jackson",
+            "Jackson falls; 8 days later dies; Lee: 'Lost my right arm'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Robert E. Lee",
+            "Thomas Jackson"
+        ],
+        "items": [
+            "Chancellorsville Map",
+            "Jackson's Horse"
+        ],
+        "reason": "Tactical masterpiece vs strategic loss; Jackson's death pivotal."
+    },
+    {
+        "id": 38,
+        "timeline": 1,
+        "time_start": 433.08,
+        "time_end": 435.71,
+        "text": "Meanwhile[433.08], Grant[433.26] was[433.49] tightening[433.63] a[434.19] noose[434.51] around[434.61] Vicksburg[435.71]",
+        "goal": "Introduce Vicksburg and Gettysburg chapter.",
+        "plan": [
+            "Timeline with Vicksburg and Gettysburg (July 1863) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Simultaneous Western/Eastern turning points."
+    },
+    {
+        "id": 39,
+        "timeline": 0,
+        "time_start": 435.71,
+        "time_end": 450.33,
+        "text": "the[436.01] Gibraltar[436.25] of[436.55] the[436.89] Mississippi[437.01]. For[437.89] months[438.01] he[438.35] maneuvered[438.65], failed[439.15], and[439.29] tried[439.55] again[440.37]. Finally[440.53], in[440.85] April[441.25], he[441.39] ran[441.53] his[442.51] gunboats[442.81] past[443.11] the[443.81] batteries[443.93], ferried[444.23] his[444.31] army[444.89] across[445.13] the[445.25] river[445.65], and[445.97] won[446.15] five[446.27] battles[446.53] in[447.53] three[447.79] weeks[448.07]. He[448.37] laid[448.53] siege[449.33] to[449.63] the[449.93] city[450.33].",
+        "goal": "Show Grant's Vicksburg campaign: running batteries, five battles, siege.",
+        "plan": [
+            "Vicksburg 'Gibraltar' on bluffs",
+            "Gunboats run batteries at night (fire trails)",
+            "Army crosses river, five battle stars in 3 weeks",
+            "Siege lines encircle city"
+        ],
+        "frames": 4,
+        "characters": [
+            "Ulysses S. Grant"
+        ],
+        "items": [
+            "Vicksburg Map",
+            "Gunboat",
+            "Siege Lines"
+        ],
+        "reason": "Complex campaign simplified: bold move -> battles -> siege."
+    },
+    {
+        "id": 40,
+        "timeline": 0,
+        "time_start": 450.57,
+        "time_end": 468.72,
+        "text": "For[450.57] forty[450.85] - seven[451.49] days[451.61], the[451.97] people[452.43] of[452.57] Vicksburg[452.88] lived[453.12] in[453.50] caves[453.94] dug[454.36] into[454.48] the[455.22] clay[455.76] hills[456.72], eating[456.86] mule[457.48] meat[458.20] and[458.60] rats[459.68], while[460.08] Union[460.44] shells[460.94] fell[461.08] around[461.24] them[461.98]. On[462.10] July[462.84] 4[463.08] \u2014 the[463.42] day[463.56] after[464.36] Pickett[465.08] ' s[465.28] Charge[465.72] failed[466.04] at[467.06] Gettysburg[467.44] \u2014 Vicksburg[468.28] surrendered[468.72].",
+        "goal": "Show 47-day siege horror and July 4 surrender linked to Gettysburg.",
+        "plan": [
+            "Caves in clay hills, families inside",
+            "Mule meat / rats on plate",
+            "Shells explode overhead (47-day counter)",
+            "July 4: White flag; simultaneous text: 'Gettysburg decided yesterday'"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Vicksburg Caves",
+            "Siege Mortar",
+            "White Flag"
+        ],
+        "reason": "Civilian suffering; calendar count; dramatic July 4 coincidence."
+    },
+    {
+        "id": 41,
+        "timeline": 0,
+        "time_start": 469.08,
+        "time_end": 477.45,
+        "text": "The[469.08] Mississippi[469.30] River[470.56], Lincoln[471.05] said[471.33], \"[471.59] again[471.59] goes[472.23] unvexed[472.39] to[472.79] the[473.73] sea[473.99]. \"[474.27] The[474.27] Confederacy[474.61] was[475.73] cut[476.01] in[476.21] two[477.45].",
+        "goal": "Show Mississippi opened, Confederacy bisected.",
+        "plan": [
+            "Mississippi River animates clear from Cairo to Gulf",
+            "Lincoln quote appears on water",
+            "Confederacy map splits in two (Trans-Mississippi separated)"
+        ],
+        "frames": 3,
+        "characters": [
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Mississippi River Map",
+            "Split Confederacy Map"
+        ],
+        "reason": "Strategic payoff visualized; Lincoln's words on the river."
+    },
+    {
+        "id": 42,
+        "timeline": 0,
+        "time_start": 477.55,
+        "time_end": 496.91,
+        "text": "Gettysburg[477.55] had[477.67] begun[477.99] by[478.51] accident[479.79]. Lee[480.45] ' s[480.85] army[480.98], marching[481.07] north[481.19] into[481.65] Pennsylvania[481.81], collided[482.18] with[482.42] Union[482.84] cavalry[482.96] on[483.04] June[483.44] 30[483.88]. Three[484.16] days[484.66] later[484.88], fifty[485.00] - one[485.30] thousand[485.48] men[485.78] were[486.42] casualties[486.58].",
+        "goal": "Show Gettysburg accidental start and three-day carnage.",
+        "plan": [
+            "Lee's army marching north, shoeless",
+            "Collision at Gettysburg: cavalry skirmish",
+            "Three-day calendar, each day battle expands",
+            "Casualty counter: 51,000"
+        ],
+        "frames": 4,
+        "characters": [
+            "Robert E. Lee"
+        ],
+        "items": [
+            "Gettysburg Map",
+            "Calendar"
+        ],
+        "reason": "Accidental meeting; three-day progression; massive casualties."
+    },
+    {
+        "id": 43,
+        "timeline": 0,
+        "time_start": 486.94,
+        "time_end": 504.82,
+        "text": "On[486.94] the[487.70] third[487.92] afternoon[488.28], twelve[488.40] thousand[488.78] Confederates[489.18] stepped[489.28] out[489.50] of[490.24] the[490.40] woods[490.62] and[490.86] marched[491.10] three[492.00] - quarters[492.33] of[492.93] a[493.03] mile[493.17] across[493.95] open[494.17] fields[494.45] into[495.47] the[495.85] teeth[496.71] of[496.91] Union[497.11] artillery[497.57] and[498.65] rifle[498.77] fire[499.09]. They[499.29] reached[499.59] the[499.81] stone[500.01] wall[500.39] at[500.57] the[500.80] Angle[501.68]. They[501.78] did[501.98] not[503.06] go[503.46] further[503.88]. Lee[504.02] retreated[504.16] in[504.82] the[505.50] rain[505.50].",
+        "goal": "Show Pickett's Charge: the high water mark and repulse.",
+        "plan": [
+            "12,000 Confederates emerge from woods",
+            "March 3/4 mile across open field (distance marker)",
+            "Union artillery/rifle fire tears lines",
+            "Few reach stone wall at The Angle \u2014 high water mark",
+            "Lee retreats in rain"
+        ],
+        "frames": 5,
+        "characters": [
+            "Robert E. Lee"
+        ],
+        "items": [
+            "Pickett's Charge Map",
+            "Stone Wall at The Angle",
+            "Confederate Battle Flag"
+        ],
+        "reason": "Climactic moment; distance visual; high water mark; rain retreat."
+    },
+    {
+        "id": 44,
+        "timeline": 0,
+        "time_start": 505.58,
+        "time_end": 512.73,
+        "text": "The[505.58] Union[506.62] commander[506.78], George[507.16] Meade[507.36], did[507.54] not[508.44] pursue[508.60] aggressively[508.94]. The[509.14] war[509.40] would[510.12] go[510.36] on[510.69] for[511.26] nearly[511.44] two[511.62] more[511.93] years[512.73].",
+        "goal": "Show Meade's missed opportunity; war continues.",
+        "plan": [
+            "Meade with binoculars, army intact behind him",
+            "Lee's army escapes across Potomac",
+            "Calendar flips: 2 more years",
+            "Text: 'War would go on nearly two more years'"
+        ],
+        "frames": 4,
+        "characters": [
+            "George Meade",
+            "Robert E. Lee"
+        ],
+        "items": [
+            "Binoculars",
+            "Calendar"
+        ],
+        "reason": "Contrast with Grant's aggressiveness; strategic consequence."
+    },
+    {
+        "id": 45,
+        "timeline": 1,
+        "time_start": 512.89,
+        "time_end": 514.73,
+        "text": "In[512.89] the[513.57] aftermath[513.71], Lincoln[513.91] traveled[514.73]",
+        "goal": "Introduce Gettysburg Address chapter.",
+        "plan": [
+            "Timeline with The Gettysburg Address (19 November 1863) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Gettysburg Address."
+    },
+    {
+        "id": 46,
+        "timeline": 0,
+        "time_start": 514.73,
+        "time_end": 524.79,
+        "text": "to[514.87] the[515.43] battlefield[515.93] to[516.57] dedicate[516.69] a[517.17] cemetery[517.35]. He[517.43] spoke[517.85] for[517.97] two[518.33] minutes[518.43]. \"[518.85] The[519.39] world[519.53] will[519.91] little[519.91] note[520.11], nor[521.01] long[521.61] remember[521.71], what[521.95] we[522.29] say[522.41] here[523.29], \"[523.53] he[523.95] said[523.95]. He[524.17] was[524.45] wrong[524.79].",
+        "goal": "Show Lincoln's brief dedication and his mistaken prediction.",
+        "plan": [
+            "Gettysburg cemetery, fresh graves",
+            "Lincoln speaks, crowd listens",
+            "Timer: 2 minutes",
+            "Quote appears: 'World will little note...' then 'He was wrong.'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Gettysburg Cemetery",
+            "Podium"
+        ],
+        "reason": "Iconic moment; irony of his prediction visualized."
+    },
+    {
+        "id": 47,
+        "timeline": 0,
+        "time_start": 525.0,
+        "time_end": 541.08,
+        "text": "The[525.00] Gettysburg[525.98] Address[526.32] redefined[527.60] the[528.00] war[528.32] as[528.74] a[529.02] test[529.16] of[529.72] whether[529.96] a[530.28] nation[531.14] conceived[531.44] in[531.98] liberty[532.16] could[533.30] endure[533.92]. It[534.66] promised[535.30] a[536.32] new[536.84] birth[537.40] of[538.22] freedom[538.42]. That[538.70] freedom[538.90] was[539.58] being[539.80] bought[540.26] with[540.90] blood[541.08].",
+        "goal": "Show Address redefining war's meaning: liberty, endurance, new birth of freedom.",
+        "plan": [
+            "Words animate: 'test whether nation conceived in liberty can endure'",
+            "New birth of freedom rises from battlefield",
+            "Blood drops transform into stars on flag",
+            "Lincoln's silhouette against cemetery"
+        ],
+        "frames": 4,
+        "characters": [
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Gettysburg Address Text",
+            "American Flag"
+        ],
+        "reason": "Abstract concepts made visual; blood-to-freedom transformation."
+    },
+    {
+        "id": 48,
+        "timeline": 1,
+        "time_start": 541.5,
+        "time_end": 543.66,
+        "text": "In[541.50] 1864[541.62], Lincoln[542.00] brought[542.20] Grant[542.30] east[543.50] to[543.66]",
+        "goal": "Introduce Overland Campaign chapter.",
+        "plan": [
+            "Timeline with The Overland Campaign (1864) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Grant takes overall command."
+    },
+    {
+        "id": 49,
+        "timeline": 0,
+        "time_start": 543.66,
+        "time_end": 555.31,
+        "text": "command[544.50] all[545.40] Union[545.71] armies[546.18]. Grant[546.52] ' s[547.71] strategy[548.41] was[548.67] simple[549.83]: coordinate[549.95] simultaneous[550.29] offensives[551.31] everywhere[551.99], destroy[552.33] Confederate[552.73] armies[552.99], and[553.17] never[554.13] let[554.53] go[555.31].",
+        "goal": "Show Grant's unified strategy: simultaneous offensives, destroy armies, never let go.",
+        "plan": [
+            "Grant promoted: three stars, map of all theaters",
+            "Arrows launch simultaneously: Virginia, Georgia, Shenandoah, etc.",
+            "Text: 'Destroy armies / Never let go'",
+            "Contrast: previous commanders' single-theater focus"
+        ],
+        "frames": 4,
+        "characters": [
+            "Ulysses S. Grant"
+        ],
+        "items": [
+            "National Strategy Map",
+            "Three-Star Shoulder Boards"
+        ],
+        "reason": "Strategic shift visualized; multiple arrows = coordinated pressure."
+    },
+    {
+        "id": 50,
+        "timeline": 0,
+        "time_start": 555.65,
+        "time_end": 575.09,
+        "text": "The[555.65] Overland[556.09] Campaign[556.17] that[557.13] began[557.53] in[558.13] May[558.31] was[558.73] a[559.51] slaughterhouse[559.65]. The[559.99] Wilderness[560.35], Spotsylvania[560.57], Cold[561.29] Harbor[561.45] \u2014 forty[562.23] days[562.49], fifty[563.39] - five[563.65] thousand[563.99] Union[564.39] casualties[564.67]. At[564.79] Cold[565.93] Harbor[566.29], seven[566.81] thousand[567.23] men[567.79] fell[568.19] in[568.61] twenty[569.19] minutes[569.31]. Northern[570.21] newspapers[570.71] called[571.05] Grant[571.39] a[571.57] butcher[572.53]. Lincoln[572.89] refused[573.21] to[573.51] remove[574.45] him[575.09].",
+        "goal": "Show Overland Campaign's brutal attrition and Cold Harbor horror.",
+        "plan": [
+            "Map: Wilderness -> Spotsylvania -> Cold Harbor (40 days)",
+            "Casualty counter: 55,000",
+            "Cold Harbor: 7,000 fall in 20 minutes (clock sweeps)",
+            "Newspaper: 'Grant the Butcher'; Lincoln: 'I can't spare this man \u2014 he fights'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Ulysses S. Grant",
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Overland Campaign Map",
+            "Casualty Counter",
+            "Newspaper Headline"
+        ],
+        "reason": "Relentless pace; Cold Harbor as nadir; Lincoln's crucial support."
+    },
+    {
+        "id": 51,
+        "timeline": 0,
+        "time_start": 575.09,
+        "time_end": 584.92,
+        "text": "\"[576.22] I[576.70] can[576.70] ' t[576.89] spare[577.08] this[577.36] man[577.60], \"[578.41] he[578.62] said[578.62]. \"[579.63] He[579.63] fights[580.04]. \"[580.30] While[580.30] Grant[581.04] hammered[581.18] Lee[581.72] in[582.58] Virginia[582.70], William[583.18] Tecumseh[583.28] Sherman[583.42] maneuvered[583.84] against[584.26] Joseph[584.56] Johnston[584.92] in[585.34] Georgia[585.84].",
+        "goal": "Show Lincoln's faith; shift to Sherman vs Johnston in Georgia.",
+        "plan": [
+            "Lincoln quote fixed on screen",
+            "Split screen: Grant hammering Lee / Sherman maneuvering in Georgia",
+            "Johnston retreating, trading space for time"
+        ],
+        "frames": 3,
+        "characters": [
+            "Abraham Lincoln",
+            "Ulysses S. Grant",
+            "William T. Sherman",
+            "Joseph Johnston"
+        ],
+        "items": [
+            "Split Screen Graphic"
+        ],
+        "reason": "Simultaneous campaigns; Lincoln's resolve; Johnston's Fabian strategy."
+    },
+    {
+        "id": 52,
+        "timeline": 1,
+        "time_start": 585.34,
+        "time_end": 585.84,
+        "text": "in[585.34] Georgia[585.84].",
+        "goal": "Introduce Sherman's March to the Sea chapter.",
+        "plan": [
+            "Timeline with Sherman's March to the Sea (1864) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Atlanta campaign leads to March to Sea."
+    },
+    {
+        "id": 53,
+        "timeline": 0,
+        "time_start": 585.84,
+        "time_end": 602.1,
+        "text": "Johnston[586.46] traded[586.60] space[587.04] for[587.40] time[588.08], falling[588.20] back[589.08] toward[589.24] Atlanta[589.82]. Davis[590.14], frustrated[591.04], replaced[591.24] him[592.08] with[592.28] John[592.60] Bell[592.80] Hood[592.96], who[593.42] attacked[594.24]. Sherman[594.62] took[594.88] Atlanta[595.14] on[595.48] September[595.66] 2[595.80]. The[596.18] capture[596.66] of[596.80] the[597.22] South[597.48] ' s[597.86] greatest[598.12] rail[598.48] hub[599.54] shattered[600.20] Confederate[600.62] morale[600.72] and[601.20] secured[602.10] Lincoln[602.48] ' s[602.68] re[603.70] - election[603.88] in[604.62] November[604.85].",
+        "goal": "Show Johnston replaced by Hood, Atlanta falls, Lincoln re-elected.",
+        "plan": [
+            "Johnston retreats -> Davis replaces with Hood",
+            "Hood attacks -> fails -> Atlanta burns",
+            "Rail hub destroyed icon",
+            "Newspaper: 'Atlanta Ours' -> Lincoln wins 80% soldier vote"
+        ],
+        "frames": 4,
+        "characters": [
+            "Joseph Johnston",
+            "John Bell Hood",
+            "William T. Sherman",
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Atlanta Map",
+            "Rail Hub Icon",
+            "Election Newspaper"
+        ],
+        "reason": "Command change; Atlanta's strategic/rail importance; political impact."
+    },
+    {
+        "id": 54,
+        "timeline": 0,
+        "time_start": 605.0,
+        "time_end": 627.01,
+        "text": "The[605.00] soldiers[605.35] voted[605.62] eighty[605.95] percent[606.09] for[606.57] Lincoln[607.21]. They[607.37] knew[607.83] what[608.01] the[608.61] election[608.79] meant[609.27]. Sherman[609.37] then[609.57] cut[609.81] loose[610.55] from[610.71] his[611.07] supply[611.57] lines[611.79] and[612.79] marched[613.03] sixty[613.19] miles[613.59] wide[614.09] across[614.33] Georgia[614.45], destroying[615.61] everything[615.73] of[616.53] military[616.75] value[617.03]. \"[618.19] War[618.29] is[618.29] cruelty[619.43], \"[619.71] he[619.83] wrote[619.83]. \"[620.81] There[621.03] is[621.37] no[621.75] use[622.03] trying[622.33] to[622.65] reform[622.79] it[622.79]. The[623.07] crueler[623.61] it[623.83] is[624.35], the[624.47] sooner[624.85] it[625.09] will[626.62] be[627.01] over[627.01]. \"[627.62] He[628.12] reached[628.30] Savannah[628.30] by[629.26] Christmas[629.60].",
+        "goal": "Show March to Sea: 60-mile wide destruction, Savannah at Christmas.",
+        "plan": [
+            "Soldiers voting: 80% Lincoln",
+            "Sherman cuts supply lines (symbolic cut)",
+            "60-mile wide path of destruction across Georgia map",
+            "Sherman quote: 'War is cruelty'",
+            "Savannah: Christmas gift to Lincoln"
+        ],
+        "frames": 5,
+        "characters": [
+            "William T. Sherman"
+        ],
+        "items": [
+            "March to Sea Map",
+            "Supply Line Cut Graphic",
+            "Savannah Cotton Bales"
+        ],
+        "reason": "Total war visualized; width of destruction; Christmas symbolism."
+    },
+    {
+        "id": 55,
+        "timeline": 0,
+        "time_start": 627.62,
+        "time_end": 636.28,
+        "text": "Then[630.66] he[630.92] turned[631.24] north[633.10] into[633.46] the[633.80] Carolinas[633.98]. The[634.98] Confederacy[635.38] was[635.94] being[636.12] strangled[636.28].",
+        "goal": "Show Sherman turns north; Confederacy strangled.",
+        "plan": [
+            "Map: Sherman pivots north into Carolinas",
+            "Anaconda tightens: East (Grant), West (Sherman), Mississippi (Union)",
+            "Confederacy outline constricts"
+        ],
+        "frames": 3,
+        "characters": [
+            "William T. Sherman"
+        ],
+        "items": [
+            "Carolinas Map",
+            "Anaconda Graphic"
+        ],
+        "reason": "Strategic strangulation visualized; pincer movement clear."
+    },
+    {
+        "id": 56,
+        "timeline": 1,
+        "time_start": 637.28,
+        "time_end": 638.55,
+        "text": "At[637.28] Petersburg[637.45], south[637.75] of[638.55] Richmond[638.73]",
+        "goal": "Introduce Fall of Richmond and Appomattox chapter.",
+        "plan": [
+            "Timeline with Fall of Richmond and Appomattox (April 1865) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Petersburg siege and final campaign."
+    },
+    {
+        "id": 57,
+        "timeline": 0,
+        "time_start": 638.55,
+        "time_end": 649.34,
+        "text": "the[638.99] armies[639.57] settled[639.71] into[640.01] nine[640.47] months[640.81] of[640.93] trench[641.19] warfare[641.59] that[642.35] presaged[642.65] the[643.35] Western[643.95] Front[644.11] of[644.75] 1914[644.99]. Grant[645.75] slowly[645.89] extended[646.47] his[646.97] lines[647.88], cutting[648.27] railroads[648.65]. By[648.79] April[649.24] 1865[649.34], Lee[649.48] ' s[649.84] army[650.28] was[650.46] starving[650.72].",
+        "goal": "Show 9-month Petersburg trenches, Grant extends lines, Lee starves.",
+        "plan": [
+            "Trench lines at Petersburg (WWI preview)",
+            "Grant's lines extend left, cut rail lines (Weldon, South Side)",
+            "Calendar: 9 months",
+            "Lee's army: skeletal horses, empty haversacks, 'Starving'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Ulysses S. Grant",
+            "Robert E. Lee"
+        ],
+        "items": [
+            "Petersburg Trenches",
+            "Railroad Cut Graphic",
+            "1914 Western Front Ghost"
+        ],
+        "reason": "Trench warfare foreshadowing; gradual strangulation; starvation visual."
+    },
+    {
+        "id": 58,
+        "timeline": 0,
+        "time_start": 649.34,
+        "time_end": 660.46,
+        "text": "Men[651.66] deserted[652.30] by[652.50] the[652.80] hundreds[653.18]. On[653.32] April[653.60] 1[653.96], a[654.62] Union[654.92] breakthrough[655.24] at[655.40] Five[656.30] Forks[656.46] severed[656.74] the[657.40] last[657.58] supply[657.86] line[658.18]. Lee[658.32] evacuated[658.72] Richmond[659.60] and[659.80] Petersburg[660.08] that[660.32] night[660.46].",
+        "goal": "Show Five Forks breakthrough, last supply cut, Richmond evacuated.",
+        "plan": [
+            "Desertion stream: hundreds leaving",
+            "Five Forks: Union breakthrough (arrow)",
+            "Last rail line cut",
+            "Night: Richmond burns, Lee's army slips away"
+        ],
+        "frames": 4,
+        "characters": [
+            "Robert E. Lee"
+        ],
+        "items": [
+            "Five Forks Map",
+            "Richmond Burning"
+        ],
+        "reason": "Collapse sequence: desertion -> breakthrough -> evacuation."
+    },
+    {
+        "id": 59,
+        "timeline": 0,
+        "time_start": 660.58,
+        "time_end": 678.27,
+        "text": "The[660.58] Confederate[661.10] government[661.26] fled[661.48]. Lincoln[662.10] walked[663.02] the[663.28] streets[663.60] of[664.36] the[664.70] fallen[664.86] capital[665.16] two[665.78] days[665.92] later[666.18], recognized[667.26] by[667.72] freed[668.42] people[668.62] who[669.16] knelt[669.56] before[669.68] him[670.46]. \"[670.66] Don[671.26] ' t[671.98] kneel[672.06] to[672.18] me[672.54], \"[672.70] he[672.70] told[672.70] them[673.12]. \"[673.99] You[674.25] must[674.78] kneel[674.92] to[675.09] God[675.09] only[676.11], and[676.33] thank[676.47] Him[676.81] for[677.09] the[677.33] liberty[677.47] you[677.59] will[677.85] hereafter[678.01] enjoy[678.27]. \"",
+        "goal": "Show Lincoln in fallen Richmond; freed people kneel; his humble response.",
+        "plan": [
+            "Richmond ruins, Confederate government fled",
+            "Lincoln walks streets (no guard), tall hat",
+            "Freed people kneel, tears",
+            "Lincoln lifts them: 'Kneel to God only... thank Him for liberty'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Richmond Ruins",
+            "Lincoln Top Hat"
+        ],
+        "reason": "Emotional climax; Lincoln's humanity; freed people's perspective."
+    },
+    {
+        "id": 60,
+        "timeline": 0,
+        "time_start": 678.67,
+        "time_end": 698.34,
+        "text": "Lee[678.67] headed[679.31] west[679.47], hoping[680.31] to[680.51] join[680.59] Johnston[680.79] in[681.09] North[681.41] Carolina[681.61]. Grant[682.05] ' s[683.17] cavalry[683.33] and[683.57] infantry[684.01] blocked[684.09] the[684.21] way[684.65]. At[684.77] Appomattox[685.09] Court[685.53] House[686.35] on[686.51] the[686.77] morning[687.03] of[687.25] April[687.57] 9[687.67], Lee[688.27] realized[688.41] he[688.55] was[688.67] surrounded[689.25]. \"[689.41] There[689.53] is[689.83] nothing[690.17] left[690.27] me[690.39] but[690.39] to[691.11] go[691.25] and[691.57] see[691.79] General[692.07] Grant[692.33], \"[693.27] he[693.65] said[693.65], \"[693.98] and[693.98] I[694.39] would[695.60] rather[696.08] die[696.30] a[696.50] thousand[697.66] deaths[697.94]. \"[698.18] He[698.34] met[698.34] Grant[699.32] in[699.48] the[699.66] parlor[700.70] of[701.60] Wilmer[702.18] McLean[702.48] ' s[702.92] house[703.10]",
+        "goal": "Show Lee's retreat blocked, surrender at Appomattox Court House.",
+        "plan": [
+            "Map: Lee west -> blocked by Grant's cavalry/infantry",
+            "Appomattox Court House, April 9 morning",
+            "Lee in dress uniform, Grant in mud-spattered private's coat",
+            "Lee quote: 'Nothing left but to see General Grant... rather die a thousand deaths'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Robert E. Lee",
+            "Ulysses S. Grant"
+        ],
+        "items": [
+            "Appomattox Court House",
+            "McLean House Parlor",
+            "Lee Dress Uniform",
+            "Grant Muddy Coat"
+        ],
+        "reason": "Contrast in appearance; McLean house irony (first battle HQ); Lee's dignity."
+    },
+    {
+        "id": 61,
+        "timeline": 0,
+        "time_start": 703.24,
+        "time_end": 724.47,
+        "text": "\u2014 the[703.24] same[703.70] man[704.84] whose[704.98] farm[705.26] at[705.48] Manassas[706.34] had[706.66] been[706.90] the[707.04] headquarters[707.90] for[708.08] the[708.70] first[708.88] battle[709.06] of[709.64] the[710.57] war[710.66]. The[710.85] war[711.11] had[711.45] come[711.63] full[712.25] circle[712.79]. Grant[713.51] offered[714.11] generous[714.33] terms[714.75]: officers[715.85] kept[716.25] their[716.79] sidearms[717.39], men[717.53] kept[718.61] their[718.75] horses[719.09], all[720.15] were[720.31] paroled[720.47]. Twenty[720.79] - five[721.65] thousand[721.89] rations[722.79] were[723.09] issued[723.43] to[723.73] the[724.03] starving[724.47] Confederates[724.61].",
+        "goal": "Show war comes full circle at McLean house; generous terms; feeding starving enemy.",
+        "plan": [
+            "Split: McLean farm at Manassas (1861) / McLean parlor at Appomattox (1865)",
+            "War comes full circle text",
+            "Terms: officers keep swords, men keep horses, all paroled",
+            "25,000 rations distributed to Confederates"
+        ],
+        "frames": 4,
+        "characters": [
+            "Ulysses S. Grant",
+            "Robert E. Lee"
+        ],
+        "items": [
+            "McLean House",
+            "Sword",
+            "Horse",
+            "Rations"
+        ],
+        "reason": "Poetic symmetry; magnanimity in victory; practical humanity (horses/rations)."
+    },
+    {
+        "id": 62,
+        "timeline": 0,
+        "time_start": 724.95,
+        "time_end": 731.31,
+        "text": "\"[724.95] The[725.77] war[725.89] is[726.45] over[726.45], \"[726.85] Grant[726.85] told[726.97] his[727.29] staff[728.15]. \"[728.29] The[728.55] rebels[728.69] are[728.83] our[729.09] countrymen[729.29] again[729.29]. \"[730.45] It[730.59] was[730.77] not[731.31] quite[731.31] over[731.31].",
+        "goal": "Show Grant's reconciliation declaration; but war not quite over.",
+        "plan": [
+            "Grant to staff: 'The war is over. The rebels are our countrymen again.'",
+            "Fade to: Johnston still in field, Kirby Smith west",
+            "Text: 'Not quite over'"
+        ],
+        "frames": 3,
+        "characters": [
+            "Ulysses S. Grant"
+        ],
+        "items": [],
+        "reason": "Reconciliation moment; foreshadows final surrenders."
+    },
+    {
+        "id": 63,
+        "timeline": 1,
+        "time_start": 731.43,
+        "time_end": 732.97,
+        "text": "Johnston[731.43] surrendered[731.77] to[732.01] Sherman[732.39] on[732.97]",
+        "goal": "Introduce Lincoln's Assassination chapter.",
+        "plan": [
+            "Timeline with Lincoln's Assassination (14 April 1865) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Final surrenders then assassination."
+    },
+    {
+        "id": 64,
+        "timeline": 0,
+        "time_start": 732.97,
+        "time_end": 737.25,
+        "text": "April[733.13] 26[733.45]. Kirby[734.59] Smith[734.73] surrendered[734.91] the[735.35] Trans[735.77] - Mississippi[736.13] on[736.47] May[736.59] 26[737.01]. But[737.25] on[737.87] April[738.05] 14[738.93], Good[739.23] Friday[740.27], John[740.38] Wilkes[740.78] Booth[741.28] shot[741.52] Lincoln[741.76] at[742.26] Ford[742.42] ' s[742.76] Theatre[743.70].",
+        "goal": "Show final surrenders, then Lincoln assassinated at Ford's Theatre.",
+        "plan": [
+            "Johnston surrenders to Sherman (April 26)",
+            "Kirby Smith surrenders Trans-Mississippi (May 26)",
+            "Good Friday, April 14: Ford's Theatre exterior",
+            "Booth shoots Lincoln in box"
+        ],
+        "frames": 4,
+        "characters": [
+            "John Wilkes Booth",
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "Ford's Theatre",
+            "Deringer Pistol"
+        ],
+        "reason": "War effectively over; then sudden tragedy; Good Friday symbolism."
+    },
+    {
+        "id": 65,
+        "timeline": 0,
+        "time_start": 743.92,
+        "time_end": 759.23,
+        "text": "The[743.92] president[744.10] died[744.82] the[744.98] next[745.44] morning[745.72]. The[745.88] man[746.94] who[748.06] had[748.84] held[749.06] the[749.16] Union[749.26] together[749.46], who[749.80] had[749.88] navigated[750.00] the[751.16] war[751.65] from[751.83] limited[752.03] conflict[752.41] to[753.25] total[753.39] revolution[753.45], who[753.83] had[754.19] promised[754.43] malice[755.19] toward[755.41] none[755.91] and[756.55] charity[757.07] for[757.63] all[758.57], was[758.71] gone[759.23].",
+        "goal": "Show Lincoln's death and summarize his achievement.",
+        "plan": [
+            "Lincoln dies morning April 15",
+            "Montage: held Union, limited -> total revolution, malice toward none",
+            "Second Inaugural words float: 'With malice toward none, with charity for all'",
+            "Empty chair at White House"
+        ],
+        "frames": 4,
+        "characters": [
+            "Abraham Lincoln"
+        ],
+        "items": [
+            "White House Chair",
+            "Second Inaugural Text"
+        ],
+        "reason": "Epitaph visual; his words become his legacy."
+    },
+    {
+        "id": 66,
+        "timeline": 1,
+        "time_start": 759.37,
+        "time_end": 760.97,
+        "text": "Andrew[759.37] Johnson[759.91], a[760.15] Southern[760.97] Unionist[761.33] with[762.11] no[762.27] sympathy[762.67] for[763.07] Black[763.31] rights[763.41], took[764.57] the[764.75] oath[764.89].",
+        "goal": "Introduce Reconstruction and Legacy chapter.",
+        "plan": [
+            "Timeline with Reconstruction and Legacy (1865\u20131877) highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter transition: Reconstruction era begins."
+    },
+    {
+        "id": 67,
+        "timeline": 0,
+        "time_start": 760.97,
+        "time_end": 777.02,
+        "text": "The[765.23] numbers[765.47] told[766.50] the[767.22] story[767.39]. Seven[767.66] hundred[767.94] and[768.60] fifty[768.72] thousand[769.00] dead[769.96] \u2014 two[770.20] and[770.64] a[771.34] half[771.60] percent[772.34] of[772.48] the[772.56] population[772.98], equivalent[773.06] to[773.42] eight[774.36] million[774.50] today[774.84]. Four[775.76] million[775.96] people[776.42] were[776.56] free[777.02].",
+        "goal": "Show war's human cost and emancipation scale.",
+        "plan": [
+            "Casualty counter: 750,000 dead",
+            "2.5% of population = 8 million today",
+            "4 million freed: each dot a person",
+            "13th Amendment parchment: 'Slavery abolished forever'"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Casualty Counter",
+            "13th Amendment",
+            "Freed People Dots"
+        ],
+        "reason": "Stark statistics; modern equivalence makes it tangible; freedom count."
+    },
+    {
+        "id": 68,
+        "timeline": 0,
+        "time_start": 777.18,
+        "time_end": 794.63,
+        "text": "The[777.18] Thirteenth[777.28] Amendment[777.58] abolished[778.02] slavery[778.16] forever[778.52]. The[779.48] Fourteenth[779.98] and[780.48] Fifteenth[780.66] would[780.80] follow[781.72], writing[782.00] citizenship[782.26] and[782.60] voting[783.64] rights[783.76] into[784.10] the[784.46] Constitution[784.94]. But[785.08] the[785.16] peace[785.48] was[785.82] fragile[786.83]. Reconstruction[787.57] would[788.59] bring[789.21] Black[789.69] congressmen[789.69] and[789.81] state[790.41] governments[790.59], then[790.65] violent[791.03] overthrow[791.97], Jim[792.05] Crow[792.43], and[792.79] a[793.63] century[793.77] of[793.87] deferred[794.21] justice[794.63].",
+        "goal": "Show Reconstruction amendments, then betrayal: Jim Crow, century of deferred justice.",
+        "plan": [
+            "13th, 14th, 15th Amendments animate into Constitution",
+            "Black congressmen take seats",
+            "Violent overthrow: KKK, Red Shirts",
+            "Jim Crow sign appears",
+            "Timeline stretches: 'Century of Deferred Justice'"
+        ],
+        "frames": 5,
+        "characters": [],
+        "items": [
+            "13th/14th/15th Amendments",
+            "Jim Crow Sign",
+            "Century Timeline"
+        ],
+        "reason": "Hope then betrayal; constitutional amendments visualized; long tragedy."
+    },
+    {
+        "id": 69,
+        "timeline": 0,
+        "time_start": 794.77,
+        "time_end": 801.84,
+        "text": "The[794.77] Lost[794.93] Cause[795.27] mythology[795.35] would[795.55] rewrite[796.05] the[796.49] war[796.61] as[796.99] a[797.35] noble[797.69] defense[797.77] of[798.69] states[798.83] ' rights[799.23], erasing[799.47] slavery[799.93] from[800.05] the[800.47] narrative[800.61]. Yet[801.72] the[801.84] Union[802.01] survived[802.34].",
+        "goal": "Show Lost Cause mythology erasing slavery; but Union survived.",
+        "plan": [
+            "Lost Cause book: 'Noble Defense of States' Rights'",
+            "Slavery erased from pages (redacted)",
+            "Union flag still flying, intact",
+            "Text: 'Yet the Union survived'"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Lost Cause Book",
+            "Redacted Text Graphic",
+            "US Flag"
+        ],
+        "reason": "Historical memory battle; visual redaction of slavery; Union endurance."
+    },
+    {
+        "id": 70,
+        "timeline": 0,
+        "time_start": 802.01,
+        "time_end": 826.85,
+        "text": "The[802.80] United[802.92] States[803.36] emerged[803.50] as[804.52] a[804.76] modern[805.22] nation[806.40] - state[806.50]: centralized[806.62], industrialized[807.12], connected[807.30] by[808.52] railroads[808.69] and[808.93] telegraphs[809.35], with[809.49] a[810.43] national[810.85] currency[811.39], a[811.59] national[811.75] banking[811.89] system[812.87], and[813.05] a[813.53] federal[813.97] government[814.79] that[815.01] had[815.10] proven[815.58] it[816.44] could[816.70] mobilize[817.10] millions[817.26] and[817.34] project[818.30] power[818.56] across[819.06] a[819.22] continent[820.12]. The[820.24] war[820.36] had[820.68] settled[820.82] the[821.18] question[821.37] of[821.63] secession[822.13]. It[822.91] had[823.05] not[823.73] settled[824.19] the[824.49] question[825.15] of[825.35] equality[825.59]. That[825.77] struggle[826.69] continues[826.85].",
+        "goal": "Show modern nation forged by war; secession settled, equality unresolved.",
+        "plan": [
+            "Modern US map: railroads, telegraphs, national currency",
+            "Federal government building: strong, centralized",
+            "Secession question: settled (gavel)",
+            "Equality question: open, scales unbalanced, 'Struggle continues'",
+            "Fade to present"
+        ],
+        "frames": 5,
+        "characters": [],
+        "items": [
+            "Modern US Map",
+            "Railroad/Telegraph Lines",
+            "National Currency",
+            "Scales of Justice"
+        ],
+        "reason": "Legacy summary; two questions: one answered, one open; connects to today."
+    },
+    {
+        "id": 71,
+        "timeline": 0,
+        "time_start": 826.85,
+        "time_end": 826.85,
+        "text": "In the parlor at Appomattox, as Lee prepared to leave, Grant introduced him to his staff. One officer, Ely Parker, was a Seneca Indian. Lee stared for a moment, then extended his hand. \" I am glad to see one real American here, \" he said. Parker shook it. \" We are all Americans, \" he replied.",
+        "goal": "Show final grace note: Ely Parker and Lee; 'We are all Americans.'",
+        "plan": [
+            "Appomattox parlor, Lee preparing to leave",
+            "Grant introduces staff: Ely Parker (Seneca) steps forward",
+            "Lee stares, extends hand: 'Glad to see one real American here'",
+            "Parker shakes: 'We are all Americans'",
+            "Fade on handshake"
+        ],
+        "frames": 5,
+        "characters": [
+            "Robert E. Lee",
+            "Ulysses S. Grant",
+            "Ely Parker"
+        ],
+        "items": [
+            "McLean House Parlor",
+            "Seneca Medal"
+        ],
+        "reason": "Perfect closing anecdote; irony and reconciliation; Indigenous American perspective."
+    }
+]

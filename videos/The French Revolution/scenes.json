@@ -1,0 +1,1037 @@
+[
+    {
+        "id": 0,
+        "timeline": 1,
+        "time_start": 0.19,
+        "time_end": 1.07,
+        "text": "It[0.19] began[0.27] with[0.75] a[0.97] ledger[1.07].",
+        "goal": "Introduce the documentary and the first chapter: Summoning the Estates-General.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Every documentary chapter begins with a timeline scene. This opens the film and highlights the first chapter."
+    },
+    {
+        "id": 1,
+        "timeline": 0,
+        "time_start": 1.07,
+        "time_end": 10.84,
+        "text": "A[1.99] simple[2.09], terrifying[2.65] column[3.27] of[3.71] numbers[3.89] that[4.39] refused[4.63] to[5.12] balance[5.25]. In[6.26] 1789[6.82], France[8.00] was[8.46] the[8.68] most[8.80] populous[9.08], powerful[9.78] nation[10.26] in[10.68] Europe[10.84].",
+        "goal": "Establish France's dominance in Europe contrasted with its financial collapse.",
+        "plan": [
+            "Europe map with France highlighted",
+            "Ledger book opening with unbalanced columns of numbers"
+        ],
+        "frames": 2,
+        "characters": [],
+        "items": [
+            "Europe Map",
+            "Ledger"
+        ],
+        "reason": "Visual contrast between France's geopolitical power and the simple, terrifying ledger that refused to balance. Two frames build the irony progressively."
+    },
+    {
+        "id": 2,
+        "timeline": 0,
+        "time_start": 10.84,
+        "time_end": 20.43,
+        "text": "Its[11.66] culture[11.80] set[12.24] the[12.52] standard[12.66] for[13.16] every[13.44] court[13.70] from[14.04] Madrid[14.22] to[14.70] St[14.84]. Petersburg[15.08]. But[16.16] beneath[16.36] the[16.82] gilded[16.98] mirrors[17.43] of[17.87] Versailles[17.97], the[19.07] state[19.21] was[19.61] effectively[19.81] bankrupt[20.43].",
+        "goal": "Show the gilded surface of Versailles hiding state bankruptcy.",
+        "plan": [
+            "Hall of Mirrors at Versailles, gilded and magnificent",
+            "Same Hall of Mirrors with a translucent overlay of red ink bleeding through the mirrors, labeled 'BANKRUPT'"
+        ],
+        "frames": 2,
+        "characters": [],
+        "items": [
+            "Versailles Hall of Mirrors"
+        ],
+        "reason": "The visual metaphor of gilded mirrors cracking to reveal bankruptcy reinforces the narration's contrast. Second frame modifies the first."
+    },
+    {
+        "id": 3,
+        "timeline": 0,
+        "time_start": 20.43,
+        "time_end": 36.73,
+        "text": "Half[21.49] the[21.75] annual[21.95] revenue[22.31] vanished[22.65] before[23.09] it[23.41] reached[23.53] the[23.79] treasury[23.91], swallowed[24.97] by[25.37] interest[25.59] payments[25.93] on[26.37] a[26.47] debt[26.57] incurred[26.88] fighting[27.30] other[27.66] people[27.86] \u2019[28.20] s[28.20] wars[29.04] \u2014 including[29.44] a[29.52] rebellion[30.04] across[30.38] the[30.50] Atlantic[30.98] where[31.20] French[31.52] officers[31.96] had[32.12] learned[32.38] a[32.44] dangerous[32.92] idea[34.04]: that[34.20] a[34.28] king[34.58] could[34.74] be[34.88] replaced[35.34] by[35.52] a[35.60] constitution[36.73].",
+        "goal": "Explain the debt cycle and the American Revolution's ideological impact.",
+        "plan": [
+            "Flow chart: French Treasury \u2192 Interest Payments \u2192 Debt (American War)",
+            "Map of Atlantic with arrow from America to France labeled 'Dangerous Idea: Constitution > King'",
+            "French officer returning from America carrying a pamphlet"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Flow Chart",
+            "Atlantic Map",
+            "Pamphlet"
+        ],
+        "reason": "Three frames progressively build the causal chain: debt structure \u2192 geographic source \u2192 ideological transmission via returning officers."
+    },
+    {
+        "id": 4,
+        "timeline": 0,
+        "time_start": 36.73,
+        "time_end": 55.13,
+        "text": "The[36.87] stakes[37.35] were[37.65] existential[38.91]. Twenty[38.97] -[38.97] eight[39.21] million[39.47] people[39.65] \u2014[39.75] 98[39.75] percent[39.87] of[42.85] the[43.21] population[43.33] \u2014[43.33] carried[43.75] the[44.09] entire[44.89] tax[45.09] burden[45.35]. They[45.48] paid[46.02] the[46.13] *[46.13] taille[46.56] *[46.56], the[46.72] *[46.72] gabelle[47.52] *[47.52] on[47.66] salt[48.00], the[48.14] *[48.14] d\u00eeme[48.24] *[48.24] to[48.60] a[48.84] Church[49.10] they[50.06] often[50.24] resented[50.58], and[50.90] feudal[51.06] dues[51.44] to[51.58] lords[51.74] who[51.94] had[52.22] not[52.32] drawn[52.64] a[52.78] sword[53.06] for[53.16] them[53.24] in[54.16] a[54.25] century[54.55].",
+        "goal": "Visualize the crushing tax burden on the Third Estate.",
+        "plan": [
+            "Pyramid diagram: Top 2% (Clergy, Nobility) \u2014 No Taxes. Bottom 98% (Third Estate) \u2014 Crushed by Taille, Gabelle, D\u00eeme, Feudal Dues",
+            "Peasant handing over coins to three collectors: Tax Farmer, Priest, Lord",
+            "Close-up of empty peasant hands"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Social Pyramid Diagram",
+            "Coins"
+        ],
+        "reason": "Progressive frames: structural diagram \u2192 human scene \u2192 emotional close-up. Shows both the systemic and personal impact."
+    },
+    {
+        "id": 5,
+        "timeline": 0,
+        "time_start": 55.13,
+        "time_end": 74.82,
+        "text": "A[55.13] bad[55.41] harvest[56.53] meant[56.69] starvation[57.25]. The[57.31] harvest[57.53] of[57.73] 1788[57.89] had[60.29] been[60.39] catastrophic[60.67]. A[61.11] hailstorm[61.27] the[61.61] size[61.73] of[62.31] walnuts[62.53] had[62.87] shredded[62.99] the[63.89] crops[64.03]. The[64.39] winter[64.61] that[65.16] followed[65.39] was[65.53] the[66.17] coldest[66.33] in[66.66] living[67.52] memory[67.75]. By[68.30] spring[68.44], the[68.74] price[68.88] of[69.30] bread[69.44] \u2014[69.80] the[69.94] staff[69.94] of[70.68] life[71.14] \u2014[71.14] consumed[72.12] 88[72.22] percent[72.30] of[72.70] a[73.52] worker[73.64] \u2019[74.08] s[74.08] wage[74.52].",
+        "goal": "Show the natural disasters that triggered the crisis.",
+        "plan": [
+            "Wheat field shredded by giant hailstones",
+            "Thermometer plunging to record low, frost covering the land",
+            "Bread loaf with 88% of it marked 'WAGE', tiny 12% left for 'EVERYTHING ELSE'"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Wheat Field",
+            "Thermometer",
+            "Bread Loaf"
+        ],
+        "reason": "Three distinct visual beats: hailstorm destruction \u2192 record winter \u2192 the resulting bread price crisis. Each frame is a different visual idea."
+    },
+    {
+        "id": 6,
+        "timeline": 0,
+        "time_start": 74.82,
+        "time_end": 100.39,
+        "text": "The[74.70] question[74.82] hanging[75.28] over[75.52] the[75.82] kingdom[76.12] was[76.26] not[76.60] whether[76.80] the[77.64] system[77.86] would[78.04] break[78.28], but[78.76] *[78.76] what[79.38] would[79.58] replace[79.70] it[80.02] *[80.02]. Would[80.94] the[81.18] King[81.34] reform[81.94]? Would[82.32] the[82.46] nobility[83.38] share[83.54] the[83.74] burden[83.88]? Or[84.14] would[84.98] the[85.14] Third[85.76] Estate[86.36] \u2014[86.36] the[86.86] lawyers[87.02], merchants[87.32], peasants[88.54], and[88.92] street[89.30] sweepers[89.38] \u2014[89.38] finally[89.68] demand[89.76] a[89.90] seat[90.75] at[91.27] the[92.25] table[92.33]? Louis[92.59] XVI[92.75], a[93.15] man[93.27] who[93.67] preferred[93.77] the[93.89] forge[94.29] to[95.31] the[95.41] council[95.91] chamber[96.21], a[96.43] locksmith[96.91] king[97.19] who[97.47] understood[97.65] metal[98.43] better[98.61] than[98.69] men[99.63], made[99.83] a[100.25] gamble[100.39].",
+        "goal": "Introduce the central dilemma and Louis XVI's character.",
+        "plan": [
+            "Three doors labeled 'King Reforms', 'Nobility Shares Burden', 'Third Estate Demands Seat'",
+            "Louis XVI at a forge hammering metal, looking uncomfortable in royal robes",
+            "Louis XVI at a gambling table, pushing chips to center: 'Estates-General'"
+        ],
+        "frames": 3,
+        "characters": [
+            "Louis XVI"
+        ],
+        "items": [
+            "Forge",
+            "Gambling Table"
+        ],
+        "reason": "Frames progress from abstract choices \u2192 character portrait (locksmith king) \u2192 the gamble metaphor made literal. Louis XVI appears in two frames."
+    },
+    {
+        "id": 7,
+        "timeline": 0,
+        "time_start": 100.39,
+        "time_end": 109.98,
+        "text": "He[100.81] summoned[101.32] the[101.52] Estates[101.80] -[101.80] General[102.32] for[103.48] May[103.64] 1789[103.92]. It[104.24] had[105.00] not[106.00] met[106.14] since[106.52] 1614[107.28]. He[107.42] needed[107.66] money[107.76]. He[108.92] got[109.06] a[109.56] revolution[109.98].",
+        "goal": "The summoning and its unintended consequence.",
+        "plan": [
+            "Royal decree scroll unfurling: 'Estates-General Summoned - May 1789'",
+            "Calendar pages flipping from 1614 to 1789 (175 years)",
+            "The word 'MONEY' transforming into 'REVOLUTION' with a crack effect"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Royal Decree",
+            "Calendar"
+        ],
+        "reason": "Three punchy visual beats: the decree \u2192 the 175-year gap \u2192 the ironic outcome. Fast pace matches the narration's rhythm."
+    },
+    {
+        "id": 8,
+        "timeline": 1,
+        "time_start": 109.98,
+        "time_end": 112.48,
+        "text": "The[110.08] deputies[110.67] arrived[110.75] at[110.91] Versailles[111.42] in[112.48]",
+        "goal": "Introduce Chapter 2: The Tennis Court Oath.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 2 begins. Timeline scene inserted before first content scene of this chapter."
+    },
+    {
+        "id": 9,
+        "timeline": 0,
+        "time_start": 112.48,
+        "time_end": 128.19,
+        "text": "their[112.61] prescribed[113.13] costumes[113.25]: the[113.65] clergy[114.63] in[114.77] violet[115.33] cassocks[115.45], the[115.85] nobility[116.21] in[116.39] plumed[117.23] hats[117.39] and[117.65] silk[118.09], the[118.25] Third[118.57] Estate[119.31] in[119.43] sober[119.73] black[120.37]. The[121.27] King[121.59] \u2019[121.59] s[121.77] minister[122.03], Necker[122.53], spoke[122.67] for[123.27] three[123.49] hours[123.69] and[123.85] said[124.11] nothing[124.29] about[125.43] the[125.79] one[126.75] thing[126.89] that[127.47] mattered[127.47]: voting[127.87] procedure[128.19].",
+        "goal": "Show the visual hierarchy of the three estates and the critical omission.",
+        "plan": [
+            "Three groups in distinct costumes: Clergy (violet), Nobility (plumed hats, silk), Third Estate (sober black) \u2014 Third Estate group is twice as large",
+            "Necker at podium, speech bubble with '...' (empty), while 'VOTING PROCEDURE' flashes red in background"
+        ],
+        "frames": 2,
+        "characters": [
+            "Necker"
+        ],
+        "items": [
+            "Estates Costumes"
+        ],
+        "reason": "First frame establishes visual hierarchy and double representation. Second frame highlights the deliberate silence on the crucial issue."
+    },
+    {
+        "id": 10,
+        "timeline": 0,
+        "time_start": 128.19,
+        "time_end": 140.08,
+        "text": "The[128.59] privileged[128.77] orders[128.85] wanted[129.61] voting[129.89] by[130.35] Estate[130.99] \u2014[130.99] two[131.17] against[131.45] one[131.89]. The[132.25] Third[132.63] Estate[132.85] wanted[133.61] voting[133.85] by[134.07] head[134.39] \u2014[134.39] where[135.22] their[135.46] double[135.66] representation[135.74] gave[136.72] them[136.85] a[137.42] majority[137.94]. The[138.20] deadlock[139.06] lasted[139.64] six[139.76] weeks[139.86].",
+        "goal": "Visualize the voting math and the six-week deadlock.",
+        "plan": [
+            "Split screen: Left \u2014 'Vote by Estate': 2 boxes (Clergy, Nobility) vs 1 box (Third). Right \u2014 'Vote by Head': 600+ deputies vs 300 privileged",
+            "Calendar pages flipping: 6 weeks of empty chairs and arguments"
+        ],
+        "frames": 2,
+        "characters": [],
+        "items": [
+            "Voting Diagram",
+            "Calendar"
+        ],
+        "reason": "First frame makes the arithmetic clear. Second frame conveys the duration of stalemate. Both are diagrammatic."
+    },
+    {
+        "id": 11,
+        "timeline": 0,
+        "time_start": 140.08,
+        "time_end": 160.19,
+        "text": "Then[140.08], on[140.42] a[140.76] rain[140.88] -[140.88] slicked[141.82] morning[141.90] in[142.38] June[142.82], a[143.06] provincial[143.26] priest[143.48] named[143.98] Abb\u00e9[144.26] Siey\u00e8s[144.40] rose[145.20] to[145.32] speak[145.44]. He[145.70] had[145.78] written[146.30] a[146.52] pamphlet[146.84] that[147.06] burned[148.48] through[148.96] Paris[149.14]: *[149.14] What[149.26] is[149.40] the[149.66] Third[150.56] Estate[151.50]? Everything[151.66]. What[151.88] has[152.00] it[152.32] been[152.70] until[153.50] now[154.34]? Nothing[154.50]. What[154.70] does[154.86] it[155.64] want[155.78]? To[156.22] become[157.64] something[158.77]. *[158.77] On[158.91] June[159.33] 17[160.01],",
+        "goal": "Introduce Siey\u00e8s and his revolutionary pamphlet.",
+        "plan": [
+            "Abb\u00e9 Siey\u00e8s rising in the hall, holding a burning pamphlet",
+            "Pamphlet pages floating over Paris streets, words igniting: 'Everything. Nothing. Something.'",
+            "Date stamp: JUNE 17, 1789"
+        ],
+        "frames": 3,
+        "characters": [
+            "Abb\u00e9 Siey\u00e8s"
+        ],
+        "items": [
+            "Pamphlet"
+        ],
+        "reason": "Character introduction \u2192 pamphlet's viral spread visualized \u2192 the decisive date. Three frames build the moment."
+    },
+    {
+        "id": 12,
+        "timeline": 0,
+        "time_start": 160.19,
+        "time_end": 178.01,
+        "text": "the[160.19] Third[160.45] Estate[160.87] voted[161.73]. They[161.93] declared[162.41] themselves[163.09] the[163.25] National[163.73] Assembly[164.79]. Not[165.11] the[165.29] representatives[166.27] of[166.41] an[166.57] order[167.35]. The[167.54] representatives[168.58] of[168.70] the[168.84] Nation[169.78]. Three[170.04] days[170.30] later[170.74], they[170.94] found[171.24] their[171.44] meeting[171.78] hall[172.02] locked[172.92]. *[172.92] Repairs[174.14], *[174.14] the[174.30] sign[174.64] read[175.38]. It[175.46] was[175.66] a[175.74] trap[176.59].",
+        "goal": "Show the declaration of the National Assembly and the king's trap.",
+        "plan": [
+            "Deputies raising hands: 'National Assembly' banner unfurls behind them",
+            "Sign on locked hall door: 'REPAIRS' \u2014 camera pulls back to show armed guards hidden behind columns",
+            "Red 'TRAP' stamp overlays the scene"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "National Assembly Banner",
+            "Hall Door Sign"
+        ],
+        "reason": "Progressive revelation: triumphant declaration \u2192 locked door with flimsy excuse \u2192 the trap revealed. Builds tension."
+    },
+    {
+        "id": 13,
+        "timeline": 0,
+        "time_start": 178.01,
+        "time_end": 195.88,
+        "text": "They[176.78] fled[177.15] to[177.32] a[177.43] nearby[178.01] indoor[178.35] tennis[178.71] court[179.55]. There[180.89], 577[181.61] men[181.93] swore[182.41] an[182.57] oath[182.93] not[183.17] to[183.31] separate[183.89] until[184.23] France[184.61] had[184.79] a[184.87] constitution[186.17]. One[186.35] deputy[187.21], Martin[187.53] -[187.53] Dauch[188.23], refused[189.29]. He[189.45] left[189.74] to[189.88] jeers[190.78]. The[190.94] Tennis[191.30] Court[191.60] Oath[191.92] was[192.14] not[192.42] a[192.52] legal[193.02] act[193.80]. It[193.90] was[194.08] a[194.18] seizure[194.70] of[194.84] sovereignty[195.88].",
+        "goal": "The Tennis Court Oath \u2014 a seizure of sovereignty.",
+        "plan": [
+            "Indoor tennis court: 577 men with raised hands, one man (Martin-Dauch) standing apart, arms crossed",
+            "Camera pushes in on the oath-takers' hands, light breaking through roof windows",
+            "Text on screen: 'SEIZURE OF SOVEREIGNTY' in bold revolutionary lettering"
+        ],
+        "frames": 3,
+        "characters": [
+            "Martin-Dauch"
+        ],
+        "items": [
+            "Tennis Court"
+        ],
+        "reason": "Wide establishing shot \u2192 intimate focus on the collective gesture \u2192 conceptual label. Martin-Dauch named as the sole dissenter."
+    },
+    {
+        "id": 14,
+        "timeline": 1,
+        "time_start": 195.88,
+        "time_end": 202.5,
+        "text": "The[196.02] King[196.38] capitulated[197.76]. On[197.92] June[198.32] 27[199.36], he[199.62] ordered[199.92] the[200.06] clergy[200.68] and[200.82] nobility[201.36] to[201.52] join[202.34]. But[202.50]",
+        "goal": "Introduce Chapter 3: Storming the Bastille.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 3 begins. King's capitulation transitions to next crisis point."
+    },
+    {
+        "id": 15,
+        "timeline": 0,
+        "time_start": 202.5,
+        "time_end": 220.71,
+        "text": "in[202.60] the[202.72] gardens[203.12] of[203.22] the[203.32] Palais[204.43] -[204.43] Royal[204.53], a[204.81] young[205.39] journalist[205.65] named[206.07] Camille[206.63] Desmoulins[206.93] leapt[207.19] onto[207.29] a[208.23] table[208.65], pistol[208.77] in[209.71] hand[210.07], tearing[210.15] a[210.47] green[210.73] leaf[210.89] from[211.01] a[211.35] tree[211.49] to[211.81] pin[211.91] on[212.05] his[212.79] hat[213.17]. *[213.17] To[214.05] arms[214.21]! *[214.21] he[215.13] shouted[215.67]. *[215.67] Necker[215.85] is[216.95] dismissed[217.13]! The[217.51] Swiss[217.97] Guards[218.13] are[219.11] marching[219.59]! *[219.59] Paris[220.71] exploded[220.85].",
+        "goal": "Camille Desmoulins ignites the Paris crowd.",
+        "plan": [
+            "Palais-Royal gardens: Camille Desmoulins on a table, pistol raised, pinning green leaf to hat",
+            "Crowd surging forward, faces lit by urgency",
+            "Paris map: explosion ripple effect from Palais-Royal outward"
+        ],
+        "frames": 3,
+        "characters": [
+            "Camille Desmoulins"
+        ],
+        "items": [
+            "Green Leaf Cockade",
+            "Pistol",
+            "Paris Map"
+        ],
+        "reason": "Iconic moment: Desmoulins on the table \u2192 crowd reaction \u2192 geographic spread. The green leaf becomes the first revolutionary cockade."
+    },
+    {
+        "id": 16,
+        "timeline": 0,
+        "time_start": 220.71,
+        "time_end": 235.72,
+        "text": "The[221.21] crowd[221.53] didn[221.87] '[221.87] t[221.99] storm[222.57] the[222.75] Bastille[222.87] for[223.19] its[224.31] seven[224.57] prisoners[225.68] \u2014[225.68] four[225.78] forgers[226.20], a[226.64] nobleman[226.84] imprisoned[227.76] for[227.92] incest[228.14], and[229.18] two[229.40] lunatics[229.86]. They[230.04] stormed[230.38] it[230.84] for[231.16] the[231.60] 250[231.74] barrels[232.40] of[233.34] gunpowder[233.48] inside[234.48].",
+        "goal": "Correct the myth: the Bastille was stormed for gunpowder, not prisoners.",
+        "plan": [
+            "Bastille exterior: crowd swarming the walls",
+            "Cross-section view: 7 prisoners in comfortable cells (labeled) vs 250 barrels of gunpowder in vault (highlighted red)",
+            "Gunpowder barrels rolling toward the crowd"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Bastille",
+            "Gunpowder Barrels"
+        ],
+        "reason": "Myth-busting visualization: exterior action \u2192 interior truth (prisoners vs powder) \u2192 the prize moving to the people."
+    },
+    {
+        "id": 17,
+        "timeline": 0,
+        "time_start": 235.72,
+        "time_end": 256.15,
+        "text": "The[235.72] governor[236.18], de[236.28] Launay[236.40], fired[237.26] on[237.86] the[238.42] crowd[239.34]. Ninety[239.52] -[239.52] eight[240.54] attackers[240.70] died[240.82]. One[241.34] defender[241.78]. When[241.93] the[242.37] drawbridge[242.56] fell[242.87], the[243.01] governor[243.87] was[244.05] hacked[244.93] to[245.23] death[245.33]. His[245.41] head[246.27], stuck[246.69] on[246.81] a[247.15] pike[247.29], traveled[248.21] the[248.35] streets[248.83] of[249.21] Paris[249.33]. The[250.19] King[250.53], hunting[250.63] at[250.81] Meudon[252.07], wrote[253.35] in[254.23] his[254.81] diary[254.81]: *[254.81] Rien[255.01]. *[255.01] Nothing[255.93]. But[256.15]",
+        "goal": "The bloody fall of the Bastille and the King's obliviousness.",
+        "plan": [
+            "Governor de Launay firing, then falling, head on pike paraded through Paris streets",
+            "Split screen: Paris chaos vs King Louis XVI at Meudon writing 'Rien' in diary",
+            "The word 'Rien' burning away to reveal: 'THE ANCIEN R\u00c9GIME HAD LOST ITS MONOPOLY ON VIOLENCE'"
+        ],
+        "frames": 3,
+        "characters": [
+            "de Launay",
+            "Louis XVI"
+        ],
+        "items": [
+            "Pike",
+            "Diary"
+        ],
+        "reason": "Brutal reality of the Bastille's fall \u2192 stark contrast with King's detachment \u2192 thematic conclusion. Three distinct visual beats."
+    },
+    {
+        "id": 18,
+        "timeline": 1,
+        "time_start": 256.15,
+        "time_end": 261.57,
+        "text": "something[256.59] had[257.19] happened[257.41]. The[257.83] *[257.83] Ancien[258.03] R\u00e9gime[258.69] *[258.69] had[258.81] lost[259.89] its[260.00] monopoly[260.10] on[261.15] violence[261.25]. In[261.57]",
+        "goal": "Introduce Chapter 4: Abolition of Feudalism and the Declaration of Rights.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 4 begins. The loss of violence monopoly leads to rural uprising and legal abolition."
+    },
+    {
+        "id": 19,
+        "timeline": 0,
+        "time_start": 261.57,
+        "time_end": 277.62,
+        "text": "the[261.96] countryside[262.24], a[262.60] rumor[263.72] spread[263.90] \u2014[263.90] the[264.54] *[264.54] Great[264.74] Fear[265.16] *[265.16] \u2014[265.16] that[265.62] aristocrats[265.76] were[266.02] hiring[266.14] brigands[267.04] to[267.52] burn[267.86] the[268.62] harvest[268.80]. Peasants[269.12] didn[269.32] '[269.32] t[270.36] wait[270.56]. They[270.94] burned[271.16] the[271.54] ch\u00e2teaux[272.52]. They[272.70] burned[273.20] the[273.42] feudal[273.94] records[274.06]. They[274.32] became[274.52] the[275.64] authors[275.72] of[275.88] their[276.18] own[276.42] liberation[276.70].",
+        "goal": "The Great Fear: peasants burn ch\u00e2teaux and feudal records.",
+        "plan": [
+            "Map of France: ripple of fire icons spreading from village to village \u2014 'THE GREAT FEAR'",
+            "Peasants torching a ch\u00e2teau, then feeding feudal parchments into the flames",
+            "Peasant holding a burning deed, face illuminated: 'AUTHORS OF THEIR OWN LIBERATION'"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "France Map",
+            "Ch\u00e2teau",
+            "Feudal Records"
+        ],
+        "reason": "Geographic spread \u2192 specific action (burning records) \u2192 thematic close-up. The burning of records is the key visual metaphor."
+    },
+    {
+        "id": 20,
+        "timeline": 0,
+        "time_start": 277.62,
+        "time_end": 295.03,
+        "text": "On[277.62] the[277.72] night[277.82] of[278.24] August[278.56] 4[278.80], in[279.76] a[280.34] session[280.50] fueled[280.99] by[282.02] wine[282.17], rhetoric[282.65], and[283.01] genuine[283.17] terror[283.63], the[284.59] Assembly[284.77] voted[285.31] to[285.89] abolish[286.11] feudalism[287.17]. The[287.31] nobles[287.85] renounced[288.41] their[288.55] privileges[289.45]. The[289.67] clergy[290.17] renounced[290.33] the[290.71] tithe[291.25]. By[291.35] dawn[291.47], the[291.77] legal[292.13] structure[292.33] of[293.37] the[293.63] Middle[293.91] Ages[294.37] had[294.65] dissolved[295.03].",
+        "goal": "The August 4th night session: feudalism abolished by dawn.",
+        "plan": [
+            "Assembly hall at night: candlelight, wine glasses, nobles and clergy standing to renounce privileges one by one",
+            "Scroll of feudal laws burning at edges, text dissolving: 'Middle Ages Legal Structure'",
+            "Dawn light hitting the hall: empty privileges podium, new banner 'LIBERT\u00c9, \u00c9GALIT\u00c9'"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Assembly Hall",
+            "Feudal Scroll",
+            "Wine Glasses"
+        ],
+        "reason": "Atmospheric night session \u2192 the legal structure dissolving \u2192 dawn of a new era. Three frames capture the night's progression."
+    },
+    {
+        "id": 21,
+        "timeline": 0,
+        "time_start": 295.03,
+        "time_end": 308.58,
+        "text": "Three[295.15] weeks[295.83] later[295.93], they[296.07] issued[296.33] the[296.47] Declaration[296.91] of[297.07] the[297.17] Rights[297.31] of[298.30] Man[298.62] and[298.78] of[299.30] the[299.44] Citizen[299.88]. *[299.88] Men[300.34] are[300.58] born[300.92] and[301.08] remain[301.96] free[302.06] and[302.20] equal[302.30] in[302.78] rights[303.12]. *[303.12] It[303.32] was[303.60] a[303.78] promise[303.96] written[304.24] in[304.40] ink[304.80] that[304.92] would[305.74] soon[305.88] be[306.24] signed[307.02] in[307.52] blood[307.62].",
+        "goal": "The Declaration of Rights: promise written in ink, to be signed in blood.",
+        "plan": [
+            "Declaration document unfurling: Article 1 'Men are born and remain free and equal in rights'",
+            "Ink writing the words, then the ink turning red \u2014 blood drops falling on the parchment",
+            "Shadow of guillotine blade falling across the document"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Declaration of Rights",
+            "Quill and Ink"
+        ],
+        "reason": "The document itself \u2192 the ink-to-blood transition (foreshadowing) \u2192 the guillotine shadow. Visually encodes the narration's closing warning."
+    },
+    {
+        "id": 22,
+        "timeline": 1,
+        "time_start": 308.58,
+        "time_end": 313.95,
+        "text": "The[308.58] King[308.76], however[309.29], remained[309.44] at[310.23] Versailles[310.41]. He[310.89] refused[311.03] to[312.07] sign[312.21]. He[312.87] vetoed[313.03] the[313.35] decrees[313.49]. In[313.95]",
+        "goal": "Introduce Chapter 5: The Women's March on Versailles.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 5 begins. King's refusal and veto provoke the women's march."
+    },
+    {
+        "id": 23,
+        "timeline": 0,
+        "time_start": 313.95,
+        "time_end": 339.63,
+        "text": "October[314.89], the[315.43] women[316.75] of[317.11] Paris[317.35] marched[318.31]. Seven[318.79] thousand[319.81] strong[319.99], soaked[320.49] by[320.60] rain[321.54], dragging[321.69] cannons[322.08], they[322.20] invaded[322.54] the[323.40] palace[323.62]. They[324.06] killed[324.22] the[324.58] King[325.12] \u2019[325.12] s[325.38] guards[325.46]. They[326.46] forced[326.66] the[326.80] royal[327.18] family[327.30] into[327.82] a[327.94] carriage[327.94]. *[327.94] We[328.80] are[328.92] bringing[329.02] the[329.46] baker[330.40], the[330.62] baker[331.40] \u2019[331.40] s[331.56] wife[331.90], and[332.12] the[332.42] baker[332.52] \u2019[332.52] s[333.10] boy[333.22], *[333.22] they[333.32] sang[334.32]. The[334.46] King[335.11] was[335.35] now[335.69] a[335.81] prisoner[336.79] in[337.01] the[337.23] Tuileries[337.73]. The[337.93] Revolution[338.25] had[338.37] moved[338.69] to[338.91] Paris[339.63].",
+        "goal": "Women's March brings the King to Paris as prisoner.",
+        "plan": [
+            "Rain-soaked road: 7,000 women dragging cannons, mud-splattered, determined",
+            "Palace gates breached, guards falling, royal family forced into carriage",
+            "Carriage arriving at Tuileries: crowd singing 'We bring the baker, the baker's wife, the baker's boy' \u2014 King at window, trapped"
+        ],
+        "frames": 3,
+        "characters": [
+            "Louis XVI",
+            "Marie Antoinette"
+        ],
+        "items": [
+            "Cannons",
+            "Royal Carriage",
+            "Tuileries Palace"
+        ],
+        "reason": "March \u2192 palace invasion \u2192 arrival at Tuileries as prisoners. The 'baker' chant humanizes the royalty while marking their captivity. Three locations, one continuous movement."
+    },
+    {
+        "id": 24,
+        "timeline": 1,
+        "time_start": 339.63,
+        "time_end": 340.53,
+        "text": "For[340.53]",
+        "goal": "Introduce Chapter 6: The Flight to Varennes.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 6 begins. Two years of constitutional monarchy attempts lead to the King's flight."
+    },
+    {
+        "id": 25,
+        "timeline": 0,
+        "time_start": 340.53,
+        "time_end": 372.97,
+        "text": "two[340.75] years[341.21], they[341.33] tried[342.49] to[342.71] build[343.43] a[344.07] constitutional[344.73] monarchy[345.21]. They[345.35] redrew[345.53] the[346.56] map[346.75] \u2014[346.75] 83[347.45] departments[347.57], uniform[348.50], rational[348.94], erasing[349.34] the[349.50] old[349.96] provinces[350.14]. They[350.40] nationalized[350.54] the[350.66] Church[351.50], forcing[351.80] priests[352.84] to[352.98] swear[353.48] an[353.82] oath[354.38] to[355.22] the[355.46] state[355.98]. Half[356.12] refused[356.50]. The[357.02] schism[357.18] tore[357.62] villages[358.20] apart[358.36]. They[358.72] invented[359.49] the[359.69] metric[359.96] system[360.11], the[360.75] decimal[361.01] calendar[361.95], the[362.17] ten[362.55] -[362.55] day[362.63] week[362.89]. They[363.37] tried[363.73] to[363.83] decimalize[364.61] time[364.75] itself[365.15] \u2014[365.15] ten[365.37] hours[366.19] a[366.31] day[366.71], a[367.19] hundred[367.91] minutes[368.23] an[368.53] hour[368.67]. The[369.03] clocks[369.19] were[369.53] built[370.17]. The[371.67] people[371.81] ignored[372.29] them[372.43].",
+        "goal": "Two years of radical reform: administrative, religious, metric, decimal time \u2014 and the people's rejection.",
+        "plan": [
+            "Map of France: old provinces dissolving into 83 geometric departments",
+            "Priest at altar: one swearing oath to state, one refusing \u2014 village split in two",
+            "Decimal clock (10 hours) vs traditional clock (12 hours) \u2014 people looking at traditional",
+            "Metric system tools (meter stick, kilogram weight) surviving while decimal calendar crumbles"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "France Map",
+            "Decimal Clock",
+            "Metric Tools"
+        ],
+        "reason": "Four distinct reform areas visualized: administrative map \u2192 religious schism \u2192 decimal time failure \u2192 metric success. Shows what stuck and what didn't."
+    },
+    {
+        "id": 26,
+        "timeline": 0,
+        "time_start": 372.97,
+        "time_end": 401.15,
+        "text": "Then[372.97] came[373.09] the[373.29] night[373.73] of[374.54] June[375.24] 20[375.39], 1791[376.36]. The[376.52] King[376.76], the[376.86] Queen[377.02], and[378.06] their[378.38] children[378.76] fled[378.94]. Disguised[379.06] as[379.88] servants[380.04]. They[380.28] made[381.12] it[381.24] to[381.56] Varennes[381.94], forty[382.18] miles[382.32] from[382.44] the[383.42] border[383.50]. They[384.28] were[384.54] recognized[385.00] \u2014[385.00] the[385.38] King[386.10] \u2019[386.10] s[386.24] face[386.42] was[386.74] on[387.08] the[387.20] coinage[387.28]. A[387.66] postmaster[388.58] named[388.74] Drouet[389.26] stopped[389.82] them[390.08]. They[390.26] were[390.40] brought[390.78] back[390.88] in[391.82] a[391.96] dusty[391.96] carriage[392.44], the[393.56] silence[393.76] broken[393.93] only[394.32] by[395.00] the[395.21] jeers[396.09] of[396.27] the[396.47] crowd[396.87]. The[397.37] monarchy[397.45] survived[398.27], but[398.91] the[399.03] King[400.13] \u2019[400.13] s[400.29] legitimacy[400.83] did[400.97] not[401.15].",
+        "goal": "The Flight to Varennes: recognition via coinage, capture, return in disgrace.",
+        "plan": [
+            "Night carriage fleeing: royal family in servant disguises",
+            "Close-up: Louis XVI's face on a coin held up next to his real face \u2014 match",
+            "Postmaster Drouet blocking the road",
+            "Dusty return carriage: jeering crowds, King's face hollow, 'LEGITIMACY' cracking like porcelain"
+        ],
+        "frames": 4,
+        "characters": [
+            "Louis XVI",
+            "Marie Antoinette",
+            "Drouet"
+        ],
+        "items": [
+            "Coin with Louis XVI",
+            "Carriage"
+        ],
+        "reason": "Escape \u2192 the fatal recognition detail (coinage) \u2192 capture \u2192 the return as legitimacy collapse. Drouet named as the postmaster who stopped them."
+    },
+    {
+        "id": 27,
+        "timeline": 1,
+        "time_start": 401.15,
+        "time_end": 405.77,
+        "text": "He[401.59] had[401.69] left[401.83] behind[402.29] a[403.19] declaration[403.35] denouncing[403.87] the[404.79] Revolution[404.99]. The[405.77]",
+        "goal": "Introduce Chapter 7: War and the Fall of the Monarchy.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 7 begins. King's declaration of hostility + war = monarchy's end."
+    },
+    {
+        "id": 28,
+        "timeline": 0,
+        "time_start": 405.77,
+        "time_end": 434.93,
+        "text": "fiction[405.93] of[406.31] the[406.49] *[406.49] King[406.95] of[407.99] the[408.24] French[408.69] *[408.69] shattered[408.83]. The[410.10] deputies[410.30] panicked[410.84]. They[411.04] lied[411.76]. The[412.72] King[412.90] had[413.36] been[413.50] *[413.50] abducted[413.86]. *[413.86] They[414.36] finished[414.62] the[415.60] Constitution[415.74]. They[416.16] created[416.32] the[416.62] Legislative[418.04] Assembly[418.20]. They[418.38] banned[418.58] the[418.74] King[419.02] \u2019[419.02] s[419.14] brothers[419.50] from[419.96] returning[421.06]. And[421.24] then[421.66], in[422.04] April[422.23] 1792[423.11], they[423.25] did[423.96] the[424.31] one[424.69] thing[424.85] the[425.25] King[426.11] secretly[426.27] wanted[426.59]: they[426.91] declared[427.27] war[427.43] on[427.91] Austria[428.11]. The[428.99] Girondins[429.13] wanted[429.51] war[430.43] to[430.57] spread[430.83] liberty[430.93]. The[431.91] King[432.23] wanted[432.29] war[433.77] to[434.03] restore[434.37] his[434.75] power[434.75].",
+        "goal": "The lie of 'abduction', Constitution completed, war declared \u2014 Girondins vs King's opposing motives.",
+        "plan": [
+            "Deputies writing 'ABDUCTED' on official decree, King's declaration of hostility burning beside it",
+            "Legislative Assembly convening, empty chairs for King's brothers",
+            "War declaration document: 'WAR ON AUSTRIA' \u2014 split arrow: Girondins \u2192 'Spread Liberty', King \u2192 'Restore Power'"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Abduction Decree",
+            "War Declaration",
+            "Legislative Assembly"
+        ],
+        "reason": "The lie visualized \u2192 institutional consequence (banned brothers) \u2192 the fateful war declaration with dual motives. Three frames for three developments."
+    },
+    {
+        "id": 29,
+        "timeline": 0,
+        "time_start": 434.93,
+        "time_end": 460.62,
+        "text": "The[434.93] Prussian[435.83] commander[436.23], the[436.41] Duke[436.83] of[437.61] Brunswick[437.83], issued[438.51] a[439.51] manifesto[439.59]: if[440.71] the[440.83] royal[441.57] family[441.89] was[442.23] harmed[443.21], Paris[443.35] would[444.19] face[444.85] *[444.85] exemplary[445.47] and[445.65] ever[446.15] -[446.15] memorable[446.53] vengeance[446.97]. *[446.97] It[447.41] backfired[447.51]. The[447.73] Manifesto[448.65] didn[448.87] '[448.87] t[450.03] scare[450.23] Paris[450.59]. It[451.07] radicalized[451.23] it[451.89]. Volunteers[452.73] from[453.05] Marseille[454.13] marched[454.45] north[454.77] singing[455.92] a[456.28] new[456.62] song[457.24] \u2014[457.24] *[457.24] La[457.42] Marseillaise[457.66] *[457.66]. On[458.00] August[458.12] 10[459.04], the[459.52] insurrection[459.64] came[460.62].",
+        "goal": "Brunswick Manifesto backfires; Marseillese volunteers march singing La Marseillaise.",
+        "plan": [
+            "Brunswick Manifesto parchment: threatening words burning at edges",
+            "Map: Marseille volunteers marching north, musical notes trailing: 'La Marseillaise'",
+            "Paris streets: radicalized crowds, pikes raised, August 10 date stamp"
+        ],
+        "frames": 3,
+        "characters": [
+            "Duke of Brunswick"
+        ],
+        "items": [
+            "Brunswick Manifesto",
+            "France Map"
+        ],
+        "reason": "Threat document \u2192 geographic response (Marseille to Paris) \u2192 the insurrection day. The song visualizes as marching energy."
+    },
+    {
+        "id": 30,
+        "timeline": 0,
+        "time_start": 460.62,
+        "time_end": 482.19,
+        "text": "Sans[460.78] -[460.78] culottes[461.14] \u2014[461.14] *[461.14] those[461.50] without[462.54] knee[463.04] -[463.04] breeches[463.38], *[463.38] wearing[464.52] long[464.82] trousers[465.93] and[466.06] red[466.38] caps[466.81] of[466.91] liberty[467.03] \u2014[467.03] stormed[467.59] the[468.53] Tuileries[468.99]. The[469.11] Swiss[469.23] Guard[470.21] fired[470.33]. Six[470.91] hundred[471.51] Swiss[472.21] died[472.37]. Three[473.25] hundred[474.03] attackers[474.03]. The[474.13] King[474.25] sat[474.73] in[475.27] the[475.43] Assembly[475.55] \u2019[475.55] s[476.05] loge[476.15], listening[477.19] to[478.01] the[478.11] cannonade[478.11]. The[479.01] Assembly[479.21] suspended[479.45] him[479.65]. The[480.13] monarchy[481.36] was[481.68] over[482.19].",
+        "goal": "August 10: Sans-culottes storm Tuileries, Swiss Guard massacred, monarchy ends.",
+        "plan": [
+            "Sans-culottes in long trousers and red caps swarming Tuileries gardens",
+            "Swiss Guard firing, falling \u2014 casualty counters: 600 Swiss, 300 attackers",
+            "King in Assembly loge, listening to cannonade, Assembly voting 'SUSPENDED' overhead",
+            "Crown shattering on ground: 'MONARCHY OVER'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Louis XVI"
+        ],
+        "items": [
+            "Red Cap of Liberty",
+            "Tuileries Palace",
+            "Crown"
+        ],
+        "reason": "Assault \u2192 casualties \u2192 King's passive witness \u2192 institutional vote \u2192 symbolic end. Four frames for the sequence of fall."
+    },
+    {
+        "id": 31,
+        "timeline": 1,
+        "time_start": 482.19,
+        "time_end": 482.62,
+        "text": "In[482.62]",
+        "goal": "Introduce Chapter 8: Execution of Louis XVI.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 8 begins. September massacres lead to Convention, Republic, and the King's trial."
+    },
+    {
+        "id": 32,
+        "timeline": 0,
+        "time_start": 482.62,
+        "time_end": 506.17,
+        "text": "the[482.77] September[483.06] panic[483.94], with[484.44] the[485.12] Prussians[485.50] at[485.72] Verdun[486.32], mobs[486.42] stormed[486.52] the[486.96] prisons[487.36]. They[487.48] set[487.86] up[488.66] makeshift[488.80] courts[489.32]. Twelve[489.54] hundred[489.80] prisoners[490.18] died[490.82] in[491.70] five[491.86] days[492.06]. Princess[492.54] de[492.66] Lamballe[493.70] \u2019[493.70] s[494.70] head[494.90] was[495.16] paraded[495.90] on[496.02] a[496.62] pike[497.04] beneath[497.20] the[497.68] Queen[497.90] \u2019[497.90] s[498.04] window[498.94]. The[500.46] Assembly[500.98] did[501.12] not[502.06] stop[502.20] it[502.46]. Danton[502.90], the[503.35] new[503.47] Minister[503.55] of[503.69] Justice[504.19], said[504.59]: *[504.59] Let[505.25] them[505.69] be[505.83]. *[505.83]",
+        "goal": "September Massacres: prison killings, Princess de Lamballe's head, Danton's complicity.",
+        "plan": [
+            "Prison courtyard: makeshift court, prisoners dragged out, tally chalkboard: 1200 dead / 5 days",
+            "Princess de Lamballe's head on pike raised beneath Queen's window at Temple prison",
+            "Danton at desk, signing papers, saying 'Let them be' \u2014 blood spatter on document"
+        ],
+        "frames": 3,
+        "characters": [
+            "Princess de Lamballe",
+            "Marie Antoinette",
+            "Danton"
+        ],
+        "items": [
+            "Pike",
+            "Temple Prison Window"
+        ],
+        "reason": "Massacre scale \u2192 specific horror (Lamballe) \u2192 political complicity (Danton). Three escalating frames."
+    },
+    {
+        "id": 33,
+        "timeline": 0,
+        "time_start": 506.17,
+        "time_end": 526.7,
+        "text": "The[506.17] Convention[506.95] met[507.43] on[507.71] September[508.89] 21[509.09]. Its[509.29] first[509.81] act[510.86]: abolish[510.96] the[511.18] monarchy[511.30]. The[511.88] next[512.98] day[513.14], Year[513.48] One[513.66] of[514.08] the[514.34] Republic[515.48] began[515.62]. The[515.88] trial[516.04] of[517.29] Louis[517.85] Capet[518.25], formerly[520.13] Louis[520.29] XVI[521.09], was[521.21] not[521.77] a[522.31] legal[523.25] proceeding[524.17]. It[524.55] was[524.96] a[525.10] political[526.08] necessity[526.22].",
+        "goal": "Convention abolishes monarchy, Year One of Republic, Louis Capet's political trial.",
+        "plan": [
+            "Convention hall: 'MONARCHY ABOLISHED' banner, deputies voting",
+            "Calendar page: 'YEAR ONE OF THE REPUBLIC' replacing 1792",
+            "Louis Capet (plain clothes) at bar, not Louis XVI \u2014 sign: 'POLITICAL NECESSITY, NOT LEGAL PROCEEDING'"
+        ],
+        "frames": 3,
+        "characters": [
+            "Louis Capet"
+        ],
+        "items": [
+            "Republican Calendar",
+            "Convention Hall"
+        ],
+        "reason": "Institutional act \u2192 new calendar/era \u2192 the trial's true nature. Louis renamed 'Capet' visually."
+    },
+    {
+        "id": 34,
+        "timeline": 0,
+        "time_start": 526.7,
+        "time_end": 541.45,
+        "text": "The[526.70] vote[527.12] for[527.26] guilt[527.64] was[527.82] unanimous[528.16]. The[529.04] vote[529.26] for[529.64] death[530.12]: 361[530.24] to[531.12] 360[531.40]. One[531.76] vote[532.45]. On[532.59] January[533.21] 21[533.57], 1793[534.47], the[534.79] King[535.21] mounted[536.11] the[536.61] scaffold[537.15]. The[537.67] drummers[538.41] rolled[538.93] to[539.07] drown[539.37] his[540.45] last[540.89] words[541.45].",
+        "goal": "One-vote margin for death; execution with drummers drowning final words.",
+        "plan": [
+            "Voting board: GUILT \u2014 UNANIMOUS. DEATH \u2014 361 vs 360. One vote highlighted in red",
+            "Scaffold: Louis Capet ascending, drummers rolling frantically, sound waves visualizing drowning his voice",
+            "Blade falling, blood spattering crowd, handkerchiefs dipping, some weeping"
+        ],
+        "frames": 3,
+        "characters": [
+            "Louis Capet"
+        ],
+        "items": [
+            "Scaffold",
+            "Guillotine",
+            "Voting Board"
+        ],
+        "reason": "The razor-thin vote \u2192 the execution mechanism (drummers) \u2192 the aftermath (blood relics, tears). Three distinct visual moments."
+    },
+    {
+        "id": 35,
+        "timeline": 1,
+        "time_start": 541.45,
+        "time_end": 541.57,
+        "text": "His[541.57]",
+        "goal": "Introduce Chapter 9: The Reign of Terror.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 9 begins. King's blood leads to war, civil war, and the Terror."
+    },
+    {
+        "id": 36,
+        "timeline": 0,
+        "time_start": 541.57,
+        "time_end": 569.61,
+        "text": "blood[542.03] spattered[542.47] the[542.57] crowd[542.65]. Some[543.29] dipped[543.47] handkerchiefs[543.79] in[545.15] it[545.32]. Others[546.20] wept[547.32]. Europe[548.48] closed[548.60] ranks[549.10]. Britain[549.60], Holland[549.88], Spain[550.36], Sardinia[550.52], Naples[550.90] \u2014[550.90] the[551.02] First[551.42] Coalition[551.64]. Inside[552.86] France[553.18], the[553.28] Vend\u00e9e[554.44] rose[554.58] in[555.18] a[555.44] Catholic[555.88] and[556.08] Royal[556.26] counter[556.72] -[556.72] revolution[556.90]. In[557.16] Lyon[557.98], Marseilles[558.10], Toulon[558.74], the[559.26] Girondin[559.40] deputies[559.87] fled[560.02] Paris[560.39] and[561.29] raised[561.65] the[562.45] flag[562.99] of[563.91] *[563.91] Federalism[564.07] *[564.07] against[564.59] the[564.77] Montagnards[565.67]. The[566.01] Republic[566.13] was[567.07] fighting[567.33] for[567.57] its[568.33] life[568.59] on[568.91] every[569.07] front[569.47].",
+        "goal": "War on all fronts: First Coalition abroad, Vend\u00e9e and Federalist revolts within.",
+        "plan": [
+            "Map of Europe: First Coalition nations (Britain, Holland, Spain, Sardinia, Naples) encircling France in red",
+            "Map of France: Vend\u00e9e (white cross flag) rising in west, Federalist cities (Lyon, Marseille, Toulon) in south \u2014 Republic besieged on all sides",
+            "Republic personified as a figure fighting on multiple fronts simultaneously"
+        ],
+        "frames": 3,
+        "characters": [],
+        "items": [
+            "Europe Map",
+            "France Map",
+            "First Coalition Flags"
+        ],
+        "reason": "International encirclement \u2192 internal revolts \u2192 synthesis of total crisis. Maps are essential for geographic understanding."
+    },
+    {
+        "id": 37,
+        "timeline": 0,
+        "time_start": 569.61,
+        "time_end": 590.5,
+        "text": "The[569.61] Convention[570.09] created[570.25] the[570.57] Committee[570.89] of[571.67] Public[571.81] Safety[572.73]. Twelve[573.17] men[573.41]. Unlimited[574.01] power[574.47]. *[574.47] The[574.79] Government[576.39] is[576.77] revolutionary[577.57] until[577.81] the[578.15] peace[578.29], *[578.29] said[578.63] Saint[578.75] -[578.75] Just[579.05].",
+        "goal": "Committee of Public Safety: twelve men, unlimited power, revolutionary government until peace.",
+        "plan": [
+            "Committee room: twelve empty chairs around a table, each labeled with a name (Robespierre, Saint-Just, Couthon, etc.)",
+            "Saint-Just at podium: 'THE GOVERNMENT IS REVOLUTIONARY UNTIL PEACE' \u2014 words burning into the table",
+            "Power diagram: Committee at center, arrows to Army, Police, Tribunals, Economy \u2014 'UNLIMITED'"
+        ],
+        "frames": 3,
+        "characters": [
+            "Saint-Just"
+        ],
+        "items": [
+            "Committee Table",
+            "Power Diagram"
+        ],
+        "reason": "The twelve men \u2192 the defining quote \u2192 the structural power. Saint-Just named as the voice of revolutionary government."
+    },
+    {
+        "id": 38,
+        "timeline": 0,
+        "time_start": 590.5,
+        "time_end": 621.41,
+        "text": "They[579.27] ordered[579.99] the[580.15] *[580.15] lev\u00e9e[580.83] en[580.97] masse[581.93] *[581.93] \u2014[581.93] the[582.09] first[582.85] total[582.97] mobilization[584.15] in[584.32] history[584.98]. Unmarried[585.12] men[585.93] 18[586.12] to[586.75] 25[586.88]. Eight[588.04] hundred[588.24] thousand[589.08] under[589.26] arms[589.58]. They[589.74] fixed[590.50] the[590.88] price[591.08] of[591.92] bread[592.10] by[592.72] law[592.84]. They[593.60] guillotined[593.74] the[594.24] hoarders[594.40]. They[594.70] guillotined[594.82] the[595.14] Girondins[595.26]. They[596.12] guillotined[596.88] the[597.06] Queen[597.96]. They[598.34] guillotined[598.46] the[598.58] H\u00e9bertistes[599.44] \u2014[599.44] the[599.60] ultra[600.10] -[600.10] radicals[600.62] who[601.82] wanted[602.30] to[602.48] dechristianize[602.92] France[603.14] by[603.34] force[603.34]. They[604.48] guillotined[605.44] the[606.54] Dantonistes[607.88] \u2014[607.88] the[608.02] moderates[608.80] who[609.82] wanted[609.98] to[610.30] stop[610.44] the[610.94] Terror[611.42]. Robespierre[611.85], the[611.99] Incorruptible[612.45], stood[612.57] at[612.97] the[613.54] center[613.68]. He[614.73] believed[615.01] virtue[615.25] needed[615.69] terror[616.81]. *[616.81] Terror[617.39] is[617.53] nothing[618.39] other[618.53] than[618.81] justice[619.95], prompt[620.49], severe[620.85], inflexible[621.27]. *[621.27]",
+        "goal": "The Terror's machinery: lev\u00e9e en masse, price controls, cascading guillotining of all factions, Robespierre's ideology.",
+        "plan": [
+            "Lev\u00e9e en masse: 800,000 men marching, map of France blanketed in blue uniforms",
+            "Bread price fixed by law \u2014 hoarder guillotined",
+            "Guillotine conveyor: Girondins \u2192 Queen \u2192 H\u00e9bertistes \u2192 Dantonistes \u2014 each group labeled, falling into same basket",
+            "Robespierre at center, 'VIRTUE NEEDS TERROR' \u2014 Saint-Just's quote on screen"
+        ],
+        "frames": 4,
+        "characters": [
+            "Robespierre",
+            "Marie Antoinette"
+        ],
+        "items": [
+            "Guillotine",
+            "Lev\u00e9e en Masse Banner"
+        ],
+        "reason": "Mass mobilization \u2192 economic terror \u2192 political terror (faction by faction) \u2192 the architect's philosophy. Four frames for the Terror's expanding logic."
+    },
+    {
+        "id": 39,
+        "timeline": 0,
+        "time_start": 621.41,
+        "time_end": 648.33,
+        "text": "In[621.41] June[621.85] 1794[622.65], the[622.83] Law[623.05] of[623.47] 22[623.69] Prairial[624.57] stripped[624.71] the[625.33] accused[625.43] of[625.73] defense[626.35] counsel[627.13], of[627.51] witnesses[627.69]. Only[628.13] two[628.97] verdicts[629.09] remained[629.69]: acquittal[630.57] or[630.73] death[631.43]. In[631.69] six[632.37] weeks[632.51], 1[632.93], 300[633.15] people[634.24] died[634.39] in[634.60] Paris[635.30] alone[635.64]. But[636.78] the[637.40] armies[637.72] were[637.86] winning[637.96]. At[638.98] Fleurus[639.14], a[639.70] French[640.16] balloon[641.12] \u2014[641.12] *[641.12] l[641.24] '[641.24] Entreprenant[641.48] *[641.48] \u2014[641.48] watched[642.38] the[642.58] Austrian[642.90] lines[643.74]. The[643.88] coalition[644.12] broke[645.04]. The[645.59] emergency[646.07] that[646.16] justified[646.67] the[646.77] Terror[646.89] had[647.75] vanished[648.13].",
+        "goal": "Law of 22 Prairial accelerates Terror; 1,300 dead in 6 weeks; victory at Fleurus makes Terror unjustified.",
+        "plan": [
+            "Law of 22 Prairial scroll: 'NO DEFENSE COUNSEL. NO WITNESSES. VERDICT: ACQUITTAL OR DEATH'",
+            "Paris guillotine working daily: counter ticking 1,300 in 6 weeks",
+            "Battle of Fleurus: French balloon 'L'Entreprenant' observing Austrian lines, coalition breaking",
+            "Scale: Emergency (justifying Terror) on one side \u2014 vanishing; Terror continuing on other side"
+        ],
+        "frames": 4,
+        "characters": [],
+        "items": [
+            "Law of 22 Prairial",
+            "Balloon L'Entreprenant",
+            "Guillotine Counter"
+        ],
+        "reason": "The legal accelerator \u2192 the body count \u2192 the military victory that removes the justification \u2192 the imbalance. Balloon is a notable historical detail."
+    },
+    {
+        "id": 40,
+        "timeline": 1,
+        "time_start": 648.33,
+        "time_end": 650.65,
+        "text": "On[648.33] 8[648.47] Thermidor[649.43] \u2014[649.43] July[649.55] 26[650.27] \u2014[650.27] Robespierre[650.65]",
+        "goal": "Introduce Chapter 10: The Fall of Robespierre.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 10 begins. 9 Thermidor: Robespierre's fall."
+    },
+    {
+        "id": 41,
+        "timeline": 0,
+        "time_start": 650.65,
+        "time_end": 681.26,
+        "text": "spoke[650.87] to[651.79] the[651.91] Convention[652.29]. He[652.79] threatened[653.07] unnamed[653.21] traitors[654.07]. He[654.19] looked[654.81] tired[655.27]. His[655.53] jaw[656.57] twitched[657.63]. The[657.89] next[658.10] day[658.22], Tallien[659.20] brandished[659.88] a[660.00] dagger[660.10] in[660.68] the[661.76] tribune[662.02]. *[662.02] Down[662.12] with[662.22] the[662.62] tyrant[662.72]! *[662.72] The[662.82] Convention[663.16] voted[664.00] his[664.36] arrest[664.54]. The[664.80] Paris[664.98] Commune[665.08] tried[665.52] to[666.32] rise[666.46]. The[666.68] Convention[667.38] declared[667.58] them[667.83] outlaws[667.99]. Robespierre[668.09], shot[669.23] through[669.71] the[670.13] jaw[670.83] \u2014[670.83] suicide[670.95] or[671.29] a[672.09] gendarme[672.21] '[672.21] s[672.63] bullet[672.93] \u2014[672.93] lay[673.67] on[673.87] a[674.03] table[674.73] in[674.97] the[675.77] Committee[675.89] room[676.81], signing[677.24] his[677.36] name[677.60] with[678.86] a[679.36] trembling[680.48] hand[680.58].",
+        "goal": "Robespierre's last speech, Tallien's dagger, arrest, jaw wound, signing with trembling hand.",
+        "plan": [
+            "Robespierre at tribune: tired, jaw twitching, threatening unnamed traitors",
+            "Next day: Tallien brandishing dagger, 'DOWN WITH THE TYRANT!' Convention erupting",
+            "Robespierre on table in Committee room: jaw shattered (bandaged/bloody), signing name with trembling hand \u2014 suicide or gendarme's bullet ambiguous"
+        ],
+        "frames": 3,
+        "characters": [
+            "Robespierre",
+            "Tallien"
+        ],
+        "items": [
+            "Dagger",
+            "Committee Room Table"
+        ],
+        "reason": "The two-day sequence: hubris \u2192 coup \u2192 broken body. Tallien named as the dagger-wielder. The ambiguous jaw wound shown visually."
+    },
+    {
+        "id": 42,
+        "timeline": 0,
+        "time_start": 681.26,
+        "time_end": 689.21,
+        "text": "On[681.26] 10[682.52] Thermidor[682.60], he[683.12] went[684.14] to[684.34] the[684.78] guillotine[684.86]. Twenty[685.06] -[685.06] two[685.38] followed[685.52] him[685.96]. The[686.08] crowd[686.64] cheered[687.16]. The[687.28] Terror[687.75] was[688.78] over[689.21].",
+        "goal": "Robespierre and 22 followers guillotined; crowd cheers; Terror ends.",
+        "plan": [
+            "Robespierre on scaffold, 22 followers behind him \u2014 all in death cart",
+            "Blade falls, crowd cheering (contrast with Louis XVI's execution silence/weeping)",
+            "Guillotine blade stained with blood, then cleaning \u2014 'TERROR OVER' stamp"
+        ],
+        "frames": 3,
+        "characters": [
+            "Robespierre"
+        ],
+        "items": [
+            "Guillotine",
+            "Death Cart"
+        ],
+        "reason": "The procession \u2192 the execution with crowd reaction (cheering vs weeping for King) \u2192 definitive end. Visual parallel to Louis XVI's execution."
+    },
+    {
+        "id": 43,
+        "timeline": 1,
+        "time_start": 689.21,
+        "time_end": 690.97,
+        "text": "But[689.39] the[689.49] Revolution[689.75] was[690.23] not[690.69]. The[690.97]",
+        "goal": "Introduce Chapter 11: The Directory and the Crisis of the Republic.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 11 begins. Thermidorian Reaction leads to Directory."
+    },
+    {
+        "id": 44,
+        "timeline": 0,
+        "time_start": 690.97,
+        "time_end": 730.47,
+        "text": "Thermidorians[691.57] wrote[691.77] a[691.91] new[692.29] constitution[692.41]. Property[693.41] franchise[693.61]. A[694.17] bicameral[694.43] legislature[694.99]. A[695.73] five[695.87] -[695.87] man[696.83] Directory[696.99]. They[697.51] relied[698.23] on[699.15] the[699.35] army[699.87] to[700.13] survive[700.67] the[700.91] royalist[701.01] uprising[701.29] of[702.15] 13[702.31] Vend\u00e9miaire[702.41] \u2014[702.41] crushed[702.62] by[703.15] a[703.88] young[704.08] Corsican[704.50] general[705.56] named[705.76] Bonaparte[706.24] with[707.22] a[707.40] *[707.40] whiff[707.92] of[708.96] grapeshot[709.08]. *[709.08] They[709.62] survived[709.98] the[710.16] left[710.66] -[710.66] wing[710.96] conspiracy[712.68] of[712.92] Babeuf[713.68]. They[713.92] survived[714.30] bankruptcy[714.50], hyperinflation[714.92] \u2014[714.92] the[715.22] assignat[715.86] fell[716.22] to[716.88] one[717.20] percent[717.36] of[717.48] face[718.28] value[718.42] \u2014[718.42] and[719.12] a[719.64] new[720.08] coalition[720.30] war[720.52]. They[722.12] stole[722.26] elections[722.88]. They[723.02] annulled[724.71] results[725.21]. They[725.33] deported[726.17] deputies[726.51]. The[726.81] Directory[727.71] became[727.87] a[728.27] permanent[728.47] coup[728.61] d[729.67] '[729.67] \u00e9tat[730.17].",
+        "goal": "Directory constitution, reliance on army, Bonaparte's 'whiff of grapeshot', Babeuf, hyperinflation, coups becoming permanent.",
+        "plan": [
+            "New Constitution: Property franchise, bicameral, 5-man Directory \u2014 visual structure",
+            "13 Vend\u00e9miaire: Royalist mob vs Bonaparte's cannon firing grapeshot \u2014 'A WHIFF OF GRAPESHOT'",
+            "Assignat hyperinflation: wheelbarrow of money for loaf of bread, value gauge at 1%",
+            "Babeuf conspiracy: 'Equality' banner, Directory deporting deputies, 'PERMANENT COUP D'\u00c9TAT' sign on Directory building"
+        ],
+        "frames": 4,
+        "characters": [
+            "Bonaparte",
+            "Babeuf"
+        ],
+        "items": [
+            "Constitution of Year III",
+            "Cannon with Grapeshot",
+            "Assignat Currency"
+        ],
+        "reason": "Constitutional structure \u2192 Bonaparte's emergence (grapeshot) \u2192 economic collapse \u2192 political corruption. Four crises defining the Directory. Bonaparte and Babeuf named."
+    },
+    {
+        "id": 45,
+        "timeline": 1,
+        "time_start": 730.47,
+        "time_end": 731.43,
+        "text": "In[730.47] 1799[731.43],",
+        "goal": "Introduce Chapter 12: The Coup of 18 Brumaire.",
+        "plan": [
+            "Timeline with current chapter highlighted"
+        ],
+        "frames": 1,
+        "characters": [],
+        "items": [
+            "Timeline"
+        ],
+        "reason": "Chapter 12 begins. 1799: armies losing, Directors plotting, Siey\u00e8s seeks a sword."
+    },
+    {
+        "id": 46,
+        "timeline": 0,
+        "time_start": 731.43,
+        "time_end": 756.54,
+        "text": "the[731.77] armies[732.05] were[732.45] losing[732.55] again[732.67]. The[733.65] Second[733.77] Coalition[734.21] pushed[734.83] to[735.39] the[736.13] Rhine[736.27]. The[736.75] Directors[736.93] plotted[737.35] against[737.51] each[737.77] other[738.23]. Siey\u00e8s[738.47], the[739.03] survivor[739.13] of[739.21] 1789[739.69], decided[740.49] the[741.15] Constitution[741.49] needed[741.71] a[742.53] *[742.53] sword[742.70]. *[742.70] He[743.27] found[743.82] one[744.26] in[744.36] Bonaparte[744.50], returning[745.52] from[745.74] Egypt[746.10], leaving[746.74] his[747.28] army[747.40] in[747.52] the[748.68] desert[749.02].",
+        "goal": "1799 crisis: Second Coalition at Rhine, Directors infighting, Siey\u00e8s recruits Bonaparte as 'sword'.",
+        "plan": [
+            "Map: Second Coalition pushing to Rhine, French armies retreating",
+            "Directory meeting: Directors stabbing each other's backs (metaphorically), Siey\u00e8s apart, holding Constitution, looking for a sword",
+            "Bonaparte arriving from Egypt (pyramids in background), leaving army in desert \u2014 Siey\u00e8s handing him a sword labeled 'CONSTITUTION'"
+        ],
+        "frames": 3,
+        "characters": [
+            "Siey\u00e8s",
+            "Bonaparte"
+        ],
+        "items": [
+            "Europe Map",
+            "Sword",
+            "Egyptian Pyramids"
+        ],
+        "reason": "Military crisis \u2192 political decay \u2192 the fatal recruitment. Siey\u00e8s (1789 survivor) and Bonaparte (Egypt return) meet. The 'sword' metaphor made literal."
+    },
+    {
+        "id": 47,
+        "timeline": 0,
+        "time_start": 756.54,
+        "time_end": 778.08,
+        "text": "On[749.70] 18[749.86] Brumaire[750.34] \u2014[750.34] November[750.46] 9[750.58] \u2014[750.58] the[751.78] Councils[751.92] were[752.48] moved[752.82] to[753.06] Saint[753.18] -[753.18] Cloud[754.12] under[754.40] pretext[754.76] of[754.90] a[755.44] Jacobin[755.66] plot[756.42]. Bonaparte[756.54] lost[757.10] his[757.32] nerve[758.20]. He[758.34] stumbled[758.94], pale[759.18], shouting[759.44] at[759.60] the[760.61] deputies[760.83]. His[761.01] brother[761.59] Lucien[761.77], President[762.37] of[763.31] the[763.53] Five[764.45] Hundred[764.53], saved[764.91] him[765.07]. He[765.37] called[766.17] in[766.25] the[766.63] grenadiers[766.99]. The[767.41] deputies[767.53] fled[767.61] through[768.49] the[768.57] windows[769.51]. That[769.79] night[769.91], the[771.16] Directory[771.50] was[771.60] dead[771.68]. The[771.96] Consulate[772.28] was[773.12] born[773.28]. The[773.58] Revolution[773.92] had[774.12] eaten[775.12] its[775.52] children[775.68], then[775.86] its[775.92] parents[777.00], and[777.40] finally[777.84], itself[778.08].",
+        "goal": "18 Brumaire: Bonaparte loses nerve, Lucien saves him, grenadiers clear the hall, Directory dies, Consulate born.",
+        "plan": [
+            "Saint-Cloud: Councils meeting, Bonaparte pale and stumbling, shouting at deputies",
+            "Lucien Bonaparte (President of Five Hundred) intervening, calling in grenadiers",
+            "Deputies fleeing through windows, grenadiers with bayonets",
+            "Night: Directory building dark, Consulate seal stamping \u2014 'THE REVOLUTION ATE ITS CHILDREN, THEN ITS PARENTS, THEN ITSELF'"
+        ],
+        "frames": 4,
+        "characters": [
+            "Bonaparte",
+            "Lucien Bonaparte"
+        ],
+        "items": [
+            "Grenadiers",
+            "Consulate Seal"
+        ],
+        "reason": "Bonaparte's near-failure \u2192 Lucien's rescue \u2192 violent dispersal \u2192 the final epitaph. Four frames for the coup's chaotic reality and the narrator's concluding metaphor."
+    },
+    {
+        "id": 48,
+        "timeline": 0,
+        "time_start": 778.08,
+        "time_end": 827.01,
+        "text": "Ten[778.56] years[778.90]. A[779.06] King[779.34] and[779.48] Queen[779.74] dead[781.30]. A[782.14] Queen[782.62] \u2019[782.62] s[782.74] friend[782.86] \u2019[782.86] s[783.32] head[783.66] on[785.22] a[785.68] pike[785.96]. A[787.06] child[787.82] \u2014[787.82] Louis[788.20] XVII[788.62] \u2014[788.62] dead[789.61] in[789.68] a[790.25] dark[790.49] tower[790.73] cell[790.99], his[791.85] heart[791.95] pickled[792.38] in[792.52] alcohol[792.97], smuggled[793.21] out[793.68] by[793.91] a[794.51] doctor[794.61], DNA[794.81] -[794.81] tested[795.17] two[795.31] centuries[795.59] later[796.37] to[796.47] prove[796.91] he[797.37] never[797.63] escaped[798.09]. One[798.23] hundred[799.13] and[799.29] seventy[799.99] thousand[800.19] dead[800.47] in[800.83] the[802.09] Vend\u00e9e[802.57] alone[802.71]. Sixteen[803.13] thousand[803.97] official[804.09] death[804.67] sentences[804.83]. Forty[805.85] thousand[805.97] more[806.53] without[806.67] trial[807.15]. A[807.37] calendar[808.23] that[808.33] no[808.57] one[808.71] used[809.01]. A[809.17] religion[809.57] of[809.71] Reason[809.83] that[810.25] worshipped[810.83] an[811.03] actress[811.21] on[811.55] the[811.65] altar[812.82] of[812.96] Notre[812.96] -[812.96] Dame[813.43]. A[813.62] metric[813.70] system[813.98] that[814.16] conquered[814.64] the[814.74] world[815.16]. The[815.48] Revolution[815.58] did[816.12] not[816.24] create[816.34] democracy[817.34]. It[817.48] created[817.64] the[817.78] modern[818.22] state[818.40]. It[818.56] invented[818.94] the[819.12] citizen[819.50]. It[819.70] invented[819.84] the[820.78] nation[820.92] in[821.44] arms[821.82]. It[822.02] gave[822.30] the[822.46] world[822.76] the[822.88] Left[823.90] and[824.07] the[824.39] Right[824.53] \u2014[824.53] literally[825.39], where[825.51] you[825.63] sat[826.13] in[826.31] the[826.57] Assembly[827.01].",
+        "goal": "Final tally: human cost, failed experiments, enduring legacies (metric system, citizen, nation in arms, Left/Right).",
+        "plan": [
+            "Tally board: King, Queen, Lamballe, Louis XVII (heart in jar), 170k Vend\u00e9e, 16k official, 40k untried",
+            "Failed experiments: Republican calendar (dusty), Cult of Reason (actress on Notre-Dame altar), Metric system (glowing, spreading across world map)",
+            "Legacies: 'CITIZEN' passport, 'NATION IN ARMS' conscription notice, Assembly hall with LEFT and RIGHT sides labeled",
+            "Final image: Locksmith king's broken spring, machine running \u2014 modern state machinery in motion"
+        ],
+        "frames": 4,
+        "characters": [
+            "Louis XVII"
+        ],
+        "items": [
+            "Tally Board",
+            "Republican Calendar",
+            "Metric System",
+            "Assembly Hall Left/Right"
+        ],
+        "reason": "Human cost tally \u2192 failed utopias vs surviving metric system \u2192 political inventions (citizen, nation, Left/Right) \u2192 the locksmith metaphor returning. Four frames for the complex legacy."
+    },
+    {
+        "id": 49,
+        "timeline": 0,
+        "time_start": 827.01,
+        "time_end": 827.27,
+        "text": "It[827.27] proved that a people could topple a thousand years of tradition in a summer, and that the vacuum would be filled by something no one intended. The locksmith king had tried to fix the mechanism. He broke the spring. And the machine has been running ever since.",
+        "goal": "Closing thesis: the Revolution's unintended consequences, the broken spring, the machine running.",
+        "plan": [
+            "Locksmith king (Louis XVI) at forge, spring snapping, machine (gears of modern state) starting to turn",
+            "Gears accelerating through time: 1789 \u2192 1799 \u2192 1815 \u2192 1848 \u2192 1870 \u2192 1917 \u2192 1989 \u2192 PRESENT",
+            "Final frame: The machine still running, no one at the controls"
+        ],
+        "frames": 3,
+        "characters": [
+            "Louis XVI"
+        ],
+        "items": [
+            "Locksmith Tools",
+            "Gears of State"
+        ],
+        "reason": "The narrator's closing metaphor visualized: the locksmith, the broken spring, the historical machine running autonomously. Three frames for the final poetic image."
+    }
+]

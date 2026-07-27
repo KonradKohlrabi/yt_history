@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Nicholas II",
+        "id": 0,
+        "prompt": "Identity: Nicholas II, Tsar of All the Russias, Emperor of Russia, 1917, Russian Empire. Appearance: Male, approximately 49 years old, oval face shape, light brown hair thinning at temples with side parting, full beard and mustache trimmed neat, blue-grey eyes, fair skin tone, slender build approximately 170 cm tall, distinctive small stature and gentle demeanor. Clothing: 1917 era Tsarist military uniform of a Colonel in the Preobrazhensky Life Guard Regiment, dark green wool tunic with gold epaulettes and braiding, red collar patches, white trousers with gold stripe, black leather boots, Order of St. Andrew ribbon and star, sword at hip. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Georgy Gapon",
+        "id": 1,
+        "prompt": "Identity: Georgy Gapon, Russian Orthodox priest and labor leader, leader of the Assembly of Russian Factory Workers, 1905, Russian Empire. Appearance: Male, approximately 35 years old, round face shape, dark brown hair worn medium length under priest's skufia, full dark beard, dark brown eyes, olive skin tone, average build approximately 175 cm tall, intense expressive gaze. Clothing: 1905 era Russian Orthodox priest vestments, black wool cassock (podryasnik) with silver cross, black skufia cap, white linen surplice over cassock during procession, heavy wool coat for winter outdoors. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Pyotr Stolypin",
+        "id": 2,
+        "prompt": "Identity: Pyotr Stolypin, Prime Minister of Russia and Minister of Internal Affairs, 1906-1911, Russian Empire. Appearance: Male, approximately 45 years old, square jawline, dark brown hair receding at temples with side parting, neat mustache, grey-blue eyes, fair skin tone, sturdy build approximately 180 cm tall, commanding presence. Clothing: 1906-1911 era civilian formal wear of a Russian statesman, dark wool three-piece suit with waistcoat, white stiff-collared shirt, dark tie, pince-nez glasses on ribbon, Order of St. Vladimir neck decoration, frock coat for official functions. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Alexandra Feodorovna",
+        "id": 3,
+        "prompt": "Identity: Alexandra Feodorovna, Tsarina of Russia, Empress consort, 1917, Russian Empire. Appearance: Female, approximately 45 years old, heart-shaped face, light brown hair with grey streaks worn upswept in Gibson girl style with tiara or comb, no facial hair, blue eyes, very pale translucent skin tone, slender fragile build approximately 168 cm tall, distinctive delicate features. Clothing: 1917 era court dress, rich silk gown in deep blue or crimson with lace overlays, velvet train, diamond and pearl jewelry including kokoshnik tiara, Order of St. Catherine sash and star, ermine-trimmed mantle for formal occasions. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Grigori Rasputin",
+        "id": 4,
+        "prompt": "Identity: Grigori Rasputin, Siberian peasant mystic and spiritual advisor to the Romanovs, 1916, Russian Empire. Appearance: Male, approximately 47 years old, long narrow face, dark brown hair long and unkempt falling to shoulders, wild full beard, piercing pale blue eyes, weathered olive skin tone, tall thin build approximately 185 cm tall, hypnotic intense stare, long tapered fingers. Clothing: 1916 era peasant-style clothing elevated, dark wool kosovorotka shirt with embroidered collar, linen trousers, leather boots, heavy woolen coat, large cross on chain, no clerical vestments. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Prince Georgy Lvov",
+        "id": 5,
+        "prompt": "Identity: Prince Georgy Lvov, First Prime Minister of the Russian Provisional Government, 1917, Russian Republic. Appearance: Male, approximately 55 years old, elongated face with high forehead, grey-white hair thinning on top combed back, neat white mustache and goatee, blue eyes, fair skin tone, tall aristocratic build approximately 183 cm tall, refined bearing. Clothing: 1917 era civilian formal wear of a Russian prince-statesman, dark frock coat, striped trousers, waistcoat, white shirt with wing collar, ascot tie, pince-nez glasses, orders and decorations on left breast. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Vladimir Lenin",
+        "id": 6,
+        "prompt": "Identity: Vladimir Lenin, Leader of the Bolshevik Party, Chairman of the Council of People's Commissars, 1917-1922, Russian Soviet Republic. Appearance: Male, approximately 47 years old in 1917, oval face with high cheekbones, bald crown with reddish-brown hair at sides and back, reddish-brown goatee beard, greenish-brown eyes, slightly swarthy skin tone, stocky compact build approximately 165 cm tall, distinctive squint and piercing gaze. Clothing: 1917-1922 era three-piece wool suit ill-fitting, collarless shirt or worker's rubber-collared shirt, loose tie or cravat, worker's cap (pilotka) or bareheaded, leather jacket in later period, simple boots. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Alexander Kerensky",
+        "id": 7,
+        "prompt": "Identity: Alexander Kerensky, Minister of Justice then Prime Minister of the Russian Provisional Government, 1917, Russian Republic. Appearance: Male, approximately 36 years old, rectangular face, dark brown hair waved and parted at side, clean-shaven, dark brown eyes, olive skin tone, medium build approximately 178 cm tall, energetic expressive gestures. Clothing: 1917 era military-style uniform of a Minister-Chairman, grey-brown wool tunic with stand collar, brass buttons, matching trousers, black leather boots, sword belt, Order of St. Vladimir ribbon, occasionally greatcoat with fur collar. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Leon Trotsky",
+        "id": 8,
+        "prompt": "Identity: Leon Trotsky, Chairman of the Petrograd Soviet, People's Commissar for Foreign Affairs then War, 1917-1920, Russian Soviet Republic. Appearance: Male, approximately 38 years old in 1917, long narrow face, dark brown hair receding with high forehead, pince-nez glasses with thick frames, small pointed beard and mustache, grey eyes, pale skin tone, lean wiry build approximately 175 cm tall, intense intellectual bearing. Clothing: 1917-1920 era revolutionary leader attire, dark wool tunic with stand collar (later leather commissar jacket), matching trousers, leather boots, red star badge, Mauser pistol in holster, greatcoat for armored train travel. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Lavr Kornilov",
+        "id": 9,
+        "prompt": "Identity: Lavr Kornilov, General of Infantry, Supreme Commander-in-Chief of the Russian Army, 1917, Russian Republic. Appearance: Male, approximately 47 years old, square weathered face, dark brown hair with grey at temples, thick dark mustache drooping at corners, dark eyes, tanned skin tone, tall imposing build approximately 185 cm tall, military bearing. Clothing: 1917 era Imperial Russian Army general's uniform, khaki-grey wool tunic with gold epaulettes showing rank, red piping, matching breeches, high leather boots, sword, Cross of St. George decorations, papakha fur cap for field wear. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Grand Duke Michael Alexandrovich",
+        "id": 10,
+        "prompt": "Identity: Grand Duke Michael Alexandrovich, Younger brother of Nicholas II, briefly proclaimed Emperor, 1917, Russian Empire. Appearance: Male, approximately 38 years old, oval face resembling Nicholas but taller, light brown hair with side parting, neat mustache only, blue eyes, fair skin tone, tall athletic build approximately 188 cm tall, straightforward soldierly look. Clothing: 1917 era Imperial Russian Army uniform of a General-Adjutant, dark green wool tunic with gold epaulettes, red collar patches, white breeches, black knee-high boots, Order of St. Andrew ribbon, sword, greatcoat with astrakhan collar. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Anatoly Zheleznyakov",
+        "id": 11,
+        "prompt": "Identity: Anatoly Zheleznyakov, Anarchist Baltic Fleet sailor, Chairman of the Constituent Assembly dissolution, 1918, Russian Soviet Republic. Appearance: Male, approximately 23 years old, youthful round face, light brown hair cropped short under sailor cap, clean-shaven, blue eyes, fair skin with windburn, lean muscular build approximately 175 cm tall, confident defiant expression. Clothing: 1918 era Black Sea Fleet sailor uniform, black wool jumper with white collar flap and blue stripes, black bell-bottom trousers, black silk neckerchief, white lanyard, sailor cap with 'Black Sea Fleet' tally ribbon, leather belt with pouch. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Alexander Kolchak",
+        "id": 12,
+        "prompt": "Identity: Alexander Kolchak, Vice-Admiral, Supreme Ruler of Russia (White movement), 1918-1920, Siberia. Appearance: Male, approximately 44 years old, narrow face with high forehead, dark brown hair greying at temples, neat naval mustache, grey-blue eyes, fair skin tone, slender build approximately 178 cm tall, icy disciplined demeanor. Clothing: 1918-1920 era Imperial Russian Navy vice-admiral uniform, dark navy wool double-breasted tunic with gold epaulettes and lace, white trousers with gold stripe, black boots, sword, Order of St. George, white peaked cap with gold braid. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Anton Denikin",
+        "id": 13,
+        "prompt": "Identity: Anton Denikin, Lieutenant General, Commander of the Volunteer Army (White movement), 1918-1920, South Russia. Appearance: Male, approximately 45 years old, long face with prominent nose, dark hair greying at temples brushed back, thick dark mustache, dark eyes, olive skin tone, medium build approximately 175 cm tall, serious pensive expression. Clothing: 1918-1920 era Imperial Russian Army general's field uniform, khaki-grey wool tunic with gold epaulettes, red piping, matching breeches, high leather boots, sword, St. George Cross, papakha fur cap, greatcoat with shoulder straps. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Nikolai Yudenich",
+        "id": 14,
+        "prompt": "Identity: Nikolai Yudenich, General of Infantry, Commander of the Northwestern Army (White movement), 1919, Northwest Russia. Appearance: Male, approximately 55 years old, round weathered face, white hair closely cropped, white mustache and beard trimmed neat, blue eyes, ruddy fair skin tone, stocky build approximately 170 cm tall, grandfatherly but stern. Clothing: 1919 era Imperial Russian Army general's uniform, khaki wool tunic with gold epaulettes, red collar patches, breeches, high boots, sword, multiple St. George decorations, fur cap, heavy greatcoat for northern climate. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Nestor Makhno",
+        "id": 15,
+        "prompt": "Identity: Nestor Makhno, Anarchist revolutionary, Commander of the Revolutionary Insurrectionary Army of Ukraine, 1918-1921, Ukraine. Appearance: Male, approximately 28 years old, angular face with high cheekbones, dark brown hair worn long to shoulders, distinctive large drooping mustache, dark brown eyes, sun-darkened olive skin, lean wiry build approximately 173 cm tall, charismatic intense presence. Clothing: 1918-1921 era partisan commander attire, mixed civilian and military, wool kosovorotka shirt, leather cartridge belt, cavalry breeches, high leather boots, papakha or fur cap, Mauser C96 pistol in holster, bandolier across chest. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Mikhail Tukhachevsky",
+        "id": 16,
+        "prompt": "Identity: Mikhail Tukhachevsky, Red Army Commander, Chief of Staff, Marshal of the Soviet Union, 1918-1921, Russian Soviet Republic. Appearance: Male, approximately 28 years old in 1921, aristocratic long face, dark blonde hair swept back, clean-shaven, piercing blue-grey eyes, fair skin tone, tall slender build approximately 185 cm tall, elegant intellectual bearing. Clothing: 1918-1921 era Red Army commander uniform, khaki wool tunic with red collar tabs and gold commander insignia, red piping, breeches, high leather boots, leather greatcoat, Budyonovka cap with red star, Mauser pistol, Order of the Red Banner. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    },
+    {
+        "name": "Joseph Stalin",
+        "id": 17,
+        "prompt": "Identity: Joseph Stalin, Bolshevik revolutionary, People's Commissar for Nationalities, General Secretary of the Communist Party, 1917-1922, Russian Soviet Republic. Appearance: Male, approximately 43 years old in 1921, broad pockmarked face, black hair thick and wavy greying at temples, thick black mustache, yellowish-brown eyes, swarthy olive skin tone, stocky short build approximately 163 cm tall, left arm slightly shorter and withered, intense calculating gaze. Clothing: 1917-1922 era Party functionary attire, simple wool tunic with stand collar (grey or khaki), matching trousers, leather boots, no decorations initially, later Red Army service jacket with red star, papakha cap, cigarette in hand. Style: Stickmanstyle, exactly like in the reference picture, white background, historically accurate reference image for future scenes."
+    }
+]

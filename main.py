@@ -12,6 +12,7 @@ import asyncio
 import whisperx
 import torch
 import re
+from json_repair import repair_json
 
 
 load_dotenv()
@@ -1274,12 +1275,18 @@ def safe_json_parse(text):
     text = re.sub(r'^```(?:json)?\s*', '', text)
     text = re.sub(r'\s*```$', '', text)
     text = remove_newlines_from_json_text(text)
-    
+
     try:
-        return json.loads(text)
+        repaired_text = repair_json(text)
+    except Exception as e:
+        print(f"json_repair error: {e}")
+        repaired_text = text
+
+    try:
+        return json.loads(repaired_text)
     except json.JSONDecodeError as e:
         print(f"JSON parse error: {e}")
-        print(f"Problematic area: {text[max(0, e.pos-100):e.pos+100]}")
+        print(f"Problematic area: {repaired_text[max(0, e.pos-100):e.pos+100]}")
         raise
 
 # Flow Funktions
@@ -1444,8 +1451,23 @@ def generate_scenes_json(story, foldername, timeline):
         json.dump(scenes_json, f, indent=4)
     return scenes_json
 
-def generate_frames_json():
-    pass
+def generate_frames_json(story, foldername, scenes):
+    content = frames_prompt + "\nThis is the Story: \n" + story + "\nThis is the scenes json:\n" + str(scenes)
+    or_data = {
+        "model": OR_MODEL,
+        "messages": [{
+            "role": "user",
+            "content": content
+        }
+        ]
+    }
+    frames_string = call_openrouter(or_data)
+    
+    frames_json = safe_json_parse(frames_string)
+        
+    with open("videos/"+foldername+"/"+ "frames.json", "w", encoding="utf-8") as f:
+        json.dump(frames_json, f, indent=4)
+    return frames_json
 
 
 # Phases
@@ -1501,11 +1523,13 @@ def phase_8_generate_scenes(story, foldername, timeline):
     print("Phase 8")
     return generate_scenes_json(story, foldername, timeline)
 
-def phase_9_generate_frames():
+def phase_9_generate_frames(story, foldername, scenes):
     print("Phase 9")
+    return generate_frames_json(story, foldername, scenes)
 
 
 def main():
+    start_time = time.perf_counter()
     foldername = phase_1_topic()
     research_material, research_funfacts_material = phase_2_research(foldername)
     story = phase_3_storytelling(research_material, research_funfacts_material)
@@ -1515,7 +1539,10 @@ def main():
     timeline = phase_6_generate_timeline(story, foldername)
     timestamped_story = phase_7_generate_timestamps(foldername)
     scenes = phase_8_generate_scenes(timestamped_story, foldername, timeline)
+    frames = generate_frames_json(story, foldername, scenes)
 
+    end_time = time.perf_counter()
+    print("Total time: ", end_time - start_time)
 
 
 if __name__ == "__main__":

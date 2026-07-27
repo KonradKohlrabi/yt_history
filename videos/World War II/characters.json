@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Adolf Hitler",
+        "id": 0,
+        "prompt": "A historically accurate reference image of Adolf Hitler, dictator of Nazi Germany, circa 1939 to 1945, Central Europe. Male, approximately 50 to 56 years old during the events. Oval face shape, dark brown hair with signature side-parted fringe swept across forehead, distinctive toothbrush mustache covering upper lip. Blue eyes, pale skin tone, slender build approximately 175 cm tall. Distinctive features include intense stare, slightly hunched posture, and nervous left-hand tremor in later years. Clothing: Field-gray Wehrmacht-style uniform without rank insignia, or brown Nazi Party tunic with swastika armband, black tie, Iron Cross First Class medal ribbon, golden Nazi Party badge. Occasionally wears a long grey greatcoat with collar turned up. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Neville Chamberlain",
+        "id": 1,
+        "prompt": "A historically accurate reference image of Neville Chamberlain, Prime Minister of the United Kingdom, circa 1938 to 1940, Western Europe. Male, approximately 69 to 71 years old during the events. Long rectangular face with high forehead, thinning silver-grey hair combed back neatly, clean-shaven. Blue-grey eyes, fair skin with age spots, stooped posture, approximately 178 cm tall. Always carries a furled black umbrella. Clothing: Dark three-piece morning suit with striped trousers, black frock coat, stiff wing-collar shirt, white bow tie, pocket watch chain across waistcoat. Black leather boots. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Vyacheslav Molotov",
+        "id": 2,
+        "prompt": "A historically accurate reference image of Vyacheslav Molotov, Soviet Foreign Minister, circa 1939 to 1945, Eastern Europe and Russia. Male, approximately 49 to 55 years old during the events. Round face with high cheekbones, dark brown hair receding at temples and brushed back, clean-shaven. Brown eyes, olive skin tone, stocky build approximately 170 cm tall. Distinctive pince-nez glasses on ribbon. Clothing: Dark Soviet civilian suit, often brown or dark grey wool, white shirt, dark tie. Occasionally wears military-style tunic with red star badge when at Kremlin. No decorations. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Joachim von Ribbentrop",
+        "id": 3,
+        "prompt": "A historically accurate reference image of Joachim von Ribbentrop, German Foreign Minister, circa 1938 to 1945, Central Europe. Male, approximately 45 to 52 years old during the events. Long narrow face, blond hair parted on side, clean-shaven with thin lips. Blue eyes, fair skin, tall slender build approximately 183 cm tall. Aristocratic bearing. Clothing: Tailored diplomatic suit in dark blue or black, white stiff-collar shirt, silk tie with tie pin. Nazi Party badge on lapel. Golden Party Badge. Occasionally wears SS-Gruppenf\u00fchrer uniform with silver braid. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Joseph Stalin",
+        "id": 4,
+        "prompt": "A historically accurate reference image of Joseph Stalin, General Secretary of the Soviet Union, circa 1939 to 1945, Eastern Europe and Russia. Male, approximately 60 to 66 years old during the events. Round pockmarked face from childhood smallpox, thick black hair greying at temples brushed back, distinctive thick black mustache covering upper lip. Yellow-brown eyes, olive skin tone, short stocky build approximately 163 cm tall. Left arm slightly shorter and withered. Clothing: Plain khaki or grey military-style tunic without rank insignia, four pocket flaps, belted at waist. Sometimes wears Marshal of the Soviet Union uniform with gold shoulder boards after 1943. Simple leather boots. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Hermann G\u00f6ring",
+        "id": 5,
+        "prompt": "A historically accurate reference image of Hermann G\u00f6ring, Commander-in-Chief of the Luftwaffe, circa 1939 to 1945, Central Europe. Male, approximately 46 to 52 years old during the events. Round fleshy face, receding blond hair combed back, clean-shaven. Blue eyes, florid complexion, heavyset obese build approximately 178 cm tall and 130 kg weight. Distinctive flamboyant uniforms. Clothing: White Luftwaffe dress uniform with gold braid, Pour le M\u00e9rite blue enamel cross at throat, Grand Cross of the Iron Cross at collar, diamond-studded baton. Also wears hunting outfits with green jacket, feathered hat. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Hugh Dowding",
+        "id": 6,
+        "prompt": "A historically accurate reference image of Hugh Dowding, Air Chief Marshal RAF Fighter Command, circa 1940, Western Europe. Male, approximately 58 years old during the events. Lean angular face, grey hair brushed back, clean-shaven with prominent nose. Grey eyes, fair skin, tall thin build approximately 183 cm tall. Calm reserved expression. Clothing: RAF Air Chief Marshal uniform in blue-grey wool, gold rank braids on cuffs and shoulders, pilot wings on chest, row of medal ribbons including Distinguished Service Order. Peaked cap with gold oak leaves. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Benito Mussolini",
+        "id": 7,
+        "prompt": "A historically accurate reference image of Benito Mussolini, Duce of Fascist Italy, circa 1939 to 1943, Southern Europe. Male, approximately 56 to 60 years old during the events. Square jaw, shaved bald head, prominent chin thrust forward, clean-shaven. Dark brown eyes, olive skin tone, stocky muscular build approximately 170 cm tall. Theatrical poses. Clothing: Black militia uniform with gold fasces badge, Sam Browne belt, riding boots. Also wears grey military greatcoat with collar tabs. Feathers in cap for parades. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Erwin Rommel",
+        "id": 8,
+        "prompt": "A historically accurate reference image of Erwin Rommel, Generalfeldmarschall Wehrmacht, circa 1940 to 1944, North Africa and Europe. Male, approximately 48 to 52 years old during the events. Long face with high forehead, receding light brown hair brushed back, clean-shaven. Blue eyes, weathered tanned skin, athletic lean build approximately 175 cm tall. Distinctive goggles pushed up on cap. Clothing: Sand-colored tropical uniform with open collar, Iron Cross First Class ribbon, Pour le M\u00e9rite at throat, Marshal baton. Peaked cap with gold braid. Also wears standard field-grey tunic in Europe. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Isoroku Yamamoto",
+        "id": 9,
+        "prompt": "A historically accurate reference image of Isoroku Yamamoto, Marshal Admiral Imperial Japanese Navy, circa 1941 to 1943, Pacific Theater. Male, approximately 57 to 59 years old during the events. Round face with gentle expression, black hair thinning and brushed back, clean-shaven. Dark brown eyes, olive skin, medium build approximately 165 cm tall. Often wears white gloves. Clothing: White naval dress uniform with gold shoulder boards bearing five-star rank, gold braid on cuffs, Order of the Rising Sun neck decoration. White peaked cap with gold anchor. Also wears khaki service uniform. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Franklin D. Roosevelt",
+        "id": 10,
+        "prompt": "A historically accurate reference image of Franklin D. Roosevelt, President of the United States, circa 1939 to 1945, North America. Male, approximately 57 to 63 years old during the events. Long patrician face, thinning grey hair parted on side, clean-shaven. Blue eyes, fair skin, tall build approximately 188 cm tall but confined to wheelchair due to polio paralysis of legs. Distinctive cigarette holder at jaunty angle. Clothing: Dark three-piece business suit, white shirt, striped tie, pince-nez glasses. Naval cape over shoulders when seated. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Winston Churchill",
+        "id": 11,
+        "prompt": "A historically accurate reference image of Winston Churchill, Prime Minister of the United Kingdom, circa 1940 to 1945, Western Europe. Male, approximately 65 to 71 years old during the events. Round florid face, receding pink scalp with few wisps of white hair, clean-shaven. Blue eyes, fair ruddy skin, stocky build approximately 173 cm tall. Distinctive jowls and determined expression. Clothing: Dark pinstripe suit with bow tie, white shirt, gold watch chain. Often wears RAF air commodore uniform or Royal Trinity House uniform. Famous for siren suit, one-piece zippered garment in grey wool. Cigar in hand. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Bernard Montgomery",
+        "id": 12,
+        "prompt": "A historically accurate reference image of Bernard Montgomery, Field Marshal British Army, circa 1942 to 1945, North Africa and Europe. Male, approximately 55 to 58 years old during the events. Long narrow face, close-cropped grey hair, distinctive black beret with General's badge, clean-shaven. Blue-grey eyes, fair skin, lean athletic build approximately 175 cm tall. Intense piercing gaze. Clothing: Unconventional battledress blouse with open collar, grey wool sweater underneath, two rows of medal ribbons including Distinguished Service Order. Black beret pulled low. Brown leather boots. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Friedrich Paulus",
+        "id": 13,
+        "prompt": "A historically accurate reference image of Friedrich Paulus, Generalfeldmarschall Wehrmacht, circa 1942 to 1943, Eastern Front. Male, approximately 52 to 53 years old during the events. Gaunt hollow-cheeked face, receding dark hair brushed back, clean-shaven. Grey eyes, pale skin, tall thin build approximately 180 cm tall. Trembling hands in captivity. Clothing: Field-grey general's tunic with gold shoulder boards, red collar tabs, Knight's Cross with Oak Leaves at neck. Peaked cap with gold braid. Later appears in worn greatcoat. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Vasily Chuikov",
+        "id": 14,
+        "prompt": "A historically accurate reference image of Vasily Chuikov, Lieutenant General Soviet 62nd Army, circa 1942 to 1943, Eastern Front. Male, approximately 42 to 43 years old during the events. Round face with high cheekbones, dark hair cut short, clean-shaven. Brown eyes, olive skin, compact muscular build approximately 170 cm tall. Determined jaw. Clothing: Khaki Soviet field uniform with red collar tabs, gold shoulder boards with two stars, Order of Lenin ribbon, Order of the Red Banner. Furazhka side cap. Leather pistol holster. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Erich von Manstein",
+        "id": 15,
+        "prompt": "A historically accurate reference image of Erich von Manstein, Generalfeldmarschall Wehrmacht, circa 1940 to 1944, Eastern and Western Fronts. Male, approximately 53 to 57 years old during the events. Long aristocratic face, greying hair brushed back, clean-shaven with thin moustache. Blue eyes, fair skin, tall slender build approximately 180 cm tall. Intellectual bearing. Clothing: Field-grey general's tunic with gold shoulder boards, red collar tabs, Knight's Cross with Oak Leaves and Swords at neck. Peaked cap with gold braid. Interested expression. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Joseph Goebbels",
+        "id": 16,
+        "prompt": "A historically accurate reference image of Joseph Goebbels, Reich Minister of Propaganda, circa 1939 to 1945, Central Europe. Male, approximately 42 to 48 years old during the events. Narrow sharp-featured face, black hair slicked back, clean-shaven. Dark brown eyes, pale skin, slight build approximately 165 cm tall. Club foot causing distinctive limp. Clothing: Dark civilian suit, white shirt, dark tie, Nazi Party badge. Sometimes wears brown Party uniform with swastika armband. Gold Party badge. Cynical smile. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Karl D\u00f6nitz",
+        "id": 17,
+        "prompt": "A historically accurate reference image of Karl D\u00f6nitz, Grand Admiral Kriegsmarine, circa 1943 to 1945, Atlantic and Europe. Male, approximately 52 to 54 years old during the events. Square jaw, receding grey hair brushed back, clean-shaven. Blue eyes, fair weathered skin, medium build approximately 175 cm tall. Naval bearing. Clothing: Dark blue naval greatcoat with gold shoulder boards bearing Grand Admiral rank batons, gold braid on cuffs, Knight's Cross with Oak Leaves at neck. White peaked cap with gold oak leaves. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Juan Pujol Garc\u00eda",
+        "id": 18,
+        "prompt": "A historically accurate reference image of Juan Pujol Garc\u00eda, double agent Garbo, circa 1942 to 1944, Western Europe. Male, approximately 30 to 32 years old during the events. Oval face, dark wavy hair brushed back, thin pencil moustache. Dark brown eyes, olive skin, medium build approximately 173 cm tall. Charming demeanor. Clothing: Plain civilian suit in grey or brown wool, white shirt, knotted tie, trench coat. No uniform. Unassuming appearance. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "George S. Patton",
+        "id": 19,
+        "prompt": "A historically accurate reference image of George S. Patton, General US Army, circa 1942 to 1945, North Africa and Europe. Male, approximately 57 to 60 years old during the events. Sharp angular face, grey hair cut short, distinctive ivory-handled revolvers on belt, clean-shaven. Blue eyes, fair tanned skin, athletic build approximately 183 cm tall. Intense stare. Clothing: Khaki service uniform with four-star rank on shoulder loops, cavalry boots, riding breeches, polished helmet with gold braid. Also wears tanker jacket. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Douglas MacArthur",
+        "id": 20,
+        "prompt": "A historically accurate reference image of Douglas MacArthur, General US Army, Supreme Commander Southwest Pacific, circa 1942 to 1945, Pacific Theater. Male, approximately 62 to 65 years old during the events. Long stern face, grey hair brushed back, corn cob pipe in mouth, clean-shaven. Grey-blue eyes, fair skin, tall imposing build approximately 183 cm tall. Sunglasses often worn. Clothing: Khaki open-collar shirt with five-star rank on epaulettes, crushed cap with gold braid, sunglasses, leather bomber jacket. No tie. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Chester Nimitz",
+        "id": 21,
+        "prompt": "A historically accurate reference image of Chester Nimitz, Fleet Admiral US Navy, circa 1942 to 1945, Pacific Theater. Male, approximately 57 to 60 years old during the events. Round kindly face, greying hair brushed back, clean-shaven. Blue eyes, fair skin, medium build approximately 175 cm tall. Calm steady expression. Clothing: Khaki naval service uniform with five-star rank on shoulder boards, gold braid on cuffs, ribbons including Navy Cross. Khaki garrison cap. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Harry S. Truman",
+        "id": 22,
+        "prompt": "A historically accurate reference image of Harry S. Truman, President of the United States, circa 1945, North America. Male, approximately 61 years old during the events. Round face with thick glasses, grey hair parted on side, clean-shaven. Blue eyes, fair skin, medium build approximately 175 cm tall. Determined jaw. Clothing: Dark double-breasted suit, white shirt, bow tie, gold-rimmed glasses. Often wears fedora hat. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Eva Braun",
+        "id": 23,
+        "prompt": "A historically accurate reference image of Eva Braun, companion of Adolf Hitler, circa 1940 to 1945, Central Europe. Female, approximately 28 to 33 years old during the events. Oval face, blonde hair styled in 1940s waves or upswept, clean complexion. Blue eyes, fair skin, slender build approximately 165 cm tall. Fashionable appearance. Clothing: Elegant 1940s civilian dresses in silk or wool, tailored suits with padded shoulders, pearl necklace, low heels. Occasionally dirndl traditional dress. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Pietro Badoglio",
+        "id": 24,
+        "prompt": "A historically accurate reference image of Pietro Badoglio, Marshal of Italy, Prime Minister 1943, Southern Europe. Male, approximately 72 years old during the events. Round weathered face, white hair brushed back, white moustache. Brown eyes, olive skin, stocky build approximately 170 cm tall. Military bearing. Clothing: Italian Marshal full dress uniform in dark blue with gold epaulettes, red collar tabs, gold braid, numerous medals including Military Order of Savoy. White gloves. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Victor Emmanuel III",
+        "id": 25,
+        "prompt": "A historically accurate reference image of Victor Emmanuel III, King of Italy, circa 1939 to 1943, Southern Europe. Male, approximately 70 to 74 years old during the events. Small frail frame, receding white hair, white moustache. Brown eyes, olive skin, very short stature approximately 153 cm tall. Regal but diminutive. Clothing: Italian Army Marshal uniform in grey-green with gold shoulder boards, collar tabs, extensive medal bar. Alternatively morning coat with decorations. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Chuichi Nagumo",
+        "id": 26,
+        "prompt": "A historically accurate reference image of Chuichi Nagumo, Vice Admiral Imperial Japanese Navy, circa 1941 to 1944, Pacific Theater. Male, approximately 54 to 57 years old during the events. Round face, black hair thinning and brushed back, clean-shaven. Dark brown eyes, olive skin, medium build approximately 165 cm tall. Somber expression. Clothing: White naval dress uniform with gold shoulder boards, gold braid on cuffs, Order of the Rising Sun. White peaked cap with gold anchor. Also khaki service uniform. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Hirohito",
+        "id": 27,
+        "prompt": "A historically accurate reference image of Hirohito, Emperor of Japan, circa 1939 to 1945, Japan. Male, approximately 38 to 44 years old during the events. Round face, black hair parted and brushed back, clean-shaven. Dark brown eyes, olive skin, small build approximately 160 cm tall. Wears round wire-rimmed glasses. Clothing: Formal military uniform of Marshal with gold epaulettes, Chrysanthemum badge, white gloves. Also traditional ceremonial robes. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Dwight D. Eisenhower",
+        "id": 28,
+        "prompt": "A historically accurate reference image of Dwight D. Eisenhower, General US Army, Supreme Allied Commander Europe, circa 1942 to 1945, Europe. Male, approximately 52 to 55 years old during the events. Round friendly face, balding head with fringe of brown hair, clean-shaven. Blue eyes, fair skin, athletic build approximately 178 cm tall. Famous grin. Clothing: Khaki Ike jacket waist-length with five-star rank on shoulder loops, pink shirt, tie, trousers. Alternatively standard service uniform. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Georgy Zhukov",
+        "id": 29,
+        "prompt": "A historically accurate reference image of Georgy Zhukov, Marshal of the Soviet Union, circa 1941 to 1945, Eastern Front. Male, approximately 45 to 49 years old during the events. Broad round face, dark hair cut short, clean-shaven. Brown eyes, olive skin, stocky powerful build approximately 173 cm tall. Iron will expression. Clothing: Khaki Soviet Marshal uniform with gold shoulder boards bearing large star, gold collar tabs, extensive medal rows including four Heroes of the Soviet Union stars. Furazhka cap. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Hideki Tojo",
+        "id": 30,
+        "prompt": "A historically accurate reference image of Hideki Tojo, Prime Minister and General Imperial Japanese Army, circa 1941 to 1944, Japan. Male, approximately 57 to 60 years old during the events. Thin face, close-cropped hair, distinctive wire-rimmed glasses, clean-shaven. Dark brown eyes, olive skin, lean build approximately 168 cm tall. Stern expression. Clothing: Khaki general's uniform with red collar tabs, gold shoulder boards, Order of the Rising Sun neck decoration. Samurai sword at side. Peaked cap. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Charles de Gaulle",
+        "id": 31,
+        "prompt": "A historically accurate reference image of Charles de Gaulle, General Free French Forces, circa 1940 to 1945, Western Europe. Male, approximately 50 to 55 years old during the events. Very tall long face, high forehead, receding dark hair brushed back, clean-shaven. Grey-blue eyes, fair skin, extremely tall build approximately 196 cm tall. Distinctive height. Clothing: French general's uniform in horizon blue or khaki, gold shoulder boards, Croix de Lorraine badge, kepi cap with gold braid. Row of medals. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Omar Bradley",
+        "id": 32,
+        "prompt": "A historically accurate reference image of Omar Bradley, General US Army, circa 1943 to 1945, Europe. Male, approximately 51 to 53 years old during the events. Round gentle face, grey hair brushed back, clean-shaven. Brown eyes, fair skin, medium build approximately 178 cm tall. Modest demeanor. Clothing: Khaki service uniform with four-star rank on shoulder loops, standard issue. No ostentation. Helmet or garrison cap. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Alan Turing",
+        "id": 33,
+        "prompt": "A historically accurate reference image of Alan Turing, mathematician and cryptanalyst, circa 1939 to 1945, United Kingdom. Male, approximately 27 to 33 years old during the events. Long face, dark brown hair messy, clean-shaven. Blue eyes, pale skin, lean build approximately 183 cm tall. Often looks distracted. Clothing: Tweed jacket with elbow patches, wool sweater, tie askew, trousers. Sometimes wears sports jacket. No uniform. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Arthur Harris",
+        "id": 34,
+        "prompt": "A historically accurate reference image of Arthur Harris, Air Marshal RAF Bomber Command, circa 1942 to 1945, United Kingdom. Male, approximately 50 to 53 years old during the events. Square jaw, greying hair brushed back, clean-shaven. Blue eyes, fair ruddy skin, stocky build approximately 175 cm tall. Determined expression. Clothing: RAF Air Marshal uniform in blue-grey, gold rank braids, pilot wings, medal ribbons including Distinguished Service Order. Peaked cap with gold oak leaves. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Curtis LeMay",
+        "id": 35,
+        "prompt": "A historically accurate reference image of Curtis LeMay, General US Army Air Forces, circa 1944 to 1945, Pacific Theater. Male, approximately 38 to 39 years old during the events. Round face, brown hair receding, clean-shaven. Brown eyes, fair skin, stocky build approximately 175 cm tall. Intense gaze. Clothing: Khaki service uniform with four-star rank later, pilot wings, Distinguished Service Cross ribbon. Often wears flight jacket. Cigar. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Robert Oppenheimer",
+        "id": 36,
+        "prompt": "A historically accurate reference image of Robert Oppenheimer, physicist director Manhattan Project, circa 1943 to 1945, United States. Male, approximately 39 to 41 years old during the events. Thin angular face, black hair brushed back, clean-shaven. Blue eyes, very pale skin, extremely thin gaunt build approximately 180 cm tall. Chain smoker. Clothing: Grey suit, white shirt, tie, porkpie tie, grey fedora hat. Often open collar. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Leslie Groves",
+        "id": 37,
+        "prompt": "A historically accurate reference image of Leslie Groves, General US Army Corps of Engineers, director Manhattan Project, circa 1942 to 1945, United States. Male, approximately 46 to 49 years old during the events. Round face, greying hair brushed back, clean-shaven. Brown eyes, fair skin, heavyset build approximately 175 cm tall. Authoritarian bearing. Clothing: Khaki service uniform with two-star rank on shoulder loops, Corps of Engineers castle badge. No frills. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Alfred Jodl",
+        "id": 38,
+        "prompt": "A historically accurate reference image of Alfred Jodl, Generaloberst Wehrmacht Operations Chief, circa 1939 to 1945, Central Europe. Male, approximately 49 to 55 years old during the events. Long narrow face, greying hair brushed back, clean-shaven. Blue eyes, fair skin, tall lean build approximately 180 cm tall. Stiff posture. Clothing: Field-grey general's tunic with gold shoulder boards, red collar tabs, Knight's Cross at neck. Peaked cap. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Wilhelm Keitel",
+        "id": 39,
+        "prompt": "A historically accurate reference image of Wilhelm Keitel, Generalfeldmarschall Wehrmacht OKW Chief, circa 1939 to 1945, Central Europe. Male, approximately 57 to 63 years old during the events. Round fleshy face, receding grey hair, clean-shaven. Blue eyes, fair skin, heavy build approximately 178 cm tall. Subservient expression. Clothing: Field-grey field marshal uniform with gold shoulder boards, red collar tabs, Knight's Cross with Oak Leaves. Marshal baton. Peaked cap with gold braid. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Heinrich Himmler",
+        "id": 40,
+        "prompt": "A historically accurate reference image of Heinrich Himmler, Reichsf\u00fchrer-SS, circa 1939 to 1945, Central Europe. Male, approximately 39 to 45 years old during the events. Round bespectacled face, receding light brown hair parted, clean-shaven. Blue eyes behind round wire-rimmed glasses, pale skin, slight build approximately 175 cm tall. Bureaucratic appearance. Clothing: Black SS uniform with silver braid, death's head badge on cap, SS runes on collar, black tie. Silver dagger at belt. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    },
+    {
+        "name": "Heinz Guderian",
+        "id": 41,
+        "prompt": "A historically accurate reference image of Heinz Guderian, Generaloberst Wehrmacht Panzer Commander, circa 1939 to 1945, Europe. Male, approximately 51 to 57 years old during the events. Sharp angular face, receding dark hair brushed back, clean-shaven. Grey eyes, fair skin, lean build approximately 178 cm tall. Energetic posture. Clothing: Field-grey general's tunic with gold shoulder boards, red collar tabs, Knight's Cross with Oak Leaves and Swords. Black Panzer beret with skull badge. Style: Stickmanstyle, exactly like in the referencepicture. The background should be white. The personality should just look like the referencepicture, but with the outfit, gender, and everything else described above. Historically accurate. Suitable as a reference image for future scenes"
+    }
+]
