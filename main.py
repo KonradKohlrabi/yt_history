@@ -34,7 +34,7 @@ CHARACTERS_FILE = "characters.json"
 
 PROMPTS_FILE = "frames.json"
 
-CHROME_COORDS = (1187, 1066)
+CHROME_COORDS = (917, 1057)
 TEXT_FIELD_COORDS = (826, 925)
 BTN_1_COORDS = (1820, 157)
 BTN_2_COORDS = (1738, 201)
@@ -1497,9 +1497,9 @@ def phase_4_character_images(story, foldername):
     prompts = []
     for character in characters_json:
         prompts.append(character["prompt"])
-    #open_chrome()
-    #click_on_textbox()
-    #prompt_flow(prompts)
+    open_chrome()
+    click_on_textbox()
+    prompt_flow(prompts)
     #rename is missing
 
 def phase_5_generate_audio(story, foldername):

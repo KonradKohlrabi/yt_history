@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Joseph Stalin",
+        "id": 0,
+        "prompt": "A historically accurate stickman style portrait of Joseph Stalin in 1945, Soviet General Secretary and dictator, USSR. Male, approximately 67 years old during the events described. Round face with high cheekbones, thick black hair combed back with graying temples, distinctive black mustache covering upper lip, brown eyes, olive skin tone, stocky build approximately 165 cm tall, pockmarked skin from childhood smallpox, left arm slightly shorter and stiffer from childhood injury. Wearing a plain olive-drab M1943 Soviet military tunic with red collar tabs bearing gold stars, no epaulettes, simple cloth belt, matching trousers, black leather boots. No decorations except Hero of the Soviet Union gold star. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Harry S. Truman",
+        "id": 1,
+        "prompt": "A historically accurate stickman style portrait of Harry S. Truman in 1947, 33rd President of the United States, USA. Male, approximately 63 years old. Round face with squared jaw, thinning gray hair parted on left side, steel-rimmed round glasses, blue eyes, fair skin with ruddy complexion, stocky build approximately 175 cm tall. Wearing a dark navy blue three-piece wool suit with notch lapels, white cotton shirt, dark red silk tie with small pattern, gold watch chain across vest, American flag lapel pin. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Winston Churchill",
+        "id": 2,
+        "prompt": "A historically accurate stickman style portrait of Winston Churchill in 1946, former Prime Minister of the United Kingdom, UK. Male, approximately 71 years old. Round florid face with jowls, receding white hair brushed back, thick dark eyebrows, blue eyes, fair ruddy skin, heavy-set build approximately 170 cm tall, distinctive posture with shoulders hunched forward. Wearing a dark charcoal pinstripe three-piece wool suit, white starched shirt with stiff collar, black silk bow tie, gold pocket watch chain, cigar held in right hand between fingers. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Adolf Hitler",
+        "id": 3,
+        "prompt": "A historically accurate stickman style portrait of Adolf Hitler in 1945, dictator of Nazi Germany, Germany. Male, approximately 56 years old. Narrow face with pale complexion, dark brown hair with distinctive side-swept fringe across forehead, small square black mustache below nose, pale blue eyes, sallow skin tone, thin frail build approximately 175 cm tall, stooped posture, trembling left hand. Wearing a field-gray M1935 Wehrmacht-style military tunic with four pockets, black tie, Iron Cross First Class ribbon bar, gold Nazi Party badge, no shoulder boards. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "George Marshall",
+        "id": 4,
+        "prompt": "A historically accurate stickman style portrait of George Marshall in 1947, US Secretary of State and former Army Chief of Staff, USA. Male, approximately 67 years old. Long oval face with high forehead, silver-white hair brushed back neatly, clean-shaven, steel-gray eyes, fair skin, tall upright military bearing approximately 183 cm tall, lean athletic build. Wearing a dark blue civilian wool suit with notch lapels, white shirt, conservative striped tie, no military decorations visible. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "George Kennan",
+        "id": 5,
+        "prompt": "A historically accurate stickman style portrait of George Kennan in 1946, US diplomat and author of the Long Telegram, USA. Male, approximately 42 years old. Narrow intellectual face, receding dark brown hair parted on side, clean-shaven, dark brown eyes behind thin wire-rim glasses, pale skin, slender build approximately 180 cm tall. Wearing a charcoal gray wool three-piece suit, white shirt, dark burgundy tie, silver cufflinks, fountain pen in breast pocket. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Lucius D. Clay",
+        "id": 6,
+        "prompt": "A historically accurate stickman style portrait of Lucius D. Clay in 1948, US Military Governor of Germany, USA. Male, approximately 50 years old. Square jawed face with determined expression, short-cropped graying black hair, clean-shaven, piercing blue eyes, fair weathered skin, stocky muscular build approximately 178 cm tall. Wearing US Army olive-drab M1941 service uniform with four-star general rank insignia on shoulder boards, paratrooper wings, Eisenhower jacket style, Sam Browne belt, riding boots. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Gail Halvorsen",
+        "id": 7,
+        "prompt": "A historically accurate stickman style portrait of Gail Halvorsen in 1948, US Air Force pilot known as the Candy Bomber, USA. Male, approximately 28 years old. Youthful open face with friendly smile, wavy light brown hair under flight cap, clean-shaven, bright blue eyes, fair skin with freckles, lean athletic build approximately 180 cm tall. Wearing US Army Air Forces A-2 leather flight jacket with sheep collar, khaki flight suit underneath, MA-1 flight cap with goggles pushed up, parachute harness straps visible. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Mao Zedong",
+        "id": 8,
+        "prompt": "A historically accurate stickman style portrait of Mao Zedong in 1949, Chairman of the Chinese Communist Party, China. Male, approximately 55 years old. Round full face with high cheekbones, thick black hair brushed back with slight wave, clean-shaven, dark brown eyes, olive-yellow skin tone, heavy-set build approximately 180 cm tall, distinctive mole on chin. Wearing a simple gray Zhongshan suit (Mao suit) with four external pockets, stand-up collar, five buttons, cloth belt, simple cloth shoes. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Kim Il-sung",
+        "id": 9,
+        "prompt": "A historically accurate stickman style portrait of Kim Il-sung in 1950, Premier of North Korea, North Korea. Male, approximately 38 years old. Round youthful face with high forehead, swept-back black hair with slight wave, clean-shaven, dark eyes, pale olive skin, stocky build approximately 175 cm tall. Wearing a Soviet-style M1945 marshal's uniform in olive drab with red collar tabs bearing gold stars, gold shoulder boards with marshal's star, multiple rows of Soviet and North Korean decorations, black leather belt, riding boots. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Douglas MacArthur",
+        "id": 10,
+        "prompt": "A historically accurate stickman style portrait of Douglas MacArthur in 1950, Supreme Commander Allied Powers in Japan and UN Commander in Korea, USA. Male, approximately 70 years old. Long narrow face with prominent jaw, silver-white hair brushed back in distinctive wave, clean-shaven, cornflower blue eyes, fair skin, tall imposing build approximately 183 cm tall. Wearing khaki open-collar field shirt with crushed cap bearing gold scrambled eggs visor, aviator sunglasses, corncob pipe in mouth, five-star rank insignia on shoulder boards, no tie. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Dwight D. Eisenhower",
+        "id": 11,
+        "prompt": "A historically accurate stickman style portrait of Dwight D. Eisenhower in 1952, Supreme Allied Commander Europe and presidential candidate, USA. Male, approximately 62 years old. Round friendly face with bald crown and white hair at sides, clean-shaven, light blue eyes, fair ruddy complexion, stocky athletic build approximately 178 cm tall. Wearing US Army olive-drab Ike jacket with five-star rank, shirt and tie, European-African-Middle Eastern campaign ribbons, Combat Infantryman Badge, black Sam Browne belt. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "John Foster Dulles",
+        "id": 12,
+        "prompt": "A historically accurate stickman style portrait of John Foster Dulles in 1954, US Secretary of State, USA. Male, approximately 66 years old. Long narrow face with high forehead, thinning gray hair combed back, clean-shaven, pale blue eyes behind thick horn-rimmed glasses, pale skin, tall thin build approximately 185 cm tall, stooped posture. Wearing a dark charcoal three-piece wool suit, white shirt with spread collar, conservative dark tie, gold watch chain across vest, pince-nez glasses on ribbon. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Nikita Khrushchev",
+        "id": 13,
+        "prompt": "A historically accurate stickman style portrait of Nikita Khrushchev in 1956, First Secretary of the Communist Party of the Soviet Union, USSR. Male, approximately 62 years old. Round bald head with fringe of white hair at sides, heavy black eyebrows, clean-shaven, brown eyes, ruddy weathered skin, stocky peasant build approximately 165 cm tall, animated expressive gestures. Wearing a dark gray Soviet-style suit with notch lapels, white shirt, dark red tie, Hero of Socialist Labor gold star, Order of Lenin ribbon. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Imre Nagy",
+        "id": 14,
+        "prompt": "A historically accurate stickman style portrait of Imre Nagy in 1956, Prime Minister of Hungary during the revolution, Hungary. Male, approximately 60 years old. Long thin face with receding gray hair combed back, small gray mustache, brown eyes behind round wire-rim glasses, pale skin, slender build approximately 178 cm tall. Wearing a dark brown ill-fitting wool suit, white shirt, tie slightly askew, fountain pen in breast pocket, simple wedding band. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Francis Gary Powers",
+        "id": 15,
+        "prompt": "A historically accurate stickman style portrait of Francis Gary Powers in 1960, U-2 pilot shot down over USSR, USA. Male, approximately 31 years old. Square jawed clean-cut face, short blond hair in military cut, clean-shaven, blue eyes, fair skin with freckles, lean athletic build approximately 180 cm tall. Wearing US Air Force olive-drab flight suit with pressure helmet under arm, survival vest, parachute harness, pilot wings on chest, name tape. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Richard Nixon",
+        "id": 16,
+        "prompt": "A historically accurate stickman style portrait of Richard Nixon in 1960, Vice President of the United States, USA. Male, approximately 47 years old. Long narrow face with prominent nose, dark brown hair with widow's peak combed back, heavy five o'clock shadow, dark brown eyes, sallow skin tone, thin angular build approximately 180 cm tall, hunched shoulders. Wearing a dark blue wool suit, white shirt, red tie with small pattern, flag lapel pin, no hat. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "John F. Kennedy",
+        "id": 17,
+        "prompt": "A historically accurate stickman style portrait of John F. Kennedy in 1962, 35th President of the United States, USA. Male, approximately 45 years old. Oval face with strong jaw, thick reddish-brown hair brushed back in distinctive style, clean-shaven, blue-green eyes, fair skin with healthy tan, tall athletic build approximately 183 cm tall, confident relaxed posture. Wearing a dark blue tailored two-button wool suit, white shirt, thin red silk tie with subtle pattern, gold cufflinks, no hat. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Fidel Castro",
+        "id": 18,
+        "prompt": "A historically accurate stickman style portrait of Fidel Castro in 1962, Prime Minister of Cuba, Cuba. Male, approximately 36 years old. Long beard covering jaw and chin, thick dark curly hair, intense dark eyes, olive skin, tall imposing build approximately 190 cm tall. Wearing olive-green fatigue uniform (M-1960 Cuban pattern) with red-black July 26 Movement armband, black boots, cigar in hand, no rank insignia. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Robert F. Kennedy",
+        "id": 19,
+        "prompt": "A historically accurate stickman style portrait of Robert F. Kennedy in 1962, US Attorney General, USA. Male, approximately 37 years old. Narrow face with prominent nose, thick dark hair with widow's peak, clean-shaven, blue eyes, fair skin, lean build approximately 180 cm tall, intense expression. Wearing a dark gray wool suit, white shirt, blue tie, gold tie clip, no hat. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Anatoly Dobrynin",
+        "id": 20,
+        "prompt": "A historically accurate stickman style portrait of Anatoly Dobrynin in 1962, Soviet Ambassador to the United States, USSR. Male, approximately 43 years old. Round face with receding dark hair, clean-shaven, dark eyes behind thick black horn-rim glasses, olive skin, stocky build approximately 175 cm tall. Wearing a dark charcoal Soviet diplomatic suit, white shirt, dark burgundy tie, Order of the Red Banner of Labor pin, fountain pen in pocket. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Vasili Arkhipov",
+        "id": 21,
+        "prompt": "A historically accurate stickman style portrait of Vasili Arkhipov in 1962, Soviet submarine flotilla commander, USSR. Male, approximately 36 years old. Square face with strong jaw, short dark hair, clean-shaven, brown eyes, olive skin, stocky muscular build approximately 178 cm tall, calm steady expression. Wearing Soviet Navy black winter uniform with captain second rank shoulder boards, submarine warfare badge, Order of the Red Star ribbon, black leather belt. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Rudolf Anderson",
+        "id": 22,
+        "prompt": "A historically accurate stickman style portrait of Rudolf Anderson in 1962, U-2 pilot shot down over Cuba, USA. Male, approximately 35 years old. Clean-cut face with short brown hair, clean-shaven, blue eyes, fair skin, lean build approximately 180 cm tall. Wearing US Air Force high-altitude pressure suit (MC-3 partial pressure suit) with helmet, oxygen hose, pilot wings, name tape. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Valentin Savitsky",
+        "id": 23,
+        "prompt": "A historically accurate stickman style portrait of Valentin Savitsky in 1962, Captain of Soviet submarine B-59, USSR. Male, approximately 38 years old. Angular face with high cheekbones, short dark hair, clean-shaven, dark eyes, olive skin, medium build approximately 175 cm tall, tense expression. Wearing Soviet Navy black winter uniform with captain third rank shoulder boards, submarine badge, black leather belt, sidearm holster. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Lyndon B. Johnson",
+        "id": 24,
+        "prompt": "A historically accurate stickman style portrait of Lyndon B. Johnson in 1965, 36th President of the United States, USA. Male, approximately 57 years old. Large rugged face with prominent ears and heavy jowls, silver-white hair brushed back, clean-shaven, brown eyes, ruddy weathered skin, tall imposing build approximately 191 cm tall, intimidating posture. Wearing a dark gray wool suit with wide lapels, white shirt, silver tie with tie clip, flag lapel pen, Stetson hat in hand. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Martin Luther King Jr.",
+        "id": 25,
+        "prompt": "A historically accurate stickman style portrait of Martin Luther King Jr. in 1965, civil rights leader, USA. Male, approximately 36 years old. Oval face with gentle expression, short black hair, neatly trimmed mustache, dark brown eyes, warm brown skin tone, medium build approximately 175 cm tall. Wearing a dark charcoal wool suit, white shirt, dark tie, silver tie clip, no jewelry. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Leonid Brezhnev",
+        "id": 26,
+        "prompt": "A historically accurate stickman style portrait of Leonid Brezhnev in 1968, General Secretary of the Communist Party of the Soviet Union, USSR. Male, approximately 62 years old. Broad face with heavy eyebrows, receding gray hair, clean-shaven, blue eyes, ruddy complexion, stocky build approximately 175 cm tall, distinctive thick eyebrows that meet above nose. Wearing a dark gray Soviet general secretary suit, white shirt, red tie, multiple rows of Hero of the Soviet Union stars, Order of Lenin ribbons, marshal's star. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Alexander Dub\u010dek",
+        "id": 27,
+        "prompt": "A historically accurate stickman style portrait of Alexander Dub\u010dek in 1968, First Secretary of the Communist Party of Czechoslovakia, Czechoslovakia. Male, approximately 47 years old. Round open face with receding brown hair, clean-shaven, blue eyes behind thin wire-rim glasses, fair skin, medium build approximately 178 cm tall, modest demeanor. Wearing a dark blue wool suit, white shirt, red tie, simple Czechoslovak state decoration, pen in pocket. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Henry Kissinger",
+        "id": 28,
+        "prompt": "A historically accurate stickman style portrait of Henry Kissinger in 1972, US National Security Advisor, USA. Male, approximately 49 years old. Round face with thick dark curly hair, heavy black eyebrows, clean-shaven, dark eyes behind thick black horn-rim glasses, olive skin, stocky build approximately 173 cm tall. Wearing a dark navy blue suit, white shirt, light blue tie, gold tie clip, no hat. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Zhou Enlai",
+        "id": 29,
+        "prompt": "A historically accurate stickman style portrait of Zhou Enlai in 1972, Premier of the People's Republic of China, China. Male, approximately 74 years old. Long refined face with high cheekbones, silver-white hair combed back neatly, clean-shaven, dark eyes, pale olive skin, slender elegant build approximately 175 cm tall, graceful posture. Wearing a gray Zhongshan suit (Mao suit) with four pockets, stand-up collar, black cloth shoes, simple fountain pen in pocket. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Deng Xiaoping",
+        "id": 30,
+        "prompt": "A historically accurate stickman style portrait of Deng Xiaoping in 1978, Paramount leader of China, China. Male, approximately 74 years old. Small compact frame, round face with high cheekbones, thinning gray hair, clean-shaven, dark eyes, olive skin, short stature approximately 155 cm tall, distinctive rolling gait. Wearing a gray Zhongshan suit, white shirt, black cloth shoes, simple metal pen in pocket, no decorations. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Ronald Reagan",
+        "id": 31,
+        "prompt": "A historically accurate stickman style portrait of Ronald Reagan in 1983, 40th President of the United States, USA. Male, approximately 72 years old. Square jawed face with pompadour of dyed dark brown hair, clean-shaven, blue eyes, fair skin with permanent tan, tall athletic build approximately 185 cm tall, confident actor's posture. Wearing a dark blue tailored two-button suit, white shirt, red tie with small pattern, gold tie clip, flag lapel pin, jelly beans in pocket. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Mikhail Gorbachev",
+        "id": 32,
+        "prompt": "A historically accurate stickman style portrait of Mikhail Gorbachev in 1987, General Secretary of the Communist Party of the Soviet Union, USSR. Male, approximately 56 years old. High forehead with distinctive port-wine birthmark on bald crown, gray hair at sides, clean-shaven, blue eyes, fair skin, medium build approximately 175 cm tall, thoughtful expression. Wearing a dark gray modern Soviet suit, white shirt, burgundy tie, Order of Lenin ribbon, no marshal's uniform. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Eduard Shevardnadze",
+        "id": 33,
+        "prompt": "A historically accurate stickman style portrait of Eduard Shevardnadze in 1987, Soviet Foreign Minister, USSR. Male, approximately 59 years old. Round face with silver-white hair, thick dark eyebrows, clean-shaven, brown eyes, fair skin, stocky build approximately 173 cm tall. Wearing a dark blue Soviet diplomatic suit, white shirt, red tie, Order of Lenin ribbon, fountain pen in pocket. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Wojciech Jaruzelski",
+        "id": 34,
+        "prompt": "A historically accurate stickman style portrait of Wojciech Jaruzelski in 1981, First Secretary of the Polish United Workers' Party, Poland. Male, approximately 58 years old. Distinctive dark tinted glasses always worn, completely bald head, clean-shaven, eyes not visible behind glasses, pale skin, military bearing approximately 178 cm tall. Wearing Polish People's Army general's uniform in olive drab with red collar tabs, gold shoulder boards, multiple rows of decorations, white gloves, black leather belt. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Lech Wa\u0142\u0119sa",
+        "id": 35,
+        "prompt": "A historically accurate stickman style portrait of Lech Wa\u0142\u0119sa in 1989, Leader of Solidarity, Poland. Male, approximately 46 years old. Round face with thick black mustache covering upper lip, dark curly hair, brown eyes, fair ruddy skin, stocky electrician's build approximately 175 cm tall, distinctive victory sign gesture. Wearing a gray wool suit slightly too large, white shirt, red tie, large Catholic cross on chain, Solidarity lapel pin. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Tadeusz Mazowiecki",
+        "id": 36,
+        "prompt": "A historically accurate stickman style portrait of Tadeusz Mazowiecki in 1989, First non-communist Prime Minister of Poland, Poland. Male, approximately 62 years old. Long thin face with receding gray hair, thick black eyebrows, clean-shaven, dark eyes behind thick glasses, pale skin, slender build approximately 178 cm tall, intellectual bearing. Wearing a dark gray wool suit, white shirt, dark tie, glasses on chain, pen in pocket. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Erich Honecker",
+        "id": 37,
+        "prompt": "A historically accurate stickman style portrait of Erich Honecker in 1989, General Secretary of the SED, East Germany. Male, approximately 77 years old. Round face with white hair brushed back, heavy black eyebrows, clean-shaven, blue eyes, ruddy complexion, stocky build approximately 175 cm tall, distinctive eyebrows. Wearing a dark gray East German suit, white shirt, red tie, Hero of the GDR star, Order of Karl Marx, large glasses. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Egon Krenz",
+        "id": 38,
+        "prompt": "A historically accurate stickman style portrait of Egon Krenz in 1989, Successor to Honecker, East Germany. Male, approximately 52 years old. Round face with receding light brown hair, clean-shaven, blue eyes, fair skin, stocky build approximately 175 cm tall. Wearing a dark blue East German suit, white shirt, red tie, Party badge, Order of Karl Marx ribbon. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "G\u00fcnter Schabowski",
+        "id": 39,
+        "prompt": "A historically accurate stickman style portrait of G\u00fcnter Schabowski in 1989, SED Politburo member and spokesman, East Germany. Male, approximately 60 years old. Round face with gray hair, clean-shaven, blue eyes behind thick glasses, fair skin, medium build approximately 175 cm tall, nervous expression. Wearing a dark gray suit, white shirt, red tie, Party badge, papers in hand. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Harald J\u00e4ger",
+        "id": 40,
+        "prompt": "A historically accurate stickman style portrait of Harald J\u00e4ger in 1989, Lieutenant Colonel border guard at Bornholmer Stra\u00dfe, East Germany. Male, approximately 46 years old. Square face with short graying hair, clean-shaven, blue eyes, fair skin, medium build approximately 178 cm tall, calm weary expression. Wearing East German border guard (Grenztruppen) uniform in stone gray with green collar tabs, captain's shoulder boards, sidearm, name tag, black leather belt. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "V\u00e1clav Havel",
+        "id": 41,
+        "prompt": "A historically accurate stickman style portrait of V\u00e1clav Havel in 1989, Dissident playwright and President-elect, Czechoslovakia. Male, approximately 53 years old. Long intellectual face with receding gray hair, short beard on chin, dark eyes behind round glasses, pale skin, slender build approximately 180 cm tall, slight stoop. Wearing a dark gray wool suit slightly worn, white shirt, no tie, open collar, pen in breast pocket, theater ticket stub. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Nicolae Ceau\u0219escu",
+        "id": 42,
+        "prompt": "A historically accurate stickman style portrait of Nicolae Ceau\u0219escu in 1989, General Secretary of the Romanian Communist Party, Romania. Male, approximately 71 years old. Narrow face with high forehead, black hair dyed and brushed back, clean-shaven, dark eyes, sallow olive skin, small stature approximately 168 cm tall, rigid posture. Wearing a dark gray Romanian military-style suit with gold buttons, red sash, multiple rows of self-awarded decorations, black leather belt. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Todor Zhivkov",
+        "id": 43,
+        "prompt": "A historically accurate stickman style portrait of Todor Zhivkov in 1989, General Secretary of the Bulgarian Communist Party, Bulgaria. Male, approximately 78 years old. Round face with white hair, heavy eyebrows, clean-shaven, brown eyes, ruddy complexion, stocky build approximately 173 cm tall. Wearing a dark blue Bulgarian suit, white shirt, red tie, Hero of Socialist Labor stars, Order of Georgi Dimitrov. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Helmut Kohl",
+        "id": 44,
+        "prompt": "A historically accurate stickman style portrait of Helmut Kohl in 1990, Chancellor of West Germany, West Germany. Male, approximately 60 years old. Massive tall frame, square face with receding gray hair, clean-shaven, blue eyes, fair ruddy skin, very tall heavy build approximately 193 cm tall, imposing physical presence. Wearing a dark blue tailored German suit, white shirt, red tie with small pattern, flag lapel pin, no glasses. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "George H.W. Bush",
+        "id": 45,
+        "prompt": "A historically accurate stickman style portrait of George H.W. Bush in 1990, 41st President of the United States, USA. Male, approximately 66 years old. Patrician face with silver hair parted on side, clean-shaven, blue eyes, fair skin, tall lean build approximately 188 cm tall, graceful posture. Wearing a dark navy blue suit, white shirt, red tie with small pattern, flag lapel pin, gold cufflinks, no hat. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "James Baker",
+        "id": 46,
+        "prompt": "A historically accurate stickman style portrait of James Baker in 1990, US Secretary of State, USA. Male, approximately 60 years old. Square jawed face with silver hair, clean-shaven, blue eyes, fair skin, tall build approximately 185 cm tall, confident Texan bearing. Wearing a dark charcoal suit, white shirt, blue tie, gold tie clip, flag lapel pen. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Hans-Dietrich Genscher",
+        "id": 47,
+        "prompt": "A historically accurate stickman style portrait of Hans-Dietrich Genscher in 1990, West German Foreign Minister, West Germany. Male, approximately 63 years old. Round face with yellow-tinted glasses (signature), silver hair, clean-shaven, blue eyes behind tinted lenses, fair skin, medium build approximately 178 cm tall. Wearing a dark gray suit, white shirt, yellow tie (signature color), Free Democratic Party lapel pin, yellow-tinted glasses always worn. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Boris Yeltsin",
+        "id": 48,
+        "prompt": "A historically accurate stickman style portrait of Boris Yeltsin in 1991, President of the Russian SFSR, Russia. Male, approximately 60 years old. Round florid face with thick white hair brushed back, clean-shaven, blue eyes, ruddy complexion, tall heavy build approximately 185 cm tall, bear-like physical presence. Wearing a dark gray Russian-style suit, white shirt, red tie, no decorations, large watch. White background, clean line drawing style suitable for documentary reference."
+    },
+    {
+        "name": "Gennady Yanayev",
+        "id": 49,
+        "prompt": "A historically accurate stickman style portrait of Gennady Yanayev in 1991, Soviet Vice President and coup leader, USSR. Male, approximately 54 years old. Round face with receding gray hair, clean-shaven, brown eyes behind thick glasses, ruddy complexion, stocky build approximately 175 cm tall, nervous sweating expression. Wearing a dark gray Soviet suit, white shirt, red tie, Order of Lenin ribbon, trembling hands. White background, clean line drawing style suitable for documentary reference."
+    }
+]
